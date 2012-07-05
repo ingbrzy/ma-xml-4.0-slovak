@@ -41,8 +41,6 @@ Prijať súbor?"</string>
     <string name="download_fail_line1">Súbor neprijatý</string>
     <string name="download_fail_line2">Súbor: %1$s</string>
     <string name="download_fail_line3">Dôvod zlyhania: %1$s</string>
-    <string name="download_fail_line2">Súbor: %s</string>
-    <string name="download_fail_line3">Dôvod chyby: %s</string>
     <string name="download_fail_ok">OK</string>
     <string name="download_succ_line5">Súbor prijatý</string>
     <string name="download_succ_ok">Otvoriť</string>
@@ -50,12 +48,9 @@ Prijať súbor?"</string>
     <string name="upload_line3" formatted="false">Typ súborov: %1$s (%2$s)</string>
     <string name="upload_line5">Posielam súbor…</string>
     <string name="upload_succ_line5">Súbor odoslaný</string>
-    <string name="upload_succ_line5">Súbor odoslaný</string>
     <string name="upload_succ_ok">OK</string>
     <string name="upload_fail_line1">Súbor nebol odoslaný do \"%1$s\".</string>
     <string name="upload_fail_line1_2">Súbor: %1$s</string>
-    <string name="upload_fail_ok">Skúsiť znova</string>
-    <string name="upload_fail_cancel">Zavrieť</string>
     <string name="upload_fail_ok">Skúsiť znova</string>
     <string name="upload_fail_cancel">Zavrieť</string>
     <string name="bt_error_btn_ok">OK</string>

@@ -8,16 +8,6 @@
     <string name="password">Heslo</string>
     <string name="action">Login</string>
     <string name="cancel">Zrušiť</string>
-    <string name="tab_history">História</string>
-    <string name="tab_snapshots">Uložené stránky</string>
-    <string name="added_to_bookmarks">Pridané záložky</string>
-    <string name="removed_from_bookmarks">Odstránené zo záložiek</string>
-    <string name="sign_in_to" formatted="false">Prihlásiť sa k %s1 \"%s2\"</string>
-    <string name="username">Meno</string>
-    <string name="password">Heslo</string>
-    <string name="action">Prihlásiť</string>
-    <string name="bookmarks_search">Prehliadač</string>
-    <string name="cancel">Zrušiť</string>
     <string name="ok">OK</string>
     <string name="page_info">Informácie o stránke</string>
     <string name="page_info_view">Informácie o www</string>
@@ -31,28 +21,8 @@
     <string name="ssl_expired">Certifikát vypršal.</string>
     <string name="ssl_not_yet_valid">Certifikácia nie je platná.</string>
     <string name="back">Späť</string>
-    <string name="ssl_not_yet_valid">"This certificate isn't valid yet."</string>
-    <string name="ssl_date_invalid">Tento certifikát má neplatný dátum</string>
-    <string name="ssl_invalid">Tento certifikát je neplatný</string>
-    <string name="ssl_unknown">Neznáma chyba certifikátu</string>
-    <string name="stopping">Zastavujem…</string>
-    <string name="stop">Stop</string>
-    <string name="reload">Znova</string>
-    <string name="back">Naspäť</string>
-    <string name="forward">Dopredu</string>
     <string name="save">OK</string>
     <string name="do_not_save">Zrušiť</string>
-    <string name="location">Adresa</string>
-    <string name="account">Účet</string>
-    <string name="containing_folder">Pridať do</string>
-    <string name="new_folder">Nová zložka</string>
-    <string name="edit_folder">Upraviť zložku</string>
-    <string name="delete_folder">Vymazať zložku</string>
-    <string name="no_subfolders">žiadna podzložka</string>
-    <string name="add_to_bookmarks_menu_option">Záložky</string>
-    <string name="add_to_homescreen_menu_option">Domáca obrazovka</string>
-    <string name="add_to_other_folder_menu_option">Ostatné zložky</string>
-    <string name="name">Označenie</string>
     <string name="http">http://</string>
     <string name="bookmark_saved">Vaša záložka bola uložená.</string>
     <string name="bookmark_needs_title">Vložte meno.</string>
@@ -251,7 +221,7 @@
     <string name="email_subject">Komentáre k MIUI prehliadaču</string>
     <string name="email_body">"Komentáre k WWW: 
 %s
- Prosím zanechajte Váš komentár: by ingbrzy 
+ Prosím zanechajte Váš komentár: 
 
 "</string>
     <string name="submit">Potvrdiť</string>
@@ -322,7 +292,4 @@
     <string name="notification_filename_extras">" a  stiahnuť"</string>
     <string name="notification_download_complete">Stiahnutie dokončeno</string>
     <string name="notification_download_failed">Stiahnutie zlyhalo</string>
-    <string name="import_bookmarks_wizard_done">Hotovo</string>
-    <string name="import_bookmarks_dialog_add">Pridať záložku do účtu Google</string>
-    
 </resources>

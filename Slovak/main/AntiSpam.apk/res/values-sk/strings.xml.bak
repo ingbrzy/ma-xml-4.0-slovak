@@ -57,8 +57,6 @@
     <string name="fw_add_list_title">Zadať telefónne číslo</string>
     <string name="fw_menu_pick_from_contact">Vybrať z kontaktov</string>
     <string name="fw_menu_remove">Zmazať</string>
-    <string name="fw_menu_pick_from_contact">Vybrať Kontakt</string>
-    <string name="fw_menu_remove">Vymazať</string>
     <string name="confirm">OK</string>
     <string name="no">Zrušiť</string>
     <string name="fw_clear_blacklist">Vyčistiť čiernu listinu</string>
@@ -114,6 +112,4 @@
     <string name="context_add_contact">Pridať do existujúceho kontaktu</string>
     <string name="check_all">Vyčistiť všetko</string>
     <string name="check_nothing">Zrušiť všetky označenia</string>
-    <string name="close_rule">Zrušiť všetky pravidlá</string>
-    <string name="fw_log_inf">Firewall</string>
 </resources>
