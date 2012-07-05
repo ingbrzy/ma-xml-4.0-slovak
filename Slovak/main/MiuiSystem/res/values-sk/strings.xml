@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Stavový riadok</string>
+    <string name="status_bar_clear_all_button">Vymazať</string>
+    <string name="status_bar_no_notifications_title">Žiadne oznámenia</string>
+    <string name="status_bar_ongoing_events_title">Prebiehajúce</string>
+    <string name="status_bar_latest_events_title">Oznámenia</string>
+    <string name="battery_low_title">Pripojte nabíjačku</string>
+    <string name="battery_low_subtitle">Batéria vybitá:</string>
+    <string name="battery_low_percent_format">%% zostáva.</string>
+    <string name="battery_low_why">Využitie batérie</string>
+    <string name="usb_accessory_permission_prompt">Umožniť aplikácii %1$s prístup na USB príslušenstvo?</string>
+    <string name="usb_device_confirm_prompt">Spustiť %1$s ak je pripojené USB zariadenie?</string>
+    <string name="usb_accessory_confirm_prompt">Spustiť %1$s ak je pripojené USB príslušenstvo?</string>
+    <string name="usb_accessory_uri_prompt">Žiadna nainštalovaná aplikácia nespolupracuje s týmto USB príslušenstvom. Viac o tomto príslušenstve si prečítajte tu: %1$s</string>
+    <string name="title_usb_accessory">USB príslušenstvo</string>
+    <string name="label_view">Zobraziť</string>
+    <string name="always_use_accessory">Použiť ako predvolený pre toto USB príslušenstvo</string>
+    <string name="tab_notifications_lable">Oznámenia</string>
+    <string name="tab_toggles_lable">Prepínače</string>
+    <string name="status_bar_time_format_12">h:mma</string>
+    <string name="status_bar_time_format_24">HH:mm</string>
+    <string name="status_bar_date_format">d.MMM.</string>
+    <string name="usb_mode_notification">USB úložisko</string>
+    <string name="usb_mode_dont_ask">Už sa nepýtať</string>
+    <string name="usb_mode_mount_storage_title">Spustiť USB úložisko</string>
+    <string name="mount_storage">Pripojiť</string>
+    <string name="dismount_storage">Odpojiť</string>
+    <string name="move_data_to_sdcard_title">Presunúť dáta na SD kartu</string>
+    <string name="move_data_to_sdcard_message">Fotky, obrázky a iné dáta sa presunú na SD kartu, aby sa uvoľnila interná pameť.</string>
+    <string name="user_guide_for_notification">Nové upozornenie - stiahnite stavovú lištu pre viac detailov</string>
+    <string name="user_guide_for_toggle">Zoznam prepínačov sa môže prezerať horizontálne</string>
+    <string name="user_guide_for_toggle_list">Kliknite tu na prispôsobenie zoznamu prepínačov</string>
+    <string name="user_guide_for_call">Pre prístup na ovládánie telefónu stiahnite stavovú lištu a kliknite na ikonku telefónu.</string>
+    <string name="status_bar_date_format_lock">EEEE, d.MMM.</string>
+</resources>
