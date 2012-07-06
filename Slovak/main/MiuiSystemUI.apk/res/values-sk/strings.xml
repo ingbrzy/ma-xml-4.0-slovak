@@ -272,7 +272,7 @@
     <string name="screen_key_back">Späť tlačítko</string>
     <string name="status_bar_network_flow_today">Dnes:%1$s</string>
     <string name="status_bar_network_flow" formatted="false">Dnes: %1$s Ostáva: %2$s Aplikácie: %3$s</string>
-    <string name="status_bar_network_flow_exceed" formatted="false">"Dnes: %1$s | Exceeded: %2$s  |  Aplikácie: %3$s"</string>
+    <string name="status_bar_network_flow_exceed" formatted="false">"Dnes: %1$s | Prekročené: %2$s  |  Aplikácie: %3$s"</string>
     <string name="toast_rotation_locked">Obrazovka je zamknutá na ležato.</string>
     <string name="notifications_off_text">Stlačte tu pre opätovné zapnutie notifikácií.</string>
     <string name="notifications_off_title">Notifikácie vypnuté</string>
