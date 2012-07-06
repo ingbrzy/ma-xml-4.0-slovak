@@ -18,6 +18,8 @@
     <string name="fw_advanced_settings">Pokročilé nastavenia</string>
     <string name="anti_stranger_title">Anti-cudzinec mód</string>
     <string name="anti_stranger_summary">Nie sú filtrované žiadne kontakty</string>
+    <string name="anti_private_title">Blokovať súkromné čísla</string>
+    <string name="anti_private_summary">Zachytiť a zablokovať súkromné čísla a zaznamenať ich</string>
     <string name="fw_keyword_filter">Kľúčové slová spam filtra</string>
     <string name="fw_keyword_filter_summary">Filtrovať správy, v ktorých budú označené kľúčové slová</string>
     <string name="fw_set_keyword">Nastaviť filter s kľúčovými slovami</string>
@@ -57,8 +59,6 @@
     <string name="fw_add_list_title">Zadať telefónne číslo</string>
     <string name="fw_menu_pick_from_contact">Vybrať z kontaktov</string>
     <string name="fw_menu_remove">Zmazať</string>
-    <string name="fw_menu_pick_from_contact">Vybrať Kontakt</string>
-    <string name="fw_menu_remove">Vymazať</string>
     <string name="confirm">OK</string>
     <string name="no">Zrušiť</string>
     <string name="fw_clear_blacklist">Vyčistiť čiernu listinu</string>
