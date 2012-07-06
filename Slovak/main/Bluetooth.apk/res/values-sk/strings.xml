@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="permlab_bluetoothShareManager">Sprístupniť správcu sťahovania.</string>
-    <string name="permdesc_bluetoothShareManager">Povoliť aplikácii pristup k BluetoothShare spravcovi a použíť ju k prenosu súborov.</string>
+    <string name="permdesc_bluetoothShareManager">Povoliť aplikácii prístup k BluetoothShare správcovi a použiť ju k prenosu súborov.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="unknown_device">Neznáme zariadenie</string>
     <string name="unknownNumber">Neznáme</string>
     <string name="airplane_error_title">Režim lietadlo</string>
     <string name="airplane_error_msg">Bluetooth sa nedá použiť v režime Lietadlo.</string>
     <string name="bt_enable_title">Bluetooth</string>
-    <string name="bt_enable_line1">Najprv zapnite Bluetooth.</string>
+    <string name="bt_enable_line1">Najskôr zapnite Bluetooth.</string>
     <string name="bt_enable_line2">Zapnúť Bluetooth teraz?</string>
     <string name="bt_enable_cancel">Zrušiť</string>
     <string name="bt_enable_ok">Zapnúť</string>
-    <string name="incoming_file_confirm_title">Peenos súborov</string>
+    <string name="incoming_file_confirm_title">Prenos súborov</string>
     <string name="incoming_file_confirm_content" formatted="false">"\"%1$s\" vám chce poslať %2$s (%3$s).
 
 Prijať súbor?"</string>
-    <string name="incoming_file_confirm_cancel">Odmietnúť</string>
+    <string name="incoming_file_confirm_cancel">Odmietnuť</string>
     <string name="incoming_file_confirm_ok">Prijať</string>
     <string name="incoming_file_confirm_timeout_ok">Ok</string>
-    <string name="incoming_file_confirm_timeout_content">Pri prijímaní súboru od \"%1$sbola zistená odozvava</string>
+    <string name="incoming_file_confirm_timeout_content">Pri prijímaní súboru od \"%1$sbola zistená odozva</string>
     <string name="incoming_file_confirm_Notification_title">Bluetooth zdieľanie: prichádzajúci súbor</string>
-    <string name="incoming_file_confirm_Notification_caption">Potvrďte pre prijatí súboru</string>
-    <string name="incoming_file_toast_msg">Je tu prichádzajúci súbor z iného zariadenia, potvrďte, že ho chcete prijať</string>
+    <string name="incoming_file_confirm_Notification_caption">Potvrďte pre prijatie súboru</string>
+    <string name="incoming_file_toast_msg">Prichádzajúci súbor z iného zariadenia, potvrďte, že ho chcete prijať</string>
     <string name="notification_receiving">Bluetooth zdieľanie: prijímam %1$s</string>
     <string name="notification_received">Bluetooth zdieľanie: prijaté %1$s</string>
     <string name="notification_received_fail">Bluetooth zdieľanie: súbor %1$s nebol prijatý</string>
@@ -38,11 +38,9 @@ Prijať súbor?"</string>
     <string name="download_line5">Prijímam súbor…</string>
     <string name="download_cancel">Zastaviť</string>
     <string name="download_ok">Skryť</string>
-    <string name="download_fail_line1">Súbor neprijatý</string>
+    <string name="download_fail_line1">Súbor nebol prijatý</string>
     <string name="download_fail_line2">Súbor: %1$s</string>
     <string name="download_fail_line3">Dôvod zlyhania: %1$s</string>
-    <string name="download_fail_line2">Súbor: %s</string>
-    <string name="download_fail_line3">Dôvod chyby: %s</string>
     <string name="download_fail_ok">OK</string>
     <string name="download_succ_line5">Súbor prijatý</string>
     <string name="download_succ_ok">Otvoriť</string>
@@ -50,12 +48,9 @@ Prijať súbor?"</string>
     <string name="upload_line3" formatted="false">Typ súborov: %1$s (%2$s)</string>
     <string name="upload_line5">Posielam súbor…</string>
     <string name="upload_succ_line5">Súbor odoslaný</string>
-    <string name="upload_succ_line5">Súbor odoslaný</string>
     <string name="upload_succ_ok">OK</string>
     <string name="upload_fail_line1">Súbor nebol odoslaný do \"%1$s\".</string>
     <string name="upload_fail_line1_2">Súbor: %1$s</string>
-    <string name="upload_fail_ok">Skúsiť znova</string>
-    <string name="upload_fail_cancel">Zavrieť</string>
     <string name="upload_fail_ok">Skúsiť znova</string>
     <string name="upload_fail_cancel">Zavrieť</string>
     <string name="bt_error_btn_ok">OK</string>
@@ -92,6 +87,8 @@ Prijať súbor?"</string>
     <string name="outbound_history_title">Odchádzajúce prenosy</string>
     <string name="no_transfers">História prenosov je prázdna.</string>
     <string name="transfer_clear_dlg_msg">Všetky položky budú zmazané zo zoznamu.</string>
+    <string name="outbound_noti_title">Bluetooth zdieľanie: Posielanie súborov</string>
+    <string name="inbound_noti_title">Bluetooth zdieľanie: Prijímanie súborov</string>
     <string name="noti_caption" formatted="false">%1$s úspešné, %2$s zlyhalo.</string>
     <string name="transfer_menu_clear_all">Vyčistiť zoznam</string>
     <string name="transfer_menu_open">Otvoriť</string>
@@ -121,12 +118,4 @@ Prijať súbor?"</string>
     <string name="delete_record">Zmazať záznam</string>
     <string name="start_server">Spustiť TCP server</string>
     <string name="notify_server">Upozorniť TCP server</string>
-    <string name="outbound_noti_title">Bluetooth zdieľanie: odoslané súbory</string>
-    <string name="inbound_noti_title">Bluetooth zdieľanie: prijaté súbory</string>
-    <string name="pbap_acceptance_dialog_title" formatted="false">%1$s chce pristupovať ku kontaktom a histórii hovorov. Dať %2$s povolenie?</string>
-    <string name="pbap_acceptance_dialog_header">Prístup k adresáru</string>
-    <string name="pbap_notif_ticker">Žiadosť o prístup do adresára</string>
-    <string name="pbap_notif_title">PBAP žiadosť</string>
-    <string name="pbap_notif_message">Povoliť prístup do adresára %1$s</string>
-    <string name="alwaysallowed">Vždy povoliť?</string>
 </resources>
