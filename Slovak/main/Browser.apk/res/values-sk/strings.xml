@@ -3,10 +3,10 @@
     <string name="choose_upload">Vyberte súbor k nahraniu</string>
     <string name="added_to_bookmarks">Vaša záložka bola uložená.</string>
     <string name="removed_from_bookmarks">Vaša záložka bola odstránená.</string>
-    <string name="sign_in_to">Login</string>
+    <string name="sign_in_to">Prihlásenie</string>
     <string name="username">Meno</string>
     <string name="password">Heslo</string>
-    <string name="action">Login</string>
+    <string name="action">Prihlásiť sa</string>
     <string name="cancel">Zrušiť</string>
     <string name="tab_history">História</string>
     <string name="tab_snapshots">Uložené stránky</string>
@@ -31,7 +31,7 @@
     <string name="ssl_expired">Certifikát vypršal.</string>
     <string name="ssl_not_yet_valid">Certifikácia nie je platná.</string>
     <string name="back">Späť</string>
-    <string name="ssl_not_yet_valid">"This certificate isn't valid yet."</string>
+    <string name="ssl_not_yet_valid">"Certifikát ešte neplatí."</string>
     <string name="ssl_date_invalid">Tento certifikát má neplatný dátum</string>
     <string name="ssl_invalid">Tento certifikát je neplatný</string>
     <string name="ssl_unknown">Neznáma chyba certifikátu</string>
@@ -270,10 +270,10 @@
     <string name="auto_data_backup_summary">Automatická záloha dát prehliadača.</string>
     <string name="one_key_export">Export na jedno kliknutie</string>
     <string name="one_key_export_summary">Zazálohovať dáta prehliadača na SD kartu.</string>
-    <string name="one_key_export_message">Toto zazálohuje dáta prehliadača na SD kartu do zložky... (/sdcard/miui_browser/backups/)。</string>
+    <string name="one_key_export_message">Dáta prehliadača budú zazálohované na SD kartu do zložky... (/sdcard/miui_browser/backups/)。</string>
     <string name="one_key_import">Import na jedno kliknutie</string>
-    <string name="one_key_import_summary">Importovat dáta prehliadača z SD karty.</string>
-    <string name="one_key_import_message">Toto naimportuje dáta zo zálohy.</string>
+    <string name="one_key_import_summary">Importovať dáta prehliadača z SD karty.</string>
+    <string name="one_key_import_message">Dáta zo zálohy budú importované.</string>
     <string name="exported_data_file_name">Moje dáta</string>
     <string name="home_page_title">Domov</string>
     <string name="forum_post_info">\\n\\n\\n[size=2][color=Silver]—— Odoslané z MIUI prehliadača[/color][/size]</string>
@@ -281,7 +281,7 @@
     <string name="setting_common">Základné</string>
     <string name="setting_advanced">Pokročilé</string>
     <string name="pref_user_agent">User Agent</string>
-    <string name="pre_auto_clean_cache_title">Zmazat cache pri ukončení</string>
+    <string name="pre_auto_clean_cache_title">Zmazať cache pri ukončení</string>
     <string name="pre_auto_clean_cache_summary">Automaticky zmazať cache pri ukončení prehliadača.</string>
     <string name="exit_confirmation">Znovu sa nepýtať</string>
     <string name="pre_exit_confirmation">Potvrdenie ukončenia</string>
