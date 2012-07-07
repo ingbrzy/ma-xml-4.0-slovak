@@ -7,7 +7,7 @@
         <item>--%s</item>
     </string-array>
     <string-array name="menu_share_ways">
-        <item>Správy</item>
+        <item>Zprávy</item>
         <item>Emaily</item>
     </string-array>
 </resources>

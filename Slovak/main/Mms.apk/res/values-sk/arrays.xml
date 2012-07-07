@@ -49,14 +49,14 @@
         <item>10</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Meno</item>
-        <item>Prezývka</item>
-        <item>Telefó</item>
+        <item>Jméno</item>
+        <item>Přezdívka</item>
+        <item>Telefon</item>
         <item>E-mail</item>
-        <item>Spoločnosť</item>
+        <item>Společnost</item>
         <item>IM</item>
         <item>SIP Číslo</item>
-        <item>Narodeniny</item>
+        <item>Narozeniny</item>
         <item>WWW</item>
         <item>Adresa</item>
         <item>Poznámka</item>
@@ -88,10 +88,10 @@
         <item>Ostatní...</item>
     </string-array>
     <string-array name="extend_smiley_texts">
-        <item>::>_&amp;amp;amp;amp;amp;lt;::</item>
-        <item>&amp;amp;amp;amp;amp;lt;_>¦¦¦</item>
+        <item>::>_&amp;amp;amp;amp;amp;amp;lt;::</item>
+        <item>&amp;amp;amp;amp;amp;amp;lt;_>¦¦¦</item>
         <item>~~~^_^~~~</item>
-        <item>~~~(>_&amp;amp;amp;amp;amp;lt;)~~~</item>
+        <item>~~~(>_&amp;amp;amp;amp;amp;amp;lt;)~~~</item>
         <item>╮〔╯ε╰〕╭</item>
         <item>^_^/~~</item>
         <item>o∩_∩o</item>

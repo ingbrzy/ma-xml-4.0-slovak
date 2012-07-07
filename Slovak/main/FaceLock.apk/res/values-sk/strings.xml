@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Odomknutie tvárou</string>
-    <string name="setup_app_name">Nastaviť službu Odomknutie tvárou</string>
-    <string name="enrollment_continue_label">Pokračovať</string>
-    <string name="enrollment_done_label">Hotovo</string>
-    <string name="enrollment_initializing">Spúšťanie...</string>
-    <string name="enrollment_initialization_error">Odomknutie tvárou sa nepodarilo spustiť</string>
-    <string name="enrollment_start_message">Sem umiestnite svoju tvár.</string>
-    <string name="error_no_face">Ukážte svoju tvár</string>
-    <string name="enrollment_missing_landmarks">Zobraziť oči, nos a ústa.</string>
-    <string name="enrollment_missing_landmarks_status">Nevidím vaše črty</string>
-    <string name="enrollment_off_center_status">Časť vašej tváre sa nepodarilo nájsť</string>
-    <string name="enrollment_face_found">Nehýbte sa...</string>
+    <string name="app_name">Odemknutí obličejem</string>
+    <string name="setup_app_name">Nastavení Odemknutí obličejem</string>
+    <string name="enrollment_continue_label">Pokračovat</string>
+    <string name="enrollment_done_label">Dokončeno</string>
+    <string name="enrollment_initializing">Spouštění...</string>
+    <string name="enrollment_initialization_error">Odemknutí obličejem se nepodařilo spustit</string>
+    <string name="enrollment_start_message">Umístěte obličej sem.</string>
+    <string name="error_no_face">Zobrazit obličej</string>
+    <string name="enrollment_missing_landmarks">Ukažte oči, nos a ústa.</string>
+    <string name="enrollment_missing_landmarks_status">Vaše rysy se nepodařilo určit</string>
+    <string name="enrollment_off_center_status">Některé části obličeje se nepodařilo nalézt</string>
+    <string name="enrollment_face_found">Vydržte...</string>
     <string name="enrollment_face_found_status">%d</string>
-    <string name="enrollment_done">Tvár bola zachytená.</string>
-    <string name="tutorial_app_name">O službe Odomknutie tvárou</string>
-    <string name="tutorial_header">Ak chcete telefón odomknúť, pozrite sa naň.</string>
-    <string name="tutorial_info_text">"Pamätajte na tieto veci:
+    <string name="enrollment_done">Tvář byla zachycena.</string>
+    <string name="tutorial_app_name">O službě Odemknutí obličejem</string>
+    <string name="tutorial_header">Chcete-li odemknout telefon, stačí, když se na něj podíváte.</string>
+    <string name="tutorial_info_text">"Upozornění:
 
- "<li><ul>"Odomknutie tvárou je menej bezpečné ako vzor, kód PIN alebo heslo.
+"<ul><li>"Odemknutí obličejem je méně bezpečné než bezpečnostní gesto, PIN či heslo.
 
- "<li>Váš telefón môže odomknúť hocikto, kto sa na vás podobá.</li>"
+ "<li>Váš telefon by mohl odemknout někdo, kdo je vám podobný.</li>"
 
- "<li>Údaje, ktoré sa používajú na identifikáciu vašej tváre, sú uložené v telefóne ako súkromné.</li>"
+ "<li>Údaje k identifikaci vašeho obličeje jsou bezpečně uloženy v telefonu.</li>"
 
- "</ul></li></string>
-    <string name="tutorial_continue_label">Nastaviť</string>
-    <string name="intro_header">Najlepšie výsledky dosiahnete takto:</string>
-    <string name="intro_info_text">" "<li><ul>"Nájdite v interiéri primerane osvetlené miesto – nie príliš svetlé ani tmavé.
+ "</li></ul></string>
+    <string name="tutorial_continue_label">Nastavit</string>
+    <string name="intro_header">Pro nejlepší výsledky:</string>
+    <string name="intro_info_text">" "<ul><li>"Najděte v interiéru přiměřeně osvětlené místo – ne příliš světlé ani tmavé.
 
- "<li>Podržte telefón v úrovni očí.</li>"
+ "<li>Podržte telefon v úrovni očí.</li>"
 
- "</ul></li></string>
-    <string name="intro_continue_label">Pokračovať</string>
-    <string name="endscreen_header">Hotovo!</string>
-    <string name="endscreen_top_info_text">Ak chcete odomknúť telefón, stačí sa naň pozrieť.</string>
-    <string name="endscreen_bottom_info_text">Tip: Priraďovanie tvárí môžete zlepšiť tým, že svoju tvár zachytíte v rôznych stavoch.</string>
+ "</li></ul></string>
+    <string name="intro_continue_label">Pokračovat</string>
+    <string name="endscreen_header">Vše je hotovo!</string>
+    <string name="endscreen_top_info_text">Chcete-li telefon odemknout, stačí se na něj podívat.</string>
+    <string name="endscreen_bottom_info_text">Tip: Porovnání obličeje můžete zlepšit tím, že svůj obličej vyfotíte v různém stavu.</string>
     <string name="endscreen_continue_label">OK</string>
-    <string name="addtosetup_app_name">Zlepšiť priraďovanie tvárí</string>
-    <string name="addtosetup_header">Zachyťte svoju tvár v rôznych stavoch.</string>
-    <string name="addtosetup_info_text">"Príklady:
+    <string name="addtosetup_app_name">Zlepšit přiřazování tváří</string>
+    <string name="addtosetup_header">Vyfoťte různé vzhledy svého obličeje.</string>
+    <string name="addtosetup_info_text">"Příklady:
 
- "<li><ul>"Pri rôznom osvetlení
+ "<ul><li>"Za různého osvětlení
 
- "<li>S okuliarami alebo bez nich</li>"
+ "<li>S brýlemi a bez brýlí</li>"
 
- "<li>S bradou alebo bez nej</li>"
+ "<li>S vousy a bez vousů</li>"
 
- "</ul></li>"
-Podržte telefón v úrovni očí."</string>
-    <string name="addtosetup_continue_label">Pokračovať</string>
-    <string name="service_app_name">Služba Odomknutie tvárou</string>
-    <string name="service_starting_up">Spúšťanie aplikácie Odomknutie tvárou...</string>
-    <string name="service_default_info">Odomknutie tvárou</string>
-    <string name="service_identify">Prebieha identifikácia...</string>
-    <string name="service_match_no_me">Vitajte späť!</string>
-    <string name="service_match_me">Dobrý deň, %s!</string>
-    <string name="service_face_not_found">Tvár sa nepodarilo nájsť</string>
-    <string name="service_not_a_match">Je mi ľúto, ale nepoznám vás</string>
-    <string name="service_cant_determine">Vaše črty sa nepodarilo určiť</string>
-    <string name="service_initialize_error">Odomknutie tvárou sa nepodarilo spustiť</string>
-    <string name="service_low_ligthing">Príliš slabé osvetlenie</string>
-    <string name="shared_cancel_label">Zrušiť</string>
+ "</li></ul>"
+Podržte telefon v úrovni očí."</string>
+    <string name="addtosetup_continue_label">Pokračovat</string>
+    <string name="service_app_name">Služba Odemknutí obličejem</string>
+    <string name="service_starting_up">Spouštění Odemknutí obličejem…</string>
+    <string name="service_default_info">Odemknutí obličejem</string>
+    <string name="service_identify">Identifikace...</string>
+    <string name="service_match_no_me">Vítejte zpět.</string>
+    <string name="service_match_me">Dobrý den, %s!</string>
+    <string name="service_face_not_found">Obličej se nepodařilo nalézt.</string>
+    <string name="service_not_a_match">Lituji, ale nepoznávám vás</string>
+    <string name="service_cant_determine">Vaše rysy se nepodařilo určit</string>
+    <string name="service_initialize_error">Odemknutí obličejem se nepodařilo spustit</string>
+    <string name="service_low_ligthing">Osvětlení je příliš slabé</string>
+    <string name="shared_cancel_label">Zrušit</string>
 </resources>
