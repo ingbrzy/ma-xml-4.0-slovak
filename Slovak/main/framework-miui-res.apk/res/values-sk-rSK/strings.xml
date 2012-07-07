@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="all_resources">Vše</string>
+  <string name="all_resources">Všetko</string>
   <string name="caller_info_name_delimiter">,</string>
   <string name="callNoAnswerTimeFormat">Zvonil %s krát</string>
     <string name="country_name_ac">AC</string>
