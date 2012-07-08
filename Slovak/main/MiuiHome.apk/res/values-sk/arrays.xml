@@ -20,13 +20,13 @@
     </string-array>
     <string-array name="transformation_entries">
         <item>Klasický</item>
-        <item>Klasický(bez překmitu)</item>
-        <item>Prolnutí</item>
-        <item>Přetočení</item>
+        <item>Klasický(bez prekmitov)</item>
+        <item>Prienik</item>
+        <item>Pretočenir</item>
         <item>Strana</item>
-        <item>Kaskádově</item>
-        <item>3D rotace</item>
-        <item>3D kostka</item>
+        <item>Kaskádovo</item>
+        <item>3D rotácia</item>
+        <item>3D kocka</item>
     </string-array>
     <string-array name="transformation_values">
         <item>0</item>
@@ -39,9 +39,9 @@
         <item>4</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Dle tématu</item>
-        <item>Střed</item>
-        <item>Vlevo</item>
+        <item>Podľa témy</item>
+        <item>Stred</item>
+        <item>Vľavo</item>
         <item>Vpravo</item>
     </string-array>
     <string-array name="wallpaper_scroll_values">
