@@ -8,7 +8,7 @@
         <item>@string/callrecordview_menu_show_stranger</item>
     </array>
     <string-array name="otherLabels">
-        <item>Organizace</item>
+        <item>Organizácia</item>
         <item>Poznámka</item>
     </string-array>
 </resources>
