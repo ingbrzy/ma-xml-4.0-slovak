@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="general_settings">Všeob. nastav.</string>
+    <string name="samsungtts_settings">Samsung TTS – nastavenia</string>
+    <string name="open_source_licenses">Licencie na otvorený zdrojový kód</string>
+    <string name="advanced_settings">Pokročilé nastavenia</string>
+    <string name="change_voice_effects">Hlasové efekty</string>
+    <string name="change_voice_effects_summary">Aplikuje rôzne hlasové efekty pre hovorený text</string>
+    <string name="installed_languages">Nainštalované jazyky</string>
+    <string name="female">Žena</string>
+    <string name="male">Muž</string>
+</resources>

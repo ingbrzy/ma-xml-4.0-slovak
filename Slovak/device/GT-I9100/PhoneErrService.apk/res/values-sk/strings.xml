@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Chyba</string>
+    <string name="app_name">Chyba</string>
+    <string name="ok">OK</string>
+    <string name="sms_fdn_title">Chyba</string>
+    <string name="sms_fdn_body">Číslo FDN obmedzené</string>
+    <string name="sms_fdn_restricted">Číslo FDN obmedzené</string>
+    <string name="sim_not_inserted">Vložte SIM kartu</string>
+    <string name="sdcard_copy_err">Nepodarilo sa skopírovať</string>
+    <string name="data_copy_err">Chyba kopírovania údajov</string>
+    <string name="sim_crash_title">Zlyhanie karty SIM</string>
+    <string name="sim_crash_text">Skontrolujte kartu SIM alebo kontaktujte centrum služieb pre zákazníkov</string>
+    <string name="unknown_err">Neznáma chyba</string>
+    <string name="sim_removed_text">Karta SIM bola odstránená. Reštartujte telefón</string>
+    <string name="sim_removed_title">Karta SIM bola odstránená</string>
+    <string name="sim_permernent_title">Chyba SIM karty</string>
+    <string name="sim_permernent_blocked">PUK zablokovanũ</string>
+    <string name="dialog_ok">OK</string>
+</resources>

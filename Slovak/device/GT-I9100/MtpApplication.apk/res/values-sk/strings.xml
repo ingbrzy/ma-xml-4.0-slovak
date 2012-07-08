@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, MtpApplication!</string>
-    <string name="app_name">MTP Aplikace</string>
-    <string name="error_title">Pozor</string>
-    <string name="bluetooth_running">Aktivace režimu USB deaktivuje Bluetooth. Chcete pokračovat?</string>
-    <string name="alert_dialog_yes">Ano</string>
-    <string name="alert_dialog_no">Ne</string>
-    <string name="animation_initializing">Inicializace...</string>
-    <string name="animation_connected">Připojeno</string>
-    <string name="animation_synchronizing">Synchronizování...</string>
-    <string name="animation_downloading">Stahování...</string>
-    <string name="animation_sending">Posílání...</string>
-    <string name="notification_mtp_connected">MTP připojeno</string>
-    <string name="notification_usb_connected">USB připojeno</string>
-    <string name="notification_mtp_initialization">MTP inicializace</string>
+    <string name="app_name">Aplikácia MTP</string>
+    <string name="error_title">Upozornenie</string>
+    <string name="bluetooth_running">Aktiváciou režimu USB sa deaktivuje Bluetooth. Pokračovať?</string>
+    <string name="alert_dialog_yes">Áno</string>
+    <string name="alert_dialog_no">Nie</string>
+    <string name="animation_initializing">Inicializácia...</string>
+    <string name="animation_connected">Pripojené</string>
+    <string name="animation_synchronizing">Synchronizácia...</string>
+    <string name="animation_downloading">Sťahovanie...</string>
+    <string name="animation_sending">Odosielanie...</string>
+    <string name="notification_mtp_connected">MTP pripojené</string>
+    <string name="notification_usb_connected">USB pripojené</string>
+    <string name="notification_mtp_initialization">Inicializácia MTP</string>
     <string name="alert_dialog_ok">OK</string>
-    <string name="alert_dialog_cancel">Zrušit</string>
-    <string name="non_idle_toast">"Připojení k PC je dispozici pouze na pohotovostní obrazovce..
-zavřete spuštěné aplikace."</string>
-    <string name="media_scanner_running">Probíhá skenování médií...</string>
-    <string name="media_scanner_finished">Skenování médií dokončeno</string>
-    <string name="kies_software_check">Zkontrolujte Kies(PC software)</string>
+    <string name="alert_dialog_cancel">Zrušiť</string>
+    <string name="non_idle_toast">Pripojenie k PC je k dispozícii iba v nečinnom režime. Zatvorte spustené aplikácie</string>
+    <string name="media_scanner_running">Prehľadávač médií je spustený...</string>
+    <string name="media_scanner_finished">Prehľadávanie médií je dokončené</string>
+    <string name="kies_software_check">Kontroluje sa Samsung Kies (softvér na pripojenie k PC)...</string>
+    <string name="samsung_kies_text">Stlačením tlačidla Domov ukončite aplikáciu Samsung Kies</string>
+    <string name="media_player_text">Stlačením tlačidla domov ukončite Prehrávač médií</string>
+    <string name="usb_status_text">Pred použitím veľkokapacitného ukladacieho zariadenia zmeňte nastavenia rozhrania USB v menu Nastavenia bezdrôtového pripojenia a siete</string>
+    <string name="sdcard_insert_while_running_mtp">Aplikácia MTP sa reštartuje na prípravu karty SD. Pokračovať?</string>
 </resources>
