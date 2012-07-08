@@ -72,8 +72,7 @@
     <string name="installer_cd_button_title">Nainštalovať aplikáciu Android File Transfer pre Mac</string>
     <string name="accessibility_back">Späť</string>
     <string name="accessibility_home">Domov</string>
- 
-   <string name="accessibility_menu">Menu</string>
+    <string name="accessibility_menu">Menu</string>
     <string name="accessibility_recent">Nedávné aplikácie</string>
     <string name="accessibility_ime_switch_button">Tlačítko pre prepnutie vstupu.</string>
     <string name="accessibility_compatibility_zoom_button">Tlačítko pre nastavenie zoomu.</string>
@@ -105,6 +104,7 @@
     <string name="accessibility_wimax_two_bars">WiMAX dve čiarky.</string>
     <string name="accessibility_wimax_three_bars">WiMAX tri čiarky.</string>
     <string name="accessibility_wimax_signal_full">WiMAX plný signál.</string>
+    
     <string name="accessibility_data_connection_gprs">GPRS</string>
     <string name="accessibility_data_connection_3g">3G</string>
     <string name="accessibility_data_connection_3.5g">3.5G</string>
@@ -277,3 +277,4 @@
     <string name="notifications_off_text">Stlačte tu pre opätovné zapnutie notifikácií.</string>
     <string name="notifications_off_title">Notifikácie vypnuté</string>
     <string name="settings_auto_dismiss_screenshot_notification">Automaticky skryť Screenshot oznámenie</string>
+</resources>
