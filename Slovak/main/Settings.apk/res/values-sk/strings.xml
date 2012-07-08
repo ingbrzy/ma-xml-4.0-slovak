@@ -808,11 +808,11 @@
     <string name="usb_tethering_available_subtext">Pripojenie USB je k dispozícii. Ak chcete vytvoriť zdieľané dátové pripojenie, vyberte ich.</string>
     <string name="usb_tethering_active_subtext">Zdieľané</string>
     <string name="usb_tethering_storage_active_subtext">Nieje možné zdieľať dátové pripojenie, pokiaľ sa používa úložisko USB</string>
-    <string name="usb_tethering_unavailable_subtext">Pripojenir USB nieje k dispozícií</string>
-    <string name="usb_tethering_errored_subtext">Chyba sdílení datového připojení prostřednictvím USB</string>
-    <string name="bluetooth_tether_checkbox_text">Tethering přes Bluetooth</string>
-    <string name="bluetooth_tethering_available_subtext">Internetové připojení tohoto telefonu je sdíleno.</string>
-    <string name="bluetooth_tethering_device_connected_subtext">Internetové připojení telefonu je sdíleno s 1 zařízením.</string>
+    <string name="usb_tethering_unavailable_subtext">Pripojenie USB nieje k dispozícií</string>
+    <string name="usb_tethering_errored_subtext">Chyba zdieľania dátového pripojenia prostrednictvom USB</string>
+    <string name="bluetooth_tether_checkbox_text">Tethering cez Bluetooth</string>
+    <string name="bluetooth_tethering_available_subtext">Internetové pripojenie tohto telefónu je zdieľané.</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Internetové pripojenie tohto telefónu je zdieľané s 1 zariadením.</string>
     <string name="bluetooth_tethering_devices_connected_subtext">Internet. připojení telefonu je sdíleno. Poč. zařízení: %1$d</string>
     <string name="bluetooth_tethering_off_subtext">Internetové připojení tohoto telefonu není sdíleno.</string>
     <string name="bluetooth_tethering_errored_subtext">Není sdíleno</string>
