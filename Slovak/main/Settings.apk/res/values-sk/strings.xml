@@ -1042,7 +1042,7 @@
     <string name="testing_phone_info">Info o telefóne</string>
     <string name="testing_battery_info">Info o batérii</string>
     <string name="testing_sim_toolkit">SIM toolkit</string>
-    <string name="quick_launch_title">Rýchle spuetenie</string>
+    <string name="quick_launch_title">Rýchle spustenie</string>
     <string name="quick_launch_summary">Umožňuje nastaviť klávesové skratky pre spustenie aplikácií</string>
     <string name="quick_launch_assign_application">Priradiť aplikáciu</string>
     <string name="quick_launch_no_shortcut">Žiadná klávesová skratka</string>
