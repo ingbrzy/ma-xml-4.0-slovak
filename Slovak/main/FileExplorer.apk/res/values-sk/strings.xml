@@ -75,7 +75,7 @@
     <string name="start_server">Spustiť službu</string>
     <string name="stop_server">Zastaviť službu</string>
     <string name="storage_warning">Externé úložisko nieje prístupné alebo sa nedá čítať.</string>
-    <string name="tab_category">Kničnica</string>
+    <string name="tab_category">Knižnica</string>
     <string name="tab_remote">PC Sync</string>
     <string name="tab_sd">SD karta</string>
     <string name="wifi_state">Stav Wi-Fi</string>
