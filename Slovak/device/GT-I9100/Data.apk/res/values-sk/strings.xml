@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataCreate</string>
+    <string name="current_data_state_call_log">Záznamy hovorov</string>
+    <string name="current_data_state_incoming_call">Prichádzajúci hovor</string>
+    <string name="current_data_state_outgoing_call">Odchádzajúci hovor</string>
+    <string name="current_data_state_missed_call">Zmeškaný hovor</string>
+    <string name="current_data_state_photo">Fotografia</string>
+    <string name="current_data_state_video">Video</string>
+    <string name="current_data_state_mp3">MP3</string>
+    <string name="current_data_state_voice_memo">Hlasová poznámka</string>
+    <string name="current_data_state_phone_book">Phone Book</string>
+    <string name="current_data_state_schedule">Plán</string>
+    <string name="current_data_state_tasks">Úlohy</string>
+    <string name="current_data_state_memo">Poz.</string>
+    <string name="current_data_state_message">Správa</string>
+    <string name="current_data_state_mmsinbox">Prijaté MMS</string>
+    <string name="current_data_state_mmsoutbox">Odoslané MMS</string>
+    <string name="current_data_state_ring_tone">Zvonenie</string>
+    <string name="current_data_state_screen">Obrazovka</string>
+    <string name="current_data_state_not_available">Nedá sa použiť</string>
+    <string name="current_data_state_calculating">Prebieha výpočet...</string>
+    <string name="data_copy_inbox">Doručené</string>
+    <string name="data_copy_outbox">Na odoslanie</string>
+    <string name="data_copy_sentbox">Odoslané</string>
+    <string name="data_copy_draftbox">Koncepty</string>
+    <string name="data_copy_phonebook">Tel.zoz</string>
+    <string name="data_copy_calllog">Záznamy hovorov</string>
+    <string name="data_copy_incoming_call">Prichádzajúci hovor</string>
+    <string name="data_copy_outgoing_call">Odchádzajúci hovor</string>
+    <string name="data_copy_missed_call">Zmeškaný hovor</string>
+    <string name="data_copy_etc">Atď.</string>
+    <string name="data_copy_schedule">Plán</string>
+    <string name="data_copy_memo">Poz.</string>
+    <string name="file_copy_photo">Obrázok</string>
+    <string name="file_copy_mp3">MP3</string>
+    <string name="file_copy_video">Video</string>
+    <string name="file_copy_voice_memo">Hlasová poznámka</string>
+    <string name="file_copy_reset">Vynulovať</string>
+    <string name="ver_version_name">Verzia</string>
+    <string name="ver_label_FTA">Testovací režim</string>
+    <string name="ver_version">Verzia</string>
+</resources>
