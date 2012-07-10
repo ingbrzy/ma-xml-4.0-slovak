@@ -417,4 +417,11 @@
     <string name="search_google">Google</string>
     <string name="search_yahoo">Yahoo</string>
     <string name="search_bing">Bing</string>
+	<string name="pref_fling_on_border_enabled">Skočenie na okraj</string>
+    <string name="pref_fling_on_border_operation">Operácia pre skočenie na okraj</string>
+    <string name="pref_gesture_title">Akcia gesta</string>
+    <string name="pref_key_title">Nastavenie tlačidiel</string>
+    <string name="pref_key_gesture_title">Tlačídlá a gestá</string>
+    <string name="pref_volume_key_enabled">Tlačídlá hlasitosti</string>
+    <string name="pref_volume_key_operation">Akcia pre tlačídlá hlasitosti</string>
 </resources>

@@ -182,4 +182,20 @@
         <item>Upraviť</item>
         <item>Vymazať</item>
     </string-array>
+	    <string-array name="pref_volume_key_choices">
+        <item>Stránka hore/dole</item>
+        <item>Zmeniť kartu</item>
+    </string-array>
+    <string-array name="pref_volume_key_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Page forward/backward</item>
+        <item>Switch tab</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
 </resources>
