@@ -2,7 +2,7 @@
 <resources>
     <plurals name="matches_found">
         <item quantity="other">%d zhôd</item>
-        <item quantity="zero">Žiadne zhody</item>
+        <item quantity="zero">Žiadné zhody</item>
         <item quantity="one">1 zhoda</item>
         <item quantity="few">%d zhody</item>
     </plurals>

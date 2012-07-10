@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="download_filters">
-        <item>Vše stažené</item>
-        <item>Stažené</item>
-        <item>Stahování</item>
+        <item>Vštko stiahnuté</item>
+        <item>Stiahnuté</item>
+        <item>Sťahovanie</item>
     </string-array>
     <string-array name="prefEntries_max_bytes_limit">
         <item>10M</item>

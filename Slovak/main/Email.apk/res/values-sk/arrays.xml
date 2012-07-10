@@ -3,8 +3,8 @@
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Drobný text</item>
         <item>Malý text</item>
-        <item>Text běžné velikosti</item>
-        <item>Velký text</item>
+        <item>Text bežnej veľkosti</item>
+        <item>Veľký text</item>
         <item>Obrovský text</item>
     </string-array>
 </resources>

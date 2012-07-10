@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="move_messages">
-        <item quantity="other">Přesunout zprávy</item>
-        <item quantity="one">Přesunout zprávu</item>
+        <item quantity="other">Presunúť správy</item>
+        <item quantity="one">Presunúť správu</item>
     </plurals>
     <plurals name="notification_new_one_account_fmt">
-        <item quantity="other">Nepřečtené zprávy: %1$1$d(%2$2$s)</item>
-        <item quantity="one">Nepřečtené zprávy: %1$1$d(%2$2$s)</item>
-        <item quantity="few">Nepřečtené zprávy: %1$1$d(%2$2$s)</item>
+        <item quantity="other">Neprečítané správy: %1$1$d(%2$2$s)</item>
+        <item quantity="one">Neprečítané správy: %1$1$d(%2$2$s)</item>
+        <item quantity="few">Neprečítané správy: %1$1$d(%2$2$s)</item>
     </plurals>
     <plurals name="notification_new_multi_account_fmt">
-        <item quantity="other">v(e) %d účtech</item>
-        <item quantity="few">v(e) %d účtech</item>
+        <item quantity="other">v(o) %d účtoch</item>
+        <item quantity="few">v(o) %d účtoch</item>
     </plurals>
     <plurals name="number_of_accounts">
-        <item quantity="other">Počet účtů: %1$d</item>
+        <item quantity="other">Počet účtov: %1$d</item>
         <item quantity="one">Účet %1$d</item>
     </plurals>
     <plurals name="picker_combined_view_account_count">
-        <item quantity="other">Počet účtů: %d</item>
+        <item quantity="other">Počet účtov: %d</item>
         <item quantity="one">%d účet</item>
     </plurals>
     <plurals name="message_view_selected_message_count">
-        <item quantity="other">Počet vybraných položek: %d</item>
-        <item quantity="one">Počet vybraných položek: %d</item>
+        <item quantity="other">Počet vybraných položiek: %d</item>
+        <item quantity="one">Počet vybraných položiek: %d</item>
     </plurals>
     <plurals name="message_view_show_attachments_action">
-        <item quantity="other">Přílohy: %1$d</item>
-        <item quantity="one">Příloha: %1$d</item>
+        <item quantity="other">Prílohy: %1$d</item>
+        <item quantity="one">Príloha: %1$d</item>
     </plurals>
     <plurals name="message_delete_confirm">
-        <item quantity="other">Smazat tyto zprávy?</item>
-        <item quantity="one">Smazat tuto zprávu?</item>
+        <item quantity="other">Zmazať tieto správy?</item>
+        <item quantity="one">Zmazať túto správu?</item>
     </plurals>
     <plurals name="message_deleted_toast">
-        <item quantity="other">Zprávy byly smazány.</item>
-        <item quantity="one">Zpráva byla smazána.</item>
+        <item quantity="other">Správy boly vymazané.</item>
+        <item quantity="one">Správa bola vymazaná.</item>
     </plurals>
     <plurals name="message_moved_toast">
-        <item quantity="other">Zprávy (%1$1$d) byly přesunuty do schránky %2$2$s</item>
-        <item quantity="one">%1$1$d zpráva byla přesunuta do schránky %2$2$s</item>
+        <item quantity="other">Správy (%1$1$d) boly presunuté do schránky %2$2$s</item>
+        <item quantity="one">%1$1$d správa bola presunutá do schránky %2$2$s</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%d B</item>
@@ -58,7 +58,7 @@
         <item quantity="one">%d GB</item>
     </plurals>
     <plurals name="gal_completed_fmt">
-        <item quantity="other">Počet výsledků: %1$1$d z webu %2$2$s</item>
-        <item quantity="one">%1$1$d výsledek z webu %2$2$s</item>
+        <item quantity="other">Počet výsledkov: %1$1$d z webu %2$2$s</item>
+        <item quantity="one">%1$1$d výsledok z webu %2$2$s</item>
     </plurals>
 </resources>
