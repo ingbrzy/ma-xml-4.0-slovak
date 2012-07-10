@@ -38,4 +38,6 @@ Dotkněte se \"Queue\" pro zařazení do fronty a následném stažení po přip
     <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">Není dostatek místa na externím úložišti</string>
     <string name="dialog_insufficient_space_on_cache">Není dostatek místa na interním úložišti</string>
+	<string name="download_complete">Downloaded</string>
+	<string name="download_in_process">Downloading</string>
 </resources>

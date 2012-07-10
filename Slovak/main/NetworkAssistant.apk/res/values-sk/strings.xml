@@ -128,4 +128,6 @@
     <string name="pref_network_speed_settings">Zobrazit rychlost sítě v notif. liště</string>
     <string name="pref_network_speed_internal_title">Interval aktualizace</string>
     <string name="pref_netwotk_speed_internal_summary">Rychlost sítě aktualizovat každých %d s</string>
+	<string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
+	<string name="force_stop_dlg_title">Force stop?</string>
 </resources>

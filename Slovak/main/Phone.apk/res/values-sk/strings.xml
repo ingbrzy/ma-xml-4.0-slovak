@@ -956,4 +956,14 @@
     <string name="description_direction_right">Right for %s.</string>
     <string name="description_direction_left">Left for %s.</string>
     <string name="description_direction_up">Up for %s.</string>
+	<string name="add_zero_prefix">Add 0 prefix while dialing mobile number</string>
+	<string name="network_work_query_failed_message_miui">"Network query failed, press 'cancel' to select preferred network automatically or press 'ok' to retry"</string>
+	<string name="next_miui">Next</string>
+	<string name="register_network_failed_message_miui">"Cannot register to the network you selected, would you like to select preferred network automatically?"</string>
+	<string name="register_network_failed_title_miui">Service not available</string>
+	<string name="sum_select_automatically_option_miui">Automatically select preferred network, %s</string>
+	<string name="turn_off_auto_select_confirm_message_miui">The signal and network may be unavailable, are you sure to turn off this option?</string>
+	<string name="turn_off_auto_select_title_miui">Turn off network auto selection</string>
+	<string name="turn_off_auto_select_warning_message_miui">After turning off this option, it will use the network you selected manually and will not register to another network</string>
+	<string name="turn_off_miui">turn-off</string>
 </resources>

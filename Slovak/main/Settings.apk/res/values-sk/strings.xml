@@ -1695,4 +1695,5 @@
     <string name="data_title">VoIP hovor</string>
     <string name="notification_pulse_summary">Keď je prijatá nová notifikácia, zabliká LED dióda</string>
     <string name="wifi_tether_transmit_power_error">Nie je možné nastaviť vysielací výkon</string>
+	<string name="enable_snapshot_screenlock">Dlhé podržanie tlačidla Späť pre vytvorenie screenshotu na zamykacej obrazovke</string>
 </resources>

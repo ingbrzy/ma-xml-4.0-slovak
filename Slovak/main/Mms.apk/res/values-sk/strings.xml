@@ -433,4 +433,21 @@ Pokus: %s."</string>
     <string name="festival_sms_sdcard_unready">SD karta není připravena</string>
     <string name="resize">Přizpůsobit velikost</string>
     <string name="festival">Doporučené</string>
+	<string name="ex_type_mms">MMS</string>
+	<string name="ex_type_mx">Cloud message</string>
+	<string name="ex_type_sms">SMS</string>
+	<string name="mi_msg">Cloud message</string>
+	<string name="msg_type_hint_mms">Multimedia message</string>
+	<string name="msg_type_hint_mx">Cloud message</string>
+	<string name="msg_type_hint_sms">Text message</string>
+	<string name="mx_activate_failure">Failed to activate cloud messaging</string>
+	<string name="mx_activating">Activating…</string>
+	<string name="mx_auto_resend_sms">Send as SMS</string>
+	<string name="mx_auto_resend_sms_summary">Send as SMS when Cloud message is unavailable. Carrier messaging rates may apply</string>
+	<string name="mx_btn_enable">Enable</string>
+	<string name="mx_count_dspt">Since activation, MIUI has sent %d cloud message(s) for you</string>
+	<string name="mx_dspt">Send messages via Internet between MIUI, turn on to send via Operator once failed</string>
+	<string name="mx_enable">Enable cloud messaging</string>
+	<string name="mx_warning_notice">An SMS will be sent to activate cloud messaging. Normal carrier data rates may apply</string>
+	<string name="need_download">Waiting for sync...</string>
 </resources>
