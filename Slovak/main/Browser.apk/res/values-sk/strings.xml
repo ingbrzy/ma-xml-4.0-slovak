@@ -424,4 +424,10 @@
     <string name="pref_key_gesture_title">Tlačídlá a gestá</string>
     <string name="pref_volume_key_enabled">Tlačídlá hlasitosti</string>
     <string name="pref_volume_key_operation">Akcia pre tlačídlá hlasitosti</string>
+	<string name="is_first_history_item">Už je posledný prvok histórie</string>
+	<string name="is_first_tab">Už je ako prvá karta</string>
+	<string name="is_last_history_item">Už je posledný prvok histórie</string>
+	<string name="is_last_tab">Už je ako posledná karta</string>
+	<string name="is_page_bottom">Už je na spodku stránky</string>
+	<string name="is_page_top">Už je na vrchu stránky</string>
 </resources>

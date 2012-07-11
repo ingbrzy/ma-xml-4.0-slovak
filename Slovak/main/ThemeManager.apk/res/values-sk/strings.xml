@@ -72,4 +72,6 @@
     <string name="close">"Zatvoriť"</string>
     <string name="download_success">"Úspešne stiahnuté"</string>
     <string name="theme_format_wrong">"Nesprávny formát témy!"</string>
+	<string name="component_lockstyle_personal_title">Mastavenia</string>
+	<string name="lockstyle_personal_settings">Prispôsobenie</string>
 </resources>
