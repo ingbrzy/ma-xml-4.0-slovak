@@ -278,5 +278,4 @@
     <string name="notifications_off_title">Notifikácie vypnuté</string>
     <string name="settings_auto_dismiss_screenshot_notification">Automaticky skryť Screenshot oznámenie</string>
 	<string name="status_bar_recent_clear_nothing_result">Žiadná pamäť na prečistenie</string>
-	<string name="status_bar_recent_memory_info_format">%dMB</string>
 </resources>
