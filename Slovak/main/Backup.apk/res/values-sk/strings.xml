@@ -67,7 +67,7 @@ Zvolená záloha bude odstránená. Naozaj chcete pokračovať?"</string>
 	<string name="note_title">Poznámky</string>
 	<string name="compute_backup_info">Info o zálohovaní</string>
     <string name="compute_delete_contact_info">Zmazať informácie o kontaktoch</string>
-	<string name="unknown_hint">Neznámý</string>
+	<string name="unknown_hint">Neznámy</string>
 	<string name="task_progress">Priebeh</string>
 	<string name="task_pending">Čakanie</string>
 	<string name="task_pre_running">Príprava</string>
@@ -110,7 +110,7 @@ Prerušenie môže viesť k poškodeniu dát"</string>
 	<string name="sc_precondition_failed">Váš účet Xiaomi nie je spojený so žiadnym e-mailom</string>
 	<string name="sc_internal_server_error">Vnútorná chyba serveru</string>    
     <string name="sc_others">Program výnimka</string>
-	<string name="succeed">Succeeded</string>
+	<string name="succeed">Úspešné</string>
 	<string name="fail">zlyhalo</string>
 	<string name="button_return">Spät</string>
 	<string name="button_next">Ďalší</string>
@@ -132,7 +132,7 @@ Prerušenie môže viesť k poškodeniu dát"</string>
     <string name="auto_backup_choose">Automatické zálohy</string>
     <string name="auto_backup_choose_empty">Žiadna záloha</string>
 	<string name="auto_backup_progress">Prebieha automatická záloha, počkajte prosím...</string>
-	<string name="backup">Zaloha</string>
+	<string name="backup">Záloha</string>
 	<string name="restore">Obnovenie</string>
 	<string name="cloud_last_backup">Posledná záloha:</string>
 	<string name="cloud_search">Hľadanie..</string>
