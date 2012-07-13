@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="traffic_sort_type">
-        <item>Řadit dle jména</item>
-        <item>Řadit dle 2G/3G provozu</item>
-        <item>Řadit dle celkového provozu</item>
+        <item>Radiť podľa mená</item>
+        <item>Radiť podľa 2G/3G prevádzky</item>
+        <item>Radiť podľa celkovej prevádzky</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Provoz za včerejšek</item>
-        <item>Provoz za dnešek</item>
-        <item>Provoz za měsíc</item>
+        <item>Prevádzka za včerajšok</item>
+        <item>Prevádzka za dnešok</item>
+        <item>Prevádzka za mesiac</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Včera</item>
         <item>Dnes</item>
-        <item>Tento měsíc</item>
+        <item>Tento mesiac</item>
     </string-array>
     <string-array name="carriers">
         <item>China Mobile</item>

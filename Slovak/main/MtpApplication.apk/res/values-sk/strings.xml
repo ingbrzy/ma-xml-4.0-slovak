@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MtpApplication!</string>
+    <string name="app_name">MTP Application</string>
+    <string name="error_title">Upozornenie</string>
+    <string name="bluetooth_running">Aktiváciou režimu USB sa deaktivuje Bluetooth. Pokračovať?</string>
+    <string name="alert_dialog_yes">Áno</string>
+    <string name="alert_dialog_no">Nie</string>
+    <string name="animation_initializing">Inicializácia...</string>
+    <string name="animation_connected">Pripojené</string>
+    <string name="animation_downloading">Sťahovanie...</string>
+    <string name="animation_sending">Odosielanie...</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Zrušiť</string>
+    <string name="samsung_kies_text">Stlačením tlačidla Domov ukončite aplikáciu Samsung Kies</string>
+    <string name="media_player_text">Stlačením tlačidla domov ukončite Prehrávač médií</string>
+    <string name="non_idle_toast">"Pripojenie k PC je k dispozícii iba v nečinnom režime.
+Zatvorte spustené aplikácie"</string>
+    <string name="media_scanner_running">Prehľadávač médií je spustený...</string>
+    <string name="media_scanner_finished">Prehľadávanie médií je dokončené</string>
+    <string name="usb_status_text">Pred použitím veľkokapacitného ukladacieho zariadenia zmeňte nastavenia rozhrania USB v menu Nastavenia bezdrôtového pripojenia a siete</string>
+    <string name="sdcard_insert_while_running_mtp">Aplikácia MTP sa reštartuje na prípravu karty SD. Pokračovať?</string>
+</resources>
