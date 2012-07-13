@@ -64,9 +64,9 @@
         <item>@null</item>
     </array>
     <string-array name="clir_display_values">
-        <item>Nastavení sítě</item>
-        <item>Skrýt číslo</item>
-        <item>Zobrazit číslo</item>
+        <item>Nastavenie siete</item>
+        <item>Skryť číslo</item>
+        <item>Zobraziť číslo</item>
     </string-array>
     <string-array name="clir_values">
         <item>DEFAULT</item>
@@ -75,13 +75,13 @@
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE / CDMA</item>
-        <item>Pouze EvDo</item>
+        <item>Iba EvDo</item>
         <item>CDMA w/o EvDo</item>
-        <item>Automaticky CDMA / EvDo</item>
-        <item>Automaticky GSM / WCDMA</item>
-        <item>Pouze WCDMA</item>
-        <item>Pouze GSM</item>
-        <item>GSM / WCDMA preferováno</item>
+        <item>Automatický CDMA / EvDo</item>
+        <item>Automatický GSM / WCDMA</item>
+        <item>Iba WCDMA</item>
+        <item>Iba GSM</item>
+        <item>GSM / WCDMA preferované</item>
     </string-array>
     <string-array name="preferred_network_mode_values">
         <item>7</item>
@@ -121,9 +121,9 @@
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (auto režim)</item>
-        <item>Pouze WCDMA</item>
-        <item>Pouze GSM</item>
-        <item>GSM/WCDA (preferovat WCDMA)</item>
+        <item>Iba WCDMA</item>
+        <item>Iba GSM</item>
+        <item>GSM/WCDA (preferovať WCDMA)</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_values">
         <item>0</item>
@@ -132,7 +132,7 @@
         <item>3</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Pouze doma</item>
+        <item>Iba doma</item>
         <item>Automaticky</item>
     </string-array>
     <string-array name="cdma_system_select_values">
@@ -140,9 +140,9 @@
         <item>2</item>
     </string-array>
     <string-array name="cdma_roaming_mode_choices">
-        <item>Pouze domácí síť</item>
-        <item>Přidružené sítě</item>
-        <item>Jakákoli síť</item>
+        <item>Iba domáca sieť</item>
+        <item>Pridružené siete</item>
+        <item>Akákoľvek sieť</item>
     </string-array>
     <string-array name="cdma_roaming_mode_values">
         <item>0</item>
@@ -151,8 +151,8 @@
     </string-array>
     <string-array name="cdma_network_preferences_choices">
         <item>CDMA/EvDo</item>
-        <item>Pouze CDMA</item>
-        <item>Pouze EvDo</item>
+        <item>Iba CDMA</item>
+        <item>Iba EvDo</item>
     </string-array>
     <string-array name="cdma_network_preferences_values">
         <item>0</item>
@@ -168,7 +168,7 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY vypnuto</item>
+        <item>TTY vypnuté</item>
         <item>Plné TTY</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
@@ -180,8 +180,8 @@
         <item>3</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Normální</item>
-        <item>Dlouhé</item>
+        <item>Normálné</item>
+        <item>Dlhé</item>
     </string-array>
     <string-array name="dtmf_tone_values">
         <item>0</item>
@@ -189,7 +189,7 @@
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Vždy</item>
-        <item>Pouze v tíchém</item>
+        <item>Iba v tichom</item>
         <item>Nikdy</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_values">
