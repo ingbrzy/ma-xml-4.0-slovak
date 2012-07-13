@@ -1061,13 +1061,11 @@ Chcete ho ukončiť?"</string>
     <string name="wifi_p2p_invitation_to_connect_title">Pozvánka na pripojenie</string>
     <string name="wifi_p2p_from_message">Od:</string>
     <string name="wifi_p2p_to_message">Komu:</string>
-    <string name="wifi_p2p_enter_pin_message">Zadať PIN</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct je zapnuté</string>
     <string name="wifi_p2p_enabled_notification_message">Ťuknutím zmeníte nastavenia</string>
     <string name="wifi_p2p_connected_notification_title">Pripojené k %d zariadeniam cez Wi-Fi Direct</string>
     <string name="wifi_p2p_incoming_request_confirmation">Pripojiť k %1$s v priebehu %2$d s</string>
     <string name="wifi_p2p_auto_disabling_confirmation">Od zapnutia spojenia Wi-Fi Direct nedošlo po dobu %d minút k žiadnej aktivite. Vypnutie spojenia Wi-Fi Direct môže predĺžiť výdrž batérie. Pokračovať?</string>
-    <string name="wifi_p2p_connection_limit">Naraz môžete pripojiť max. %d zariadení</string>
     <string name="select_character">Vložiť znak</string>
     <string name="sms_control_default_app_name">Neznáma aplikácia</string>
     <string name="sms_control_title">Odosielanie správ SMS</string>
@@ -1402,7 +1400,7 @@ pre konto %s"</string>
     <string name="lockscreen_ticker_news_settings">Vyberte krajinu</string>
     <string name="lockscreen_ticker_stock_settings">Moje akcie</string>
     <string name="lockscreen_ticker_wifi_settings">Wi-Fi</string>
-    <string name="lockscreen_ticker_quotes_delayed">Ponuky onesk.</string>
+    <string name="lockscreen_ticker_quotes_delayed">Quotes delayed</string>
     <string name="lockscreen_unlock_guide_text">Odomknite potiahnutím prsta po obrazovke</string>
     <string name="lockscreen_swipe_voice_unlock_guide_text">Potiahnutím prsta po obrazovke alebo vyslovením budiaceho príkazu vykonajte odomknutie</string>
     <string name="lockscreen_motion_unlock_guide_text">Ťuknite na obrazovku, podržte ju a nakloňte zariadenie dopredu</string>
@@ -1512,8 +1510,6 @@ pre konto %s"</string>
     <string name="ctc_pc_modem_notification_message">Select Dial Up networking for PC Modem</string>
     <string name="zz_enabled_dun">Telefonické pripojenie siete povolené</string>
     <string name="zz_dun_warning">Nedajú sa použiť iné dátové služby (prehliadač, MMS atď.). Po použití telefonického pripojenia siete ho vypnite, aby sa dali použiť iné dátové služby</string>
-    <string name="lockscreen_cmas_text_vzw">Emergency alert</string>
-    <string name="lockscreen_cmas_text_spr">Presidential alert</string>
     <string name="cutAll">Vystrihnúť všetko</string>
     <string name="copyAll">Kopírovať všetko</string>
     <string name="undo">Vrátiť späť</string>
@@ -1530,6 +1526,4 @@ pre konto %s"</string>
     <string name="tw_ids_com_body_delete_from_clipboard">Odstrániť zo schránky</string>
     <string name="tw_ids_com_body_Lock_in_clipboard">Zamknúť k schránke</string>
     <string name="tw_ids_com_body_unlock_in_clipboard">Odomknúť od schránky</string>
-    <string name="data_usage_enable_mobile_warning">Paketové dátové pripojenie môže vyžadovať ďalšie poplatky. Pokračovať?</string>
-    <string name="data_usage_disable_mobile">Zakázať mobilné dátové pripojenie?</string>
 </resources>
