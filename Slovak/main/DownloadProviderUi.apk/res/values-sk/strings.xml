@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Stahování</string>
-    <string name="download_title">Stahování</string>
+    <string name="app_label">Sťahovanie</string>
+    <string name="download_title">Sťahovanie</string>
     <string name="download_title_sorted_by_date">Stažené - dle data</string>
     <string name="download_title_sorted_by_size">Stažené - dle velikosti</string>
     <string name="no_downloads">Žádná stahování.</string>

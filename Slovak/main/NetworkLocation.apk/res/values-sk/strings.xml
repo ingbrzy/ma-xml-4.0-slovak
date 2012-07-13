@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Síťové umístění</string>
-    <string name="location_warning_title">Souhlas se sběrem dat o poloze</string>
-    <string name="location_warning_message">Umožňuje službě určování polohy Google shromažďovat anonymní data o poloze. Některá data mohou být ukládána do vašeho zařízení. Data mohou být shromažďována i v případě, že nejsou spuštěny žádné aplikace.</string>
-    <string name="agree">Souhlasím</string>
-    <string name="disagree">Nesouhlasím</string>
+    <string name="app_label">Sieťové umiestnenie</string>
+    <string name="location_warning_title">Súhlas so zhromažďovaním údajov o polohe</string>
+    <string name="location_warning_message">Povoľte službe určovania polohy Google zber anonymných údajov o polohe. Niektoré údaje môžu byť uložené vo vašom zariadení. Zhromažďovanie údajov môže prebiehať aj vtedy, keď nie sú spustené žiadne aplikácie.</string>
+    <string name="agree">Súhlasím</string>
+    <string name="disagree">Nesúhlasím</string>
 </resources>

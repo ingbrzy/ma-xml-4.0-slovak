@@ -1,58 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Nástroj k instalaci balíčků</string>
-    <string name="install">Instalovat</string>
+    <string name="app_name">Nástroj na inštaláciu balíčkov</string>
+    <string name="install">Inštalovať</string>
     <string name="done">Hotovo</string>
-    <string name="security_settings_desc">Povolit této aplikaci:</string>
-    <string name="cancel">Zrušit</string>
-    <string name="unknown">Neznámé</string>
-    <string name="installing">Probíhá instalace...</string>
-    <string name="install_done">Aplikace byla nainstalována</string>
-    <string name="install_confirm_question">Chcete tuto aplikaci nainstalovat?</string>
-    <string name="install_failed">Aplikace není nainstalována</string>
-    <string name="install_failed_invalid_apk">Zdá se, že je balíček poškozen.</string>
-    <string name="install_failed_inconsistent_certificates">Již je nainstalován balíček se stejným názvem a konfliktním podpisem.</string>
-    <string name="install_failed_older_sdk">Balíček funguje pouze v novějších verzích systému Android.</string>
-    <string name="install_failed_cpu_abi_incompatible">Tato aplikace není kompatibilní s procesorem tohoto telefonu.</string>
-    <string name="install_failed_file_not_found">Vybraný balíček byl smazán před dokončením instalace.</string>
-    <string name="install_failed_verify_failed">Balíček neprošel ověřením a nemůže být nainstalován.</string>
-    <string name="install_failed_verify_timeout">Při ověřování tohoto balíčku vypršel časový limit. Zkuste jej nainstalovat znovu později.</string>
-    <string name="install_failed_msg">Aplikaci %1$s nelze nainstalovat do tohoto telefonu.</string>
-    <string name="launch">Otevřít</string>
-    <string name="unknown_apps_dlg_title">Instalace byla zablokována</string>
-    <string name="unknown_apps_dlg_text">Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play.</string>
+    <string name="security_settings_desc">Povoliť aplikácii nasledovné:</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="unknown">Neznáme</string>
+    <string name="installing">Prebieha inštalácia...</string>
+    <string name="install_done">Aplikácia bola nainštalovaná.</string>
+    <string name="install_confirm_question">Chcete nainštalovať túto aplikáciu? Získa prístup k týmto povoleniam:</string>
+    <string name="install_confirm_question_no_perms">Chcete nainštalovať túto aplikáciu? Nevyžaduje žiadny zvláštny prístup.</string>
+    <string name="install_confirm_question_update">Chcete nainštalovať aktualizáciu existujúcej aplikácie? Existujúce údaje sa nestratia. Aktualizovaná aplikácia získa prístup k týmto povoleniam:</string>
+    <string name="install_confirm_question_update_system">Chcete nainštalovať aktualizáciu tejto integrovanej aplikácie? Existujúce údaje sa nestratia. Aktualizovaná aplikácia získa prístup k týmto povoleniam:</string>
+    <string name="install_failed">Aplikácia nie je nainštalovaná.</string>
+    <string name="install_failed_invalid_apk">Zdá sa, že je balík poškodený.</string>
+    <string name="install_failed_inconsistent_certificates">Už je nainštalovaný existujúci balík s rovnakým názvom a kolidujúcim podpisom.</string>
+    <string name="install_failed_older_sdk">Balík funguje iba v novších verziách systému Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">Táto aplikácia nie je kompatibilná s vaším telefónom.</string>
+    <string name="install_failed_file_not_found">Pred dokončením inštalácie bol vybratý balík odstránený.</string>
+    <string name="install_failed_verify_failed">Balík neprešiel overením a nemôže byť nainštalovaný.</string>
+    <string name="install_failed_verify_timeout">Pri verifikácii tohto balíka vypršal časový limit. Skúste ho nainštalovať neskôr.</string>
+    <string name="install_failed_msg">Aplikáciu %1$s sa do vášho telefónu nepodarilo nainštalovať.</string>
+    <string name="launch">Otvoriť</string>
+    <string name="unknown_apps_dlg_title">Inštalácia bola zablokovaná</string>
+    <string name="unknown_apps_dlg_text">Telefón je z dôvodu zabezpečenia nastavený tak, aby blokoval inštalácie aplikácií z neznámych zdrojov.</string>
     <string name="ok">OK</string>
-    <string name="settings">Nastavení</string>
-    <string name="allow_source_dlg_title">Povolit nový zdroj pro aplikace?</string>
-    <string name="allow_source_dlg_text">"Aplikace %1$s chce instalovat další aplikace.
+    <string name="settings">Nastavenia</string>
+    <string name="allow_source_dlg_title">Nový zdroj pre aplikácie</string>
+    <string name="allow_source_dlg_text">"Aplikácia %1$s chce inštalovať iné aplikácie.
 
-Povolit nyní i v budoucnu?"</string>
-    <string name="manage_applications">Správa aplikací</string>
-    <string name="dlg_app_replacement_title">Nahradit aplikaci</string>
-    <string name="dlg_app_replacement_statement">"Aplikace, kterou instalujete, nahradí jinou aplikaci.
+Povoliť teraz aj v budúcnosti?"</string>
+    <string name="manage_applications">Spravovať aplikácie</string>
+    <string name="dlg_app_replacement_title">Nahradiť aplikáciu?</string>
+    <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, nahradí inú aplikáciu.
 
-Všechna dříve zadaná data uživatelů budou uložena."</string>
-    <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikace. Opravdu ji chcete nahradit?
+Všetky predchádzajúce používateľské údaje budú uložené."</string>
+    <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikácia.
 
-Všechna předchozí data uživatele budou uložena."</string>
-    <string name="lift_ban">Zrušit zákaz</string>
-    <string name="out_of_space_dlg_title">Nedostatek místa</string>
-    <string name="out_of_space_dlg_text">Aplikaci %1$s nelze nainstalovat. Uvolněte místo v paměti a zkuste to znovu.</string>
+Všetky predchádzajúce používateľské údaje budú uložené."</string>
+    <string name="out_of_space_dlg_title">Nedostatok miesta</string>
+    <string name="out_of_space_dlg_text">Aplikáciu %1$s sa nepodarilo nainštalovať. Uvoľnite miesto v pamäti a skúste to znova.</string>
     <string name="dlg_ok">OK</string>
-    <string name="app_not_found_dlg_title">Aplikace nebyla nalezena</string>
-    <string name="app_not_found_dlg_text">Aplikace nebyla nalezena na seznamu nainstalovaných aplikací.</string>
-    <string name="uninstall_application_title">Odinstalovat aplikaci</string>
-    <string name="uninstall_update_title">Odinstalovat aktualizaci</string>
-    <string name="uninstall_activity_text">Činnost %1$s je součástí následující aplikace:</string>
-    <string name="uninstall_application_text">Tato aplikace bude odinstalována.</string>
-    <string name="uninstall_update_text">Aplikace bude nahrazena výchozí verzí z výroby.</string>
-    <string name="uninstalling">Probíhá odinstalace...</string>
-    <string name="uninstall_done">Odinstalace byla dokončena.</string>
-    <string name="uninstall_failed">Odinstalace nebyla úspěšná.</string>
-    <string name="uninstall_failed_device_policy_manager">Nelze odinstalovat: tento balíček je aktivním správcem zařízení.</string>
-    <string name="manage_device_administrators">Spravovat správce zařízení</string>
-    <string name="uninstall_failed_msg">Aplikaci %1$s nelze odinstalovat.</string>
-    <string name="uninstall_failed_retained_app_msg">Aplikace přizpůsobené operátorem nelze odinstalovat</string>
+    <string name="app_not_found_dlg_title">Aplikácia sa nenašla</string>
+    <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť v zozname nainštalovaných aplikácií.</string>
+    <string name="uninstall_application_title">Odinštalovať aplikáciu</string>
+    <string name="uninstall_update_title">Odinštalovať aktualizáciu</string>
+    <string name="uninstall_activity_text">Aktivita %1$s je súčasťou nasledujúcej aplikácie:</string>
+    <string name="uninstall_application_text">Chcete túto aplikáciu odinštalovať?</string>
+    <string name="uninstall_update_text">Chcete túto aplikáciu nahradiť továrenskou verziou?</string>
+    <string name="uninstalling">Prebieha odinštalovanie...</string>
+    <string name="uninstall_done">Odinštalovanie bolo dokončené.</string>
+    <string name="uninstall_failed">Odinštalovanie bolo neúspešné.</string>
+    <string name="uninstall_failed_device_policy_manager">Nie je možné odinštalovať, pretože tento balík je aktívnym správcom zariadenia.</string>
+    <string name="manage_device_administrators">Spravovať správcov zariadenia</string>
+    <string name="uninstall_failed_msg">Aplikáciu %1$s sa nepodarilo odinštalovať.</string>
     <string name="Parse_error_dlg_title">Chyba analýzy</string>
-    <string name="Parse_error_dlg_text">Při analýze balíčku došlo k problému.</string>
+    <string name="Parse_error_dlg_text">Pri analýze balíka sa vyskytol problém.</string>
+    <string name="newPerms">Nové</string>
+    <string name="privacyPerms">Ochrana osob. údajov</string>
+    <string name="devicePerms">Prístup k zariadeniu</string>
+    <string name="no_new_perms">Táto aktualizácia nevyžaduje žiadne nové povolenia.</string>
 </resources>
