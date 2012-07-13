@@ -49,14 +49,14 @@
         <item>10</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Jméno</item>
-        <item>Přezdívka</item>
-        <item>Telefon</item>
+        <item>Meno</item>
+        <item>Prezívka</item>
+        <item>Telefón</item>
         <item>E-mail</item>
-        <item>Společnost</item>
+        <item>Spoločnosť</item>
         <item>IM</item>
         <item>SIP Číslo</item>
-        <item>Narozeniny</item>
+        <item>Narodeniny</item>
         <item>WWW</item>
         <item>Adresa</item>
         <item>Poznámka</item>
@@ -79,12 +79,12 @@
         <item>2 sekundy</item>
         <item>3 sekundy</item>
         <item>4 sekundy</item>
-        <item>5 sekund</item>
-        <item>6 sekund</item>
-        <item>7 sekund</item>
-        <item>8 sekund</item>
-        <item>9 sekund</item>
-        <item>10 sekund</item>
+        <item>5 sekúnd</item>
+        <item>6 sekúnd</item>
+        <item>7 sekúnd</item>
+        <item>8 sekúnd</item>
+        <item>9 sekúnd</item>
+        <item>10 sekúnd</item>
         <item>Ostatní...</item>
     </string-array>
     <string-array name="extend_smiley_texts">
