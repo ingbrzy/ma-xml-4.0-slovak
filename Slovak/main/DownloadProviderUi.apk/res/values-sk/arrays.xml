@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="download_filters">
-        <item>Vštko stiahnuté</item>
+        <item>Všetko stiahnuté</item>
         <item>Stiahnuté</item>
         <item>Sťahovanie</item>
     </string-array>
