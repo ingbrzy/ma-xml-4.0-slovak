@@ -978,7 +978,7 @@
     <string name="app_disable_dlg_text">Pokiaľ zakážete integrovanú aplikáciu, môže sa stať, že ostatné aplikácie prestanú fungovať správne.</string>
     <string name="storageuse_settings_title">Využitie úložiska</string>
     <string name="storageuse_settings_summary">Zobraziť aplikáciemi používané miesto</string>
-    <string name="runningservices_settings_title">Spuetenie služby</string>
+    <string name="runningservices_settings_title">Spustené služby</string>
     <string name="runningservices_settings_summary">Umožňuje zobraziť a ovládať aktuálne spustené služby</string>
     <string name="service_restarting">Prebieha reštartovanie</string>
     <string name="cached">Proces na pozadí v medzipamäti</string>
