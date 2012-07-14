@@ -84,7 +84,7 @@
     <string name="forward_prefix">"Fwd: "</string>
     <string name="discard_message">Zrušit</string>
     <string name="discard_message_reason">Zpráva bude zrušena, protože neobsahuje žádné platné příjemce.</string>
-    <string name="has_invalid_recipient">Neplatní příjemci: &lt;%1$s></string>
+    <string name="has_invalid_recipient">Neplatní příjemci: %1$s</string>
     <string name="invalid_destination">Zadali jste neplatnou adresu.</string>
     <string name="service_not_activated">Služba není aktivní ve vaší síti.</string>
     <string name="service_message_not_found">Zpráva není dostupná</string>
