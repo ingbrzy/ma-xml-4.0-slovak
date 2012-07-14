@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="empty" />
-    <string name="carrier_cmcc" formatted="false">%1$s, %2$s, %3$s</string>
+    <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
     <string name="carrier_none_cmcc" formatted="false">%1$s, %2$s</string>
     <string name="mobile_type">2G/3G</string>
-    <string name="wifi_type">"WiFi    "</string>
+    <string name="wifi_type">"Wi-Fi"</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="mobile_traffic">2G/3G: %s</string>
     <string name="wifi_traffic">WiFi: %s</string>
-    <string name="warning_settings_toast" formatted="false">"%1$d%%  %2$dMB"</string>
+    <string name="warning_settings_toast">"%1$d%% %2$dMB"</string>
     <string name="widget_color_exceed_warn">\#F9882C</string>
     <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
     <string name="widget_color_used_all">\#C00203</string>
@@ -84,7 +84,7 @@
     <string name="app_detail_version">Verze: %s</string>
     <string name="app_detail_internet_control_category">Řízení sítě</string>
     <string name="app_detail_internet_background">Připojení k Internetu při běhu na pozadí</string>
-    <string name="app_detail_internet_background_traffic" formatted="false">"V popředí：%1$s     Na pozadí：%2$s"</string>
+    <string name="app_detail_internet_background_traffic">"V popředí：%1$s     Na pozadí：%2$s"</string>
     <string name="stop_app_button">Zavřít</string>
     <string name="detail_app_button">Detaily aplikace</string>
     <string name="plate_traffic_already_used">Využito (%s)</string>
@@ -103,7 +103,7 @@
  Můžete je upravit."</string>
     <string name="dialog_button_adjust">Upravit</string>
     <string name="settings_page_adjust_summary_no_carrier">Operátor nebyl nastaven，Automatické upravování vypnuto</string>
-    <string name="settings_page_traffic_summary" formatted="false">Dostupné: %1$s, Upozornění: %2$s, Od %3$d. dne</string>
+    <string name="settings_page_traffic_summary">Dostupné: %1$s, Upozornění: %2$s, Od %3$d. dne</string>
     <string name="settings_page_traffic_summary_no_settings">Balíček nenastaven, Od %d. dne</string>
     <string name="sync_traffic_ing">Získávám od operátor,prosím čekejte …</string>
     <string name="sync_traffic_success">"Získána data od operátora, provoz upraven"</string>
@@ -121,7 +121,7 @@
     <string name="loading_app">Načítání…</string>
     <string name="cannot_find_sms_cmd">SMS příkaz nelze nalézt</string>
     <string name="sms_template_match_fail">SMS vzor nesouhlasí</string>
-    <string name="traffic_settings_error" formatted="false">Chyba nastavení balíčku. Vámi nastavení datový balíček je %1$s, ale zpráva od operátora udává, že zbývá %2$s.</string>
+    <string name="traffic_settings_error">Chyba nastavení balíčku. Vámi nastavení datový balíček je %1$s, ale zpráva od operátora udává, že zbývá %2$s.</string>
     <string name="app_traffic_detail">" provoz(%s)"</string>
     <string name="sms_match_fail">SMS nesouhlasí</string>
     <string name="pref_network_status_bar">Notifikační lišta</string>
