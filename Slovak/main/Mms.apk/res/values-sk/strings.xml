@@ -245,6 +245,7 @@
   <string name="new_phrase_hint">Zadajte novú frázu</string>
   <string name="nickname_placeholder">Názov</string>
   <string name="no">Zrušiť</string>
+  <string name="no_conversations">Žiadné konverzácie</string> 
   <string name="no_subject">(Bez predmetu)</string>
   <string name="no_subject_view">(Predmet neuvedený)</string>
   <string name="non_english_subject_limit">Maximálne 13 znakov pro ne-anglický predmet</string>
@@ -255,9 +256,15 @@
   <string name="notification_multiple_title">Nové správy</string>
   <string name="open_keyboard_to_compose_message">Otvorte klávesnicu a napíšte správu</string>
   <string name="phrase_confirm_delete_message">Vybrané frázy budú zmazané</string>
+  <string name="phrase_from">Od %1s</string>  
   <string name="phrase_list_title">Fráz</string>
+  <string name="pick_too_many_recipients">Príliš mnoho príjemcov</string> 
   <string name="play">Prehrať</string>
   <string name="prefDefault_ringtone_repeat">1</string>
+  <string name="prefDefault_vibrateWhen">nikdy</string>
+  <string name="prefDefault_vibrate_false">nikdy</string>
+  <string name="prefDefault_vibrate_true">vždy</string>
+  <string name="prefDialogTitle_vibrateWhen">Vibrácie</string>
   <string name="pref_advanced_settings_title">Pokročilé nastavenia</string>
   <string name="pref_conversation_show_avatar">Zobraziť</string>
   <string name="pref_edit_smsc_address">Nastaviť číslo SMS centra</string>
@@ -275,6 +282,7 @@
   <string name="pref_mms_settings_title">Nastavenie správ (MMS)</string>
   <string name="pref_notification_settings_title">Nastavenie oznamovania</string>
   <string name="pref_other_title">Ostatné</string>
+  <string name="pref_sms_settings_title">SMS nastavenia</string> 
   <string name="pref_sms_storage_title">Nastavenie úložiska</string>
   <string name="pref_sms_theme_title">Nastavenie štýlu</string>
   <string name="pref_summary_allow_3rd_mms">Umožní ostatným aplikáciám prístup k správám</string>
