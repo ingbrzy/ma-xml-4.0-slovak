@@ -40,7 +40,7 @@
     <string name="menu_forward">Předat dál</string>
     <string name="download">Stáhnout</string>
     <string name="downloading">Stahování</string>
-    <string name="inline_subject">&lt;Předmět: %s></string>
+    <string name="inline_subject">Předmět: %s</string>
     <string name="drm_protected_text">* DRM chráněný text *</string>
     <string name="insufficient_drm_rights">Nemáte dostatečná práva DRM.</string>
     <string name="copy_message_text">Kopírovat text zprávy</string>
