@@ -460,8 +460,6 @@
   <string name="undelivered_sms_dialog_body">Správu sa nepodarilo odoslať.</string>
   <string name="unknown_sender">Neznámý odosielateľ</string>
   <string name="unsupported_media_format">%1$s je v nepodporovanom formáte</string>
-  <string name="update">Aktualizovať</string>
-  <string name="update_failed">Aktualizáciace zlyhala!</string>
   <string name="view">Zobraziť</string>
   <string name="view_bookmark">Zobraziť pôvodnú správu</string>
   <string name="view_delivery_report">Zobraziť potvrdenie</string>
