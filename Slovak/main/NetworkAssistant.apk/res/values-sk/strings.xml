@@ -2,7 +2,7 @@
 <resources>
     <string name="empty" />
     <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
-    <string name="carrier_none_cmcc" formatted="false">%1$s, %2$s</string>
+    <string name="carrier_none_cmcc">%1$s, %2$s</string>
     <string name="mobile_type">2G/3G</string>
     <string name="wifi_type">"Wi-Fi"</string>
     <string name="process_kernel_label">Android OS</string>
