@@ -6,7 +6,7 @@
         <item quantity="few">%s sekundy</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Konverzácií na vymazanie: %1$s</item>
+        <item quantity="other">Konverzácií na zmazanie: %1$s</item>
         <item quantity="one">Konverzácia bude vymazaná</item>
     </plurals>
     <plurals name="search_results_title">
