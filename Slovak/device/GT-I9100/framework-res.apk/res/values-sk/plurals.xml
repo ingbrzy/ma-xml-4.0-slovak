@@ -76,7 +76,7 @@
         <item quantity="one">Otvoriť dostupnú sieť Wi-Fi</item>
     </plurals>
     <plurals name="matches_found">
-        <item quantity="other">%1$d z %2$d</item>
+        <item quantity="other" formatted="false">%1$d z %2$d</item>
         <item quantity="one">1 zhoda</item>
     </plurals>
 </resources>
