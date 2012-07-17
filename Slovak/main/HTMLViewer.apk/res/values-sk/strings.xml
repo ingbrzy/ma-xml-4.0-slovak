@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_label">Zobrazovač HTML</string>
+<?xml version="1.0" encoding="UTF-8"?>
+<resources><!-- Preklad by ingbrzy:..-->
+    <string name="app_label">Prehliadač HTML</string>
+    <string name="permlab_accessDrm">Prístup k obsahu chráneného DRM.</string>
+    <string name="permdesc_accessDrm">Umožňuje aplikáciám prístup k obsahu chránenému technológiami DRM.</string>
 </resources>
