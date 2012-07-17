@@ -78,15 +78,18 @@
     <string name="bookmarks_management">Záložky</string>	
     <string name="bookmarks_root_folder">Root zložka</string>	
     <string name="bookmarks_search">Prehliadač</string>	
+    <string name="browserFrameFileErrorLabel">Problém so súborom</string>
+    <string name="browserFrameFormResubmitLabel" />
+  	<string name="browserFrameFormResubmitMessage">"Stránka, ktorú sa snažíte zobraziť, obsahuje údaje ktoré už boli odoslané.(\"POSTDATA\"). Ak znovu odošlete údaje, každá akcia, ktorú formulár na 
+		stránke prináša ( hľadanie alebo online nákup ) bude zopakovaná."</string>	
+    <string name="browserFrameNetworkErrorLabel">Problém spojenia</string>
     <string name="browser_bookmarks_page_bookmarks_text">Záložky</string>	
     <string name="browser_history">Naposledy navštívené stránky</string>	
-    <string name="browserFrameFileErrorLabel">Problém so súborom</string>	
-    <string name="browserFrameFormResubmitLabel" />	
-    <string name="browserFrameFormResubmitMessage">"Stránka, ktorú sa snažíte zobraziť, obsahuje údaje ktoré už boli odoslané.(\"POSTDATA\"). Ak znovu odošlete údaje, každá akcia, ktorú formulár na stránke prináša ( hľadanie alebo online nákup ) bude zopakovaná."</string>	
-    <string name="browserFrameNetworkErrorLabel">Problém spojenia</string>	
     <string name="cancel">Zrušiť</string>	
     <string name="cannot_download">Sťahovať možno iba \"http\" alebo \"https\" URL.</string>	
-    <string name="clear">Vyčistiť</string>	
+    <string name="choose_upload">Vyber súbor pre nahranie</string>	
+    <string name="choosertitle_sharevia">Zdielať cez</string>    
+	<string name="clear">Vyčistiť</string>	
     <string name="clear_history">Vymazať históriu</string>	
     <string name="containing_folder">Pridať do</string>	
     <string name="contextheader_folder_bookmarkcount">%d záložky</string>	
@@ -102,13 +105,10 @@
     <string name="contextmenu_openlink_newwindow">Otvoriť na novej karte</string>	
     <string name="contextmenu_openlink_newwindow_background">Otvoriť na novej karte na pozadí</string>	
     <string name="contextmenu_savelink">Uložiť link</string>	
-    <string name="contextmenu_send_mail">Poslať email</string>	
-    <string name="contextmenu_set_wallpaper">Nastaviť ako tapetu</string>	
+  	<string name="contextmenu_send_mail">Poslať e-mail</string>    
+	<string name="contextmenu_set_wallpaper">Nastaviť ako tapetu</string>	
     <string name="contextmenu_sharelink">Zdielať link</string>	
-    <string name="contextmenu_send_mail">Poslať e-mail</string>
-    <string name="contextmenu_set_wallpaper">Nastaviť ako tapetu</string>
-    <string name="contextmenu_sharelink">Zdieľať odkaz</string>    
-	<string name="contextmenu_view_image">Zobraziť obrázok</string>	
+    <string name="contextmenu_view_image">Zobraziť obrázok</string>	
     <string name="copy_page_url">Skopírovať URL stránky</string>	
     <string name="create_shortcut_bookmark">Pridať odkaz na domácu obrazovku</string>	
     <string name="current_page">"od "</string>	
@@ -169,8 +169,6 @@
     <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>	
     <string name="homepage_set">Nastaviť domovskú stránku.</string>	
     <string name="http">http://</string>	
-    <string name="choose_upload">Vyber súbor pre nahranie</string>	
-    <string name="choosertitle_sharevia">Zdielať cez</string>	
     <string name="import_bookmark">Importovať záložky</string>	
     <string name="import_bookmark_failure">Záložky NEBOLI importované!</string>	
     <string name="import_bookmark_sucess">Záložky boli úspešne importované!</string>	
