@@ -37,7 +37,6 @@
     <string name="policy_html_truncation">Obmedziť veľkosť e-mailu vo formáte HTML</string>
  	<string name="policy_max_calendar_age">Obmedziť dátum v kalendári podujatí</string>
     <string name="policy_require_sd_encryption">Vyžadovať šifrovanie kariet SD</string>
-    <string name="policy_dont_allow_attachments">Nepovoliť prílohy</string>
     <string name="policy_max_attachment_size">Obmedziť veľkosť prílohy</string>
     <string name="policy_require_manual_sync_roaming">Povoliť ručnú synchr. len pri roamingu</string>
     <string name="policy_require_encryption">Vyžadovať šifrovanie zariadenia</string>
