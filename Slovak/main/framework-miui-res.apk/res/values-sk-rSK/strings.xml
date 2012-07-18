@@ -347,7 +347,6 @@
   <string name="processing">Spracovávam ...</string>
   <string name="reboot_confirm">Telefón sa reštartuje</string>
   <string name="reboot_progress">Reštartujem...</string>
-  <string name="resourcebrowser_lable">Zdroje</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_apply">Použiť</string>
   <string name="resource_can_not_selected">%1$s nemôže byť zvolené!</string>
