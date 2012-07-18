@@ -110,7 +110,8 @@
     <string name="contextmenu_sharelink">Zdielať link</string>	
     <string name="contextmenu_view_image">Zobraziť obrázok</string>	
     <string name="copy_page_url">Skopírovať URL stránky</string>	
-    <string name="create_shortcut_bookmark">Pridať odkaz na domácu obrazovku</string>	
+	<string name="crash_recovcery_message">Prehliadač sa nečakane ukončil. Chcete obnoviť predchádzajúcu reláciu?</string>
+	<string name="create_shortcut_bookmark">Pridať odkaz na domácu obrazovku</string>	
     <string name="current_page">"od "</string>	
     <string name="defaultBookmarksUpButton">Záložky</string>	
     <string name="delete">Vymazať</string>	
@@ -201,6 +202,7 @@
     <string name="loadSuspendedTitle">Žiadne pripojenie</string>	
     <string name="local_bookmarks">Lokálna</string>	
     <string name="location">Adresa</string>	
+	<string name="manage_feature_permissions">Oprávnenia</string>
     <string name="max_tabs_warning">Ďaľšie karty sú nedostupné</string>	
     <string name="menu_disable_night_mode">Vypnúť nočný mód</string>	
     <string name="menu_enable_night_mode">Zapnúť nočný mód</string>	
@@ -294,12 +296,14 @@
     <string name="pref_extras_title">Rozšírené</string>	
     <string name="pref_extras_website_settings">Nastavenia stránky</string>	
     <string name="pref_extras_website_settings_summary">Rozšírené nastavenia pre individuálne stránky</string>	
+	<string name="pref_fling_on_border_enabled">Presun na okraj</string>
     <string name="pref_fling_on_border_operation">Operácia pre skočenie na okraj</string>	
     <string name="pref_font_size_category">Veľkosť textu</string>	
     <string name="pref_force_userscalable">Vynútiť povolenie priblíženia</string>	
     <string name="pref_force_userscalable_summary">"Ignorovať požiadavku stránky na kontrolu vlastností priblíženia"</string>	
     <string name="pref_general_autofill_title">Automatické vypĺňanie</string>	
-    <string name="pref_general_sync_title">Synchronizácia</string>	
+   	<string name="pref_general_exit_setting_title">Akcia pri ukončení</string>   
+ 	<string name="pref_general_sync_title">Synchronizácia</string>	
     <string name="pref_general_title">Všeobecné</string>	
     <string name="pref_gesture_title">Akcia gesta</string>	
     <string name="pref_inverted">Invertné zobrazovanie</string>	
@@ -363,7 +367,9 @@
     <string name="pref_zoom_on_double_tap">Priblížiť dvojdotykom</string>	
     <string name="preview">Náhľad</string>	
     <string name="progress_dialog_setting_wallpaper"> Nastavovanie tapety…</string>	
-    <string name="reload">Obnoviť</string>	
+	<string name="recover">Obnoviť</string>
+	<string name="recover_from_crash">Pokračovať od poslednej relácie</string>    
+	<string name="reload">Obnoviť</string>	
     <string name="remove">Odstrániť</string>	
     <string name="remove_bookmark">Vymazať záložku</string>	
     <string name="remove_from_bookmarks">Odstrániť zo záložiek</string>	
