@@ -37,11 +37,13 @@
     <string name="download_title_sorted_by_date">Prevzatia – zoradené podľa dátumu</string>	
     <string name="download_title_sorted_by_size">Prevzatia – zoradené podľa veľkosti</string>	
     <string name="download_when_network_connected">Wi-Fi + Mobilné dáta</string>	
-    <string name="downloads_operating">Pracujem...</string>	
+    <string name="downloads_operating">Pracujem...</string>
+	<string name="editmode_menu_delete">Vymazať</string>
+	<string name="editmode_menu_share">Zdieľať</string>	
     <string name="keep_queued_download">Zachovať</string>	
     <string name="menu_enter_edit_mode">Editor</string>	
     <string name="menu_preferences">Nastavenie</string>	
-    <string name="missing_title">&lt;Neznáme></string>	
+    <string name="missing_title">Neznáme</string>	
     <string name="no_downloads">Žiadne preberania</string>	
     <string name="open_download">Otvoriť</string>	
     <string name="pause_download">Pauza</string>	
@@ -58,7 +60,8 @@
     <string name="pref_title_max_bytes_limit">Limit veľkosti súboru</string>	
     <string name="prefDefault_max_bytes_limit">1048576</string>	
     <string name="preferences_title">Nastavenia</string>	
-    <string name="remove_download">Odstrániť</string>	
+    <string name="remove_download">Odstrániť</string>
+	<string name="retry_after_network_available">Prosím, skúste to opäť keď bude dostupná sieť</string>	
     <string name="restart_download">Reštart</string>	
     <string name="resume_download">Obnoviť</string>	
     <string name="retry_download">Skúsiť znova</string>	
