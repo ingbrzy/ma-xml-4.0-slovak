@@ -243,6 +243,7 @@
   <string name="nickname_placeholder">Názov</string>
   <string name="no">Zrušiť</string>
   <string name="no_conversations">Žiadné konverzácie</string> 
+  <string name="no_sim">Žiadne správy SIM karty niesú k dispozícii v cloude.</string>
   <string name="no_subject">(Bez predmetu)</string>
   <string name="no_subject_view">(Predmet neuvedený)</string>
   <string name="non_english_subject_limit">Maximálne 13 znakov pro ne-anglický predmet</string>
