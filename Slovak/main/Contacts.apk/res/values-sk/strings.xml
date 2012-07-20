@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="account_default">Telefón</string>
-    <string name="account_phone"> Iba v telefóne (nesynchronizované)d</string>
+    <string name="account_phone"> Iba v telefóne (nesynchronizované)</string>
     <string name="account_sim"> Iba na SIM karte (nesynchronizované)</string>
     <string name="account_type_format">%1$s kontakt</string>
     <string name="activity_title_contacts_filter">Kontakty na zobrazenie</string>
@@ -24,8 +24,8 @@
     <string name="audio_chat">Audio chat</string>
 	<string name="batch_delete_msg">"Odstrániť %d vybrané kontakty? Kontakty uložené v cloude budú zmazané."</string>  
   	<string name="blurbJoinContactDataWith">Vyberte kontakt s ktorým chcete zlúčiť %s.</string>
-    <string name="caching_vcard_message">Prebieha ukladanie vizitek na dočasné úložisko, samotný import prebehne za okamžik</string>
-    <string name="caching_vcard_title">Ukladanie vizitek na dočasné úložisko</string>
+    <string name="caching_vcard_message">Prebieha ukladanie vizitiek na dočasné úložisko, samotný import prebehne za okamžik</string>
+    <string name="caching_vcard_title">Ukladanie vizitiek na dočasné úložisko</string>
 	<string name="callBack">Spätné volanie</string>
     <string name="callDetailsDurationFormat" formatted="false">%s minút %s sekúnd</string>
     <string name="callDetailTitle">Detaily hovoru</string>    
@@ -81,7 +81,7 @@
     <string name="callrecordview_menu_show">Zobraziť</string>
     <string name="callrecordview_menu_show_accepted">Zobraziť prijaté</string>
     <string name="callrecordview_menu_show_all">Všetky hovory</string>
-    <string name="callrecordview_menu_show_called">Zobrazit volané</string>
+    <string name="callrecordview_menu_show_called">Zobraziť volané</string>
     <string name="callrecordview_menu_show_missed">Zmeškané hovory</string>
     <string name="callrecordview_menu_show_stranger">Neznáme čísla</string>
     <string name="callrecordview_menu_show_title">Výber kategórie</string>
@@ -123,7 +123,7 @@
     <string name="confirm_export_title">Potvrdiť export</string>
     <string name="connections">Prepojenie</string>
     <string name="contact_directory_description">Adresár %1$s</string>
-    <string name="contact_editor_prompt_multiple_accounts">Môžete zosynchronizovať váš nový kontakt s jedným z nasledujúcich účtov. Vybere, ktorý chcete použiť.</string>
+    <string name="contact_editor_prompt_multiple_accounts">Môžete zosynchronizovať váš nový kontakt s jedným z nasledujúcich účtov. Vyberte, ktorý chcete použiť.</string>
     <string name="contact_editor_prompt_one_account">Váš nový kontakt bude synchronizovaný s %1$s.</string>
     <string name="contact_editor_prompt_zero_accounts">Váš nový kontakt nebude zálohovaný. Chcete pridať účet, ktorý zálohuje kontakty online?</string>
     <string name="contact_pick_photo">Fotka</string>
@@ -239,7 +239,7 @@
     <string name="export_to_sdcard">Exportovať na úložisko</string>
     <string name="export_to_sim">Exportovať na SIM kartu</string>
     <string name="export_vcard_description">Exportovať vCard na SD kartu</string>
-    <string name="exporting_contact_failed_message">"Export dát kontaktov sa nepodaril. Příčina chyby: \"%s\""</string>
+    <string name="exporting_contact_failed_message">"Export dát kontaktov sa nepodaril. Príčina chyby: \"%s\""</string>
     <string name="exporting_contact_failed_title">Export dát kontaktov sa nepodaril</string>
     <string name="exporting_contact_list_message">Prebieha export dát kontaktov do súboru %s</string>
     <string name="exporting_contact_list_title">Export dát kontaktov</string>
@@ -286,7 +286,7 @@
     <string name="import_failure_no_vcard_file">Na SD karte nebola nájdená žiadna vizitka</string>
     <string name="import_from_sdcard">Importovať z SD karty</string>
     <string name="import_from_sim">Importovať z karty SIM</string>
-    <string name="import_multiple_vcard_string">Importovať viac vizitek</string>
+    <string name="import_multiple_vcard_string">Importovať viac vizitiek</string>
     <string name="import_one_vcard_string">Importovať vizitku</string>
     <string name="import_to_xiaomi_account_confirm">Kopírovanie</string>
     <string name="import_to_xiaomi_account_progress_finish">Kopírovanie ukončené</string>
@@ -386,7 +386,7 @@
     <string name="nickname_picker_name_column">Meno kontaktu</string>
     <string name="nickname_picker_nickname_column">Titul</string>
     <string name="nicknameLabelsGroup">Meno kontaktu</string>
-	<string name="noAccounts">Aby bylo možné vytvoriť skupiny, musí byť vytvorený účet</string>
+	<string name="noAccounts">Aby bolo možné vytvoriť skupiny, musí byť vytvorený účet</string>
 	<string name="noContactHelpTextAccountsInfo">Synchronizujte Google alebo Exchange kontakty.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví dáta zálohované na účte Xiaomi</string>
     <string name="noContacts">Žiadné kontakty</string>
@@ -470,7 +470,7 @@
     <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informácie z niekoľkých účtov. Informácie z účtu len na čítanie budú v zoznamoch kontaktov skryté, 
 		ale nebudú vymazané.</string>
     <string name="readOnlyContactWarning">Z účtu len na čítanie, nie je možné kontakty zmazať, môžete ich však v zoznamoch kontaktov skryť.</string>
-    <string name="recent_contacts_label">Nedávne</string>
+    <string name="recent_contacts_label">Nedávné</string>
     <string name="recent_updates">Nedávne</string>
     <string name="recentCalls_addToContact">Pridať do kontaktov</string>
     <string name="recentCalls_editNumberBeforeCall">Upraviť číslo pred volaním</string>
@@ -490,7 +490,7 @@
     <string name="scan_duplicate">"Hľadám duplicitné dáta, prosím čakajte... "</string>
     <string name="scan_duplicate_message">Počet duplicitných kontaktov: %1$d</string>
     <string name="scan_merge">Hľadanie možných duplicitných kontaktov, prosím čakajte...</string>
-    <string name="scanning_sdcard_failed_message">Vyhľadávanie na karte SD sa nepodarilo. (Důvod: %s)</string>
+    <string name="scanning_sdcard_failed_message">Vyhľadávanie na karte SD sa nepodarilo. (Dôvod: %s)</string>
     <string name="scanning_sdcard_failed_title">Vyhľadávanie na karte SD sa nepodarilo</string>
     <string name="search_bar_hint">Vyhľadať kontakty</string>
     <string name="search_results_searching">Vyhľadávanie...</string>

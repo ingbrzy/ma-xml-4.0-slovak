@@ -4,7 +4,7 @@
   <string name="account_banner">Prihlásenie k účtu Xiaomi, užite si MIUI a MiTalk</string>
   <string name="account_deleted">Účet odstránený</string>
   <string name="account_disabled">Účet blokovaný</string>
-  <string name="account_expired_dialog_message">Prihlásenie k účtu Xiaomi vypršalo, přihlaste se znovu prosím</string>
+  <string name="account_expired_dialog_message">Prihlásenie k účtu Xiaomi vypršalo, prihláste se znovu prosím</string>
   <string name="account_expired_dialog_title">Prihlásenie vypršalo</string>
   <string name="account_hint_text">Vložte svoj účet</string>
   <string name="app_name">Xiaomi (MIUI) Správca účtu</string> 
@@ -45,7 +45,7 @@
   <string name="mobile_hint_text">Prosím vložte platné telefónne číslo</string>
   <string name="must_input">Povinné pole</string>
   <string name="my_account">Môj profil MIUI</string>
-  <string name="network_error">Chyba pripojenia k sieti, prosím zkontrolujte, či sú data aktívne</string>
+  <string name="network_error">Chyba pripojenia k sieti, prosím skontrolujte, či sú data aktívne</string>
   <string name="new_account">Vytvoriť účet</string>
   <string name="next">Ďalšie</string>
   <string name="nickname">Meno/Prezývka:</string>

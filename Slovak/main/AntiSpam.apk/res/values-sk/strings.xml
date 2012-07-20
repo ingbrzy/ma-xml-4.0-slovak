@@ -34,7 +34,7 @@
     <string name="calllog">Log hovorov</string>
     <string name="cancel_button">Zrušiť</string>
     <string name="check_all">Vybrať všetko</string>
-    <string name="check_nothing">Odznažiť všetko</string>   
+    <string name="check_nothing">Odznačiť všetko</string>   
     <string name="clear_all_calllog">Zmazať log hovorov</string>
     <string name="clear_all_mslog">Zmazať log správ</string>
     <string name="close_rule">Zrušiť všetky pravidlá</string>

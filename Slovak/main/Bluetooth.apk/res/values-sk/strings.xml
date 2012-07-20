@@ -79,7 +79,7 @@ Prijať súbor?"</string>
     <string name="outbound_history_title">Odchádzajúce prenosy</string>
     <string name="outbound_noti_title">Bluetooth zdieľanie: Posielanie súborov</string>
     <string name="pbap_acceptance_timeout_message">Bolo zistené oneskorenie pri prijatí spojenia s %1$s</string>
-    <string name="pbap_authentication_timeout_message">Bylo zistené oneskorenie pri zadávaní kľúča k spárovaniu s %1$s</string>
+    <string name="pbap_authentication_timeout_message">Bolo zistené oneskorenie pri zadávaní kľúča k spárovaniu s %1$s</string>
     <string name="pbap_session_key_dialog_header">Je požadovaný kľúč k spárovaniu</string>
     <string name="pbap_session_key_dialog_title">Vložte kľúč spárovania pre %1$s</string>
 	<string name="permdesc_bluetoothShareManager">Povoliť aplikácii prístup k BluetoothShare správcovi a použiť ju k prenosu súborov.</string>   
@@ -94,8 +94,8 @@ Prijať súbor?"</string>
     <string name="status_no_sd_card">Žiadna SD karta. Vložte SD kartu.</string>
     <string name="status_not_accept">Telefón nemôže rozoznať tento typ súboru</string>
     <string name="status_pending">Prenos súboru nebol doposiaľ spustený</string>
-    <string name="status_protocol_error">Žiadosť nemôže byť správne rozoznaná</string>
-    <string name="status_running">Prenos súborů prebieha</string>
+    <string name="status_protocol_error">Žiadosť nemôže byť správne rozpoznaná</string>
+    <string name="status_running">Prenos súborov prebieha</string>
     <string name="status_success">Prenos súboru bol úspešne dokončený</string>
     <string name="status_unknown_error">Neznáma chyba</string>
     <string name="transfer_clear_dlg_msg">Všetky položky budú zmazané zo zoznamu.</string>

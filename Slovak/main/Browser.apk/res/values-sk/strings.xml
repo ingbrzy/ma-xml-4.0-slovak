@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_button_addbookmark">Pridať stránku medzi záložky</string>	
     <string name="accessibility_button_back">Späť</string>	
@@ -70,7 +70,7 @@
     <string name="bookmark_page">Uložiť poslednú prezeranú stránku medzi záložky.</string>	
     <string name="bookmark_saved">Uložené medzi záložky.</string>	
     <string name="bookmark_this_page">Pridať túto stránku do záložiek</string>	
-    <string name="bookmark_thumbnail_view">Thumbnails</string>	
+    <string name="bookmark_thumbnail_view">Náhľady</string>	
     <string name="bookmark_title">Označenie</string>	
     <string name="bookmark_url">Url</string>	
     <string name="bookmark_url_not_valid">"Táto URL nie je platná."</string>	
@@ -187,7 +187,7 @@
     <string name="import_bookmarks_wizard_done">Dokončiť</string>	
     <string name="import_bookmarks_wizard_next">Ďalej</string>	
     <string name="import_bookmarks_wizard_previous">Späť</string>	
-    <string name="importing_favorite_files">Importovaie údajov ...</string>	
+    <string name="importing_favorite_files">Importovanie údajov ...</string>	
     <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>	
     <string name="instant_search_label">Google s Instant (Labs)</string>	
 	<string name="is_first_history_item">Prvý záznam v histórii</string>
@@ -203,7 +203,7 @@
     <string name="local_bookmarks">Lokálna</string>	
     <string name="location">Adresa</string>	
 	<string name="manage_feature_permissions">Oprávnenia</string>
-    <string name="max_tabs_warning">Ďaľšie karty sú nedostupné</string>	
+    <string name="max_tabs_warning">Ďalšie karty sú nedostupné</string>	
     <string name="menu_disable_night_mode">Vypnúť nočný mód</string>	
     <string name="menu_enable_night_mode">Zapnúť nočný mód</string>	
     <string name="menu_exit">Ukončiť</string>	
@@ -236,10 +236,10 @@
     <string name="pref_accessibility_title">Prístupnosť</string>	
     <string name="pref_autofill_enabled">Automatické vypĺňanie formulárov</string>	
     <string name="pref_autofill_enabled_summary">Vypĺňanie formulárov jedným dotykom</string>	
-    <string name="pref_autofill_profile_editor">Automatické vpĺňanie textu</string>	
-    <string name="pref_autofill_profile_editor_summary">Nastaviť automatické vpĺňanie textu vo formulároch</string>	
+    <string name="pref_autofill_profile_editor">Automatické vypĺňanie textu</string>	
+    <string name="pref_autofill_profile_editor_summary">Nastaviť automatické vypĺňanie textu vo formulároch</string>	
     <string name="pref_autologin_progress">Prihlasovanie na stránky Google cez %s</string>	
-    <string name="pref_autologin_title">Automatické prihlasenie do Google</string>	
+    <string name="pref_autologin_title">Automatické prihlásenie do Google</string>	
     <string name="pref_clear_cache_for_exit">Vymazať vyrovnávaciu pamäť pri ukončení</string>
 	<string name="pref_clear_history_for_exit">Vymazať históriu pri ukončení</string>
 	<string name="pref_confirm_for_exit">Potvrdiť pri ukončení</string> 
@@ -305,7 +305,7 @@
    	<string name="pref_general_exit_setting_title">Akcia pri ukončení</string>   
  	<string name="pref_general_sync_title">Synchronizácia</string>	
     <string name="pref_general_title">Všeobecné</string>	
-    <string name="pref_gesture_title">Akcia gesta</string>	
+    <string name="pref_gesture_title">Akcia gestá</string>	
     <string name="pref_inverted">Invertné zobrazovanie</string>	
     <string name="pref_inverted_category">Invertné zobrazovanie obrazovky</string>	
     <string name="pref_inverted_contrast">Kontrast</string>	
@@ -322,7 +322,7 @@
     <string name="pref_privacy_clear_cache">Vymazať cache</string>	
     <string name="pref_privacy_clear_cache_dlg">Vymazať lokálnu cache obsahu a databáz?</string>	
     <string name="pref_privacy_clear_cache_summary">Vyčistiť lokálnu cache obsahu a databáz.</string>	
-    <string name="pref_privacy_clear_cookies">Vymyzať všetky údaje cookies</string>	
+    <string name="pref_privacy_clear_cookies">Vymazať všetky údaje cookies</string>	
     <string name="pref_privacy_clear_cookies_dlg">Vymazať všetky cookies?</string>	
     <string name="pref_privacy_clear_cookies_summary">Vyčistiť všetky cookies prehliadača</string>	
     <string name="pref_privacy_clear_form_data">Vymazať údaje formulára</string>	
@@ -349,7 +349,7 @@
     <string name="pref_security_accept_cookies_summary">Povoliť stránkam ukladať a čítať údaje cookies</string>	
     <string name="pref_security_passwords_title">Heslá</string>	
     <string name="pref_security_remember_passwords">Zapamätať heslá</string>	
-    <string name="pref_security_remember_passwords_summary">Uložit užívateľské mená a heslá</string>	
+    <string name="pref_security_remember_passwords_summary">Uložiť užívateľské mená a heslá</string>	
     <string name="pref_security_save_form_data">Zapamätať údaje formulára</string>	
     <string name="pref_security_save_form_data_summary">Zapamätať údaje ktoré vkladám do formulárov pre neskoršie použitie</string>	
     <string name="pref_security_show_security_warning">Zobraziť bezpečnostné výstrahy</string>	

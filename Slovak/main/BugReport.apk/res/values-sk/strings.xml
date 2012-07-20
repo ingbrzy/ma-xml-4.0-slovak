@@ -12,7 +12,7 @@
     <string name="privacy_system_log">Zahrnúť systémové dáta</string>
     <string name="privacy_system_log_desc">Odošlite systémové dáta do MIUI pre lepšiu diagnózu problému</string>
     <string name="privacy_screenshot">Zahrnúť snímku obrazovky</string>
-    <string name="privacy_screenshot_desc">Odoslať vybratú snímku obrazovky</string>
+    <string name="privacy_screenshot_desc">Odoslať vybranú snímku obrazovky</string>
     <string name="privacy_bugreport">Zahrnúť chybové hlásenie</string>
     <string name="privacy_bugreport_desc">Odošlite detailné chybové hlásenie do MIUI pre vyriešenie hardvérových problémov</string>
     <string name="msg_generate_bugreport">Vytváranie hlásenie o chybách ...</string>

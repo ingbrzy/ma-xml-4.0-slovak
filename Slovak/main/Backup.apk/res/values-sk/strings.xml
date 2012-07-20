@@ -34,7 +34,7 @@ Zvolená záloha bude odstránená. Naozaj chcete pokračovať?"</string>
 	<string name="restore_progress">Obnovujem..</string>
 	<string name="restore_contacts_hit">(Poznámka: Kontakt musí existovať, aby k nemu mohli byť obnovené všetky údaje)</string>	
     <string name="restore_telephony_hit">(Poznámka: Proces obnovy systému bude potrebovať reštart telefónu)</string>
-	<string name="restore_launcher_layout_hit">(Poznámka: Aplikácie, ktoré nie sú nainštalované zanechajý prázdné ikony. Ikony odstraníte pretiahnutím do koša)</string>
+	<string name="restore_launcher_layout_hit">(Poznámka: Aplikácie, ktoré nie sú nainštalované zanechajú prázdne ikony. Ikony odstráníte pretiahnutím do koša)</string>
 	<string name="settings_summary">(Základné nastavenia a všetko súvisiace)</string>
 	<string name="account_summary">Zálohovanie Gmailu, Emailu a účtu Xiaomi</string> 
 	<string name="cloud_app_name">Online zálohovanie</string>
@@ -65,7 +65,7 @@ Zvolená záloha bude odstránená. Naozaj chcete pokračovať?"</string>
     <string name="mms_title">Multimediálne správy</string>
 	<string name="wifi_title">Wi-Fi nastavenie</string>
 	<string name="note_title">Poznámky</string>
-	<string name="compute_backup_info">Info o zálohovaní</string>
+	<string name="compute_backup_info">Info o zálohovani</string>
     <string name="compute_delete_contact_info">Zmazať informácie o kontaktoch</string>
 	<string name="unknown_hint">Neznámy</string>
 	<string name="task_progress">Priebeh</string>
@@ -78,7 +78,7 @@ Zvolená záloha bude odstránená. Naozaj chcete pokračovať?"</string>
 	<string name="task_canceled_local">%1$s úloh(a) zrušená(ých)</string>
     <string name="task_canceled_all_local">Zrušiť všetky úlohy</string>
 	<string name="task_failed_local">Zlyhalo zálohovanie %1$s úloh(y)</string>
-    <string name="task_failed_all_local">Zálohovaní zlyhalo</string>
+    <string name="task_failed_all_local">Zálohovanie zlyhalo</string>
 	<string name="task_backup_finished_local">Zálohovanie dokončené</string>
 	<string name="task_restore_finished_local">Obnovenie dokončené</string>
     <string name="task_restore_none">Obnovenie nie je potrebné</string> 
@@ -89,7 +89,7 @@ Zvolená záloha bude odstránená. Naozaj chcete pokračovať?"</string>
     <string name="data_no_enough_space_message">Obnovenie môže zlyhať, uvoľnite miesto vo vnútornej pamäti a akciu opakujte</string>
 	<string name="task_running_hint">Služba už beží na pozadí, skúste obnovu neskôr!</string>
     <string name="task_running_dialog">Zálohovanie a obnova dát na pozadí prebieha, pre zobrazenie stlačte ANO!</string>    
-    <string name="task_service_not_launched">Zálohovanie nie je spustené, čakejte prosím!</string>
+    <string name="task_service_not_launched">Zálohovanie nie je spustené, čakajte prosím!</string>
 	<string name="task_local_backup_cancel_dialog">"Záloha nie je kompletná.
 Kliknite na OK pre zrušenie zálohy"</string>
 	<string name="task_cloud_backup_cancel_dialog">"Zálohovanie nebolo dokončené.
@@ -136,7 +136,7 @@ Prerušenie môže viesť k poškodeniu dát"</string>
 	<string name="restore">Obnovenie</string>
 	<string name="cloud_last_backup">Posledná záloha:</string>
 	<string name="cloud_search">Hľadanie..</string>
-	<string name="cloud_no_backup">Žiadná záloha</string>
+	<string name="cloud_no_backup">Žiadna záloha</string>
 	<string name="current_account">Súčasný účet:%s</string>
     <string name="current_sim">Súčasná SIM</string>
 	<string name="date_format">yyyy MM dd HH:mm:ss</string>
@@ -166,7 +166,7 @@ Overte prosím pripojenie a skúste to znova"</string>
     <string name="auto_backup_interval_max">30 Dní</string>
     <string name="auto_backup_interval_min">Denne</string>  
     <string name="auto_backup_setting_title">Nastavenia pre automatické zálohovanie</string>
-    <string name="data_no_enough_space_warning">V úložisku je len 30Mb voľného miesta, obnova môže zlyhat, pokračovať?</string>
+    <string name="data_no_enough_space_warning">V úložisku je len 30Mb voľného miesta, obnova môže zlyhať, pokračovať?</string>
     <string name="delete_backup">Zmazať zálohu</string> 
     <string name="sdcard_no_enough_space_warning">Na SD karte je približne 50MB voľného miesta, záloha sa nemusí podariť, pokračovať?</string>    
 </resources>

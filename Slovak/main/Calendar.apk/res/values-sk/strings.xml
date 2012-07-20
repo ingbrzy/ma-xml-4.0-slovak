@@ -27,7 +27,7 @@
   	<string name="app_label">Kalendár</string> 
   	<string name="attendees_label">Hostia</string>
     <string name="birthday_calendar_display_name">Upozornenie na narodeniny</string>
-    <string name="birthday_event_description">"Dnes má narodeniny %1$s's !"</string>
+    <string name="birthday_event_description">"Dnes má narodeniny %1$s !"</string>
 	<string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
@@ -120,7 +120,7 @@
     <string name="preferences_clear_search_history_summary">Odstrániť všetky vyhľadávania</string>
     <string name="preferences_clear_search_history_title">Vymazať históriu vyhľadávania</string>
    	<string name="preferences_default_reminder_default">10</string>
-    <string name="preferences_default_reminder_dialog">VPredvolený čas upozornenia</string>
+    <string name="preferences_default_reminder_dialog">Predvolený čas upozornenia</string>
     <string name="preferences_default_reminder_title">Predvolený čas upozornenia</string>
     <string name="preferences_general_title">Nastavenia zobrazenia kalendára</string>
     <string name="preferences_hide_declined_title">Skryť odmietnuté udalosti</string>
@@ -142,10 +142,10 @@
     <string name="response_no">Nie</string>
     <string name="response_yes">Áno</string>
     <string name="save_label">Uložiť</string>
-    <string name="saving_event">Udalosť bola uložena.</string>
+    <string name="saving_event">Udalosť bola uložená.</string>
     <string name="saving_event_with_guest">Aktualizácie boli odoslané.</string>
     <string name="search">Hľadať</string>
-    <string name="search_history_cleared">História vyhľadávaní vymazaná.</string>
+    <string name="search_history_cleared">História vyhľadávania vymazaná.</string>
     <string name="search_title">Vyhľadať v mojich kalendároch</string>
     <string name="select_synced_calendars_button">Kalendáre, ktoré sa majú synchronizovať</string>
     <string name="select_synced_calendars_title">Kalendáre, ktoré sa majú synchronizovať</string>

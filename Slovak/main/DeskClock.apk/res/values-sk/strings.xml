@@ -57,7 +57,7 @@
 	<string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
     <string name="gallery_button_description">Galéria</string>
     <string name="hide_clock">Skryť hodiny</string>
-    <string name="home_button_description">Spopúšťač</string>
+    <string name="home_button_description">Spúšťač</string>
     <string name="hour">1 hodina</string>
     <string name="hours">%s hodín</string>
     <string name="keep_screen_on">Ponechať zapnutý display</string>
@@ -101,11 +101,11 @@
     <string name="timer_tutorial">Posunutím nastavte</string>
     <string name="timezone_exist_error_message">Časovú zónu nieje možné pridať, lebo už existuje.</string>
     <string name="timezone_search_hint">Vyhľadejte mesto pre pridanie svetových hodín</string>
-    <string name="volume_button_dialog_title">Funkcie tlačítok</string>
-    <string name="volume_button_setting_summary">Nastavte funkciu týchto tlačítok, pokiaľ sú stlačená behom vyzváňania budíka.</string>
+    <string name="volume_button_dialog_title">Funkcie tlačidiel</string>
+    <string name="volume_button_setting_summary">Nastavte funkciu týchto tlačidiel, pokiaľ sú stlačená behom vyzváňania budíka.</string>
     <string name="volume_button_setting_title">Tlačítka hlasitosti</string>
-    <string name="wait_when_operating_data_message">Spracovávam dáta, prosím čakejte.</string>
-    <string name="weather_fetch_failure">"Informácie o počasí niesú momentálne k dispozícií."</string>
+    <string name="wait_when_operating_data_message">Spracovávam dáta, prosím čakajte.</string>
+    <string name="weather_fetch_failure">"Informácie o počasí niesu momentálne k dispozícií."</string>
     <string name="worldclock_empty_text">Žiadné svetové hodiny</string>
     <string name="worldclock_title">Svetové hodiny</string>
 </resources>
