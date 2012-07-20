@@ -15,11 +15,11 @@
     <string name="access_control_need_to_unlock">Pre odomknutie požadované heslo</string>	
     <string name="access_control_no_back_footer">Stlačte [ikonu] pre ukončenie</string>	
     <string name="access_control_password_title">Povoliť heslo</string>	
-    <string name="access_control_recording_intro_header">Nakreslite odomkýňaciu kombináciu</string>	
-    <string name="accessibility_long_press_timeout_title">Oneskorenie dotyku a podržania</string>	
+    <string name="access_control_recording_intro_header">Nakreslite odomykaciu kombináciu</string>	
+    <string name="accessibility_long_press_timeout_title">Oneskorenie dotyku a podŕžania</string>	
     <string name="accessibility_menu_item_settings">Nastavenie</string>	
     <string name="accessibility_menu_item_tutorial">Výukový program</string>	
-    <string name="accessibility_no_services_installed">Žiadná služba nieje nainštalovaná</string>	
+    <string name="accessibility_no_services_installed">Žiadna služba nieje nainštalovaná</string>	
     <string name="accessibility_power_button_ends_call_title">Tlač. zapínania ukončí hovor</string>	
     <string name="accessibility_script_injection_allowed">Povolené</string>	
     <string name="accessibility_script_injection_button_allow">Povoliť</string>	
@@ -54,7 +54,7 @@
     <string name="accessibility_tutorial_back">Späť</string>	
     <string name="accessibility_tutorial_finish">Dokončiť</string>	
     <string name="accessibility_tutorial_lesson_1_text_1">Akonáhle zapnete funkciu Prieskum dotykom, môžete dotykom obrazovky zistiť, čo sa nachádza pod prstom. Príklad: Aktuálna obrazovka obsahuje ikony aplikacií. Dotknete sa obrazovky a posúvajte prstom, pokiaľ niektorú z nich nenájdete.</string>	
-    <string name="accessibility_tutorial_lesson_1_text_2_more">Dobre, prechádzajte prstom po obrazovke, pokiaľ nenájdete eště aspoň jednu ikonu.</string>	
+    <string name="accessibility_tutorial_lesson_1_text_2_more">Dobre, prechádzajte prstom po obrazovke, pokiaľ nenájdete ešte aspoň jednu ikonu.</string>	
     <string name="accessibility_tutorial_lesson_1_text_3">Ak chcete aktivovať položku, ktorej se dotýkate, ťuknite na ňu. Prechádzajte prstom, až nájdete ikonu aplikácií %s. Potom ikonu aktivujte jedným ťuknutím.</string>	
     <string name="accessibility_tutorial_lesson_1_text_4">Prst se nachádza na ikone aplikácie %s. Ikonu aktivujete jedným ťuknutím.</string>	
     <string name="accessibility_tutorial_lesson_1_text_4_exited">Ak ste presunuli prst na ikonu aplikácie %s, ale potom ste ho z ikony presunuli preč, pomaly prechádzajte prstom po obrazovke, pokiaľ znova nenájdete ikonu prehliadača.</string>	
@@ -82,14 +82,14 @@
     <string name="additional_system_update" />	
     <string name="additional_system_update_menu" />	
     <string name="additional_system_update_settings_list_item_title">Ďalšia aktualizácia systému</string>	
-    <string name="advanced_settings">Upresnit nastavenie</string>	
+    <string name="advanced_settings">Upresniť nastavenie</string>	
     <string name="advanced_settings_summary">Povoliť ďalšie možnosti nastavení</string>	
     <string name="airplane_mode">Režim V lietadle</string>	
     <string name="alarm_volume_title">Budík</string>	
     <string name="all_volume_title">Hlasitosť</string>	
     <string name="allow_mock_location">Povoliť simulovanie polohy</string>	
     <string name="allow_mock_location_summary">Povoliť simulovanie polohy</string>	
-    <string name="android_beam_disabled_summary">Není k dispozici, protože je vypnuta funkce NFC</string>	
+    <string name="android_beam_disabled_summary">Nieje k dispozícií, protože je vypnuta funkce NFC</string>	
     <string name="android_beam_explained">"Pokud je funkce zapnuta, můžete přenášet obsah aplikace do jiného zařízení s funkcí NFC tím, že podržíte zařízení blízko sebe. Můžete například přenášet stránky prohlížeče, videa YouTube, kontakty a další. Přiložte zařízení k sobě (zpravidla zadní stranou) a dotkněte se obrazovky. Aplikace určí, jaký obsah se bude přenášet."</string>	
     <string name="android_beam_label">Android Beam</string>	
     <string name="android_beam_off_summary">Vypnuto</string>	
@@ -118,7 +118,7 @@
     <string name="apn_protocol">Protokol APN</string>	
     <string name="apn_roaming_protocol">Protokol APN pre roaming</string>	
     <string name="apn_save">Uložiť, alebo nie</string>	
-    <string name="apn_save_msg">Táto APN bola zmenená, chcete uložit?</string>	
+    <string name="apn_save_msg">Táto APN bola zmenená, chcete uložiť?</string>	
     <string name="apn_server">Server</string>	
     <string name="apn_settings">Názvy AP</string>	
     <string name="apn_type">Typ názvu AP</string>	
@@ -579,7 +579,7 @@
     <string name="device_info_label">Info o zariadení</string>	
     <string name="device_info_not_available">Nedostupný</string>	
     <string name="device_info_settings">Stav telefónu</string>	
-    <string name="device_internal_memory">Interná pameť:</string>	
+    <string name="device_internal_memory">Interná pamäť:</string>	
     <string name="device_memory">RAM:</string>	
     <string name="device_picker">Výber zariadenia Bluetooth</string>	
     <string name="device_sd_memory">SD karta:</string>	
@@ -594,7 +594,7 @@
     <string name="disconnect">Odpojiť</string>	
     <string name="display_font_size_label">Veľkosť písma:</string>	
     <string name="display_label">Obrazovka</string>	
-    <string name="display_order_text">Radit podľa:</string>	
+    <string name="display_order_text">Radiť podľa:</string>	
     <string name="display_preview_label">Náhľad:</string>	
     <string name="display_settings">Obraz</string>	
     <string name="display_settings_title">Zobrazenie</string>	
