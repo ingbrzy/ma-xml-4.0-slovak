@@ -145,7 +145,7 @@
     <string name="account_setup_options_mail_window_1day">Jeden deň</string>
     <string name="account_setup_options_mail_window_1month">Jeden mesiac</string>
     <string name="account_setup_options_mail_window_1week">Týždeň</string>
-    <string name="account_setup_options_mail_window_2weeks">Dva týdny</string>
+    <string name="account_setup_options_mail_window_2weeks">Dva týždne</string>
     <string name="account_setup_options_mail_window_3days">Tri dni</string>
     <string name="account_setup_options_mail_window_all">Všetky</string>
     <string name="account_setup_options_mail_window_auto">Automaticky</string>

@@ -2,9 +2,9 @@
 <resources>
     <string name="app_label">Správca preberania</string>
     <string name="permlab_downloadManager">Získať prístup k správcovi preberania.</string>
-    <string name="permdesc_downloadManager">Umožňuje aplikácii pristupovať k správcovi preberania a použiť ho na preberanie súborov. Škodlivé aplikácie to môžu využiť a narušiť preberanie alebo získať prístup k súkromným informáciám.</string>
+    <string name="permdesc_downloadManager">Umožňuje aplikácii pristupovať k správcovi preberania a použiť ho na preberanie súborov. Škodlivé aplikácie to môžu využiť a narušiť preberanie alebo získať prístup k súkromným informáciam.</string>
     <string name="permlab_downloadManagerAdvanced">Rozšírené funkcie správcu preberania.</string>
-    <string name="permdesc_downloadManagerAdvanced">Umožňuje aplikácii pristupovať k rozšíreným funkciám správcu preberania. Škodlivé aplikácie to môžu využiť a narušiť preberanie alebo získať prístup k súkromným informáciám.</string>
+    <string name="permdesc_downloadManagerAdvanced">Umožňuje aplikácii pristupovať k rozšíreným funkciam správcu preberania. Škodlivé aplikácie to môžu využiť a narušiť preberanie alebo získať prístup k súkromným informáciam.</string>
     <string name="permlab_downloadCompletedIntent">Odoslať upozornenie o prevzatí.</string>
     <string name="permdesc_downloadCompletedIntent">Umožňuje aplikácii odosielať upozornenia na dokončenie preberania. Škodlivé aplikácie môžu pomocou tohto nastavenia zmiasť iné aplikácie, ktoré preberajú súbory.</string>
     <string name="permlab_seeAllExternal">Zobr. preber. do ukl. priestoru USB</string>
