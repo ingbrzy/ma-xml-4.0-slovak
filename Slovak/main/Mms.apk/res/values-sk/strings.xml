@@ -290,7 +290,6 @@
   <string name="pref_summary_delivery_reports">Požadovať oznámenie o doručení správy</string>
   <string name="pref_summary_filter_phone">Ponúkať iba kontakty s tel. číslom</string>
   <string name="pref_summary_hide_festival">Skryť kartu odporúčaní pre iný ako čínsky jazyk</string> 
-  <string name="pref_summary_manage_ruim_messages">Spravovanie správ uložených na karte RUIM</string>  
   <string name="pref_summary_manage_sim_messages">Spravovanie správ uložených na SIM karte</string>
   <string name="pref_summary_mms_auto_retrieval">Automaticky načítať správy</string>
   <string name="pref_summary_mms_delivery_reports">Vyžadovať potvrdenie o doručení pre každú odoslanú správu</string>  
@@ -320,7 +319,6 @@
   <string name="pref_title_delivery_ringtone">Zvuk doručenky</string>
   <string name="pref_title_filter_phone">Filtrovať čísla</string>
   <string name="pref_title_hide_festival">Skryť kartu Odporúčaných</string>
-  <string name="pref_title_manage_ruim_messages">Spravovanie Správ na karte RUIM</string>  
   <string name="pref_title_manage_sim_messages">Spravovanie Správ na karte SIM</string>
   <string name="pref_title_mms_auto_retrieval">Načítať správy</string>
   <string name="pref_title_mms_delete">Limit MMS správ</string>
@@ -411,7 +409,6 @@
   <string name="slideshow_activity">Prezentácia</string>
   <string name="sms_full_body">Prichádzajúca správa bola odmietnutá z dôvodu plnej pamäte. Odstráňte prosím staré správy.</string>
   <string name="sms_full_title">Textové správy majú už plnú pamäť</string>
-  <string name="sms_match_fail">Failed to match SMS</string> 
   <string name="sms_rejected_body">Prichádzajúca správa bola odmietnutá z neznámeho dôvodu.</string>
   <string name="sms_rejected_title">Textová správa odmietnutá</string>
   <string name="status_failed">Neúspešný</string>
