@@ -47,5 +47,5 @@
     <string name="dialog_send">Odoslať</string>
     <string name="dialog_delete">Vymazať</string>
     <string name="dialog_warning">Upozornenie</string>
-    <string name="alert_message_delete_record">Skutočne chcete vymazať vybrany záznam?</string>
+    <string name="alert_message_delete_record">Skutočne chcete vymazať vybraný záznam?</string>
 </resources>
