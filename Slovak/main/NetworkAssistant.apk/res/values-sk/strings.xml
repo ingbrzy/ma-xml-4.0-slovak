@@ -16,7 +16,7 @@
     <string name="app_detail_version">Verzia: %s</string>	
     <string name="app_name">Monitoring siete</string>	
     <string name="app_traffic_detail">" prevádzka(%s)"</string>	
-    <string name="apply_rules_failed">"Nepodarilo sa použíť bránu firewall, prosím skúste znovu.
+    <string name="apply_rules_failed">"Nepodarilo sa použit bránu firewall, prosím skúste znovu.
 (%s)"</string>	
     <string name="apply_rules_failed_known">OK</string>	
     <string name="batch_connect_control">Dávkové riadenie sietí</string>	
@@ -29,10 +29,10 @@
     <string name="carrier_query_number_location">Attribution</string>	
     <string name="carrier_query_number_title">Nastavenie operátorov</string>	
     <string name="close_txt">Zavrieť</string>	
-    <string name="control_app_internet">Ríadenie využitia siete</string>	
+    <string name="control_app_internet">Riadenie využitia siete</string>	
     <string name="current_warning_value">Varovná hodnota %s</string>	
     <string name="daily_limit_dialog_disconnect_hint">Odpojiť internet pri prekročení limitu</string>	
-    <string name="daily_limit_dialog_hint">Denný limit dát (prázdné alebo 0 znamená bez obmedzení)</string>	
+    <string name="daily_limit_dialog_hint">Denný limit dát (prázdne alebo 0 znamená bez obmedzení)</string>	
     <string name="daily_limit_result">Upozorniť ma a odpojiť internet, ak denná prevádzka prekročí %dM. Zapnuté</string>	
     <string name="daily_limit_result_no_disconnect">Upozorniť ma, ak denná prevádzka prekročí %dM. Zapnuté</string>	
     <string name="daily_limit_result_no_limit">Upozorniť ma, ak denná prevádzka prekročí limit. Vypnuté</string>	
@@ -49,7 +49,7 @@
 Môžte ich upraviť."</string>	
     <string name="finish_traffic_settings_title">Upraviť dáta</string>	
     <string name="fire_rule_program_list">Zoznam aplikácií</string>	
-	<string name="force_stop_dlg_text">Ak násilne ukončite aplikáciu, môže sa správat chybovo.</string>
+	<string name="force_stop_dlg_text">Ak násilne ukončite aplikáciu, môže sa správať chybovo.</string>
 	<string name="force_stop_dlg_title">Násilne ukončiť?</string>
     <string name="i_known_button">OK</string>	
     <string name="input_hint">Prosím zadajte</string>	
@@ -58,7 +58,7 @@ Môžte ich upraviť."</string>
     <string name="manual_input_used_traffic_title">Vložiť ručne využité dáta</string>	
     <string name="menu_display_system_app">Zobraziť systémové aplikácie</string>	
     <string name="menu_display_wifi">Zobrazovať WiFi prevádzku</string>	
-    <string name="menu_hide_system_app">Skrýť systémové aplikácie</string>	
+    <string name="menu_hide_system_app">Skryt systémové aplikácie</string>	
     <string name="menu_hide_wifi">Nezobrazovať WiFi prevádzku</string>	
     <string name="menu_new_install_app_settings">Východzie nastavenie pre nové inštalované aplikácie</string>	
     <string name="menu_refresh">Obnoviť</string>	
@@ -68,7 +68,7 @@ Môžte ich upraviť."</string>
     <string name="menu_traffic_settings">Nastavenie balíčku dát</string>	
     <string name="mobile_traffic">2G/3G: %s</string>	
     <string name="mobile_type">2G/3G</string>	
-    <string name="month_traffic_settings_title">Nastavenie mesačnáho limitu</string>	
+    <string name="month_traffic_settings_title">Nastavenie mesačného limitu</string>	
     <string name="plate_traffic_already_used">Využité (%s)</string>	
     <string name="plate_traffic_exceed">Prekročenie (%s)</string>	
     <string name="plate_traffic_remain">Ostáva (%s)</string>	
@@ -84,7 +84,7 @@ Môžte ich upraviť."</string>
     <string name="pref_network_speed_settings">Zobraziť rýchlosť siete v notif. lište</string>	
     <string name="pref_network_status_bar">Notifikačná lišta</string>	
     <string name="pref_netwotk_speed_internal_summary">Rýchlosť siete aktualizovať každých %d s</string>	
-    <string name="pref_traffic_adjust_title">Prizpôsobenie prevádzky dát</string>	
+    <string name="pref_traffic_adjust_title">Prispôsobenie prevádzky dát</string>	
     <string name="pref_traffic_daily_limit_settings">Nastavenie denného limitu</string>	
     <string name="pref_traffic_settings">Nastavenie balíčku dát</string>	
     <string name="process_kernel_label">Android OS</string>	
@@ -100,7 +100,7 @@ Môžte ich upraviť."</string>
     <string name="stop_app_button">Zavrieť</string>	
     <string name="sync_fail_notify_detail">Spätná podpora od operátora nebola prijatá, skúste to znovu</string>	
     <string name="sync_fail_notify_title">Dotaz zlyhal</string>
-	<string name="sync_setting_city">Synchronizácia z lokalizácią</string>	
+	<string name="sync_setting_city">Synchronizácia z lokalizácia</string>	
     <string name="sync_traffic_fail_message">Dotaz na operátora zlyhal, možno je server zaneprázdnený. Skúste to prosím neskôr, alebo zavolajte na zákaznickú podporu</string>	
     <string name="sync_traffic_fail_title">Dotaz zlyhal</string>	
     <string name="sync_traffic_ing">Získavám od operátora,prosím čakajte …</string>	
