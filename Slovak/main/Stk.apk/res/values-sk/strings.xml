@@ -8,7 +8,7 @@
     <string name="stk_no_service">Služba nedostupná</string>
     <string name="button_ok">OK</string>
     <string name="button_cancel">Zrušiť</string>
-    <string name="button_yes">==Áno</string>
+    <string name="button_yes">Áno</string>
     <string name="button_no">Nie</string>
     <string name="alphabet">Abeceda</string>
     <string name="digits">Znaky (0-9, *, #, +)</string>

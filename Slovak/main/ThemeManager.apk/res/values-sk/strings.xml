@@ -18,9 +18,9 @@
     <string name="component_category_title">Prispôsobenie</string>	
     <string name="component_category_wallpaper_title">Tapety na plochu</string>	
     <string name="component_include_title">Obsahuje %1$s komponenty</string>
-	<string name="component_lockstyle_personal_title">Mastavenia</string>	
+	<string name="component_lockstyle_personal_title">Nastavenia</string>	
     <string name="component_screen_title">Vrátane tapety</string>	
-    <string name="component_select_title">Zvoľťe %1$s komponenty</string>	
+    <string name="component_select_title">Zvoľte %1$s komponenty</string>	
     <string name="component_settings_title">Prispôsobiť tému</string>	
     <string name="desktop_wallpaper">Tapeta na plochu</string>	
     <string name="download_success">Úspešne stiahnuté</string>	
