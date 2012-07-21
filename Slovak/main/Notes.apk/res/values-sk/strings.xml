@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="alert_message_delete_folder">Vymazať zložku a v nej obssiahnuté poznámky?</string>
+    <string name="alert_message_delete_folder">Vymazať zložku a v nej obsiahnuté poznámky?</string>
     <string name="alert_message_delete_note">Chcete vymazať túto poznámku?</string>
-    <string name="alert_message_delete_notes">Chcete vymazať poznámok(u,y) ?</string>
+    <string name="alert_message_delete_notes">Chcete vymazať %d poznámok?</string>
     <string name="alert_title_delete">Mazanie vybraných poznámok</string>
 	<string name="app_name">Poznámky</string> 
    	<string name="app_widget2x2">Poznámky 2x2</string>
@@ -72,7 +72,7 @@
     <string name="preferences_account_summary">Synchronizácia poznámok s Google Task</string>
     <string name="preferences_account_title">Účet synchronizácie</string>
     <string name="preferences_add_account">Pridať účet</string>
-    <string name="preferences_bg_random_appear_title">Náhodná farva poznámky</string>
+    <string name="preferences_bg_random_appear_title">Náhodná farba poznámky</string>
     <string name="preferences_button_sync_cancel">Zrušiť synchronizáciu</string>
     <string name="preferences_button_sync_immediately">Synchronizovať teraz</string>
     <string name="preferences_dialog_change_account_title">Aktuálny účet %1$s</string>
@@ -88,7 +88,7 @@
     <string name="preferences_toast_cannot_change_account">Nieje možné zmeniť účet, pretože prebiehá synchronizácia</string>
     <string name="preferences_toast_success_set_accout">%1$s bol nastavený ako účet pre synchronizáciu</string>
     <string name="search">Poznámky</string>
-    <string name="search_hint">Prehľadanie poznámek</string>
+    <string name="search_hint">Prehľadanie poznámok</string>
     <string name="search_label">Hľadať</string>
     <string name="search_setting_description">Vyhľadá text v poznámkach</string>
     <string name="select_text">Vyberte text</string>
