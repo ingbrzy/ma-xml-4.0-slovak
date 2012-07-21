@@ -4,7 +4,7 @@
     <string name="no_effects">Efekty niesú k dispozícií</string>
     <string name="main_toggle_effects_title">Zvukové efekty</string>
     <string name="eq_dialog_title">Ekvalizér</string>
-    <string name="headset_plug">Tieto efekty je možné aktivovať len so zapojenými sluchátkami.</string>
+    <string name="headset_plug">Tieto efekty je možné aktivovať len so zapojenými slúchadlami.</string>
     <string name="bass_boost_strength">Zvýraznenie basov</string>
     <string name="virtualizer_strength">3D efekt</string>
     <string name="pr_title">Dozvuk:</string>
