@@ -2,7 +2,7 @@
 <resources>
 <string name="added_favorite">Pridané medzi obľúbené</string>
 <string name="app_name">Správca súborov</string>
-<string name="backuproot">/Automaticá záloha</string>
+<string name="backuproot">/Automatická záloha</string>
 <string name="cancel">Zrušiť</string>
 <string name="category_all">Všetko</string>
 <string name="category_apk">Aplikácie</string>
@@ -67,14 +67,14 @@
 <string name="guide_manage_files_through_computer">"Môžte ľahko organizovať súbory v MiDrive na Vašom PC"</string>
 <string name="guide_senior_tech">Pokročilé možnosti</string>
 <string name="install_failed">Inštalácia zlyhala</string>
-<string name="install_successful">Inštalácia prebehla v poiadku</string>
+<string name="install_successful">Inštalácia prebehla v poriadku</string>
 <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
-<string name="instruction_pre">Slúží k prenosu súborov medzi telefónem a PC pomocou FTP protokolu.</string>
+<string name="instruction_pre">Slúži k prenosu súborov medzi telefónom a PC pomocou FTP protokolu.</string>
 <string name="kuaipan_over_space">Váš MiDrive už nemá voľné miesto.</string>
 <string name="kuaipan_tech_support">Technický poskytovateľ Kingsoft Kuaipan</string>
 <string name="local_cache">Lokálna medzipamäť/cache</string>
 <string name="local_cache_size">Veľkosť lokálnej medzipamäte/cache: %s</string>
-<string name="login_reg_content">MiDrive Vám pomáha udržiavať súbory a synchronizovať ich medziviacerými zariadeniami.</string>
+<string name="login_reg_content">MiDrive Vám pomáha udržiavať súbory a synchronizovať ich medzi viacerými zariadeniami.</string>
 <string name="login_reg_login_xiaomi">Prihlásiť sa do Xiaomi účtu</string>
 <string name="menu_exit">Koniec</string>
 <string name="menu_item_ftp">FTP</string>
@@ -112,7 +112,7 @@
 <string name="operation_hide_sys">Skryť systémové súbory</string>
 <string name="operation_info">Info</string>
 <string name="operation_move">Presunúť</string>
-<string name="operation_moving">Presúvám...</string>
+<string name="operation_moving">Presúvam...</string>
 <string name="operation_paste">Vložiť</string>
 <string name="operation_pasting">Kopírujem...</string>
 <string name="operation_refresh">Obnoviť</string>
@@ -152,7 +152,7 @@
 <string name="trash_box_link">Prejsť na pan.xiaomi.com vyprázdniť kôš</string>
 <string name="trash_box_message1">Môžete odstrániť zbytočné súbory a uvoľniť tak miesto</string>
 <string name="trash_box_message2">Môžete odstrániť súbory a vyprázdnite kôš, aby ste urobili miesto</string>
-<string name="ui_bar_title_auto_backup">Autoomatická záloha je pripravená</string>
+<string name="ui_bar_title_auto_backup">Automatická záloha je pripravená</string>
 <string name="ui_bar_title_download">MiDrive: Sťahovanie</string>
 <string name="ui_bar_title_update">MiDrive: Update</string>
 <string name="ui_bar_title_upload">MiDrive: Nahrávanie</string>
