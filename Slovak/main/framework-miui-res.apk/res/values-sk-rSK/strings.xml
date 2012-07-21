@@ -274,7 +274,7 @@
   <string name="great_cold"/>
   <string name="great_heat"/>
   <string name="group_name_contacts">Kontakty</string>
-  <string name="group_name_friends">Prijatelia</string>
+  <string name="group_name_friends">Priatelia</string>
   <string name="group_name_family">Rodina</string>
   <string name="group_name_coworkers">Kolegovia</string>
   <string name="heavy_snow"/>
@@ -286,9 +286,9 @@
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/> 
-  <string name="loading">Nahrávánie</string>
+  <string name="loading">Nahrávanie</string>
   <string name="lock_screen_date">d. MMMM EEEE</string>  
-  <string name="lockscreen_call_bottom_hint">Posunutím dole zobrazíte Telefonovánie</string>
+  <string name="lockscreen_call_bottom_hint">Posunutím dole zobrazíte Telefónovanie</string>
   <string name="lockscreen_sms_bottom_hint">Posunutím dole zobrazíte Konverzácie</string>
   <string name="lockscreen_time_bottom_hint">Posunutím dole odomknete telefón</string>
   <string name="lockscreen_unlock_sim_via_puk">Zadajte PUK kód pre odblokovanie SIM karty</string>
@@ -363,7 +363,7 @@
   <string name="resource_mute">žiadné</string>
   <string name="resource_notification_default">Notifikácie</string>
   <string name="resource_online">Online %1$s</string>
-  <string name="resource_ringtone_default">Vyzváňaníe</string>
+  <string name="resource_ringtone_default">Vyzváňanie</string>
   <string name="resource_see_more">Viac</string>  
   <string name="resource_select">Vybrať</string>
   <string name="resource_selected_number">Vybraných %1$d zdrojov</string>
@@ -403,7 +403,7 @@
   <string name="user_agreement2">podmienky používania</string>
   <string name="user_agreement3">" a "</string>
   <string name="user_agreement4">ochrane osobných údajov</string>
-  <string name="user_agreement5">，Stlačte OK pokiaľ súhlasíte s následujúcím ujednaním, Stlačením na Zrušiť akciu ukončíte.</string>
+  <string name="user_agreement5">，Stlačte OK pokiaľ súhlasíte s nasledujúcím ujednaním, Stlačením na Zrušiť akciu ukončíte.</string>
   <string name="valentines_day"/>
   <string name="vernal_equinox"/>
   <string name="white_dews"/>
