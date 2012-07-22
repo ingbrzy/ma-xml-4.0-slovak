@@ -306,7 +306,7 @@
     <string name="label_sip_address">Internetový telefón (SIP)</string>
     <string name="launcherDialer">Telefón</string>
     <string name="listFoundAllContactsZero">Nenájdené</string>
-    <string name="listTotalAllContactsZeroStarred">Žiadne obľúbené kontakty</string>
+    <string name="listTotalAllContactsZeroStarred">žiadne obľúbené kontakty</string>
     <string name="list_filter_all_accounts">Všetky kontakty</string>
     <string name="list_filter_all_starred">Obľúbené</string>
     <string name="list_filter_custom">Vlastné</string>
@@ -389,7 +389,7 @@
 	<string name="noAccounts">Aby bolo možné vytvoriť skupiny, musí byť vytvorený účet</string>
 	<string name="noContactHelpTextAccountsInfo">Synchronizujte Google alebo Exchange kontakty.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví dáta zálohované na účte Xiaomi</string>
-    <string name="noContacts">Žiadné kontakty</string>
+    <string name="noContacts">žiadne kontakty</string>
     <string name="noContactsHelpText">"Nemáte žiadne kontakty na zobrazenie. Ak chcete pridať kontakty, stlačte "<b><font fgcolor="#ffffffff">Menu</font></b>" a vyberte: "<b><font fgcolor="#ffffffff"
                     ><li>"Účty - pridať alebo nakonfigurovať účet pre synchronizáciu kontaktov s telefónom "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Kontakty - nadviazať kontakt
                     "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Zálohovanie a obnovenie, importovať z SD karty alebo SIM "</li></font></b>" "</string>
@@ -406,10 +406,10 @@
                 fgcolor="#ffffffff"><li>"Účty - pridať alebo nakonfigurovať účet pre synchronizáciu kontaktov s telefónom "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"možnosti zobrazenia -
                     vybrať, ktoré kontakty sú viditeľné "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Kontakty - nadviazať kontakt "</li></font></b>" "<b><font
                 fgcolor="#ffffffff"><li>"Zálohovanie a obnovenie, importovať z SD karty alebo SIM "</li></font></b>" "</string>
-    <string name="noContactsWithPhoneNumbers">Žiadne kontakty s telefónnymi číslami.</string>
+    <string name="noContactsWithPhoneNumbers">žiadne kontakty s telefónnymi číslami.</string>
     <string name="noFavoritesHelpText">"Nemáte žiadne obľúbené. Ak chcete pridať kontakt do zoznamu obľúbených položiek: "<li>Stlačte <b>Kontakty</b>" "</li>" "<li>"Vyberte kontakt, ktorý sa pridá k
             Obľúbeným "</li>" "<li>"Vyberte hviezdičku vedľa mena kontaktu "</li>" "</string>
-	<string name="noGroups">Žiadne skupiny</string>
+	<string name="noGroups">žiadne skupiny</string>
     <string name="noMatchingContacts">Nenájdené žiadne zodpovedajúce kontakty.</string>    
 	<string name="no_account_prompt">"Aplikácia pracuje najlepšie s účtom Google.• Ku kontaktom máte prístup z akéhokoľvek prehliadača.• Zálohujte si svoje kontakty bezpečne."</string>
     <string name="no_contact_details">Pre tento účet nie sú dostupné žiadne informácie</string>
@@ -420,7 +420,7 @@
     <string name="non_phone_add_to_contacts">Pridať do kontaktov</string>
     <string name="non_phone_caption">Telefónne číslo</string>
     <string name="non_phone_close">Zavrieť</string>
-    <string name="noRecentContacts">Žiadne posledné kontakty</string>
+    <string name="noRecentContacts">žiadne posledné kontakty</string>
     <string name="not_applied">Nie je podporované</string>
     <string name="notification_new_voicemail_ticker">Nová hlasová správa od %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
@@ -522,7 +522,7 @@
     <string name="sim_contacts">SIM kontakty</string>
     <string name="sim_export_loading">Informácie o SIM karte sa načítavajú. Táto operácia môže trvať dlhšie.</string>
     <string name="sim_indexed_contact_not_exist" formatted="false">Pozícia %1$d na SIM karte nie je platná, mala by byť medzi %2$d a %3$d</string>
-    <string name="sim_no_contact">Žiadne kontakty na SIM karte</string>
+    <string name="sim_no_contact">žiadne kontakty na SIM karte</string>
     <string name="simContacts_emptyLoading">Načítavanie z karty SIM...</string>
     <string name="simContacts_title">Kontakty na karte SIM</string>
     <string name="sms">SMS</string>
