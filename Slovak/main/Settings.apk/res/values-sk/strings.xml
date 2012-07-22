@@ -930,8 +930,8 @@
     <string name="networkid_label">Sieťové ID:</string>	
     <string name="networks">Výber operátora</string>	
     <string name="new_backup_pw_prompt">Sem zadajte nové heslo pre úplné zálohy.</string>	
-    <string name="next_button_label">Ďalší</string>	
-    <string name="next_label">Ďalší</string>	
+    <string name="next_button_label">Ďalšie</string>	
+    <string name="next_label">Ďalšie</string>	
     <string name="nfc_quick_toggle_summary">Povoliť výmenu dát, pokiaľ sa telefón dotkne iného zariadenia</string>	
     <string name="nfc_quick_toggle_title">NFC</string>	
     <string name="no">Nie</string>	
@@ -1199,7 +1199,7 @@
     <string name="search_wallpaper">Tapeta</string>	
     <string name="search_wifi">Wi-fi</string>	
     <string name="security_passwords_title">Heslá</string>	
-    <string name="security_privacy_settings_title">Zabezpečenie &amp; súkromia</string>	
+    <string name="security_privacy_settings_title">Zabezpečenie súkromia</string>	
     <string name="security_settings_desc">Táto aplikácia má prístup k nasledujúcím funkciam telefónu:</string>	
     <string name="security_settings_summary">Moja poloha, odomknutie obrazovky, zámok SIM, zámok úložiska poverení</string>	
     <string name="security_settings_title">Zabezpečenie</string>	
