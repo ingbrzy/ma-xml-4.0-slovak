@@ -46,7 +46,7 @@
     <string name="edit_blacklist">Upraviť poznámku</string>
     <string name="edit_whitelist">Upraviť poznámku</string>
     <string name="emptylist_fwlog_call">Všetky blokované hovory budú logované tu.</string>
-    <string name="emptylist_fwlog_ms">Všetky blokované správy a MMS budú logované tu.</string>
+    <string name="emptylist_fwlog_ms">Všetky blokované SMS a MMS budú logované tu.</string>
     <string name="enable_firewall">Zapnúť firewall</string>
     <string name="firewall_action">Operácia blokovania</string>
     <string name="firewall_log">DND log</string>

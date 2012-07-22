@@ -134,7 +134,7 @@
   <string name="failed_to_add_media">Túto položku (%1$s) nemožno pridať do správy.</string>
   <string name="failed_to_resize_image">Veľkosť fotografie sa nepodarilo prispôsobiť.</string>
   <string name="fdn_check_failure">Môžete iba posielať správy na Vaše povolené čísla.</string>
-  <string name="festival">Odporúčaný</string>
+  <string name="festival">Odporúčané</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Načítavam...</string>
   <string name="festival_sms_push">Doporučené</string>
@@ -264,7 +264,7 @@
   <string name="prefDefault_vibrate_true">vždy</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrácie</string>
   <string name="pref_advanced_settings_title">Pokročilé nastavenia</string>
-  <string name="pref_conversation_show_avatar">Zobraziť</string>
+  <string name="pref_conversation_show_avatar">Zobraziť avatar</string>
   <string name="pref_edit_smsc_address">Nastaviť číslo SMS centra</string>
   <string name="pref_key_append_signature_summary">Podpis je automaticky pridaný na koniec správy</string>
   <string name="pref_key_append_signature_title">Podpis</string>

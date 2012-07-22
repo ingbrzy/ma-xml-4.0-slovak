@@ -678,7 +678,7 @@
     <string name="filter_apps_third_party">Stiahnuté</string>	
     <string name="filter_dlg_title">Vyberte možnosti filtra</string>	
     <string name="finish_button_label">Dokončiť</string>	
-    <string name="firmware_version">Verzia systému Android</string>	
+    <string name="firmware_version">Verzia systému Android:</string>	
     <string name="font_size_preview_text">Toto je ukážkový text pre MIUIAndroid.com ROM.</string>	
     <string name="font_size_save">OK</string>	
     <string name="force_hw_ui">Vykreslovanie pomocou GPU</string>	
@@ -913,7 +913,7 @@
     <string name="misc_files_selected_count">vybrané: %1$d z %2$d</string>	
     <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>	
     <string name="mms_vibrate_abbreviation">Správy</string>	
-    <string name="model_number">Označenie modelu</string>	
+    <string name="model_number">Označenie modelu:</string>	
     <string name="move_app">Presunúť</string>	
     <string name="move_app_failed_dlg_text">Presunutie aplikácie sa nepodarilo. %1$s</string>	
     <string name="move_app_failed_dlg_title" />	
