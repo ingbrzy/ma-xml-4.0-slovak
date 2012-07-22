@@ -1249,6 +1249,10 @@
     <string name="show_touches_summary">Zobraziť vizuálnu spätnú väzbu pre dotyky</string>	
     <string name="silent_mode_title">Tichý režim</string>	
     <string name="sim_bad_pin">Nesprávny kód PIN</string>	
+    <string name="sim_change_failed">"Kód PIN sa nedá zmeniť. Možno ste zadali nesprávny kód PIN."</string>	
+    <string name="sim_change_failed_enable_sim_lock">"Nemožno zmeniť SIM PIN. Zapnúť SIM LOCK."</string>	
+    <string name="sim_change_pin">Kód PIN karty SIM</string>	
+    <string name="sim_change_succeeded">Kód PIN karty SIM bol úspešne zmenený.</string>	
     <string name="sim_disable_sim_lock">Odomknúť kartu SIM</string>	
     <string name="sim_enable_sim_lock">Zamykať kartu SIM</string>	
     <string name="sim_enter_cancel">Zrušiť</string>	
@@ -1256,17 +1260,14 @@
     <string name="sim_enter_ok">OK</string>	
     <string name="sim_enter_old">Starý kód PIN karty SIM</string>	
     <string name="sim_enter_pin">Kód PIN karty SIM</string>	
-    <string name="sim_change_failed">"Kód PIN sa nedá zmeniť. Možno ste zadali nesprávny kód PIN."</string>	
-    <string name="sim_change_failed_enable_sim_lock">"Nemožno zmeniť SIM PIN. Zapnúť SIM LOCK."</string>	
-    <string name="sim_change_pin">Kód PIN karty SIM</string>	
-    <string name="sim_change_succeeded">Kód PIN karty SIM bol úspešne zmenený.</string>	
+	<string name="sim_lock_change_not_supported">"Nemožno zmeniť SIM Lock. Nepodporovaná SIM."</string>	
     <string name="sim_lock_failed">"Stav zámku karty SIM sa nedá zmeniť. Zrejme ste zadali nesprávny kód PIN."</string>	
-    <string name="sim_lock_change_not_supported">"Nemožno zmeniť SIM Lock. Nepodporovaná SIM."</string>	
     <string name="sim_lock_off">K použitiu telefónu je požadovaný PIN</string>	
     <string name="sim_lock_on">K použitiu telefónu je požadovaný PIN</string>	
     <string name="sim_lock_settings">Nastavenie zámku karty SIM</string>	
     <string name="sim_lock_settings_category">Nastavenie zámku karty SIM</string>	
     <string name="sim_lock_settings_title">Zámok karty SIM</string>	
+    <string name="sim_pin_attempts">Ostávajúcich pokusov :</string>
     <string name="sim_pin_change">Zmeniť kód PIN karty SIM</string>	
     <string name="sim_pin_toggle">Zamykať kartu SIM</string>	
     <string name="sim_pins_dont_match">Kódy PIN niesú zhodné</string>	
@@ -1288,7 +1289,8 @@
     <string name="sound_category_sound_title">Obecné</string>	
     <string name="sound_effects_enable_title">Zvuky pri dotyku</string>	
     <string name="sound_settings">Zvuk</string>	
-    <string name="spellchecker_security_warning">Prostredníctvom tejto kontroly pravopisu je možné zhromažďovať zadaný text vrátane osobných údajov, ako sú heslá a čísla platobných kariet. Kontrola pravopisu je súčásť aplikácie %1$s. Chcete túto kontrolu pravopisu použiť?</string>	
+    <string name="spellchecker_security_warning">Prostredníctvom tejto kontroly pravopisu je možné zhromažďovať zadaný text vrátane osobných údajov, ako sú heslá a čísla platobných kariet. Kontrola pravopisu je súčásť aplikácie %1$s. Chcete 
+		túto kontrolu pravopisu použiť?</string>	
     <string name="spellcheckers_settings_title">Oprava pravopisu</string>	
     <string name="ssid_label">SSID:</string>	
     <string name="status_awake_time">Doba mimo spánku</string>	
@@ -1337,8 +1339,10 @@
     <string name="sync_item_title">Synchronizácia aplikácie %s</string>	
     <string name="sync_menu_sync_cancel">Zrušiť synchronizáciu</string>	
     <string name="sync_menu_sync_now">Synchronizovať</string>	
-    <string name="sync_one_time_sync">"Dotykom vykonáte synchronizáciu teraz %1$s"</string>	
-    <string name="sync_plug">"Víta vás aplikácia Google Sync. Nový pohľad na synchronizáciu dát v réžii Googlu. Poskytuje vám prístup ku kontaktom, schôdzkam a ďalším informáciám, nech ste kdekoľvek."</string>	
+    <string name="sync_one_time_sync">"Dotykom vykonáte synchronizáciu teraz 
+		%1$s"</string>	
+    <string name="sync_plug">"Víta vás aplikácia Google Sync. Nový pohľad na synchronizáciu dát v réžii Googlu. Poskytuje vám prístup ku kontaktom, schôdzkam a ďalším informáciám, 
+		nech ste kdekoľvek."</string>	
     <string name="sync_settings">Účty a synchronizácia</string>	
     <string name="system_package">Aktualizácia systému nieje možné nainštalovať na SD kartu.</string>	
     <string name="system_update_settings_list_item_summary" />	
@@ -1393,7 +1397,8 @@
     <string name="tts_engine_name_is_enabled_summary">Položka %s je aktivovaná</string>	
     <string name="tts_engine_name_settings">Nastavenie modulu %s</string>	
     <string name="tts_engine_preference_section_title">Preferovaný modul</string>	
-    <string name="tts_engine_security_warning">Modul pre syntézu reči môže zhromažďovať všetok hovorený text, vrátane osobných dát ako sú heslá alebo čísla kreditných kariet. Je založený na module %s. Chcete modul pre syntézu reči aktivovať?</string>	
+    <string name="tts_engine_security_warning">Modul pre syntézu reči môže zhromažďovať všetok hovorený text, vrátane osobných dát ako sú heslá alebo čísla kreditných kariet. Je založený na module %s. 
+		Chcete modul pre syntézu reči aktivovať?</string>	
     <string name="tts_engine_settings_button">Spustiť vyhľadávač</string>	
     <string name="tts_engine_settings_section">Nastavenie modulu</string>	
     <string name="tts_engine_settings_title">Nastavenie pre modul %s</string>	
@@ -1470,7 +1475,8 @@
     <string name="usb_label_installer_cd">Inštalácia nástrojov pre prenos súborov</string>	
     <string name="usb_msd_summary">Umožní prenos súborov na Windows a Mac</string>	
     <string name="usb_msd_title">Veľkokapacitné úložisko</string>	
-    <string name="usb_mtp_summary">Umožňuje prenášať multimediálné súbory v systéme Windows alebo pomocou aplikácie Android File Transfer v systéme Mac (ďalšie informácie na stránke www.android.com/filetransfer).</string>	
+    <string name="usb_mtp_summary">Umožňuje prenášať multimediálné súbory v systéme Windows alebo pomocou aplikácie Android File Transfer v systéme Mac (ďalšie informácie na 
+		stránke www.android.com/filetransfer).</string>	
     <string name="usb_mtp_title">Zariadenie pro média (MTP)</string>	
     <string name="usb_ptp_summary">Umožňuje prenos fotografií pomocou softwaru fotoaparátu a prenos akýchkoľvek súborov do počítačov, ktoré nepodporujú protokol MTP</string>	
     <string name="usb_ptp_title">Fotoaparát (PTP)</string>	
@@ -1563,7 +1569,8 @@
     <string name="wifi_connect">Pripojiť</string>	
     <string name="wifi_disabled_generic">Vypnuté</string>	
     <string name="wifi_disabled_heading" />	
-    <string name="wifi_disabled_help">Sieť nebola použitá z dôvodu zlého pripojenia. Toto nastavenie môžete vypnúť na obrazovke Nastavenia v časti Wi-Fi, položka ponuky Pokročilé.</string>	
+    <string name="wifi_disabled_help">Sieť nebola použitá z dôvodu zlého pripojenia. Toto nastavenie môžete vypnúť na obrazovke Nastavenia v časti Wi-Fi, položka ponuky 
+		Pokročilé.</string>	
     <string name="wifi_disabled_network_failure">Bolo zabránené slabému pripojeniu</string>	
     <string name="wifi_disabled_password_failure">Problém s overením</string>	
     <string name="wifi_dns1">Server DNS 1</string>	
@@ -1605,13 +1612,15 @@
     <string name="wifi_notify_open_networks">Oznamovanie siete</string>	
     <string name="wifi_notify_open_networks_summary">Oznamovať dostupné nezabezpečené siete</string>	
     <string name="wifi_on_time">Doba prevádzky Wi-Fi</string>	
-    <string name="wifi_p2p_available_devices">Dostupná zařízení</string>	
+    <string name="wifi_p2p_available_devices">Dostupné zariadenia</string>	
     <string name="wifi_p2p_device_info">Informácie o zariadení</string>	
     <string name="wifi_p2p_menu_advanced">Pokročilé</string>	
     <string name="wifi_p2p_menu_create_group">Vytvoriť skupinu</string>	
     <string name="wifi_p2p_menu_remove_group">Odobrať skupinu</string>	
     <string name="wifi_p2p_menu_search">Vyhľadávanie</string>	
+	<string name="wifi_p2p_on_summary">Otočiť Wi-Fi Direct</string>
     <string name="wifi_p2p_persist_network">Pamätať si toto pripojenie</string>	
+	<string name="wifi_p2p_settings">Nastavenia Wi-Fi Direct</string>
     <string name="wifi_p2p_settings_summary">Nastaviť pripojenie typu peer-to-peer</string>	
     <string name="wifi_p2p_settings_title">Priamé pripojenie siete Wi-Fi</string>	
     <string name="wifi_p2p_wps_pin">Zadajte kód PIN</string>	
@@ -1657,7 +1666,8 @@
     <string name="wifi_setup_description_connected">"Ak chcete pokračovať v nastavení, dotknite sa možnosti Ďalší. Dotknite sa možnosti Späť, sk sa chcete pripojiť k inej sieti Wi-Fi."</string>	
     <string name="wifi_setup_description_connecting">Pripojovanie môže trvať niekoľko minút...</string>	
     <string name="wifi_setup_detail">Podrobnosti siete</string>	
-    <string name="wifi_setup_eap_not_supported">Pripojenie Wi-Fi EAP nieje možné nakonfigurovať pri inštalácií. Môžte to vykonať po dokončení inštalácie v ponuke Nastavenie v časti Bezdrátové pripojenie a siete.</string>	
+    <string name="wifi_setup_eap_not_supported">Pripojenie Wi-Fi EAP nieje možné nakonfigurovať pri inštalácií. Môžte to vykonať po dokončení inštalácie v ponuke Nastavenie v časti 
+		Bezdrátové pripojenie a siete.</string>	
     <string name="wifi_setup_forget">Odstrániť</string>	
     <string name="wifi_setup_next">Ďalší</string>	
     <string name="wifi_setup_not_connected">Nepripojené</string>	
@@ -1682,7 +1692,7 @@
     <string name="wifi_show_password">Zobrazovať heslo</string>	
     <string name="wifi_signal">Sila signálu</string>	
     <string name="wifi_speed">Rýchlosť pripojenia</string>	
-    <string name="wifi_ssid">Identifikátor SSID siete</string>	
+    <string name="wifi_ssid">SSID</string>	
     <string name="wifi_starting">Zapnúť Wi-Fi?</string>	
     <string name="wifi_state_disabled">Vypnutá</string>	
     <string name="wifi_state_disabling">Vypínanie</string>	
