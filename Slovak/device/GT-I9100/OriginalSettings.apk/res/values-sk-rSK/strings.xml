@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>  
     <string name="adjust_brightness_summary_10">10%% podsvícení</string>
-    <string name="adjust_brightness_summary_100">100%% podsvícení</string>
+    <string name="adjust_brightness_summary_100">100% podsvícení</string>
     <string name="adjust_brightness_summary_30">30%% podsvícení</string>
     <string name="adjust_brightness_summary_50">50%% podsvícení</string>
     <string name="adjust_brightness_summary_70">70%% podsvícení</string>

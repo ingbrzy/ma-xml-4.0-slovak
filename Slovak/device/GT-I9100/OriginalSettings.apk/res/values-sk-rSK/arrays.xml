@@ -2,15 +2,15 @@
 <resources>
     <string-array name="touch_key_light_entries">
         <item>1.5 sekundy</item>
-        <item>6 sekund</item>
-        <item>Vždy vypnuto</item>
-        <item>Vždy zapnuto</item>
+        <item>6 sekúnd</item>
+        <item>Vždy vypnuté</item>
+        <item>Vždy zapnuté</item>
     </string-array>
     <string-array name="psm_entries_new">
-        <item>10% baterie</item>
-        <item>20% baterie</item>
-        <item>30% baterie</item>
-        <item>40% baterie</item>
-        <item>50% baterie</item>
+        <item>10% batérie</item>
+        <item>20% batérie</item>
+        <item>30% batérie</item>
+        <item>40% batérie</item>
+        <item>50% batérie</item>
     </string-array>
 </resources>
