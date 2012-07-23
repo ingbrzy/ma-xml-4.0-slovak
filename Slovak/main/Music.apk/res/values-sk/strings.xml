@@ -11,21 +11,21 @@
     <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
     <string name="sleep_mode">Časovač</string>
     <string name="cancel_sleep_mode">Časovač zastavený</string>
-    <string name="select_quit_time">Nastavte čas, za ako dĺho sa zastaví prehrávanie (v minútach)</string>
+    <string name="select_quit_time">Nastavte čas, za ako dlho sa zastaví prehrávanie (v minútach)</string>
     <string name="quit_warining">Prehrávač zastaví prehrávanie o %d minút</string>
     <string name="refresh_media_db">Aktualizovať</string>
     <string name="refresh_in_processing">Aktualizujem...</string>
     <string name="refresh_finish">Aktualizácia dokončená</string>
-    <string name="refresh_start">Aktualizácia zahájena, prosím čakejte...</string>
+    <string name="refresh_start">Aktualizácia zahájena, prosím čakajte...</string>
     <string name="quit_player">Ukončiť</string>
     <string name="music_settings">Nastavenie</string>
     <string name="mobile_connect_settings">Mobilný internet</string>
     <string name="download_album_settings">Automatický sťahovať obrázky albumov</string>
-    <string name="download_album_summary">Môže sťahovať väčšie množstvo dát, zvážte použitie WiFi</string>
+    <string name="download_album_summary">Môže sťahovať väčšie množstvo dát, zvážte použitie Wi-Fi</string>
     <string name="download_lyric_settings">Automatický sťahovať texty</string>
     <string name="download_lyric_summary">"Sťahovanie textov piesní."</string>
     <string name="listen_to_music_online_settings">Počúvanie online hudby</string>
-    <string name="listen_to_online_summary">Počúvanie hudby cez mobilný, alebo Wifi internet</string>
+    <string name="listen_to_online_summary">Počúvanie hudby cez mobilný, alebo Wi-fi internet</string>
     <string name="flow_save_hint">Povoliť vyskakovacie okná</string>
     <string name="flow_save_hint_summary">Povoliť vyskakovacie okná pre potvrdenie stiahnutia skladieb</string>
     <string name="other_settings">Ostatné</string>
@@ -33,9 +33,9 @@
     <string name="filter_by_size">Filtrovanie podľa veľkosti</string>
     <string name="filter_by_size_prefix">Minimálna veľkosť:</string>
     <string name="filter_by_size_summary">Filtrovať veľmi malé súbory</string>
-    <string name="filter_by_duration">Filtrovať podľa dĺžky</string>
+    <string name="filter_by_duration">Filtrovať podľa dlžky</string>
     <string name="filter_by_duration_prefix">Maximálna dĺžka (v hodinách):</string>
-    <string name="filter_by_duration_summary">Filtrovať maximálnu dĺžku skladby</string>
+    <string name="filter_by_duration_summary">Filtrovať maximálnu dlžku skladby</string>
     <string name="filter_by_duration_min">0 s</string>
     <string name="filter_by_duration_max">5 hod</string>
     <string name="filter_by_duration_format" formatted="false">%2$d:%5$02d</string>
@@ -46,9 +46,9 @@
     <string name="android_album_settings">Použiť integrovaný obrázok albumu.</string>
     <string name="android_album_summary">Automaticky použije obrázok zo skladby. Môže spôsobiť chyby.</string>
     <string name="play_and_download">Počúvať a sťahovať</string>
-    <string name="play_and_download_summary">Počúvajte online hudbu a stahujte ju</string>
+    <string name="play_and_download_summary">Počúvajte online hudbu a sťahujte ju</string>
     <string name="screen_bright_wake">Nevypínať displej</string>
-    <string name="screen_bright_wake_summary">Displej zostane vždy zapnutý.</string>
+    <string name="screen_bright_wake_summary">Displej ostane vždy zapnutý.</string>
     <string name="keep_quit_position_settings">Uložiť poslednú pozíciu</string>
     <string name="keep_quit_position_summary">Pamätať si pozíciu v poslednej prehrávanej skladbe</string>
     <string name="shake_settings">Zatrepaním preskočiť</string>
@@ -101,7 +101,7 @@
     <string name="new_playlist">Nový</string>
     <string name="new_playlist_name_template">Nový playlist %d</string>
     <string name="emptyplaylist">Vybraný playlist je prázdny.</string>
-    <string name="loading">Načítam</string>
+    <string name="loading">Načítavam</string>
     <string name="sort_by_track">Skladby</string>
     <string name="sort_by_album">Albumy</string>
     <string name="sort_by_artist">Umelci</string>
