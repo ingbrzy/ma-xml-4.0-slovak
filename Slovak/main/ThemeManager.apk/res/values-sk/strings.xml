@@ -64,7 +64,7 @@
     <string name="third_party_pickers_activity_title">Nastaviť %1$s</string>	
     <string name="title_component">Zmiešané</string>	
     <string name="title_download_resource">Stiahnuté zdroje</string>	
-    <string name="title_local">Miesto</string>	
+    <string name="title_local">Lokálne</string>	
     <string name="title_online">Online</string>	
     <string name="title_system_resource">Systémové prostriedky</string>	
     <string name="wallpaper_decoded_error">Nepodarilo sa dešifrovať!</string>	
