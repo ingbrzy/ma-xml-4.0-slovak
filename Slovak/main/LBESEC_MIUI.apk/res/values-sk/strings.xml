@@ -51,7 +51,7 @@
     <string name="Generic_SystemApp_Label">[Systémová Aplikácia]</string>
     <string name="Generic_TrustedApp">Dôveryhodné aplikácie (%1$d)</string>
     <string name="Generic_Update">Aktualizácia softwaru</string>
-    <string name="Generic_UserApp">Stihnuté aplikácie (%d)</string>
+    <string name="Generic_UserApp">Stiahnuté aplikácie (%d)</string>
     <string name="Generic_Version">Verzia: %1$s</string>
     <string name="HIPS_Action_Accept">Povoliť</string>
     <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Povoliť&lt;/font></string>
