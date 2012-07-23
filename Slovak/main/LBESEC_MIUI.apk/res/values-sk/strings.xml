@@ -47,11 +47,11 @@
     <string name="Generic_ShowSystemApp">Ukázať systémové aplikácie</string>
     <string name="Generic_Summary_Disabled">Vypnúť</string>
     <string name="Generic_Summary_Enabled">Zapnúť</string>
-    <string name="Generic_SystemApp">Systémové aplikácie ()</string>
+    <string name="Generic_SystemApp">Systémové aplikácie (%d)</string>
     <string name="Generic_SystemApp_Label">[Systémová Aplikácia]</string>
     <string name="Generic_TrustedApp">Dôveryhodné aplikácie (%1$d)</string>
     <string name="Generic_Update">Aktualizácia softwaru</string>
-    <string name="Generic_UserApp">Stihnuté aplikácie ()</string>
+    <string name="Generic_UserApp">Stihnuté aplikácie (%d)</string>
     <string name="Generic_Version">Verzia: %1$s</string>
     <string name="HIPS_Action_Accept">Povoliť</string>
     <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Povoliť&lt;/font></string>
@@ -158,7 +158,7 @@
     <string name="HIPS_SecurityPrompt_Reject">Zakázané (%d)</string>
     <string name="HIPS_SecurityPrompt_Remember">Pamätať si nastavenie</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Dôležité upozornenie</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step1">Prajete si, aby aplikácia %1$d získala root oprávnenia?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step1">Prajete si, aby aplikácia %1$s získala root oprávnenia?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT oprávnenie môže spôsobiť nestabilitu systému</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaše súkromé dáta, ako sú účty, heslá a správy by mohli byť ohrozené</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Tiež je možné trvalé poškodenie prístroja</string>
