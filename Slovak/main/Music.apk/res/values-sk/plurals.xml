@@ -38,7 +38,7 @@
     </plurals>
     <plurals name="Nartists_batch_selection">
         <item quantity="other">%1$d vybraných umelcov</item>
-        <item quantity="one">%1$d vybraný umělec</item>
+        <item quantity="one">%1$d vybraný umelec</item>
     </plurals>
     <plurals name="Nfolders_batch_selection">
         <item quantity="other">%1$d vybraných zložiek</item>
@@ -62,7 +62,7 @@
     </plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" kategórií"</item>
-        <item quantity="one">" kategoria"</item>
+        <item quantity="one">" kategória"</item>
     </plurals>
     <plurals name="album_details_format">
         <item quantity="other">%1$1$s, %2$2$d skladieb</item>

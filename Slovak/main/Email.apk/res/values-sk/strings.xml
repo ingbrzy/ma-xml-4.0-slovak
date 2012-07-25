@@ -443,7 +443,7 @@ Kópia: %4$s
     <string name="permission_access_provider_label">Prístup k údajom poskytovateľa e-mailu</string>
     <string name="permission_read_attachment_desc">Umožňuje tejto aplikácii čítať prílohy vašich e-mailov.</string>
  	<string name="permission_read_attachment_label">Prečítajte si prílohy k e-mailu</string>   
- 	<string name="photos_upload_dimension_1600">Odporúčaná veľkosť: 1 600 pixlov (na zdieľanie, tlač a šetriče obrazovky)</string>
+ 	<string name="photos_upload_dimension_1600">Odporúčaná veľkosť: 1 600 pixlov (na zdielanie, tlač a šetriče obrazovky)</string>
     <string name="photos_upload_dimension_original">Pôvodná veľkosť (najpomalšie odovzdávanie)</string>
     <string name="picasa_default_destination">Album Okamžitého odovzdania</string>
     <string name="picker_combined_view_fmt">Kombinované zobrazenie (%s)</string>

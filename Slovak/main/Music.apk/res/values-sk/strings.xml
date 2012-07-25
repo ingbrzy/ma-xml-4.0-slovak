@@ -147,8 +147,8 @@
     <string name="playback_failed">Prepáčte, prehrávač nepodporuje tento typ audio súboru.</string>
     <string name="playback_failed_by_bad_file">%s nie je možné prehrať, formát nie je podporovaný..</string>
     <string name="playback_failed_by_network">%s nie je možné prehrať, skontrolujte nastavenie internetu</string>
-    <string name="playback_failed_no_title_by_bad_file">Skladbu nieje možné prehrať, nepodporovaný formát, alebo súbor neexistuje.</string>
-    <string name="playback_failed_no_title_by_network">Skladbu nieje možné prehrať, skontrolujte nastavenie internetu</string>
+    <string name="playback_failed_no_title_by_bad_file">Skladbu nie je možné prehrať, nepodporovaný formát, alebo súbor neexistuje.</string>
+    <string name="playback_failed_no_title_by_network">Skladbu nie je možné prehrať, skontrolujte nastavenie internetu</string>
     <string name="playlist_custom">Moje playlisty</string>
     <string name="playlist_deleted_message">Playlist vymazaný.</string>
     <string name="playlist_favorite">Obľúbené</string>

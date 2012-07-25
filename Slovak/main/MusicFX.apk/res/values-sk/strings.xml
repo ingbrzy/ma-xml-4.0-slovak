@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MusicFX</string>
-    <string name="no_effects">Efekty niesú k dispozícií</string>
+    <string name="no_effects">Efekty nie sú k dispozícií</string>
     <string name="main_toggle_effects_title">Zvukové efekty</string>
     <string name="eq_dialog_title">Ekvalizér</string>
     <string name="headset_plug">Tieto efekty je možné aktivovať len so zapojenými slúchadlami.</string>

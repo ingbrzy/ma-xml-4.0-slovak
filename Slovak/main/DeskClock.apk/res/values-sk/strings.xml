@@ -10,7 +10,7 @@
     <string name="alarm_button_description">Budíky</string>
     <string name="alarm_count">Počet opakovaní zvonenia budíka</string>
     <string name="alarm_count_never_summary">, nikdy nevypínať</string>
-    <string name="alarm_count_summary">, automatické stišenie po %d. budenia</string>
+    <string name="alarm_count_summary">, automatické stíšenie po %d. budenia</string>
     <string name="alarm_disabled">Vypnuté</string>
     <string name="alarm_duration">Nastavenie intervalu budenia(min)</string>
     <string name="alarm_duration_summary">Budenie v intervaloch po %d min</string>
@@ -26,7 +26,7 @@
     <string name="alarm_vibrate">Vibrácie</string>
     <string name="alarm_volume_summary">Nastavenie hlasitostí Budíkov a Časovačov</string>
     <string name="alarm_volume_title">Hlasitosť budíka</string>
-    <string name="alarmclock_empty_text">Žiadné budíky</string>
+    <string name="alarmclock_empty_text">Žiadne budíky</string>
     <string name="alert">Vyzváňací tón</string>
     <string name="analog_gadget">Analógové hodiny</string>
     <string name="app_label">Hodiny</string>
@@ -99,13 +99,13 @@
     <string name="timer_start_alarm">Časovač vypršal</string>
     <string name="timer_title">Časovač</string>
     <string name="timer_tutorial">Posunutím nastavte</string>
-    <string name="timezone_exist_error_message">Časovú zónu nieje možné pridať, lebo už existuje.</string>
-    <string name="timezone_search_hint">Vyhľadejte mesto pre pridanie svetových hodín</string>
+    <string name="timezone_exist_error_message">Časovú zónu nie je možné pridať, lebo už existuje.</string>
+    <string name="timezone_search_hint">Vyhľadajte mesto pre pridanie svetových hodín</string>
     <string name="volume_button_dialog_title">Funkcie tlačidiel</string>
     <string name="volume_button_setting_summary">Nastavte funkciu týchto tlačidiel, pokiaľ sú stlačená behom vyzváňania budíka.</string>
     <string name="volume_button_setting_title">Tlačítka hlasitosti</string>
     <string name="wait_when_operating_data_message">Spracovávam dáta, prosím čakajte.</string>
-    <string name="weather_fetch_failure">"Informácie o počasí niesu momentálne k dispozícií."</string>
-    <string name="worldclock_empty_text">Žiadné svetové hodiny</string>
+    <string name="weather_fetch_failure">"Informácie o počasí nie sú momentálne k dispozícií."</string>
+    <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
     <string name="worldclock_title">Svetové hodiny</string>
 </resources>

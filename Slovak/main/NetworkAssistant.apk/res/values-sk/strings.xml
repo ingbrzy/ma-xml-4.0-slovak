@@ -16,12 +16,12 @@
     <string name="app_detail_version">Verzia: %s</string>	
     <string name="app_name">Monitoring siete</string>	
     <string name="app_traffic_detail">" prevádzka(%s)"</string>	
-    <string name="apply_rules_failed">"Nepodarilo sa použit bránu firewall, prosím skúste znovu.
+    <string name="apply_rules_failed">"Nepodarilo sa použiť bránu firewall, prosím skúste znovu.
 (%s)"</string>	
     <string name="apply_rules_failed_known">OK</string>	
     <string name="batch_connect_control">Dávkové riadenie sietí</string>	
     <string name="cancel_txt">Zrušiť</string>	
-    <string name="cannot_find_sms_cmd">SMS príkaz nieje možné nájsť</string>	
+    <string name="cannot_find_sms_cmd">SMS príkaz nie je možné nájsť</string>	
     <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>	
     <string name="carrier_none_cmcc">%1$s, %2$s</string>	
     <string name="carrier_query_number_brand">Názov služby</string>	
@@ -46,7 +46,7 @@
 	<string name="empty" />	
     <string name="finish_traffic_settings_hint">Nastavenie balíčku dokončené</string>	
     <string name="finish_traffic_settings_message">"Využité dáta sú %s. Súhlasia dáta?
-Môžte ich upraviť."</string>	
+Môžete ich upraviť."</string>	
     <string name="finish_traffic_settings_title">Upraviť dáta</string>	
     <string name="fire_rule_program_list">Zoznam aplikácií</string>	
 	<string name="force_stop_dlg_text">Ak násilne ukončite aplikáciu, môže sa správať chybovo.</string>
@@ -75,7 +75,7 @@ Môžte ich upraviť."</string>
     <string name="powered_by">Technická podpora poskytovaná WALL-E</string>	
     <string name="pref_category_adjust_traffic">Prispôsobenie prevádzky</string>	
     <string name="pref_connect_settings_enable_backgroung">Povoliť automatické pripojenie k internetu na pozadí</string>	
-    <string name="pref_connect_settings_enable_backgroung_hint">Povoliť aplikáciam automatické pripojovanie k internetu na pozadí</string>	
+    <string name="pref_connect_settings_enable_backgroung_hint">Povoliť aplikáciám automatické pripojovanie k internetu na pozadí</string>	
     <string name="pref_connect_settings_exceed_limit">Odpojiť internet pri prekročení limitu dát</string>	
     <string name="pref_connect_settings_exceed_limit_hint">Upozorniť ma a odpojiť internet, ak dôjde k prekročeniu limitu dát</string>	
     <string name="pref_connect_settings_notify_in_statusbar">Zobraziť rozšírené informácie</string>	
@@ -101,13 +101,13 @@ Môžte ich upraviť."</string>
     <string name="sync_fail_notify_detail">Spätná podpora od operátora nebola prijatá, skúste to znovu</string>	
     <string name="sync_fail_notify_title">Dotaz zlyhal</string>
 	<string name="sync_setting_city">Synchronizácia z lokalizácia</string>	
-    <string name="sync_traffic_fail_message">Dotaz na operátora zlyhal, možno je server zaneprázdnený. Skúste to prosím neskôr, alebo zavolajte na zákaznickú podporu</string>	
+    <string name="sync_traffic_fail_message">Dotaz na operátora zlyhal, možno je server zaneprázdnený. Skúste to prosím neskôr, alebo zavolajte na zákaznicku podporu</string>	
     <string name="sync_traffic_fail_title">Dotaz zlyhal</string>	
     <string name="sync_traffic_ing">Získavám od operátora,prosím čakajte …</string>	
     <string name="sync_traffic_success">"Získané dáta od operátora, prevádzka upravená"</string>	
     <string name="this_month">Tento mesiac</string>	
     <string name="today">Dnes</string>	
-    <string name="traffic_none">Žiadný</string>	
+    <string name="traffic_none">Žiadny</string>	
     <string name="traffic_package_widget_name">Monitoring siete (1x4)</string>	
     <string name="traffic_remain">Ostávajúce</string>	
     <string name="traffic_settings_error">Chyba nastavenia balíčku. Vami nastavený dátový balíček je %1$s, ale správa od operátora udáva, že ostáva %2$s.</string>	

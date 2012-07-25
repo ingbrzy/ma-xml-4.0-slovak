@@ -108,7 +108,7 @@
     <string name="no">Zrušiť</string>
     <string name="number_add_hint">Vložte číslo pre pridanie do čiernej listiny</string>
     <string name="opt_accept_whitelist">Prijať z bielej listiny</string>
-    <string name="opt_reject_all">Odmietnúť všetko</string>
+    <string name="opt_reject_all">Odmietnuť všetko</string>
     <string name="opt_reject_blacklist">Blokovať z čiernej listiny</string>
     <string name="opt_reject_blacklist_stranger">Neprijímať neznáme hovory</string>
     <string name="opt_reject_blacklist_stranger_summary">Hovory budú neprijaté z čiernej listiny, ale prijaté z bielej listiny</string>

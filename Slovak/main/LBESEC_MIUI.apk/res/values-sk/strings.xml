@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Správca oprávnenia</string>
     <string name="Dashboard_App">Aplikácie</string>
-    <string name="Dashboard_HIPS_Disable_Content">Vypnutie zastaví sledovanie požiadaviek od aplikácií. Tym pádom MIUI prestane chrániť Vašú bezpečnosť a súkromie.Určite chcete sledovanie vypnúť?</string>
+    <string name="Dashboard_HIPS_Disable_Content">Vypnutie zastaví sledovanie požiadaviek od aplikácií. Tym pádom MIUI prestane chrániť Vašu bezpečnosť a súkromie. Určite chcete sledovanie vypnúť?</string>
     <string name="Dashboard_HIPS_Disable_Title">Sledovanie oprávnení</string>
     <string name="Dashboard_Log">Logy</string>
     <string name="Dashboard_Log_Clear_Content">Všetky logy budú vymazané. Skutočne chcete pokračovať?</string>
@@ -71,8 +71,8 @@
     <string name="HIPS_Perm_AdjustRingerVolume">upraviť hlasitosť zvonenia</string>
     <string name="HIPS_Perm_AdjustVolumeInCall">upraviť hlasitosť hovoru</string>
     <string name="HIPS_Perm_AllowAll">Povoliť všetko</string>
-    <string name="HIPS_Perm_AnswerCall">prijať príchodzí hovor</string>
-    <string name="HIPS_Perm_Call">Telefónný hovor</string>
+    <string name="HIPS_Perm_AnswerCall">prijať prichádzajúci hovor</string>
+    <string name="HIPS_Perm_Call">Telefónny hovor</string>
     <string name="HIPS_Perm_Call_Desc">Vytočenie, prijatie a ukončenie hovoru</string>
     <string name="HIPS_Perm_Call_Hint">%1$s aplikácie majú povolenie k vytočeniu, prijatie a ukončenie hovoru</string>
     <string name="HIPS_Perm_Call_Number">volať %1$s</string>
@@ -81,8 +81,8 @@
     <string name="HIPS_Perm_CallLog_Desc">Prístup k záznamom o volaní</string>
     <string name="HIPS_Perm_CallLog_Hint">%1$s aplikácie majú povolenie pre prístup k záznamom o volaní</string>
     <string name="HIPS_Perm_CallMonitor">Monitorovanie hovoru</string>
-    <string name="HIPS_Perm_CallMonitor_Desc">Monitorovanie príchádzajúcich a odchádzajúcich hovorov, kontrola hlasitosti atď.</string>
-    <string name="HIPS_Perm_CallMonitor_Hint">%1$s aplikácie majú povolenie k monitorovaniu príchodzích a odchodzích hovorov, kontrole hlasitosti atď.</string>
+    <string name="HIPS_Perm_CallMonitor_Desc">Monitorovanie prichádzajúcich a odchádzajúcich hovorov, kontrola hlasitosti atď.</string>
+    <string name="HIPS_Perm_CallMonitor_Hint">%1$s aplikácie majú povolenie k monitorovaniu prichádzajúcich a odchádzajúcich hovorov, kontrole hlasitosti atď.</string>
     <string name="HIPS_Perm_CallState">Stav telefónu</string>
     <string name="HIPS_Perm_CallState_Desc">Zistí stav telefónu</string>
     <string name="HIPS_Perm_CallState_Hint">%1$s aplikácie majú povolenie k zisteniu stavu telefónu</string>
@@ -91,7 +91,7 @@
     <string name="HIPS_Perm_Contact_Access">prístup ku kontaktom</string>
     <string name="HIPS_Perm_Contact_Desc">Prístup ku kontaktom</string>
     <string name="HIPS_Perm_Contact_Hint">%1$s aplikácie majú povolenie pre prístup ku kontaktom</string>
-    <string name="HIPS_Perm_EndCall">ukončiť prebiehajúcí hovor</string>
+    <string name="HIPS_Perm_EndCall">ukončiť prebiehajúci hovor</string>
     <string name="HIPS_Perm_GetCallState">zistiť stav hovoru</string>
     <string name="HIPS_Perm_ListenCallState">sledovať stav hovoru</string>
     <string name="HIPS_Perm_Location">Poloha</string>
@@ -119,7 +119,7 @@
     <string name="HIPS_Perm_Network_UnknownAddr">Neznáma adresa</string>
     <string name="HIPS_Perm_Network_WIFIEvent">Použiť wifi sieť</string>
     <string name="HIPS_Perm_PhoneID">Údaje o telefóne</string>
-    <string name="HIPS_Perm_PhoneID_Desc">Zistí ID prístoja, vrátane IMEI, IMSI, atď.</string>
+    <string name="HIPS_Perm_PhoneID_Desc">Zistí ID prístroja, vrátane IMEI, IMSI, atď.</string>
     <string name="HIPS_Perm_PhoneID_Hint">%1$s aplikácie majú povolenie k získaniu údajov o telefóne</string>
     <string name="HIPS_Perm_PhoneID_ICCID">získať sériové číslo SIM karty</string>
     <string name="HIPS_Perm_PhoneID_IMEI">získať IMEI</string>
@@ -160,7 +160,7 @@
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Dôležité upozornenie</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">Prajete si, aby aplikácia %1$s získala root oprávnenia?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT oprávnenie môže spôsobiť nestabilitu systému</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaše súkromé dáta, ako sú účty, heslá a správy by mohli byť ohrozené</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaše súkromné dáta, ako sú účty, heslá a správy by mohli byť ohrozené</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Tiež je možné trvalé poškodenie prístroja</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Použite s opatrne!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Skutočne chcete povoliť aplikácií %1$s získať ROOT oprávnenia?</string>
@@ -173,7 +173,7 @@
     <string name="Privacy_App_Trust">Dôverujem tejto aplikácií</string>
     <string name="Privacy_App_Trust_Summary_Off">MIUI bude túto aplikáciu sledovať</string>
     <string name="Privacy_App_Trust_Summary_On">MIUI bude tejto aplikácií dôverovať</string>
-    <string name="Privacy_App_TrustDialog_Content">MIUI nebude pre túto aplikáciu požadovať žiadné potvrdenie týkajúce sa bezpečnosti a súkromia.</string>
+    <string name="Privacy_App_TrustDialog_Content">MIUI nebude pre túto aplikáciu požadovať žiadne potvrdenie týkajúce sa bezpečnosti a súkromia.</string>
     <string name="Privacy_App_TrustDialog_Title">Dôverovať tejto aplikácií</string>
     <string name="Privacy_App_Uninstall">Odinštalovať</string>
     <string name="Privacy_AppPerm_Count">%1$d oprávnenie</string>

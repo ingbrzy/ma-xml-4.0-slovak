@@ -470,7 +470,7 @@
     <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informácie z niekoľkých účtov. Informácie z účtu len na čítanie budú v zoznamoch kontaktov skryté, 
 		ale nebudú vymazané.</string>
     <string name="readOnlyContactWarning">Z účtu len na čítanie, nie je možné kontakty zmazať, môžete ich však v zoznamoch kontaktov skryť.</string>
-    <string name="recent_contacts_label">Nedávné</string>
+    <string name="recent_contacts_label">Nedávne</string>
     <string name="recent_updates">Nedávne</string>
     <string name="recentCalls_addToContact">Pridať do kontaktov</string>
     <string name="recentCalls_editNumberBeforeCall">Upraviť číslo pred volaním</string>

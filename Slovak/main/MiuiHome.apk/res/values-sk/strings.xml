@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="activity_not_found">Aplikácia nieje v telefóne nainštalovaná.</string>
+    <string name="activity_not_found">Aplikácia nie je v telefóne nainštalovaná.</string>
     <string name="application_name">Spúšťač</string>
     <string name="buffering">Načítavanie...</string>
     <string name="cancel_action">Zrušiť</string>
     <string name="cancel_btn_label">Zrušiť</string>
-    <string name="cant_remove_folder">Nieje možné vymazať zložky, ktoré niesú prázdne</string>
-    <string name="cant_remove_retained_app">Nieje možné vymazať aplikácie prispôsobené Vaším operátorom</string>
-    <string name="cant_remove_system_app">Systémové aplikácie nieje možné odinštalovať</string>
+    <string name="cant_remove_folder">Nie je možné vymazať zložky, ktoré nie sú prázdne</string>
+    <string name="cant_remove_retained_app">Nie je možné vymazať aplikácie prispôsobené Vaším operátorom</string>
+    <string name="cant_remove_system_app">Systémové aplikácie nie je možné odinštalovať</string>
 	<string name="chooser_wallpaper">Vybrať pozadie z</string>    
 	<string name="confirm_btn_label">OK</string>
     <string name="default_folder_title_game">Hry</string>
@@ -23,7 +23,7 @@
     <string name="failed_to_delete_temporary">Vymazanie sa nepodarilo. Skúste to prosím znovu.</string>
     <string name="failed_to_drop">Presun sa nepodaril.</string>
     <string name="failed_to_drop_widget_invalid">Neplatný Widget</string>
-    <string name="failed_to_drop_widget_nospace">Presun sa nepodaril, nieje dostatok miesta!</string>
+    <string name="failed_to_drop_widget_nospace">Presun sa nepodaril, nie je dostatok miesta!</string>
     <string name="folder_name">Zložka</string>
     <string name="gadget_clock_12_label">Hodiny 1x2</string>
     <string name="gadget_clock_22_label">Hodiny 2x2</string>
@@ -34,7 +34,7 @@
     <string name="gadget_photo_24_label">Fotorámček 2x4</string>
     <string name="gadget_photo_44_label">Fotorámček 4x4</string>
     <string name="gadget_weather_app_not_installed">Prosím nainštalujte MIUI počasie</string>
-    <string name="gadget_weather_loading">Žiadné dáta o počasí</string>
+    <string name="gadget_weather_loading">Žiadne dáta o počasí</string>
     <string name="gadget_weather_title_14">Počasie 1X4</string>
     <string name="gadget_weather_title_24">Počasie 2X4</string>
     <string name="gadget_weather_to">Do</string>
@@ -70,7 +70,7 @@
     <string name="photo_confirm">Potvrdiť</string>
     <string name="photo_load_failed">Fotku sa nepodarilo nahrať!</string>
     <string name="pref_cell_layout_size">Rozloženie ikon</string>
-    <string name="pref_enable_drawing_cache_summary">Vypnutím uvolníte pamäť, ale môže sa vyskytnúť spomalenie odozvy</string>
+    <string name="pref_enable_drawing_cache_summary">Vypnutím uvoľníte pamäť, ale môže sa vyskytnúť spomalenie odozvy</string>
     <string name="pref_enable_drawing_cache_title">Cache grafiky</string>
     <string name="pref_icon_shadow_summary">Zapne alebo vypne tiene okolo ikony.</string>
     <string name="pref_icon_shadow_title">Tieň ikon</string>
@@ -89,7 +89,7 @@
     <string name="sort_by_abc">Radiť podľa názvu</string>
     <string name="sort_by_frequency">Radiť podľa frekvencie použitia</string>
     <string name="sort_by_not_defined">Neradiť</string>
-    <string name="start_activity_failed">Aplikáciu sa nepodarilo spustiť,skúste to prosím znovu.</string>
+    <string name="start_activity_failed">Aplikáciu sa nepodarilo spustiť, skúste to prosím znovu.</string>
     <string name="starting_preset_app">Spúšťanie</string>
     <string name="title_select_live_folder">Vybrať zložku</string>
     <string name="title_select_shortcut">Vybrať zástupcu</string>

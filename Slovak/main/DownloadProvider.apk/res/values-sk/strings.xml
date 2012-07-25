@@ -2,9 +2,9 @@
 <resources>
     <string name="app_label">Správca preberania</string>
     <string name="permlab_downloadManager">Získať prístup k správcovi preberania.</string>
-    <string name="permdesc_downloadManager">Umožňuje aplikácii pristupovať k správcovi preberania a použiť ho na preberanie súborov. Škodlivé aplikácie to môžu využiť a narušiť preberanie alebo získať prístup k súkromným informáciam.</string>
+    <string name="permdesc_downloadManager">Umožňuje aplikácii pristupovať k správcovi preberania a použiť ho na preberanie súborov. Škodlivé aplikácie to môžu využiť a narušiť preberanie alebo získať prístup k súkromným informáciám.</string>
     <string name="permlab_downloadManagerAdvanced">Rozšírené funkcie správcu preberania.</string>
-    <string name="permdesc_downloadManagerAdvanced">Umožňuje aplikácii pristupovať k rozšíreným funkciam správcu preberania. Škodlivé aplikácie to môžu využiť a narušiť preberanie alebo získať prístup k súkromným informáciam.</string>
+    <string name="permdesc_downloadManagerAdvanced">Umožňuje aplikácii pristupovať k rozšíreným funkciám správcu preberania. Škodlivé aplikácie to môžu využiť a narušiť preberanie alebo získať prístup k súkromným informáciám.</string>
     <string name="permlab_downloadCompletedIntent">Odoslať upozornenie o prevzatí.</string>
     <string name="permdesc_downloadCompletedIntent">Umožňuje aplikácii odosielať upozornenia na dokončenie preberania. Škodlivé aplikácie môžu pomocou tohto nastavenia zmiasť iné aplikácie, ktoré preberajú súbory.</string>
     <string name="permlab_seeAllExternal">Zobr. preber. do ukl. priestoru USB</string>
@@ -34,8 +34,8 @@ Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa
     <string name="button_cancel_download">Zrušiť</string>
     <string name="button_start_now">Spustiť</string>
     <string name="download_percent">%d %%</string>
-	<string name="dialog_insufficient_space_on_external">Nieje dostatok miesta na externom úložišku</string>
-    <string name="dialog_insufficient_space_on_cache">Nieje dostatok miesta na internom úložisku</string>
+	<string name="dialog_insufficient_space_on_external">Nie je dostatok miesta na externom úložisku</string>
+    <string name="dialog_insufficient_space_on_cache">Nie je dostatok miesta na internom úložisku</string>
 	<string name="download_complete">Sťahovanie dokončené</string>
 	<string name="download_in_process">Sťahujem...</string>
 

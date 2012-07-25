@@ -2,18 +2,18 @@
 <resources>
     <string-array name="transformation_entries">
         <item>Klasický</item>
-        <item>Klasický(bez překmitu)</item>
-        <item>Prolnutí</item>
-        <item>Přetočení</item>
+        <item>Klasický(bez prekmitu)</item>
+        <item>Prelínanie</item>
+        <item>Pretočenie</item>
         <item>Strana</item>
-        <item>Kaskádově</item>
-        <item>3D rotace</item>
-        <item>3D kostka</item>
+        <item>Kaskádovo</item>
+        <item>3D rotácia</item>
+        <item>3D kocka</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Dle tématu</item>
-        <item>Střed</item>
-        <item>Vlevo</item>
+        <item>Podľa tématu</item>
+        <item>Stred</item>
+        <item>Vľavo</item>
         <item>Vpravo</item>
     </string-array>
 	<string-array name="cell_layout_size_entries">
@@ -33,7 +33,7 @@
         <item>Lejaky</item>
         <item>Prehánky</item>
         <item>Mrholenie</item>
-        <item>Dážť so snehom</item>
+        <item>Dážď so snehom</item>
         <item>Snehová fujavica</item>
         <item>Snehová záveje</item>
         <item>Sneh</item>
