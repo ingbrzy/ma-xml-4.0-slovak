@@ -17,7 +17,7 @@
     <string name="brightness_summary">Nastaviť jas obrazovky</string>
     <string name="bt_enable_cancel">Zrušiť</string>
     <string name="cancel">Zrušiť</string>
-    <string name="customer_power_saving_category_title">Vlastný úsporny režim</string>
+    <string name="customer_power_saving_category_title">Vlastný úsporný režim</string>
     <string name="customer_power_saving_title">Vlastné nastavenie úspory energie</string>
     <string name="desk_cradle_summary">Použiť externé reproduktory</string>
     <string name="desk_cradle_title">Režim zvukového výstupu</string>
@@ -37,8 +37,8 @@
     <string name="lockpassword_cancel_label">Zrušiť</string>
     <string name="lockpattern_tutorial_cancel_label">Zrušiť</string>
     <string name="maximum_power_notification">Systémový úsporný režim je povolený</string>
-    <string name="maximum_power_saving_warning">Životnosť batérie je predĺžená, ale výkon je omedzený, jas je nízky. Klepnite na Tipy zníženej spotreby pre viac informácií</string>
-    <string name="maximum_power_summary">Použiť východzie nastavenie pre úsporu energie. Nastavenie bude povolené okamžite</string>
+    <string name="maximum_power_saving_warning">Životnosť batérie je predĺžená, ale výkon je obmedzený, jas je nízky. Klepnite na Tipy zníženej spotreby pre viac informácií</string>
+    <string name="maximum_power_summary">Použiť predvolené nastavenie pre úsporu energie. Nastavenie bude povolené okamžite</string>
     <string name="maximum_power_title">Systémový úsporný režim</string>
     <string name="maximum_saving_mode_title">Systémový úsporný režim</string>
     <string name="nonuse_bluetooth_summary">Vypnúť Bluetooth pokiaľ sa nepoužíva</string>
@@ -46,9 +46,9 @@
     <string name="nonuse_brightness_summary">Upravovať jas obrazovky</string>
     <string name="nonuse_gps_summary">Vypnúť GPS ak sa nepoužíva</string>
     <string name="nonuse_gps_title">Vypnúť GPS</string>
-    <string name="nonuse_sync_summary">Vypnúť synchronizáciu, ak telefón nieje synchronizovaný so servermi</string>
+    <string name="nonuse_sync_summary">Vypnúť synchronizáciu, ak telefón nie je synchronizovaný so servermi</string>
     <string name="nonuse_sync_title">Vypnúť Synchronizáciu</string>
-    <string name="nonuse_wifi_summary">Vypnúť Wi-Fi ak nieje pripojená</string>
+    <string name="nonuse_wifi_summary">Vypnúť Wi-Fi ak nie je pripojená</string>
     <string name="nonuse_wifi_title">Vypnúť Wi-Fi</string>
     <string name="powersavingmode_enabled">Vlastný úsporný režim povolený</string>
     <string name="powersavingmode_pause">Úsporný režim pozastavený</string>
@@ -80,7 +80,7 @@
     <string name="skip_button_label">Zrušiť</string>
     <string name="sync_menu_sync_cancel">Zrušiť synch.</string>
     <string name="system_powersaving_setting_tips">Systémové nastavenia úspory energie</string>
-    <string name="touch_key_light">Podsvetlenie dotykových tlačidiel</string>
+    <string name="touch_key_light">Podsvietenie dotykových tlačidiel</string>
     <string name="touch_key_light_summary">Nastavenie oneskorenia pred automatickým pohasnutím</string>
     <string name="use_custom_saving_mode_summary">Použiť vlastné nastavenie pre úsporu energie. Nastavenie sa aktivuje, keď nabitie batérie je nižšie, ako nastavená hodnota</string>
     <string name="use_custom_saving_mode_title">Vlastný úsporný režim</string>
