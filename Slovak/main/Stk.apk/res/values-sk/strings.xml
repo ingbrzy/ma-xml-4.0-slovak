@@ -19,7 +19,7 @@
     <string name="stk_dialog_title">SIM ToolKit</string>
     <string name="default_open_channel_msg">Otvoriť Kanál?</string>
     <string name="default_send_data_msg">Posielam dáta</string>
-    <string name="default_receive_data_msg">Príjmam dáta</string>
+    <string name="default_receive_data_msg">Prímam dáta</string>
     <string name="default_close_channel_msg">Kanál zatvorený</string>
     <string name="stk_dialog_accept">ÁNO</string>
     <string name="stk_dialog_reject">NIE</string> 

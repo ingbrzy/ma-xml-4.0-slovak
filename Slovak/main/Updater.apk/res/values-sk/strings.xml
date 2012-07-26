@@ -69,7 +69,7 @@
     <string name="no_updates_warning2">Táto aplikácia vás upozorní na nové aktualizácie.</string>
     <string name="paused_queued_for_wifi">Čakanie na Wi-Fi pripojenie...</string>
     <string name="reboot_to_new_system">Reštartovať do novej verzie</string>
-    <string name="sdcard_has_no_space_dialog_body">Na SD karte nie je dostatok voľného miesta, uvolnite ho a aktualizujte znova</string>
+    <string name="sdcard_has_no_space_dialog_body">Na SD karte nie je dostatok voľného miesta, uvoľníte ho a aktualizujte znova</string>
     <string name="sdcard_has_no_space_dialog_title">Na SD karte ostáva málo voľného priestoru</string>
     <string name="sdcard_is_not_present_dialog_body">SD karta nebola pripojená alebo sa z nej nedalo čítať. Prosím skúste to znova.</string>
     <string name="sdcard_is_not_present_dialog_title">SD karta nenájdená</string>
@@ -111,12 +111,12 @@
     <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
     <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
     <string name="recommend">Odporúčané</string>
-    <string name="recommend_comment_hint">Dôvod (volitelné)</string>
+    <string name="recommend_comment_hint">Dôvod (voliteľné)</string>
     <string name="recommend_vote_title">MIUI Beta Team Poll</string>
     <string name="submit">Odoslať</string>
     <string name="submit_fail">Odosielanie zlyhalo</string>
     <string name="submit_progress">Odosielanie...</string>
-    <string name="submit_success">Odoslanie úspešne, ďakujeme!</string>
-    <string name="choose_recommend">Prosím zvolte či odporučiť alebo nie</string>
+    <string name="submit_success">Odoslanie úspešné, ďakujeme!</string>
+    <string name="choose_recommend">Prosím zvoľte či odporučiť alebo nie</string>
     <string name="not_recommend">"Nedoporučujem"</string>
 </resources>

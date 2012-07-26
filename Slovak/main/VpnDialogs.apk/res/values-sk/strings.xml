@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="prompt">Aplikácia %s sa pokúša vytvoriť VPN pripojenie.</string>
-    <string name="warning">Pokračovaním súhlasíte s tým, aby aplikácia mohla sledovať všetku vašu sieťovu prevádzku. <b>Pokiaľ aplikácii nedôverujete, nepokračujte.</b> V opačnom prípade riskujete vystavenie vaších dát škodlivému softvéru.</string>
+    <string name="warning">Pokračovaním súhlasíte s tým, aby aplikácia mohla sledovať všetku vašu sieťovú prevádzku. <b>Pokiaľ aplikácii nedôverujete, nepokračujte.</b> V opačnom prípade riskujete vystavenie vašich dát škodlivému softvéru.</string>
     <string name="accept">Dôverujem tejto aplikácii.</string>
     <string name="legacy_title">VPN sieť je pripojená.</string>
     <string name="configure">Nastaviť</string>

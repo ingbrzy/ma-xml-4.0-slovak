@@ -55,7 +55,7 @@
     <string name="theme_description_title_customized">Vlastné</string>	
     <string name="theme_description_title_default">Predvolené</string>	
     <string name="theme_format_wrong">Nesprávny formát témy!</string>	
-    <string name="theme_format_wrong_content">Formát témy nieje správny</string>	
+    <string name="theme_format_wrong_content">Formát témy nie je správny</string>	
     <string name="theme_changed_failed_message">Nepodarilo sa nastaviť tému.</string>	
     <string name="theme_changed_message">Úspešne aplikované.</string>	
     <string name="theme_changing_dialog_title">Aplikovanie novej témy, prosím čakajte....</string>	
