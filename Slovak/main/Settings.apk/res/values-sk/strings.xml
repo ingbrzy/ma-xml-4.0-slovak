@@ -733,7 +733,8 @@
     <string name="input_methods_and_subtype_enabler_title">Vybrať aktívné metódy vstupu</string>	
     <string name="input_methods_settings_label_format">Nastavenie modulu %1$s</string>	
     <string name="input_methods_settings_title">Zadávanie textu</string>	
-    <string name="install_all_warning">Váš telefón a osobné údaje sú zranitelnejšie voči útokom aplikácií z neznámych zdrojov. Súhlasíte s tým, že nesiete osobnú zodpovednosť za 
+	<string name="input_settings">Nastavenie vstupu</string>    
+	<string name="install_all_warning">Váš telefón a osobné údaje sú zranitelnejšie voči útokom aplikácií z neznámych zdrojov. Súhlasíte s tým, že nesiete osobnú zodpovednosť za 
 		akékoľvek škody spôsobené na vašom telefóne alebo za stratu dát v dôsledku používania týchto aplikácií.</string>	
     <string name="install_applications">Neznáme zdroje</string>	
     <string name="install_unknown_applications">Povoliť inštaláciu aplikácií, ktoré nepochádzajú zo služby Market</string>	
@@ -1237,7 +1238,8 @@
     <string name="show_cpu_usage_summary">Prekrývajúca vrstva s aktuálnym využitím procesoru</string>	
     <string name="show_fc">Zobrazovať pády aplikácií</string>	
     <string name="show_fc_summary">Zobrazovať informácie o pádoch aplikácií</string>	
-    <string name="show_owner_info_on_lockscreen_label">Zobrazovať vlastníka na zamknutéj obrazovke</string>	
+	<string name="show_magnifier_when_input">Ukázať lupu</string>    
+	<string name="show_owner_info_on_lockscreen_label">Zobrazovať vlastníka na zamknutéj obrazovke</string>	
     <string name="show_password">Zobraziť hesla</string>	
     <string name="show_password_summary" />	
     <string name="show_rounded_corners">Zobraziť zaoblené rohy</string>	

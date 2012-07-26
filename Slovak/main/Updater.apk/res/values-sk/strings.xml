@@ -110,4 +110,13 @@
     <string name="weekly_build">Týždenné zostavenia</string>
     <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
     <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
+    <string name="recommend">Odporúčané</string>
+    <string name="recommend_comment_hint">Dôvod (volitelné)</string>
+    <string name="recommend_vote_title">MIUI Beta Team Poll</string>
+    <string name="submit">Odoslať</string>
+    <string name="submit_fail">Odosielanie zlyhalo</string>
+    <string name="submit_progress">Odosielanie...</string>
+    <string name="submit_success">Odoslanie úspešne, ďakujeme!</string>
+    <string name="choose_recommend">Prosím zvolte či odporučiť alebo nie</string>
+    <string name="not_recommend">"Nedoporučujem"</string>
 </resources>
