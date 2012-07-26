@@ -12,11 +12,11 @@
     <string name="call_record_folder_name">Zoznam volaní</string>
     <string name="delete_remind_time_message">Pripomenutie úspešne vymazané</string>
 	<string name="default_folder_name">Poznámky</string>
-    <string name="error_note_empty_for_clock">Nieje možné nastaviť hodiny na prázdnej poznámke</string>
-    <string name="error_note_empty_for_send_to_desktop">Nieje možné poslať prázdnu poznámku na plochu</string>
+    <string name="error_note_empty_for_clock">Nie je možné nastaviť hodiny na prázdnej poznámke</string>
+    <string name="error_note_empty_for_send_to_desktop">Nie je možné poslať prázdnu poznámku na plochu</string>
     <string name="error_note_not_exist">Poznámka neexistuje</string>
     <string name="error_sdcard_export">Export zlyhal, skontrolujte SD kartu</string>
-    <string name="error_sdcard_unmounted">SD karta je zaneprázdnená a nieje k dispozicií</string>
+    <string name="error_sdcard_unmounted">SD karta je zaneprázdnená a nie je k dispozícií</string>
     <string name="error_sync_cancelled">Synchronizácia bola zrušená</string>
     <string name="error_sync_internal">Synchronizácia zlyhala, vnútorná chyba</string>
     <string name="error_sync_network">Synchronizácia zlyhala, skontrolujte stav siete a nastavenie účtu</string>
@@ -77,7 +77,7 @@
     <string name="preferences_button_sync_immediately">Synchronizovať teraz</string>
     <string name="preferences_dialog_change_account_title">Aktuálny účet %1$s</string>
     <string name="preferences_dialog_change_account_warn_msg">Všetky informácie týkajúce sa synchronizácie budú odstránené, čo môže mať za následok duplicitné položky.</string>
-    <string name="preferences_dialog_select_account_tips">Prosím, vyberte účet Google. Miestné poznámky budú synchronizované s Google Task.</string>
+    <string name="preferences_dialog_select_account_tips">Prosím, vyberte účet Google. Miestne poznámky budú synchronizované s Google Task.</string>
     <string name="preferences_dialog_select_account_title">Synchronizácia poznámok</string>
     <string name="preferences_last_sync_time">Posledná synchronizácia %1$s</string>
     <string name="preferences_last_sync_time_format">dd.MM.yyyy hh:mm:ss</string>
@@ -85,7 +85,7 @@
     <string name="preferences_menu_change_account">Zmeniť účet synchronizácie</string>
     <string name="preferences_menu_remove_account">Vymazať účet synchronizácie</string>
     <string name="preferences_title">Nastavenie</string>
-    <string name="preferences_toast_cannot_change_account">Nieje možné zmeniť účet, pretože prebiehá synchronizácia</string>
+    <string name="preferences_toast_cannot_change_account">Nie je možné zmeniť účet, pretože prebieha synchronizácia</string>
     <string name="preferences_toast_success_set_accout">%1$s bol nastavený ako účet pre synchronizáciu</string>
     <string name="search">Poznámky</string>
     <string name="search_hint">Prehľadanie poznámok</string>
@@ -95,13 +95,13 @@
     <string name="set_remind_time_message">Nastaviť pripomenutie</string>
     <string name="success_sdcard_export">Export úspešný</string>
     <string name="success_sync_account">Synchronizácia s účtom %1$s bola úspešná</string>
-    <string name="sync_progress_init_list">Získavám zoznam vzdialených poznámok...</string>
+    <string name="sync_progress_init_list">Získavam zoznam vzdialených poznámok...</string>
     <string name="sync_progress_login">Prihlásenie k %1$s...</string>
     <string name="sync_progress_syncing">Synchronizujem poznámky s Google Task...</string>
     <string name="ticker_cancel">Synchronizácia bola zrušená</string>
     <string name="ticker_fail">Synchronizácia bola neúspešná</string>
     <string name="ticker_success">Synchronizácia bola úspešná</string>
     <string name="ticker_syncing">Synchronizácia poznámok...</string>
-    <string name="widget_havenot_content">Žiadná poznámka nieje vytvorená.</string>
-    <string name="widget_under_visit_mode">Režim Súkromie, nieje možné zobraziť obsah poznámky</string>
+    <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
+    <string name="widget_under_visit_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
 </resources>

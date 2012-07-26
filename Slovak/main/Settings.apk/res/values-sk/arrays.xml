@@ -88,11 +88,11 @@
         <item>1.30</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Velmi pomalá</item>
+        <item>Veľmi pomalá</item>
         <item>Pomalá</item>
         <item>Bežná</item>
-        <item>Rýchlá</item>
-        <item>Velmi rýchla</item>
+        <item>Rýchla</item>
+        <item>Veľmi rýchla</item>
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
@@ -102,7 +102,7 @@
         <item>200</item>
     </string-array>
     <string-array name="tts_pitch_entries">
-        <item>Velmi nízka</item>
+        <item>Veľmi nízka</item>
         <item>Nízka</item>
         <item>Bežná</item>
         <item>Vysoká</item>
@@ -236,7 +236,7 @@
         <item>TTLS</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>Žiadné</item>
+        <item>Žiadne</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
@@ -253,7 +253,7 @@
         <item>Statická</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>Žiadné</item>
+        <item>Žiadne</item>
         <item>Ručne</item>
     </string-array>
     <string-array name="emergency_tone_entries">
@@ -327,7 +327,7 @@
         <item>mute</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Krátké</item>
+        <item>Krátke</item>
         <item>Stredné</item>
         <item>Dlhé</item>
     </string-array>
@@ -449,7 +449,7 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graficky</item>
-        <item>Percentí</item>
+        <item>Percentá</item>
         <item>Linka nad oznamovacou lištou</item>
     </string-array>
     <string-array name="battery_indicator_style_values">
