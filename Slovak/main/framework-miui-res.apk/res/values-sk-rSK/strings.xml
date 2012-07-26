@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  	<string name="all_resources">Všetko</string>
-	<string name="arbor_day"/>
+	<string name="all_resources">Všetko</string>  	
+  	<string name="arbor_day"/>
     <string name="autumn_begins"/>
     <string name="autumn_equinox"/>  
   	<string name="callNoAnswerTimeFormat">Zvonil %s krát</string>
@@ -244,28 +244,28 @@
 	<string name="day_of_month">" %d"</string> 
     <string name="date_day">E</string>
     <string name="delete">Zmazať</string>
-  <string name="description_author">Autor:</string>
-  <string name="description_designer">Návrhár:</string>
-  <string name="description_download">Download:</string>
-  <string name="description_file">Súbor:</string>
-  <string name="description_missed">N/A</string>
-  <string name="description_modifiedtime">Upravený:</string>
-  <string name="description_size">Veľkosť:</string>
-  <string name="description_unknown">Neznámy</string>
-  <string name="description_version">Verzia:</string>
-  <string name="double_seventh_day">77</string>  
-  <string name="download_failed">Sťahovanie neúspešné</string>
-  <string name="download_preview_failed">Sťahovanie náhľadu neúspešné</string> 
-  <string name="firewall_setting">Režim Nerušiť</string>
-  <string name="first_back_long_press_message">"Prajete si, aby na ukončili aplikácie stlačením a podržaním tlačidla späť? Zapnúť v Nastavenia> Systém> HW 
-    tlačidlá"</string> 
-  <string name="first_back_long_press_title">Dlhé stlačenie klávesy Späť</string>
-  <string name="fools_day">"Prvý Apríl"</string>  
-  <string name="force_exit_message">Úspešne zabitá aplikácia \"%1$s\"</string>
-  <string name="global_action_privacy_mode_dialog_message">V móde návštevník sú hovory, poznámky, galéria a sms sú skryté a plochu nie je možno upravovať.</string>
-  <string name="global_action_privacy_mode_off_status">Režim návštevník je Vypnutý</string>
-  <string name="global_action_privacy_mode_on_status">Režim návštevník je Zapnutý</string>
-  <string name="global_action_privacy_mode_on_toast">Režim návštevník je zapnutý. Hovory, poznámky, galéria a sms sú skryté a plochu nie je možno 
+ 	<string name="description_author">Autor:</string>
+  	<string name="description_designer">Návrhár:</string>
+  	<string name="description_download">Download:</string>
+  	<string name="description_file">Súbor:</string>
+  	<string name="description_missed">N/A</string>
+  	<string name="description_modifiedtime">Upravený:</string>
+  	<string name="description_size">Veľkosť:</string>
+  	<string name="description_unknown">Neznámy</string>
+  	<string name="description_version">Verzia:</string>
+  	<string name="double_seventh_day">77</string>  
+  	<string name="download_failed">Sťahovanie neúspešné</string>
+  	<string name="download_preview_failed">Sťahovanie náhľadu neúspešné</string> 
+  	<string name="firewall_setting">Režim Nerušiť</string>
+  	<string name="first_back_long_press_message">"Prajete si, aby na ukončili aplikácie stlačením a podržaním tlačidla späť? Zapnúť v Nastavenia> Systém> HW 
+    	tlačidlá"</string> 
+  	<string name="first_back_long_press_title">Dlhé stlačenie klávesy Späť</string>
+  	<string name="fools_day">"Prvý Apríl"</string>  
+  	<string name="force_exit_message">Úspešne zabitá aplikácia \"%1$s\"</string>
+  	<string name="global_action_privacy_mode_dialog_message">V móde návštevník sú hovory, poznámky, galéria a sms sú skryté a plochu nie je možno upravovať.</string>
+  	<string name="global_action_privacy_mode_off_status">Režim návštevník je Vypnutý</string>
+  	<string name="global_action_privacy_mode_on_status">Režim návštevník je Zapnutý</string>
+  	<string name="global_action_privacy_mode_on_toast">Režim návštevník je zapnutý. Hovory, poznámky, galéria a sms sú skryté a plochu nie je možno 
 	upravovať.</string>
   <string name="global_action_toggle_privacy_mode">Návštevník</string>
   <string name="grain_buds"/>
@@ -281,12 +281,12 @@
   <string name="hoar_frost_falls"/>
   <string name="insects_awaken"/>
   <string name="international_womens_day"/> 
-  <string name="invalid_url">Neplatná URL súboru</string>
+  <string name="invalid_url">Neplatná URL:</string>
   <string name="keyguard_incorrect_pin_with_retry_count">Ostáva %d pokusov</string>
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/> 
-  <string name="loading">Nahrávanie</string>
+  <string name="loading">Nahrávanie...</string>
   <string name="lock_screen_date">d. MMMM EEEE</string>  
   <string name="lockscreen_call_bottom_hint">Posunutím dole zobrazíte Telefonovanie</string>
   <string name="lockscreen_sms_bottom_hint">Posunutím dole zobrazíte Konverzácie</string>
@@ -345,7 +345,7 @@
   <string name="perm_activate_dspt">Pošlite SMS pre aktiváciu služby Xiaomi</string>
   <string name="payphone">Telefónny automat</string>
   <string name="private_num">Súkromné číslo</string>
-  <string name="processing">Spracovávam ...</string>
+  <string name="processing">Spracovávam...</string>
   <string name="reboot_confirm">Telefón sa reštartuje</string>
   <string name="reboot_progress">Reštartujem...</string>
   <string name="resource_alarm_default">Alarm</string>
@@ -359,8 +359,8 @@
   <string name="resource_download">Stiahnuť</string>
   <string name="resource_downloaded_title">Stiahnuť</string>
   <string name="resource_downloading">Sťahovanie</string>
-  <string name="resource_local">Miestne %1$s</string>
-  <string name="resource_mute">žiadne</string>
+  <string name="resource_local">%1$s</string>
+  <string name="resource_mute">Žiadne</string>
   <string name="resource_notification_default">Notifikácie</string>
   <string name="resource_online">Online %1$s</string>
   <string name="resource_ringtone_default">Vyzváňanie</string>
