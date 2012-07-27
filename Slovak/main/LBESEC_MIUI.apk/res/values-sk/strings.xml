@@ -162,7 +162,7 @@
     <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT oprávnenie môže spôsobiť nestabilitu systému</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaše súkromné dáta, ako sú účty, heslá a správy by mohli byť ohrozené</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Tiež je možné trvalé poškodenie prístroja</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step5">Použite s opatrne!</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step5">Používajte opatrne!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Skutočne chcete povoliť aplikácií %1$s získať ROOT oprávnenia?</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s sa pokúša %2$s</string>
     <string name="Privacy_App_Finish">Dokončiť</string>
