@@ -58,7 +58,7 @@
     <string name="directory_searching_fmt">Vyhľadávanie na webe %s…</string>
     <string name="discard_label">Zrušiť</string>
     <string name="dismiss_all_label">Zavrieť všetko</string>
-    <string name="does_not_repeat">Jednorázová udalosť</string>
+    <string name="does_not_repeat">Jednorazová udalosť</string>
     <string name="edit_event_all_day_label">Celý deň</string>
     <string name="edit_event_calendar_label">Kalendár</string>
     <string name="edit_event_from_label">Od</string>

@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Správca oprávnenia</string>
     <string name="Dashboard_App">Aplikácie</string>
-    <string name="Dashboard_HIPS_Disable_Content">Vypnutie zastaví sledovanie požiadaviek od aplikácií. Tym pádom MIUI prestane chrániť Vašu bezpečnosť a súkromie. Určite chcete sledovanie vypnúť?</string>
+    <string name="Dashboard_HIPS_Disable_Content">Vypnutie zastaví sledovanie požiadaviek od aplikácií. Tým pádom MIUI prestane chrániť Vašu bezpečnosť a súkromie. Určite chcete sledovanie vypnúť?</string>
     <string name="Dashboard_HIPS_Disable_Title">Sledovanie oprávnení</string>
     <string name="Dashboard_Log">Logy</string>
     <string name="Dashboard_Log_Clear_Content">Všetky logy budú vymazané. Skutočne chcete pokračovať?</string>
@@ -140,7 +140,7 @@
     <string name="HIPS_Perm_SendSMS_Port">Cieľový port:</string>
     <string name="HIPS_Perm_SendSMS_Recipient">Príjemca:</string>
     <string name="HIPS_Perm_SendSMS_SMSC">SMS Centrum:</string>
-    <string name="HIPS_Perm_SendSMS_SMSC_Default">Východzie SMS centrum</string>
+    <string name="HIPS_Perm_SendSMS_SMSC_Default">Predvolené SMS centrum</string>
     <string name="HIPS_Perm_SendSMS_Text">poslať SMS %1$s</string>
     <string name="HIPS_Perm_SilenceRinger">stíšiť zvonenie</string>
     <string name="HIPS_Perm_SMS">SMS</string>

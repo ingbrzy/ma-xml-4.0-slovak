@@ -85,7 +85,7 @@ Zvolená záloha bude odstránená. Naozaj chcete pokračovať?"</string>
 	<string name="task_stopped_exception">Operácia bola zastavená</string>	
 	<string name="sdcard_no_enough_space">Nedostatok miesta na SD karte, uvoľnite miesto a skúste to znova</string>
     <string name="sdcard_no_enough_space_message">Zálohovanie môže byť neúspešné, uvoľnite miesto na SD karte a skúste to znova</string>
-	<string name="data_no_enough_space">K dispozícii nie je dostatok miesta, uvolníte miesto a skúste to znova</string>
+	<string name="data_no_enough_space">K dispozícii nie je dostatok miesta, uvoľníte miesto a skúste to znova</string>
     <string name="data_no_enough_space_message">Obnovenie môže zlyhať, uvoľnite miesto vo vnútornej pamäti a akciu opakujte</string>
 	<string name="task_running_hint">Služba už beží na pozadí, skúste obnovu neskôr!</string>
     <string name="task_running_dialog">Zálohovanie a obnova dát na pozadí prebieha, pre zobrazenie stlačte ANO!</string>    
@@ -137,7 +137,7 @@ Prerušenie môže viesť k poškodeniu dát"</string>
 	<string name="cloud_last_backup">Posledná záloha:</string>
 	<string name="cloud_search">Hľadanie..</string>
 	<string name="cloud_no_backup">Žiadna záloha</string>
-	<string name="current_account">Súčasný účet:%s</string>
+	<string name="current_account">Súčasný účet: %s</string>
     <string name="current_sim">Súčasná SIM</string>
 	<string name="date_format">yyyy MM dd HH:mm:ss</string>
 	<string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>

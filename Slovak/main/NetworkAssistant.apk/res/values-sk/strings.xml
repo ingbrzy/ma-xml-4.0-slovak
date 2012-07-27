@@ -101,9 +101,9 @@ Môžete ich upraviť."</string>
     <string name="sync_fail_notify_detail">Spätná podpora od operátora nebola prijatá, skúste to znovu</string>	
     <string name="sync_fail_notify_title">Dotaz zlyhal</string>
 	<string name="sync_setting_city">Synchronizácia z lokalizácia</string>	
-    <string name="sync_traffic_fail_message">Dotaz na operátora zlyhal, možno je server zaneprázdnený. Skúste to prosím neskôr, alebo zavolajte na zákaznicku podporu</string>	
+    <string name="sync_traffic_fail_message">Dotaz na operátora zlyhal, možno je server zaneprázdnený. Skúste to prosím neskôr, alebo zavolajte na zákaznícku podporu</string>	
     <string name="sync_traffic_fail_title">Dotaz zlyhal</string>	
-    <string name="sync_traffic_ing">Získavám od operátora,prosím čakajte …</string>	
+    <string name="sync_traffic_ing">Získavam od operátora,prosím čakajte …</string>	
     <string name="sync_traffic_success">"Získané dáta od operátora, prevádzka upravená"</string>	
     <string name="this_month">Tento mesiac</string>	
     <string name="today">Dnes</string>	
@@ -113,8 +113,8 @@ Môžete ich upraviť."</string>
     <string name="traffic_settings_error">Chyba nastavenia balíčku. Vami nastavený dátový balíček je %1$s, ale správa od operátora udáva, že ostáva %2$s.</string>	
     <string name="traffic_suffix">Prevádzka</string>	
     <string name="traffic_suffix_with_uint">Prevádzka(MB)</string>	
-    <string name="traffic_total">Dátový balíček:%s</string>	
-    <string name="traffic_used_status">Využité:%s</string>	
+    <string name="traffic_total">Dátový balíček: %s</string>	
+    <string name="traffic_used_status">Využité: %s</string>	
     <string name="traffic_widget_name">Monitoring siete (1x2)</string>	
     <string name="unknown_free_traffic_hint">"Pokiaľ nepoznáte veľkosť svojho dátového balíčku, prosím zavolajte operátorovi"</string>	
     <string name="unknown_free_traffic_text">"Nepoznáte svoj dátový balíček?"</string>	

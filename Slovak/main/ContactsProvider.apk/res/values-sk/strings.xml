@@ -3,7 +3,7 @@
     <string name="sharedUserLabel">Android Core Apps</string>
     <string name="app_label">Úložisko kontaktov</string>
     <string name="provider_label">Kontakty</string>
-    <string name="upgrade_msg">Aktualizácia databázi kontaktov.</string>
+    <string name="upgrade_msg">Aktualizácia databázy kontaktov.</string>
     <string name="upgrade_out_of_memory_notification_ticker">Upgrade kontaktu vyžaduje viac pamäti</string>
     <string name="upgrade_out_of_memory_notification_title">Nedostatok pamäti pre upgrade kontaktov</string>
     <string name="upgrade_out_of_memory_notification_text">Výberom tejto možnosti dokončíte upgrade.</string>

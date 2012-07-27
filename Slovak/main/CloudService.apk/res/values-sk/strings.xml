@@ -22,7 +22,7 @@
   <string name="by_email">Použiť email</string>
   <string name="by_mobile">Použiť telefón</string>
   <string name="create_now">Vytvoriť</string>
-  <string name="disable_mitalk_dialog_message">Nebudete môcť chatovat s priateľmi cez MiTalk, ste si istý, že chcete vypnúť synchronizáciu mezi MiTalk a Kontaktmi? Tip: Pre vypnutie môžete Váš MiTalk účet zmeniť alebo zrušiť v nastaveniach MiTalk</string>
+  <string name="disable_mitalk_dialog_message">Nebudete môcť chatovat s priateľmi cez MiTalk, ste si istý, že chcete vypnúť synchronizáciu medzi MiTalk a Kontaktmi? Tip: Pre vypnutie môžete Váš MiTalk účet zmeniť alebo zrušiť v nastaveniach MiTalk</string>
   <string name="disable_mitalk_dialog_title">Zakázať synchronizáciu s MiTalk</string>
   <string name="email_not_verified">E-mail nebol overený</string>
   <string name="enable_mitalk_dialog_message">Budete prihlásený do MiTalk so systémovým účtom. Ak je odlišný od aktuálneho MiTalk ID, Vaše dáta budú vymazané. Potvrdiť?</string>
@@ -45,7 +45,7 @@
   <string name="mobile_hint_text">Prosím vložte platné telefónne číslo</string>
   <string name="must_input">Povinné pole</string>
   <string name="my_account">Môj profil MIUI</string>
-  <string name="network_error">Chyba pripojenia k sieti, prosím skontrolujte, či sú data aktívne</string>
+  <string name="network_error">Chyba pripojenia k sieti, prosím skontrolujte, či sú dáta aktívne</string>
   <string name="new_account">Vytvoriť účet</string>
   <string name="next">Ďalšie</string>
   <string name="nickname">Meno/Prezývka:</string>
@@ -100,6 +100,6 @@
   <string name="vercode">Overovací kód</string>
   <string name="vercode_hint_text">Prosím zadajte overovací kód</string>
   <string name="xiaomi_account">Účet Xiaomi (MIUI)</string>
-  <string name="xiaomi_remove_account_message">Odstránenie účtu vymaže Xiaomi dáta, aplikácie Xiaomi Obchodu a MiTalkTalk (Kontakty, SMS a záznamy hovorov budú zachované). Chcete pokračovať?</string>
+  <string name="xiaomi_remove_account_message">Odstránenie účtu vymaže Xiaomi dáta, aplikácie Xiaomi Obchodu a MiTalk (Kontakty, SMS a záznamy hovorov budú zachované). Chcete pokračovať?</string>
   <string name="xiaomi_remove_account_title">Odstrániť účet Xiaomi (MIUI)</string>
 </resources>

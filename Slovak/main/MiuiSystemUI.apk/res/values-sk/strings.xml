@@ -55,8 +55,8 @@
     <string name="accessibility_wimax_signal_full">WiMAX plný signál.</string>	
     <string name="accessibility_wimax_three_bars">WiMAX tri čiarky.</string>	
     <string name="accessibility_wimax_two_bars">WiMAX dve čiarky.</string>	
-    <string name="always_use_accessory">Použiť ako východzie pre toto USB príslušenstvo</string>	
-    <string name="always_use_device">Použiť ako východzie pre toto USB zariadenie</string>	
+    <string name="always_use_accessory">Použiť ako predvolené pre toto USB príslušenstvo</string>	
+    <string name="always_use_device">Použiť ako predvolené pre toto USB zariadenie</string>	
     <string name="app_label">System UI</string>	
     <string name="battery_low_percent_format">ostáva %d%%</string>	
     <string name="battery_low_subtitle">Batéria je skoro vybitá</string>	
@@ -79,8 +79,8 @@
     <string name="chooseUsbActivity">Zvoľte aplikáciu pre USB zariadenie</string>	
     <string name="compat_mode_help_body">Ak bola aplikácia navrhnutá pre menšiu obrazovku, bude vedľa hodín zobrazené ovládanie zoomu.</string>	
     <string name="compat_mode_help_header">Kompatibilný zoom</string>	
-    <string name="compat_mode_off">Roztiahnuť pre vypĺnenie obrazovky</string>	
-    <string name="compat_mode_on">Zväčšiť pre vypĺnenie obrazovky</string>	
+    <string name="compat_mode_off">Roztiahnuť pre vyplnenie obrazovky</string>	
+    <string name="compat_mode_on">Zväčšiť pre vyplnenie obrazovky</string>	
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>	
     <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>	
     <string name="data_usage_disabled_dialog">"Bol dosiahnutý dátový limit. Ďalšie použitie dátového pripojenia se môže prejaviť na výške Vášho vyúčtovania."</string>	
@@ -110,7 +110,7 @@
     <string name="gps_notification_searching_text">Hľadanie GPS pozície</string>	
     <string name="incoming_call_vibrate_hint">Prichádzajúci hovor</string>	
     <string name="installer_cd_button_title">Nainštalovať aplikáciu Android File Transfer pre Mac</string>	
-    <string name="invalid_charger">"Nabíjanie z USB nieje podporované. Použite sieťovú nabíjačku."</string>	
+    <string name="invalid_charger">"Nabíjanie z USB nie je podporované. Použite sieťovú nabíjačku."</string>	
     <string name="key_position_custom">Vlastná pozícia tlačítka</string>	
     <string name="label_view">Zobraziť</string>	
     <string name="lockscreen_carrier_default">Bez signálu</string>	
@@ -175,9 +175,9 @@
     <string name="settings_toggle_layout_style_compact">Kompaktný</string>	
     <string name="settings_toggle_layout_style_single_page">Stránka</string>	
     <string name="settings_toggle_position">"Upraviť pozíciu prepínačov"</string>	
-    <string name="settings_toggle_position_divider_list">Prepínače nad čiarou su aktívne</string>	
+    <string name="settings_toggle_position_divider_list">Prepínače nad čiarou sú aktívne</string>	
     <string name="settings_toggle_position_divider_page">%1$d prepínačov nad čiarou je aktívnych</string>	
-    <string name="settings_toggle_position_reset">Obnoviť východzie nastavenia</string>	
+    <string name="settings_toggle_position_reset">Obnoviť predvolené nastavenia</string>	
     <string name="status_bar_accessibility_dismiss_recents">Zavrieť nedávne aplikácie</string>	
     <string name="status_bar_clear_all_button">Vyčistiť</string>	
     <string name="status_bar_date_format">d.MMMM yyyy</string>	

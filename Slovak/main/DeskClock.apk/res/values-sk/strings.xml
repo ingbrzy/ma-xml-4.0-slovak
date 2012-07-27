@@ -40,7 +40,7 @@
     <string name="day_concat">", "</string>
     <string name="days">%s dní</string>
     <string name="default_label">Budík</string>
-    <string name="default_ringtone_setting_title">Nastavenie východzieho vyzváňania</string>
+    <string name="default_ringtone_setting_title">Nastavenie predvoleného vyzváňania</string>
     <string name="delelte_selected_timezone">Naozaj chcete vymazať vybrané časové zóny?</string>
     <string name="delete">Vymazať</string>
     <string name="delete_alarm">Vymazať budík</string>

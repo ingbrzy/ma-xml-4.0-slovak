@@ -351,7 +351,7 @@
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_apply">Použiť</string>
   <string name="resource_can_not_selected">%1$s nemôže byť zvolené!</string>
-  <string name="resource_default">Východzie zvonenie</string>
+  <string name="resource_default">Predvolené zvonenie</string>
   <string name="resource_default_name">Zdroje</string>
   <string name="resource_delete_all">Naozaj chcete zmazať %1$d vybraných položiek?</string>
   <string name="resource_delete_confirm">Ste si istý, že chcete zmazať?</string>
@@ -399,7 +399,7 @@
   <string name="the_rains" />
   <string name="the_spring_festival" />  
   <string name="unknown">Neznáme číslo</string>
-  <string name="user_agreement1">Budete používať systém a služby poskytované spoločnosťou Xiaomi, prosím přečítajte si </string>
+  <string name="user_agreement1">Budete používať systém a služby poskytované spoločnosťou Xiaomi, prosím prečítajte si </string>
   <string name="user_agreement2">podmienky používania</string>
   <string name="user_agreement3">" a "</string>
   <string name="user_agreement4">ochrane osobných údajov</string>

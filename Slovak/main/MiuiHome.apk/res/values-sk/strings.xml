@@ -57,7 +57,7 @@
     <string name="menu_sort">Zoradiť ikony na ploche</string>
     <string name="menu_wallpaper">Tapeta</string>
     <string name="menu_workspace_preview">Náhľad</string>
-    <string name="out_of_space">Na tejto ploche už nieje miesto.</string>
+    <string name="out_of_space">Na tejto ploche už nie je miesto.</string>
     <string name="permdesc_install_shortcut">Povoľuje aplikácií pridať zástupcu bez zásahu užívateľa.</string>
     <string name="permdesc_read_settings">Povoľuje aplikácií čítať nastavenia a zástupcov plochy.</string>
     <string name="permdesc_uninstall_shortcut">Povoľuje aplikácií odstrániť zástupcov bez zásahu užívateľa.</string>
@@ -103,7 +103,7 @@
     <string name="transformation_type_stack">Stoh</string>
     <string name="uninstall">Odinštalovať</string>
     <string name="uninstall_body_format">Odinštalovať aplikáciu \"%s\"?</string>
-    <string name="unknown_artist_name">Neznámy interprét</string>
+    <string name="unknown_artist_name">Neznámy interpret</string>
     <string name="wallpaper_scrolling">všetko</string>
     <string name="widget_favorite_contacts_edit">Editor</string>
     <string name="widget_favorite_contacts_label">Obľúbené</string>

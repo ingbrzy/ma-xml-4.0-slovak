@@ -26,7 +26,7 @@
   <string name="search_sources">Vyhľadateľné položky</string>
   <string name="search_sources_summary">Vyberte si, čo hľadať v telefóne</string>
   <string name="clear_shortcuts">Vymazať históriu v zariadení</string>
-  <string name="clear_shortcuts_summary">Vymazať históriu nejčastejších zvolených návrhov</string>
+  <string name="clear_shortcuts_summary">Vymazať históriu najčastejších zvolených návrhov</string>
   <string name="clear_shortcuts_prompt">"Vymaže históriu nedávno vybraných návrhov pre obsah a aplikácie v tomto zariadení.(Pro vymazanie histórie prehliadača použite Nastavenie v aplikácií Prehliadač.)"</string>
   <string name="clear_shortcuts_agree">Vymazať históriu</string>
   <string name="clear_shortcuts_disagree">"Nemazať zástupcov"</string>

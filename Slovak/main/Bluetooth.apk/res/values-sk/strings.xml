@@ -45,7 +45,7 @@
     <string name="download_success">%1$s príjem dokončený.</string>
     <string name="download_title">Prenos súborov</string>
     <string name="enabling_progress_content">Zapínam Bluetooth…</string>
-    <string name="enabling_progress_title">Prosím čakejte…</string>
+    <string name="enabling_progress_title">Prosím čakajte…</string>
     <string name="hello">Ahoj svet, TestActivity</string>
     <string name="inbound_history_title">Prichádzajúce prenosy</string>
     <string name="inbound_noti_title">Bluetooth zdieľanie: Prijímanie súborov</string>
@@ -90,7 +90,7 @@ Prijať súbor?"</string>
     <string name="status_canceled">Tento prenos bol zrušený užívateľom</string>
     <string name="status_connection_error">Spojenie zlyhalo</string>
     <string name="status_file_error">Problém s úložiskom</string>
-    <string name="status_forbidden">Tento prenos bol zakazaný cieľovým zariadením</string>
+    <string name="status_forbidden">Tento prenos bol zakázaný cieľovým zariadením</string>
     <string name="status_no_sd_card">Žiadna SD karta. Vložte SD kartu.</string>
     <string name="status_not_accept">Telefón nemôže rozoznať tento typ súboru</string>
     <string name="status_pending">Prenos súboru nebol doposiaľ spustený</string>

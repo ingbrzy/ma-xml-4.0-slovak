@@ -445,7 +445,7 @@
     <string name="cdma_security_settings_summary">Nastavenie funkcie Moja poloha, odomknutie obrazovky a zamknutie úložiska poverení</string>	
     <string name="checkbox_notification_same_as_incoming_call">Použije hlasitosť príchodzích hovorov tiež pre oznámenia</string>	
     <string name="choose_timezone">Vybrať časové pásmo</string>	
-	<string name="clear_activities">Vymazať východzie nastavenie</string>	
+	<string name="clear_activities">Vymazať predvolené nastavenie</string>	
     <string name="clear_cache_btn_text">Vymazať medzipamäť</string>	
     <string name="clear_data_dlg_text">Všetky dáta (všetky súbory, nastavenia, účty, databázi apod.) tieto aplikácie budú trvalo vymazané.</string>	
     <string name="clear_data_dlg_title">Zmazať dáta aplikácie?</string>	
@@ -507,7 +507,7 @@
     <string name="cryptkeeper_emergency_call">Tiesňové volania</string>	
     <string name="cryptkeeper_return_to_call">Späť k hovoru</string>	
     <string name="current_backup_pw_prompt">Sem zadajte aktuálne heslo pre úplné zálohy.</string>	
-    <string name="current_input_method">Východzie</string>	
+    <string name="current_input_method">Predvolené</string>	
     <string name="data_size_label">Dáta</string>	
     <string name="data_summary">Vyberte predplatné pre VoIP volanie</string>	
     <string name="data_title">VoIP hovor</string>	
@@ -535,7 +535,7 @@
     <string name="data_usage_change_cycle">Zmeniť cyklus...</string>	
     <string name="data_usage_label_background">Pozadie</string>	
     <string name="data_usage_label_foreground">Popredie</string>	
-    <string name="data_usage_limit_dialog">"Po dosiahnutí stanoveného limitu bude dátové pripojenie k sieti %1$s zakázané. Pretože se prenesené dáta merajú pomocou telefónu 
+    <string name="data_usage_limit_dialog">"Po dosiahnutí stanoveného limitu bude dátové pripojenie k sieti %1$s zakázané. Pretože sa prenesené dáta merajú pomocou telefónu 
 		a operátor ich môže účtovať odlišne, je vhodné nastaviť nízky limit."</string>	
     <string name="data_usage_limit_dialog_title">Nastavuje sa obmedzenie dátových prenosov</string>	
     <string name="data_usage_limit_editor_title">Nastavenie limitu dátových prenosov</string>	
@@ -584,7 +584,7 @@
     <string name="debug_ui_category">Užívateľské rozhranie</string>	
     <string name="default_date_format">MM/dd/yyyy</string>	
     <string name="default_input_method">Vybrať východziu vstupnú metódu</string>	
-    <string name="default_usb_mode">Východzie USB pripojenie</string>	
+    <string name="default_usb_mode">Predvolené USB pripojenie</string>	
     <string name="delete">Zmazať</string>	
     <string name="details_subtitle">Podrobnosti používania</string>	
     <string name="details_title">Podrobnosti používania</string>	
@@ -904,7 +904,7 @@
     <string name="menu_cancel">Zrušiť</string>	
     <string name="menu_delete">Zmazať názov prístupového bodu</string>	
     <string name="menu_new">Nový názov AP</string>	
-    <string name="menu_restore">Obnoviť východzie</string>	
+    <string name="menu_restore">Obnoviť predvolené</string>	
     <string name="menu_save">Uložiť</string>	
     <string name="menu_stats_last_unplugged">Pri poslednom odpojení pre %1$s</string>	
     <string name="menu_stats_refresh">Obnoviť</string>	
@@ -946,7 +946,7 @@
     <string name="notification_pulse_summary">Keď je prijatá nová notifikácia, zabliká LED dióda</string>	
     <string name="notification_pulse_title">Blikať kontrolkou oznámení</string>	
     <string name="notification_sound_dialog_title">Zvoliť vyzváňací tón oznámení</string>	
-    <string name="notification_sound_title">Východzie oznámenie</string>	
+    <string name="notification_sound_title">Predvolené oznámenie</string>	
     <string name="notification_vibrate_abbreviation">Notifikácie</string>	
     <string name="notification_volume_title">Upozornenie</string>	
     <string name="oem_radio_info_label">Informácie a nastaveniach špecifických pre výrobcu OEM</string>	

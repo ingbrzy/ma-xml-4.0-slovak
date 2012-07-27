@@ -54,7 +54,7 @@
     <string name="firewall_settings_tab_title">Firewall</string>
     <string name="fw_action_settings">Nastavenia firewallu</string>
     <string name="fw_add_keyword">Pridať kľúčové slová k sledovaniu</string>
-    <string name="fw_add_keyword_existing">Kľúčové slovo \"%s\"už existuje</string>
+    <string name="fw_add_keyword_existing">Kľúčové slovo \"%s\" už existuje</string>
     <string name="fw_add_list_title">Zadať telefónne číslo</string>
     <string name="fw_advanced_settings">Pokročilé nastavenia</string>
     <string name="fw_all_day">Denne</string>

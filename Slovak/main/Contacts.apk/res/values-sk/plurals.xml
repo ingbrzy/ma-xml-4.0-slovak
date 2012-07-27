@@ -25,7 +25,7 @@
         <item quantity="one">Nezlúčené</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d skupin</item>
+        <item quantity="other">%0$d skupín</item>
         <item quantity="one">1 skupina</item>
     </plurals>
     <plurals name="num_contacts_in_group">

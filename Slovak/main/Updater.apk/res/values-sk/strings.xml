@@ -58,8 +58,8 @@
     <string name="my_rank">Umiestnenie v rebríčku:</string>
     <string name="network_error">Problém sieťového pripojenia, prosím skúste to znova</string>
     <string name="new_update_content_title">Nová verzia nájdená</string>
-    <string name="new_update_download_complete_body">Nová verzia pripravená na aktualizovanie:%s</string>
-    <string name="new_update_downloading_body">Sťahujem novú verziu:%s</string>
+    <string name="new_update_download_complete_body">Nová verzia pripravená na aktualizovanie: %s</string>
+    <string name="new_update_downloading_body">Sťahujem novú verziu: %s</string>
     <string name="new_updates_found_notification_title">Nájdená nová aktualizácia!</string>
     <string name="new_updates_found_title">Dostupná nová aktualizácia</string>
     <string name="no_proper_updates">Žiadna aktualizácia sa nenašla pre vašu verziu ROM</string>
