@@ -11,7 +11,7 @@
     <string name="access_control_app_entry_multiple">Otvoriť %s</string>	
     <string name="access_control_app_entry_single">Otvoriť zvolenú aplikáciu</string>	
     <string name="access_control_apps_title">Upraviť prístup aplikácií</string>	
-    <string name="access_control_need_password">"%s je zabezpečen(a,é))"</string>	
+    <string name="access_control_need_password">"%s je zabezpečené/ý"</string>	
     <string name="access_control_need_to_unlock">Pre odomknutie požadované heslo</string>	
     <string name="access_control_no_back_footer">Stlačte [ikonu] pre ukončenie</string>	
     <string name="access_control_password_title">Povoliť heslo</string>	
@@ -57,7 +57,7 @@
     <string name="accessibility_tutorial_lesson_1_text_1">Akonáhle zapnete funkciu Prieskum dotykom, môžete dotykom obrazovky zistiť, čo sa nachádza pod prstom. Príklad: Aktuálna obrazovka obsahuje ikony 
 		aplikácií. Dotknete sa obrazovky a posúvajte prstom, pokiaľ niektorú z nich nenájdete.</string>	
     <string name="accessibility_tutorial_lesson_1_text_2_more">Dobre, prechádzajte prstom po obrazovke, pokiaľ nenájdete ešte aspoň jednu ikonu.</string>	
-    <string name="accessibility_tutorial_lesson_1_text_3">Ak chcete aktivovať položku, ktorej se dotýkate, ťuknite na ňu. Prechádzajte prstom, až nájdete ikonu aplikácií %s. Potom ikonu aktivujte jedným 
+    <string name="accessibility_tutorial_lesson_1_text_3">Ak chcete aktivovať položku, ktorej sa dotýkate, ťuknite na ňu. Prechádzajte prstom, až nájdete ikonu aplikácií %s. Potom ikonu aktivujte jedným 
 		ťuknutím.</string>	
     <string name="accessibility_tutorial_lesson_1_text_4">Prst sa nachádza na ikone aplikácie %s. Ikonu aktivujete jedným ťuknutím.</string>	
     <string name="accessibility_tutorial_lesson_1_text_4_exited">Ak ste presunuli prst na ikonu aplikácie %s, ale potom ste ho z ikony presunuli preč, pomaly prechádzajte prstom po obrazovke, pokiaľ znova nenájdete 
@@ -96,13 +96,13 @@
     <string name="all_volume_title">Hlasitosť</string>	
     <string name="allow_mock_location">Povoliť simulovanie polohy</string>	
     <string name="allow_mock_location_summary">Povoliť simulovanie polohy</string>	
-    <string name="android_beam_disabled_summary">Nie je k dispozícií, pretože je vypnuta funkcia NFC</string>	
-    <string name="android_beam_explained">"Pokud je funkce zapnuta, můžete přenášet obsah aplikace do jiného zařízení s funkcí NFC tím, že podržíte zařízení 
-		blízko sebe. Můžete například přenášet stránky prohlížeče, videa YouTube, kontakty a další. Přiložte zařízení k sobě (zpravidla zadní stranou) 
-		a dotkněte se obrazovky. Aplikace určí, jaký obsah se bude přenášet."</string>	
+    <string name="android_beam_disabled_summary">Nie je k dispozícií, pretože je vypnutá funkcia NFC</string>	
+    <string name="android_beam_explained">"Pokiaľ je funkcia zapnutá, môžete prenášať obsah aplikácie do iného zariadenia s funkciou NFC tým, že podržíte zariadenia 
+		blízko seba. Môžete napríklad prenášať stránky prehliadača, videá YouTube, kontakty a ďalšie. Priložte zariadenia k sebe (spravidla zadnou stranou) 
+		a dotknite sa obrazovky. Aplikácia určí, aký obsah sa bude prenášať."</string>	
     <string name="android_beam_label">Android Beam</string>	
     <string name="android_beam_off_summary">Vypnuto</string>	
-    <string name="android_beam_on_summary">Prenos obsahu aplikácie prostrednictvom NFC je pripravený</string>	
+    <string name="android_beam_on_summary">Prenos obsahu aplikácie prostredníctvom NFC je pripravený</string>	
     <string name="android_beam_settings_title">Android Beam</string>	
     <string name="apn_apn">Názov AP</string>	
     <string name="apn_auth_type">Typ overenia</string>	
@@ -276,9 +276,9 @@
     <string name="bluetooth_advanced_titlebar">Pokročilé nastavenie Bluetooth</string>	
     <string name="bluetooth_ask_discovery">Aplikácia v telefóne chce nastaviť telefón do viditeľného režimu pre ostatné zariadenia Bluetooth na %1$d s. Povoliť?</string>	
     <string name="bluetooth_ask_enablement">Aplikácia chce zapnúť pripojenie Bluetooth. Povoliť?</string>	
-    <string name="bluetooth_ask_enablement_and_discovery">Aplikácia v telefóne chce zapnúť pripojenie Bluetooth a nastaviť telefón do viditelného režimu na %1$d s. Povoliť?</string>	
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikácia v telefóne chce zapnúť pripojenie Bluetooth a nastaviť telefón do viditelného režimu. Povoliť?</string>	
-    <string name="bluetooth_ask_lasting_discovery">Aplikácia v telefóne chce trvalo nastaviť telefón do viditelného režimu pre ostatné zariadenia Bluetooth. Povoliť?</string>	
+    <string name="bluetooth_ask_enablement_and_discovery">Aplikácia v telefóne chce zapnúť pripojenie Bluetooth a nastaviť telefón do viditeľného režimu na %1$d s. Povoliť?</string>	
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikácia v telefóne chce zapnúť pripojenie Bluetooth a nastaviť telefón do viditeľného režimu. Povoliť?</string>	
+    <string name="bluetooth_ask_lasting_discovery">Aplikácia v telefóne chce trvalo nastaviť telefón do viditeľného režimu pre ostatné zariadenia Bluetooth. Povoliť?</string>	
     <string name="bluetooth_auto_connect">Automatické pripojenie</string>	
     <string name="bluetooth_confirm_passkey_msg">Párovanie so zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Skontrolujte, či zariadenie zobrazuje tento prístupový 
 		kľúč:&lt;br>&lt;b>%2$s&lt;/b></string>	
@@ -289,7 +289,7 @@
     <string name="bluetooth_connected_no_headset_no_a2dp">Pripojené (žiadny telefón alebo média)</string>	
     <string name="bluetooth_connecting">Pripojovanie...</string>	
     <string name="bluetooth_connecting_error_message">Pri pripojovaní k zariadeniu %1$s došlo k problémom.</string>	
-    <string name="bluetooth_connection_dialog_text">Chcete sa pripojiť k zaríadeniu %1$s?</string>	
+    <string name="bluetooth_connection_dialog_text">Chcete sa pripojiť k zariadeniu %1$s?</string>	
     <string name="bluetooth_connection_notif_message">Klepnutím sa pripojíte k zariadeniu %1$s.</string>	
     <string name="bluetooth_connection_permission_request">Požiadavka na pripojenie zariadenia Bluetooth</string>	
     <string name="bluetooth_default_name">telefón s MIUI</string>	
@@ -308,14 +308,14 @@
     <string name="bluetooth_device_context_unpair">Zrušiť párovanie</string>	
     <string name="bluetooth_device_name">Názov zariadenia</string>	
     <string name="bluetooth_devices">Zariadenia Bluetooth</string>	
-    <string name="bluetooth_disable_profile_message">Toto nastavenie vypne profil:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zařízení:&lt;br>&lt;b>%2$s&lt;/b></string>	
+    <string name="bluetooth_disable_profile_message">Toto nastavenie vypne profil:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zariadenie:&lt;br>&lt;b>%2$s&lt;/b></string>	
     <string name="bluetooth_disable_profile_title">Deaktivovať profil?</string>	
-    <string name="bluetooth_disconnect_a2dp_profile">Zařízení %1$s bude odpojeno od zvuku médií.</string>	
+    <string name="bluetooth_disconnect_a2dp_profile">Zariadenie %1$s bude odpojené od zvuku médií.</string>	
     <string name="bluetooth_disconnect_all_profiles">Týmto spôsobom ukončíte pripojenie k zariadeniu:&lt;br>&lt;b>%1$s&lt;/b></string>	
-    <string name="bluetooth_disconnect_headset_profile">Zařízení %1$s bude odpojeno od zvuku sady handsfree.</string>	
-    <string name="bluetooth_disconnect_hid_profile">Zařízení %1$s bude odpojeno od vstupního zařízení.</string>	
-    <string name="bluetooth_disconnect_pan_nap_profile">Zařízení %1$s bude odpojeno od sdíleného internetového připojení telefonu.</string>	
-    <string name="bluetooth_disconnect_pan_user_profile">Internetové připojení pomocí zařízení %1$s bude odpojeno.</string>	
+    <string name="bluetooth_disconnect_headset_profile">Zariadenie %1$s bude odpojené od zvuku sady handsfree.</string>	
+    <string name="bluetooth_disconnect_hid_profile">Zariadenie %1$s bude odpojené od vstupného zariadenia.</string>	
+    <string name="bluetooth_disconnect_pan_nap_profile">Zariadenie %1$s bude odpojené od zdieľaného internetového pripojenia telefónu.</string>	
+    <string name="bluetooth_disconnect_pan_user_profile">Internetové pripojenie pomocou zariadenia %1$s bude odpojené.</string>	
     <string name="bluetooth_disconnect_title">Odpojiť?</string>	
     <string name="bluetooth_disconnected">Odpojené</string>	
     <string name="bluetooth_disconnecting">Odpojovanie...</string>	
@@ -323,59 +323,59 @@
 		stlačte klávesu Return alebo Enter.</string>	
     <string name="bluetooth_dock_settings">Nastavení doku</string>	
     <string name="bluetooth_dock_settings_a2dp">Pre hudbu a média</string>	
-    <string name="bluetooth_dock_settings_headset">Jako telefon pro hlasitý poslech</string>	
-    <string name="bluetooth_dock_settings_remember">Zapamatovat nastavení</string>	
-    <string name="bluetooth_dock_settings_title">Použít zvuk doku</string>	
-    <string name="bluetooth_empty_list_bluetooth_off">Chcete-li zobrazit zařízení, zapněte Bluetooth.</string>	
+    <string name="bluetooth_dock_settings_headset">Ako telefón pre hlasitý reproduktor</string>	
+    <string name="bluetooth_dock_settings_remember">Zapamätať nastavenie</string>	
+    <string name="bluetooth_dock_settings_title">Použiť zvuk doku</string>	
+    <string name="bluetooth_empty_list_bluetooth_off">Ak chcete zobraziť zariadenia, zapnite Bluetooth.</string>	
     <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena nebo symboly</string>	
-    <string name="bluetooth_enter_passkey_msg">Párování se zařízením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadejte přístupový klíč požadovaný zařízením:</string>	
-    <string name="bluetooth_enter_passkey_other_device">Tento přístupový klíč bude možná nutné zadat i v dalším zařízení.</string>	
-    <string name="bluetooth_enter_pin_msg">Párování se zařízením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadejte kód PIN požadovaný zařízením:</string>	
-	<string name="bluetooth_enter_pin_msg_hs">Na spárovanie so zariadením \"%1$s\". [Zwiększone bezpieczeństwo: wpisz 16 znakowy klucz]</string>
-    <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možná nutné zadat i v dalším zařízení.</string>	
-    <string name="bluetooth_headset_profile_summary_connected">Připojeno k náhlavní soupravě</string>	
-    <string name="bluetooth_headset_profile_summary_use_for">Umožňuje připojení náhlavní soupravy</string>	
-    <string name="bluetooth_hid_profile_summary_connected">Připojeno ke vstupnímu zařízení</string>	
-    <string name="bluetooth_hid_profile_summary_use_for">Použít pro vstup</string>	
-    <string name="bluetooth_incoming_pairing_msg">Ze zařízení:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Spárovat s tímto zařízením?</string>	
-    <string name="bluetooth_is_discoverable">Viditeľné pre všetky okolné zaríadenia Bluetooth (%1$s)</string>	
-    <string name="bluetooth_is_discoverable_always">Viditeľné pre všetky okolné zaríadenia Bluetooth</string>	
+    <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadajte prístupový kľúč požadovaný zariadením:</string>	
+    <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>	
+    <string name="bluetooth_enter_pin_msg">Párovanie si zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadajte kód PIN požadovaný zariadením:</string>	
+	<string name="bluetooth_enter_pin_msg_hs">Na spárovanie so zariadením \"%1$s\". [Zvýšená bezpečnosť: zadajte 16 znakov kľúča]</string>
+    <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno nutné zadať i v ďalšom zariadení.</string>	
+    <string name="bluetooth_headset_profile_summary_connected">Pripojené k hands-free</string>	
+    <string name="bluetooth_headset_profile_summary_use_for">Umožňuje pripojenie hands-free</string>	
+    <string name="bluetooth_hid_profile_summary_connected">Pripojené k vstupnému zariadeniu</string>	
+    <string name="bluetooth_hid_profile_summary_use_for">Použiť pre vstup</string>	
+    <string name="bluetooth_incoming_pairing_msg">Zo zariadenia:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Spárovať s týmto zariadením?</string>	
+    <string name="bluetooth_is_discoverable">Viditeľné pre všetky okolité zariadenia Bluetooth (%1$s)</string>	
+    <string name="bluetooth_is_discoverable_always">Viditeľné pre všetky okolité zariadenia Bluetooth</string>	
     <string name="bluetooth_lock_voice_dialing">Uzamknúť hlasové vytáčanie</string>	
     <string name="bluetooth_lock_voice_dialing_summary">Zabrániť použitiu vytáčania Bluetooth pri uzamknutej obrazovke</string>	
     <string name="bluetooth_menu_advanced">Pokročilé</string>	
     <string name="bluetooth_name_not_set">Názov nie je nastavený, použiť názov účtu</string>	
     <string name="bluetooth_no_devices_found">V okolí nie sú žiadne zariadenia Bluetooth.</string>	
     <string name="bluetooth_not_discoverable">Prepne zariadenie do viditeľného režimu</string>	
-    <string name="bluetooth_not_visible_to_other_devices">Neviditeľné pre ostatné zaríadenia Bluetooth</string>	
+    <string name="bluetooth_not_visible_to_other_devices">Neviditeľné pre ostatné zariadenia Bluetooth</string>	
     <string name="bluetooth_notif_message">Klepnutím spárujete so zariadením %1$s</string>	
     <string name="bluetooth_notif_ticker">Požiadavka na párovanie zariadení Bluetooth</string>	
     <string name="bluetooth_notif_title">Požiadavka na párovanie</string>	
     <string name="bluetooth_on_time">Doba prevádzky siete Wi-Fi</string>	
     <string name="bluetooth_only_visible_to_paired_devices">Viditeľné len pre spárované zariadenia</string>	
-    <string name="bluetooth_opp_profile_summary_connected">Připojeno k serveru pro prenoss dat</string>	
-    <string name="bluetooth_opp_profile_summary_not_connected">Nepřipojeno k serveru pro prenoss souborů</string>	
-    <string name="bluetooth_opp_profile_summary_use_for">Použít pro prenoss souborů</string>	
+    <string name="bluetooth_opp_profile_summary_connected">Pripojené k serveru pre prenos dát</string>	
+    <string name="bluetooth_opp_profile_summary_not_connected">Nepripojené k serveru pre prenos súborov</string>	
+    <string name="bluetooth_opp_profile_summary_use_for">Použiť pre prenos súborov</string>	
     <string name="bluetooth_pairing">Párovanie...</string>	
-    <string name="bluetooth_pairing_accept">Párovat</string>	
+    <string name="bluetooth_pairing_accept">Párovať</string>	
     <string name="bluetooth_pairing_decline">Zrušiť</string>	
-    <string name="bluetooth_pairing_device_down_error_message">Se zařízením %1$s nelze navázat komunikaci.</string>	
-    <string name="bluetooth_pairing_error_message">Nelze párovat se zařízením %1$s.</string>	
-    <string name="bluetooth_pairing_pin_error_message">Nelze párovat se zařízením %1$s. Kód PIN nebo přístupový klíč je nesprávný.</string>	
-    <string name="bluetooth_pairing_rejected_error_message">Párování odmítnuto zařízením %1$s.</string>	
-    <string name="bluetooth_pairing_request">Požadavek na párování zařízení Bluetooth</string>	
-    <string name="bluetooth_pan_nap_profile_summary_connected">Místní internetové připojení je sdíleno se zařízením</string>	
-    <string name="bluetooth_pan_profile_summary_use_for">Použít pro přístup k internetu</string>	
-    <string name="bluetooth_pan_user_profile_summary_connected">Připojeno k zařízení za účelem přístupu k internetu</string>	
+    <string name="bluetooth_pairing_device_down_error_message">So zariadením %1$s nie je možné naviazať komunikáciu.</string>	
+    <string name="bluetooth_pairing_error_message">Nie je možné párovať so zariadením %1$s.</string>	
+    <string name="bluetooth_pairing_pin_error_message">Nie je možné párovať so zariadením %1$s. Kód PIN alebo prístupový kľúč je nesprávny.</string>	
+    <string name="bluetooth_pairing_rejected_error_message">Párovanie odmietnuté zariadením %1$s.</string>	
+    <string name="bluetooth_pairing_request">Požiadavka na párovanie zariadenia Bluetooth</string>	
+    <string name="bluetooth_pan_nap_profile_summary_connected">Lokálne internetové pripojenie je zdieľané so zariadením</string>	
+    <string name="bluetooth_pan_profile_summary_use_for">Použiť pre prístup k internetu</string>	
+    <string name="bluetooth_pan_user_profile_summary_connected">Pripojené k zariadeniu za účelom prístupu k internetu</string>	
     <string name="bluetooth_pb_acceptance_dialog_text">Zariadenie %1$s žiada o prístup k vaším kontaktom a histórii hovorov. Povoliť zariadeniu %2$s prístup?</string>	
     <string name="bluetooth_pb_remember_choice">Na budúce sa nepýtať</string>	
 	<string name="bluetooth_pbap_connection_permission_request">Požadované povolenie Pbap</string>
     <string name="bluetooth_permission_request">Požiadavka na povolenie zariadenia Bluetooth</string>	
     <string name="bluetooth_phonebook_request">Požiadavka telefónneho zoznamu</string>	
     <string name="bluetooth_pin_values_hint">Obvykle 0000 nebo 1234</string>	
-    <string name="bluetooth_preference_device_settings">Nastavení zařízení</string>	
-    <string name="bluetooth_preference_found_devices">Dostupná zařízení</string>	
-    <string name="bluetooth_preference_paired_devices">Párovaná zařízení</string>	
-    <string name="bluetooth_preference_scan_title">Vyhledat zařízení</string>	
+    <string name="bluetooth_preference_device_settings">Nastavenie zariadenia</string>	
+    <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>	
+    <string name="bluetooth_preference_paired_devices">Párované zariadenia</string>	
+    <string name="bluetooth_preference_scan_title">Vyhľadať zariadenie</string>	
     <string name="bluetooth_profile_a2dp">Zvuk médií</string>	
     <string name="bluetooth_profile_headset">Zvuk telefónu</string>	
     <string name="bluetooth_profile_hid">Vstupné zariadenie</string>	
@@ -391,23 +391,23 @@
     <string name="bluetooth_search_for_devices">Hľadanie zariadení</string>	
     <string name="bluetooth_searching_for_devices">Hľadanie…</string>	
     <string name="bluetooth_settings">Bluetooth</string>	
-    <string name="bluetooth_settings_summary">Umožňuje spravovat připojení, Nastaviť název zařízení a viditelnost</string>	
+    <string name="bluetooth_settings_summary">Umožňuje spravovať pripojenie, Nastaviť názov zariadenia a viditeľnosť</string>	
     <string name="bluetooth_settings_title">Bluetooth</string>	
     <string name="bluetooth_show_received_files">Zobraziť prijaté súbory</string>	
     <string name="bluetooth_tether_checkbox_text">Tethering cez Bluetooth</string>	
     <string name="bluetooth_tethering_available_subtext">Internetové pripojenie tohto telefónu je zdieľané.</string>	
     <string name="bluetooth_tethering_device_connected_subtext">Internetové pripojenie tohto telefónu je zdieľané s 1 zariadením.</string>	
     <string name="bluetooth_tethering_devices_connected_subtext">Internet. pripojenie telefónu je zdieľané. Poč. zariadení: %1$d</string>	
-    <string name="bluetooth_tethering_errored_subtext">Nieje zdieľané</string>	
-    <string name="bluetooth_tethering_off_subtext">Internetové pripojenie tohto telefónu nieje zdieľané.</string>	
+    <string name="bluetooth_tethering_errored_subtext">Nie je zdieľané</string>	
+    <string name="bluetooth_tethering_off_subtext">Internetové pripojenie tohto telefónu nie je zdieľané.</string>	
     <string name="bluetooth_tethering_overflow_error">Maximálny počet zariadení pre tethering: %1$d.</string>	
     <string name="bluetooth_turning_off">Vypínanie rozhrania Bluetooth…</string>	
     <string name="bluetooth_turning_on">Zapnúť Bluetooth?</string>	
     <string name="bluetooth_unknown" />	
     <string name="bluetooth_untether_blank">U zariadenia %1$s bude ukončené zdieľané pripojenie.</string>	
-    <string name="bluetooth_visibility">Viditelné</string>	
-    <string name="bluetooth_visibility_timeout">Časový limit viditelnosti</string>	
-    <string name="bluetooth_visibility_timeout_summary">Nastaviť dobu, po ktorú bude zariadenie vo viditelnom režime</string>	
+    <string name="bluetooth_visibility">Viditeľné</string>	
+    <string name="bluetooth_visibility_timeout">Časový limit viditeľnosti</string>	
+    <string name="bluetooth_visibility_timeout_summary">Nastaviť dobu, po ktorú bude zariadenie vo viditeľnom režime</string>	
     <string name="breathing_light_color_summary">Farba LED pri novej notifikácii</string>	
     <string name="breathing_light_color_title">Farba LED</string>	
     <string name="breathing_light_freq_summary">Pauza LED pred blikaním</string>	
@@ -449,7 +449,7 @@
     <string name="clear_cache_btn_text">Vymazať medzipamäť</string>	
     <string name="clear_data_dlg_text">Všetky dáta (všetky súbory, nastavenia, účty, databázi apod.) tieto aplikácie budú trvalo vymazané.</string>	
     <string name="clear_data_dlg_title">Zmazať dáta aplikácie?</string>	
-    <string name="clear_data_failed">Nieje možné zmazať dáta aplikácie.</string>	
+    <string name="clear_data_failed">Nie je možné zmazať dáta aplikácie.</string>	
     <string name="clear_failed_dlg_text">Nepodarilo sa zmazať dáta aplikácie.</string>	
     <string name="clear_failed_dlg_title">Mazanie dát</string>	
     <string name="clear_user_data_text">Mazanie dát</string>	
@@ -480,12 +480,12 @@
     <string name="credentials_title">Úložisko poverení</string>	
     <string name="credentials_unlock" />	
     <string name="credentials_unlock_hint">Zadajte heslo pre úložisko poverení.</string>	
-    <string name="credentials_wrong_password">Nesprávné heslo.</string>	
+    <string name="credentials_wrong_password">Nesprávne heslo.</string>	
     <string name="crypt_keeper_button_text">Šifrovať telefón</string>	
     <string name="crypt_keeper_confirm_title">Potvrdiť šifrovanie</string>	
     <string name="crypt_keeper_cooldown">Skúste to znovu za: ^1 s.</string>	
     <string name="crypt_keeper_desc">"Účty, nastavenie, stiahnuté aplikácie a ich dáta, média a ďalšie súbory môžete šifrovať. Akonáhle telefón zašifrujete, musíte ho pri každom zapnutí dešifrovať pomocou kódu PIN 
-		alebo hesla. Šifrovanie môžete zrušiť len obnovením tovarného nastavenia, čím sa všetky dáta v telefóne vymažú. Šifrovanie môže trvať viac než hodinu. V telefóne musí byť nabitá batéria a po celú dobu 
+		alebo hesla. Šifrovanie môžete zrušiť len obnovením továrneho nastavenia, čím sa všetky dáta v telefóne vymažú. Šifrovanie môže trvať viac než hodinu. V telefóne musí byť nabitá batéria a po celú dobu 
 		šifrovania musí byť telefón pripojený k zdroji elektriny. Pokiaľ proces šifrovania prerušíte, stratíte niektoré alebo 
 		všetky dáta."</string>	
     <string name="crypt_keeper_dialog_need_password_message">Pred začiatkom šifrovania musíte nastaviť kód PIN alebo heslo zámku obrazovky.</string>	
@@ -494,19 +494,19 @@
     <string name="crypt_keeper_encrypt_title">Šifrovanie telefónu</string>	
     <string name="crypt_keeper_encrypted_summary">Šifrované</string>	
     <string name="crypt_keeper_enter_password">Zadajte heslo</string>	
-    <string name="crypt_keeper_failed_summary">"Šifrování bylo přerušeno a nelze je dokončit. Z tohoto důvodu již nebudou údaje v telefonu přístupné. Chcete-li telefon opět začít používat, je 
-		potřeba obnovit tovární nastavení. Po obnově budete moci v průběhu nastavení telefonu obnovit všechna data, která jsou zálohována v účtu Google."</string>	
+    <string name="crypt_keeper_failed_summary">"Šifrovanie bolo prerušené a nie je možné ho dokončiť. Z tohto dôvodu už nebudú údaje v telefóne prístupné. Ak chcete telefón opäť začať používať, je 
+		potrebné obnoviť továrne nastavenia. Po obnove budete môcť v priebehu nastavenia telefónu obnoviť všetky dáta, ktoré sú zálohované v účte Google."</string>	
     <string name="crypt_keeper_failed_title">Šifrovanie sa nepodarilo</string>	
     <string name="crypt_keeper_final_desc">Šifrovať telefón? Táto operácia sa nedá vrátiť, a pokiaľ ju prerušíte, budú vaše dáta stratené. Šifrovanie môže trvať viac než hodinu. Behom 
 		tejto doby sa telefón niekoľkokrát reštartuje.</string>	
-    <string name="crypt_keeper_low_charge_text">Nabite batériu a skuste to znovu.</string>	
+    <string name="crypt_keeper_low_charge_text">Nabite batériu a skúste to znovu.</string>	
     <string name="crypt_keeper_settings_title">Šifrovanie</string>	
     <string name="crypt_keeper_setup_description">Počkajte prosím, než bude telefón zašifrovaný. Dokončené: ^1 %</string>	
     <string name="crypt_keeper_setup_title">Šifrovanie</string>	
-    <string name="crypt_keeper_unplugged_text">Pripojte nabíjačku a skuste to znovu.</string>	
+    <string name="crypt_keeper_unplugged_text">Pripojte nabíjačku a skúste to znovu.</string>	
     <string name="cryptkeeper_emergency_call">Tiesňové volania</string>	
     <string name="cryptkeeper_return_to_call">Späť k hovoru</string>	
-    <string name="current_backup_pw_prompt">Sem zadejte aktuálne heslo pro úplné zálohy.</string>	
+    <string name="current_backup_pw_prompt">Sem zadajte aktuálne heslo pre úplné zálohy.</string>	
     <string name="current_input_method">Východzie</string>	
     <string name="data_size_label">Dáta</string>	
     <string name="data_summary">Vyberte predplatné pre VoIP volanie</string>	
@@ -542,11 +542,11 @@
     <string name="data_usage_list_mobile">mobilné</string>	
     <string name="data_usage_list_none">žiadne</string>	
     <string name="data_usage_menu_restrict_background">Obmedzenie dátových prenosov na pozadí</string>	
-    <string name="data_usage_menu_roaming">Dat. služby pri roamingu</string>	
+    <string name="data_usage_menu_roaming">Dát. služby pri roamingu</string>	
     <string name="data_usage_menu_show_ethernet">Zobraziť využitie ethernetu</string>	
     <string name="data_usage_menu_show_wifi">Zobraziť využitie siete Wi-Fi</string>	
     <string name="data_usage_menu_split_4g">Oddeliť dátové prenosy 4G</string>	
-    <string name="data_usage_pick_cycle_day">Deň v mesiaci, kedy se má obnoviť počítanie dátových prenosov:</string>	
+    <string name="data_usage_pick_cycle_day">Deň v mesiaci, kedy sa má obnoviť počítanie dátových prenosov:</string>	
     <string name="data_usage_received_sent">Prijatých %1$s, odoslaných %2$s</string>	
     <string name="data_usage_restrict_background">Ak obmedzíte využitie mobilných dát na pozadí, niektoré aplikácie a služby nebudú fungovať, pokiaľ sa nepripojíte k sieti Wi-Fi.</string>	
     <string name="data_usage_restrict_background_title">Obmedzenie dátových prenosov na pozadí?</string>	
@@ -865,14 +865,14 @@
     <string name="master_clear_button_text">Resetovať telefón</string>	
     <string name="master_clear_confirm_title">Resetovať?</string>	
     <string name="master_clear_desc">"Táto akcia zmaže všetky dáta z interného úložiska telefónu, mimo iných aj nasledujúce: účet Google, nastavenie a dáta systému 
-		a aplikácií,stiahnuté aplikácie."</string>	
+		a aplikácií, stiahnuté aplikácie."</string>	
     <string name="master_clear_desc_also_erases_external">"Hudba, Fotky a ďalšie užívateľské údaje"</string>	
     <string name="master_clear_desc_erase_external_storage">"Ak chcete zmazať tiež hudbu, obrázky a ďalšie užívateľské dáta, je potrebné vymazať SD kartu."</string>	
     <string name="master_clear_erase_application_progress">Vymazávajú sa aplikácie</string>	
-    <string name="master_clear_failed">Pokus o obnovenie sa nepodaril, pretože služba System Clear nieje dostupná.</string>	
+    <string name="master_clear_failed">Pokus o obnovenie sa nepodaril, pretože služba System Clear nie je dostupná.</string>	
     <string name="master_clear_final_button_text">Odstrániť všetko</string>	
-    <string name="master_clear_final_desc">Chcete zmazať všetky osobné informácie a stiahnuté aplikácie? Túto akciu nieje možné vrátiť späť!.</string>	
-    <string name="master_clear_gesture_explanation">Ak chcete potvrdiť obnovenie tovarných dát, musíte nakresliť bezpečnostné gesto.</string>	
+    <string name="master_clear_final_desc">Chcete zmazať všetky osobné informácie a stiahnuté aplikácie? Túto akciu nie je možné vrátiť späť!.</string>	
+    <string name="master_clear_gesture_explanation">Ak chcete potvrdiť obnovenie továrnych dát, musíte nakresliť bezpečnostné gesto.</string>	
     <string name="master_clear_gesture_prompt">Urobte gesto odomknutia</string>	
     <string name="master_clear_personal_data">"Naozaj chcete vymazať osobné údaje? Operáciu nie je možné vrátiť späť"</string>	
     <string name="master_clear_personal_data_application">"Naozaj chcete vymazať osobné údaje a nainštalované aplikácie? Operáciu nie je možné vrátiť späť"</string>	
@@ -883,7 +883,7 @@
     <string name="media_format_button_text">Zmazať SD kartu</string>	
     <string name="media_format_desc">Zmazať SD kartu? Stratíte všetky dáta na nej uložené.</string>	
     <string name="media_format_final_button_text">Odstrániť všetko</string>	
-    <string name="media_format_final_desc">Chcete SD kartu zmazať a odstrániť tak všetky súbory, ktoré sú na nej uložené? Túto akciu nieje možné vrátiť späť.</string>	
+    <string name="media_format_final_desc">Chcete SD kartu zmazať a odstrániť tak všetky súbory, ktoré sú na nej uložené? Túto akciu nie je možné vrátiť späť.</string>	
     <string name="media_format_gesture_explanation">Vymazanie SD karty je potrebné potvrdiť pomocou bezpečnostného gesta.</string>	
     <string name="media_format_gesture_prompt">Urobte gesto odomknutia</string>	
     <string name="media_format_summary">Zmaže dáta na SD karte</string>	
@@ -937,10 +937,10 @@
     <string name="nfc_quick_toggle_title">NFC</string>	
     <string name="no">Nie</string>	
     <string name="no_applications">Žiadne aplikácie</string>	
-    <string name="no_device_admins">Nieje k dispozícií žiadny správca zariadenia</string>	
+    <string name="no_device_admins">Nie je k dispozícií žiadny správca zariadenia</string>	
     <string name="no_media_button_receiver">Nie</string>	
     <string name="no_nearby_wifi">Žiadna wifi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte wifi ručne</string>	
-    <string name="no_running_services">Nič nieje spustené.</string>	
+    <string name="no_running_services">Nič nie je spustené.</string>	
     <string name="no_services">Neaktívne</string>	
     <string name="normal_date_format">Regionálne (%s)</string>	
     <string name="notification_pulse_summary">Keď je prijatá nová notifikácia, zabliká LED dióda</string>	
@@ -1227,8 +1227,8 @@
     <string name="settings_license_activity_unavailable">Pri načítaní licencií došlo k chybe.</string>	
     <string name="settings_safetylegal_activity_loading">Načítavam...</string>	
     <string name="settings_safetylegal_activity_title">Bezpečnostné informácie</string>	
-    <string name="settings_safetylegal_activity_unreachable">Dátové pripojenie momentálne nieje k dispozícií. 
-		Ak chcete tieto informácie zobraziť, prejdite z ľubovolného počítača pripojeného k internetu na stránku %s.</string>	
+    <string name="settings_safetylegal_activity_unreachable">Dátové pripojenie momentálne nie je k dispozícií. 
+		Ak chcete tieto informácie zobraziť, prejdite z ľubovoľného počítača pripojeného k internetu na stránku %s.</string>	
     <string name="settings_safetylegal_title">Bezpečnostné informácie</string>	
     <string name="settings_shortcut">Zástupca nastavení</string>	
     <string name="show_all_anrs">Zobraziť všetky ANR</string>	
@@ -1479,7 +1479,7 @@
     <string name="usb_msd_title">Veľkokapacitné úložisko</string>	
     <string name="usb_mtp_summary">Umožňuje prenášať multimediálne súbory v systéme Windows alebo pomocou aplikácie Android File Transfer v systéme Mac (ďalšie informácie na 
 		stránke www.android.com/filetransfer).</string>	
-    <string name="usb_mtp_title">Zariadenie pro média (MTP)</string>	
+    <string name="usb_mtp_title">Zariadenie pre média (MTP)</string>	
     <string name="usb_ptp_summary">Umožňuje prenos fotografií pomocou softwaru fotoaparátu a prenos akýchkoľvek súborov do počítačov, ktoré nepodporujú protokol MTP</string>	
     <string name="usb_ptp_title">Fotoaparát (PTP)</string>	
     <string name="usb_tethering_active_subtext">Zdieľané</string>	
