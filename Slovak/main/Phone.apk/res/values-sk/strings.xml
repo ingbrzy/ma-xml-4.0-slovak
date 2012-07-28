@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="phoneAppLabel">Telefon</string>
+    <string name="phoneAppLabel">Telefón</string>
     <string name="emergencyDialerIconLabel">Tísňové vytáčení</string>
     <string name="phoneIconLabel">Telefon</string>
     <string name="fdnListLabel">Seznam PTČ</string>

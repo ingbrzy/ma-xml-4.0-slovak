@@ -180,7 +180,7 @@
         <item>3</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Normálné</item>
+        <item>Normálnr</item>
         <item>Dlhé</item>
     </string-array>
     <string-array name="dtmf_tone_values">
