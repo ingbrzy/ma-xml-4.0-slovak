@@ -60,4 +60,5 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="privacyPerms">Ochrana osob. údajov</string>
     <string name="devicePerms">Prístup k zariadeniu</string>
     <string name="no_new_perms">Táto aktualizácia nevyžaduje žiadne nové povolenia.</string>
+	<string name="lift_ban">Odblokuj</string>
 </resources>
