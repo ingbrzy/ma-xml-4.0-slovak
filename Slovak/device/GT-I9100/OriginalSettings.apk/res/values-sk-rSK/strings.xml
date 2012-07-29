@@ -74,8 +74,8 @@
     <string name="screen_mode_standard">Štandardný</string>
     <string name="screen_mode_summary">Vyberte režim obrazovky</string>
     <string name="screen_timeout">Oneskorenie displeja</string>
-    <string name="settings_label">Nastavenia</string>
-    <string name="settings_label_launcher">Nastavenia</string>
+    <string name="settings_label">Špeciálne nastavenia</string>
+    <string name="settings_label_launcher">Špeciálne nastavenia</string>
     <string name="sim_enter_cancel">Zrušiť</string>
     <string name="skip_button_label">Zrušiť</string>
     <string name="sync_menu_sync_cancel">Zrušiť synch.</string>
