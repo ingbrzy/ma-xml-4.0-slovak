@@ -1656,7 +1656,7 @@
     <string name="wifi_setting_frequency_band_summary">Uveďte prevádzkový frekvenčný rozsah</string>	
     <string name="wifi_setting_frequency_band_title">Frekvenčné pásmo Wi-Fi</string>	
     <string name="wifi_setting_sleep_policy_error">Pri zmene nastavení sa vyskytol problém</string>	
-    <string name="wifi_setting_sleep_policy_title">Ponechať pripojenie Wi-Fi počas režimu spánku</string>	
+    <string name="wifi_setting_sleep_policy_title">Ponechať prip. Wi-Fi počas rež. spánku</string>	
     <string name="wifi_settings">Wi-Fi</string>	
     <string name="wifi_settings_category">Nastavenie WiFi</string>	
     <string name="wifi_settings_summary">Umožňuje nastaviť a spravovať prístupové body bezdrôtovej siete</string>	
