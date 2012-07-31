@@ -91,4 +91,13 @@ ke správě vašich dat"</string>
     <string name="sub_sync_big_photo_item_summary">Doporučeno zapnout pro snížení datového provozu</string>
     <string name="sync_on">Zap</string>
     <string name="sync_off">Vyp</string>
+	<string name="activate_fail_notification_title">Opätovná aktivácia Xiaomi sync service</string>
+	<string name="activating">Aktivácia...</string>
+	<string name="btn_activate">Aktivovať</string>
+	<string name="check_phone_error_title">Aktivácia sync service zlyhala</string>
+	<string name="check_phone_io_error">Chyba siete</string>
+	<string name="no_sim">SIM nenájdená, synchronizácia zlyhala</string>
+	<string name="send_sms_for_sync_title">Sync service nie je aktivovaný</string>
+	<string name="sim_changed_notification_content">SIM nieje aktivovaná, znova ju aktivujte, prosím.</string>
+	<string name="sim_changed_reactivate_notice">Súčasná SIM nie je aktivovaná. Vyžaduje sa SMS pre jej aktivovanie, aktivovať teraz?</string>
 </resources>

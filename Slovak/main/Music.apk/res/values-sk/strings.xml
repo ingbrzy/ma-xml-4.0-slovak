@@ -229,4 +229,7 @@
     <string name="unknown_artist_name">Neznámy umelec</string>
     <string name="use_local_album">Použiť uložený obrázok albumu</string>
     <string name="use_local_lyric">Použiť uložené texty</string>
+	<string name="file_not_found">Súbor neexistuje</string>
+	<string name="music_browser_label">Hudba</string>
+	<string name="not_selected">Zvoľte pesničku</string>
 </resources>

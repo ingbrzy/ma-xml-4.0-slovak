@@ -119,4 +119,26 @@
     <string name="submit_success">Odoslanie úspešné, ďakujeme!</string>
     <string name="choose_recommend">Prosím zvoľte či odporučiť alebo nie</string>
     <string name="not_recommend">"Nedoporučujem"</string>
+	<string name="active_xiaomi_account">Aktívny</string>
+	<string name="active_xiaomi_account_msg">"Navštívte MIUI fórum pre aktiváciu účtu Xiaomi:"</string>
+	<string name="active_xiaomi_account_title">Aktivovať účet Xiaomi</string>
+	<string name="best_update">2. Skvelý update</string>
+	<string name="expect">4. Očakávaný</string>
+	<string name="finish">Dokončiť</string>
+	<string name="get_update_error">Získanie informácií o update zlyhalo</string>
+	<string name="my_best_update">Zvoliť skvelý update</string>
+	<string name="my_expect_update">Zvoliť očakávaný</string>
+	<string name="my_update_feel">Moje dojmy</string>
+	<string name="my_worst_update">Hrozný update</string>
+	<string name="next">Ďalší</string>
+	<string name="previous">Predchádzajúci</string>
+	<string name="update_comment_hint">(voliteľné)</string>
+	<string name="update_comment_title">Váš komentár</string>
+	<string name="update_feedback">Spätná väzba o update</string>
+	<string name="update_feedback_expired">"Je to hanba, že nenapíšete svoje dojmy z tohto update!"</string>
+	<string name="update_feel">1. Ako sa cítite?</string>
+	<string name="update_general">Dobre</string>
+	<string name="update_happy">Šťastný</string>
+	<string name="update_sad">Zle</string>
+	<string name="worst_update">3. Zlý update</string>
 </resources>

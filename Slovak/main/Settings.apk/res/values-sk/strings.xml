@@ -1738,5 +1738,12 @@
     <string name="zone_auto_summaryOff">Použiť časové pásmo zo siete</string>	
     <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>	
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>	
-    <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>	
+    <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+	<string name="font_size_huge">Obrovské</string>
+	<string name="font_size_large">Veľké</string>
+	<string name="font_size_medium">Stredné</string>
+	<string name="font_size_normal">Normálne</string>
+	<string name="font_size_preview">MIUI</string>
+	<string name="font_size_small">Malé</string>
+	<string name="font_size_summary">Nastavte si veľkosť písma aplikácií ako napr.: Telefón, Správy, Kontakty atď., pre zlepšenie ich ergonómie.</string>	
 </resources>
