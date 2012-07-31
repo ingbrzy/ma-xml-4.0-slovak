@@ -650,9 +650,9 @@
 	<string name="enableNetwork">Zapnúť sieť</string>   
  	<string name="enable_adb">Ladenie USB</string>	
     <string name="enable_adb_summary">Povoliť režim ladenia s pripojeným zariadením USB</string>	
-    <string name="enable_back_long_press">Ukončenie aplikácie podržaním tlačítka späť</string>	
+    <string name="enable_back_long_press">Ukonč. aplik. podržaním tlač. Späť</string>	
     <string name="enable_compatibility">Upraviť veľkosť aplikácie</string>	
-    <string name="enable_snapshot_screenlock">Dlhé podržanie tlačidla Späť pre vytvorenie screenshotu na zamykacej obrazovke</string>
+    <string name="enable_snapshot_screenlock">Tlač. Späť pre screenshot na zamykacej obrazovke</string>
 	<string name="enable_text">Povoliť</string>    
 	<string name="enter_password">Ak chcete obsah úložiska dešifrovať, zadajte heslo.</string>	
     <string name="erase_application">Vymazať aplikácie</string>	
@@ -763,7 +763,7 @@
     <string name="language_settings_category">Nastavenie jazyka</string>	
     <string name="large_font">Veľké</string>	
     <string name="launch_count_label">Počet</string>	
-    <string name="launcher_settings_title">Spúšťač</string>	
+    <string name="launcher_settings_title">Spúšťač - MIUI launcher</string>	
     <string name="led_colors_summary">Farba LED pri notifikácii</string>	
     <string name="led_frequence_summary">Nastaviť interval blikania LED</string>	
     <string name="led_pulse_summary">Pri novej notifikácii blikať LED</string>	

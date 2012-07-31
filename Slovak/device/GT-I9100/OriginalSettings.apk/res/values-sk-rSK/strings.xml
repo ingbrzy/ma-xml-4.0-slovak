@@ -21,7 +21,7 @@
     <string name="customer_power_saving_title">Vlastné nastavenie úspory energie</string>
     <string name="desk_cradle_summary">Použiť externé reproduktory</string>
     <string name="desk_cradle_title">Režim zvukového výstupu</string>
-    <string name="display_saving">Automatické nastavenie výkonu displeja</string>
+    <string name="display_saving">Auto. nastav. výkonu displeja</string>
     <string name="display_saving_mode_summary">Šetriť energiu na základe analýzy obrazu a nastavení jasu LCD</string>
     <string name="display_settings">Displej</string>
     <string name="display_settings_title">Displej</string>

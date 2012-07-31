@@ -169,7 +169,7 @@
     <string name="settings_show_flow_info">Zobraziť info o spotrebe dát</string>    	
     <string name="settings_show_network_speed">Zobr. rýchlosť prenosu dát</string>    	
     <string name="settings_toggle">Prepínače</string>	
-    <string name="settings_toggle_collapse_after_clicked">Zavrieť po dotknutí</string>	
+    <string name="settings_toggle_collapse_after_clicked">Zavrieť po prepnutí</string>	
     <string name="settings_toggle_layout_style">Štýl prepínačov</string>	
     <string name="settings_toggle_layout_style_applying">Upraviť pozíciu prepínačov...</string>	
     <string name="settings_toggle_layout_style_compact">Kompaktný</string>	
