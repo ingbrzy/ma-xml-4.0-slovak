@@ -173,7 +173,7 @@
     <string name="settings_toggle_layout_style">Štýl prepínačov</string>	
     <string name="settings_toggle_layout_style_applying">Upraviť pozíciu prepínačov...</string>	
     <string name="settings_toggle_layout_style_compact">Kompaktný</string>	
-    <string name="settings_toggle_layout_style_single_page">Strana</string>	
+    <string name="settings_toggle_layout_style_single_page">List</string>	
     <string name="settings_toggle_position">"Upraviť pozíciu prepínačov"</string>	
     <string name="settings_toggle_position_divider_list">Prepínače nad čiarou sú aktívne</string>	
     <string name="settings_toggle_position_divider_page">%1$d prepínačov nad čiarou je aktívnych</string>	
