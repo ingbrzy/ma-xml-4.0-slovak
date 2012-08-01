@@ -104,4 +104,16 @@
     <string name="ticker_syncing">Synchronizácia poznámok...</string>
     <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
     <string name="widget_under_visit_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
+	<string name="alert_edit_action_delete">Odstrániť</string>
+	<string name="alert_edit_action_update">Update</string>
+	<string name="attachment_camera">Fotoaparát</string>
+	<string name="attachment_contact">Kontakt</string>
+	<string name="attachment_gallery">Galéria</string>
+	<string name="image_edit_action_delete">Vymazať</string>
+	<string name="image_edit_action_replace">Nahradiť</string>
+	<string name="image_edit_action_replace_menu_title">Nahradiť položku</string>
+	<string name="image_edit_action_view">Zobraziť</string>
+	<string name="time_picker_dialog_title">Nastaviť čas upozornenia</string>
+	<string name="toast_message_add_image_fail">Vloženie obrázku zlyhalo!</string>
+	<string name="toast_message_replace_image_fail">Nahradenie obrázku zlyhalo!</string>
 </resources>
