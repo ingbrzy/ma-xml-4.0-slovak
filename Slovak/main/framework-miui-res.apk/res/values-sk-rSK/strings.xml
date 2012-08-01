@@ -410,4 +410,6 @@
   <string name="winter_begins" />
   <string name="winter_solstice" />
   <string name="android_lockscreen_glogin_instructions">Pre odblokovanie, sa prihláste svojím účtom</string>
+  <string name="perm_get_user_info_dspt">Zobraziť detaily o účte Xiaomi</string>
+  <string name="perm_get_user_info_lab">Zobraziť účet Xiaomi</string>
 </resources>

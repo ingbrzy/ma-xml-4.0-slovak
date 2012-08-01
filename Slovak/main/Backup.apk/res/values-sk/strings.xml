@@ -168,5 +168,17 @@ Overte prosím pripojenie a skúste to znova"</string>
     <string name="auto_backup_setting_title">Nastavenia pre automatické zálohovanie</string>
     <string name="data_no_enough_space_warning">V úložisku je len 30Mb voľného miesta, obnova môže zlyhať, pokračovať?</string>
     <string name="delete_backup">Zmazať zálohu</string> 
-    <string name="sdcard_no_enough_space_warning">Na SD karte je približne 50MB voľného miesta, záloha sa nemusí podariť, pokračovať?</string>    
+    <string name="sdcard_no_enough_space_warning">Na SD karte je približne 50MB voľného miesta, záloha sa nemusí podariť, pokračovať?</string>
+	<string name="already_enable_encrypt">Šifrovanie povolené</string>
+	<string name="enable_encrypt">Povoliť</string>
+	<string name="enable_encrypt_fail">Povolenie šifrovania zlyhalo</string>
+	<string name="enable_encrypt_indicator">Záloha nie je šifrovaná, stlačte pre povolenie šifrovania.</string>
+	<string name="enable_encrypt_ok">OK</string>
+	<string name="enable_encrypt_summery1">"Systém zašifruje Vášu lokálnu zálohu na účte Xiaomi, musíte sa prihlásiť na svoj účet Xiaomi ak chcete odstrániť dáta alebo obnoviť z iného zariadenia."</string>
+	<string name="enable_encrypt_summery2">"Nová záloha bude automaticky šifrovaná. Musíte sa prihlásiť na svoj účet Xiaomi ak chcete odstrániť dáta alebo obnoviť z iného zariadenia."</string>
+	<string name="enable_encrypt_title">Šifrovanie povolené</string>
+	<string name="enable_encrypt_xiaomi_account">Táto záloha bola šifrovaná %1$s, vymažte súčastný účet a prihláste sa na %2$s pre obnovenie Vašich dát.</string>
+	<string name="exchange_account">Účet Exchange</string>
+	<string name="no_encrypt_password">Žiadne heslo pre šifrovanie</string>
+	<string name="read_encrypt_fail">Čítanie šifrovania zlyhalo</string>    
 </resources>
