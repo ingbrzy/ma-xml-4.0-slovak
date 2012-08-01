@@ -409,4 +409,5 @@
   <string name="white_dews" />
   <string name="winter_begins" />
   <string name="winter_solstice" />
+  <string name="android_lockscreen_glogin_instructions">Pre odblokovanie, sa prihláste svojím účtom</string>
 </resources>
