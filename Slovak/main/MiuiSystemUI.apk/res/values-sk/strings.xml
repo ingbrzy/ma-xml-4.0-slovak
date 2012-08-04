@@ -185,8 +185,8 @@
     <string name="status_bar_do_not_disturb_button">Nerušiť</string>	
     <string name="status_bar_input_method_settings_configure_input_methods">Nastavenie vstupu</string>	
     <string name="status_bar_latest_events_title">Notifikácie</string>	
-    <string name="status_bar_network_flow">Dnes: %1$s Ostáva: %2$s Aplikácie: %3$s</string>	
-    <string name="status_bar_network_flow_exceed">"Dnes: %1$s | Prekročené: %2$s  |  Aplikácie: %3$s"</string>	
+    <string name="status_bar_network_flow">Dnes: %1$s Ostáva: %2$s</string>	
+    <string name="status_bar_network_flow_exceed">"Dnes: %1$s | Prekročené: %2$s"</string>	
     <string name="status_bar_network_flow_today">Dnes:%1$s</string>	
     <string name="status_bar_network_name_separator" />	
     <string name="status_bar_no_notifications_title">Žiadne notifikácie</string>	
@@ -198,8 +198,7 @@
 	<string name="status_bar_recent_guide_bottom">Posunutím nadol uzamknete</string>
 	<string name="status_bar_recent_guide_top">Posunutím nahor ukončíte</string>	
     <string name="status_bar_recent_inspect_item_title">Info o aplikácii</string>	
-    <string name="status_bar_recent_memory_info_format">%dMB</string>
-	<string name="status_bar_recent_memory_info">%1$s / %2$s</string>	
+ 	<string name="status_bar_recent_memory_info">%1$s / %2$s</string>	
     <string name="status_bar_recent_remove_item_title">Odstrániť zo zoznamu</string>	
 	<string name="status_bar_recent_clear_nothing_result">Žiadna pamäť na prečistenie</string>    
 	<string name="status_bar_settings_airplane">Lietadlo</string>	
