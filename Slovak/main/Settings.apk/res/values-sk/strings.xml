@@ -612,7 +612,7 @@
     <string name="device_status_activity_title">Stav</string>	
     <string name="device_status_summary">Telefónne číslo, signál, atď.</string>	
     <string name="dialog_title_font_size">Veľkosť písma</string>	
-    <string name="disable_power_key_long_press_under_keyguard">Vypnúť na zamykacej obrazovke</string>	
+    <string name="disable_power_key_long_press_under_keyguard">Vypnúť na zamyk. obr.</string>	
     <string name="disable_text">Vypnúť</string>	
     <string name="disabled">Deaktivované</string>	
     <string name="disableNetwork">Vypnúť sieť</string>	
@@ -650,9 +650,9 @@
 	<string name="enableNetwork">Zapnúť sieť</string>   
  	<string name="enable_adb">Ladenie USB</string>	
     <string name="enable_adb_summary">Povoliť režim ladenia s pripojeným zariadením USB</string>	
-    <string name="enable_back_long_press">Ukonč. aplik. podržaním tlač. Späť</string>	
+    <string name="enable_back_long_press">Ukonč. aplik. podržaním</string>	
     <string name="enable_compatibility">Upraviť veľkosť aplikácie</string>	
-    <string name="enable_snapshot_screenlock">Tlač. Späť pre screenshot na zamykacej obrazovke</string>
+    <string name="enable_snapshot_screenlock">Screenshot na zamyk. obr.</string>
 	<string name="enable_text">Povoliť</string>    
 	<string name="enter_password">Ak chcete obsah úložiska dešifrovať, zadajte heslo.</string>	
     <string name="erase_application">Vymazať aplikácie</string>	
@@ -678,7 +678,7 @@
     <string name="filter_apps_third_party">Stiahnuté</string>	
     <string name="filter_dlg_title">Vyberte možnosti filtra</string>	
     <string name="finish_button_label">Dokončiť</string>	
-    <string name="firmware_version">Verzia systému Android:</string>	
+    <string name="firmware_version">Verzia Android:</string>	
     <string name="font_size_preview_text">Toto je ukážkový text pre MIUIAndroid.com ROM.</string>	
     <string name="font_size_save">OK</string>	
     <string name="force_hw_ui">Vykresľovanie pomocou GPU</string>	

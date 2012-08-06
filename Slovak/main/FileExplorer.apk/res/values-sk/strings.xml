@@ -130,7 +130,7 @@
 <string name="preference_title">Všeobecné nastavenia</string>
 <string name="remote_management">FTP</string>
 <string name="removed_favorite">Odobrané z obľúbených</string>
-<string name="sd_card_available">Voľné miesto:</string>
+<string name="sd_card_available">Voľné miesto:%1$s</string>
 <string name="sd_card_name">SD karta:</string>
 <string name="sd_card_size">SD karta:%1$s</string>
 <string name="sd_folder">SD karta</string>
