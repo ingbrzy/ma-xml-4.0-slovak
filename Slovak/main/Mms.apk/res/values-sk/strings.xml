@@ -140,6 +140,7 @@
   <string name="festival_sms_push">Doporučené</string>
   <string name="festival_sms_sdcard_unready">SD karta nie je pripravená</string>
   <string name="fetion_prefix">[Fetion]</string>
+  <string name="found_wild_messages">Boli nájdené správy na inej SIM karte na Cloude:%s Chcete ich stiahnuť?</string>
   <string name="flatshow_page_no">Strana %1$d</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="from_label">"Od: "</string>

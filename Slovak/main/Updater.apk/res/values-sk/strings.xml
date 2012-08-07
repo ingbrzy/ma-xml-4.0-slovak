@@ -69,6 +69,7 @@
     <string name="no_updates_warning2">Táto aplikácia Vás upozorní na nové aktualizácie.</string>
     <string name="paused_queued_for_wifi">Čakanie na Wi-Fi pripojenie...</string>
     <string name="reboot_to_new_system">Reštartovať do novej verzie</string>
+	<string name="refuse_recommend_reason">Prosím vyplňte dôvod</string>
     <string name="sdcard_has_no_space_dialog_body">Na SD karte nie je dostatok voľného miesta, uvoľníte ho a aktualizujte znova</string>
     <string name="sdcard_has_no_space_dialog_title">Na SD karte ostáva málo voľného priestoru</string>
     <string name="sdcard_is_not_present_dialog_body">SD karta nebola pripojená alebo sa z nej nedalo čítať. Prosím skúste to znova.</string>

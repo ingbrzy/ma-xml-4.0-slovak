@@ -66,6 +66,7 @@
 <string name="guide_login_url">"Prosím navštívte pan.xiaomi.com na Vašom PC"</string>
 <string name="guide_manage_files_through_computer">"Môžete ľahko organizovať súbory v MiDrive na Vašom PC"</string>
 <string name="guide_senior_tech">Pokročilé možnosti</string>
+<string name="choose_upload_location">Zvoľte kam nahrať súbory</string>
 <string name="install_failed">Inštalácia zlyhala</string>
 <string name="install_successful">Inštalácia prebehla v poriadku</string>
 <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
@@ -136,6 +137,8 @@
 <string name="sd_folder">SD karta</string>
 <string name="search_hint">Zadajte časť alebo celé meno súboru</string>
 <string name="search_title">Hľadať dokumenty</string>
+<string name="send_to_midrive">Odoslať na MiDrive</string>
+<string name="send_to_midrive_failed_message">MiDrive nepodporuje tento typ súboru.</string>
 <string name="show_message">Súbor nie je možné otvoriť bez jeho stiahnutia</string>
 <string name="slide_left_text">Posuňte vľavo</string>
 <string name="space_info">Kapacita: %1$s, K dispozícii/Celkom: %2$s</string>

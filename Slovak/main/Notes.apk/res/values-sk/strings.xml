@@ -63,6 +63,7 @@
     <string name="note_alert_expired">Expirované</string>
     <string name="note_link_email">Napísať e-mail</string>
     <string name="note_link_other">Otvoriť mapy</string>
+	<string name="note_link_select">Vybrať text</string>
     <string name="note_link_tel">Volanie</string>
     <string name="note_link_web">Hľadať na webe</string>
     <string name="notealert_enter">Zobraziť</string>
