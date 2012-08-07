@@ -3,7 +3,7 @@
   <string name="activity_not_found">Nie je dostupná žiadna aplikácia na dokončenie akcie.</string>
   <string name="add_account">Pridať účet</string>
   <string name="add_bookmark">Pridať k obľúbeným</string>
-  <string name="albums">Albumy</string>
+  <string name="albums">Album(ov)</string>
   <string name="all_album">Všetky</string>
   <string name="all_albums_desc">Albumy</string>
   <string name="all_albums_loading">Nahrávanie...</string>  
@@ -17,7 +17,7 @@
   <string name="appwidget_empty_text">Žiadne snímky.</string>
   <string name="appwidget_title">Fotogaléria</string>
   <string name="auto">Auto</string>
-  <string name="auto_create_recent_album">Automatické vytváranie obľúbených albumov</string>
+  <string name="auto_create_recent_album">Auto. vytv. obľúb. albumov</string>
   <string name="auto_create_recent_album_confirm">Po vypnutí tejto funkcie, vymaže galéria údaje obľúbených albumov. Obľúbené albumy nastavené užívateľom to neovplyvní. Alternatívne to môžete nastaviť dlhým klikom na album.</string>
   <string name="auto_create_recent_album_over_ten_times">Automatické vytvorenie obľúbeného albumu(ov), keď je album otvorený viac ako 10 krát</string>
   <string name="autofix">Auto-fix</string>
@@ -68,7 +68,7 @@
   <string name="duration">Trvanie</string>
   <string name="edit">Upraviť</string>
   <string name="edited_photo_bucket_name">Upravené</string>
-  <string name="empty_album">O snímok/videí dostupných.</string>
+  <string name="empty_album">O snímkov/videí dostupných.</string>
   <string name="expand_album_in_home_page">Expandovať album na domácu obrazovku</string>
   <string name="exposure_time">Expozičný čas</string>
   <string name="facelift">Zosvetlenie tváre</string>
@@ -106,9 +106,9 @@
   <string name="group_by_time">Podľa času</string>
   <string name="height">Výška</string>
   <string name="highlight">Zvýraznenie</string>
-  <string name="home_my_captured_items">celkom snímok</string>
+  <string name="home_my_captured_items">celkom snímkov</string>
   <string name="home_recent_albums">Nedávne albumy</string>
-  <string name="how_many_pics">%d Snímok</string>
+  <string name="how_many_pics">%d Snímkov</string>
   <string name="how_many_sub_folders">%d Priečinkov</string>
   <string name="how_many_videos">%d Videí</string>
   <string name="image_property">Vlastnosti snímky</string>
@@ -183,7 +183,7 @@
   <string name="people">Ľudia</string>
   <string name="photo_saved">Snímka uložená v %s albume</string>
   <string name="photoeditor_name">Foto štúdio</string>
-  <string name="photos">"Snímky"</string>
+  <string name="photos">"Snímkov"</string>
   <string name="picasa_posts">Príspevky</string>
   <string name="play_video">Prehrať video</string>
   <string name="posterize">Posterizovať</string>
@@ -256,8 +256,8 @@
   <string name="slideshow">Prehliadka</string>
   <string name="slideshow_category">Prehliadka</string>
   <string name="slideshow_dream_name">Prehliadka</string>
-  <string name="slideshow_interval">Časový interval prehliadky</string>
-  <string name="slideshow_interval_dialog_title">Časový interval prehliadky musí byť väčší ako 0 sekúnd</string>
+  <string name="slideshow_interval">Časový interval prezentácie</string>
+  <string name="slideshow_interval_dialog_title">Časový interval prezentácie musí byť väčší ako 0 sekúnd</string>
   <string name="slideshow_interval_invalid">Neplatné nastavenie časového intervalu, musí byť medzi 1 a 3600.</string>
   <string name="slideshow_repeat_mode">Opakovať</string>
   <string name="straighten">Vyrovnať</string>
