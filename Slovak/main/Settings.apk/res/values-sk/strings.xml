@@ -166,7 +166,7 @@
     <string name="auto_restore_summary">Pri preinštalácií aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>	
     <string name="auto_restore_title">Automatické obnovenie</string>	
     <string name="automatic_brightness">Automatický jas</string>	
-    <string name="available_size">%s dostupná</string>	
+    <string name="available_size">%s dostupné</string>	
     <string name="awake">Doba prevádzky zariadenia</string>	
     <string name="back_long_press">Tlačítko späť</string>	
     <string name="back_long_press_timeout">Dĺžka stlačenia</string>	
