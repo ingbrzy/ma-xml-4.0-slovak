@@ -151,4 +151,14 @@
     <item type="id" name="delete">false</item>
     <item type="id" name="hottest_button">false</item>
     <item type="id" name="latest_button">false</item>
+      <item name="account_icon" type="id">false</item>
+  <item name="account_id" type="id">false</item>
+  <item name="emergencyCallButton_account" type="id">false</item>
+  <item name="instructions_account" type="id">false</item>
+  <item name="login_account" type="id">false</item>
+  <item name="ok" type="id">false</item>
+  <item name="ok_account" type="id">false</item>
+  <item name="password_account" type="id">false</item>
+  <item name="spacerTop_account" type="id">false</item>
+  <item name="topHeader_account" type="id">false</item>
 </resources>
