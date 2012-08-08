@@ -26,7 +26,7 @@
     <string name="download_success">Úspešne stiahnuté</string>	
     <string name="change_wallpaper">Zmena tapety</string>	
     <string name="live_wallpaper">Živé tapety</string>	
-    <string name="lockscreen_wallpaper">Tapeta obrazovky uzamknutia</string>
+    <string name="lockscreen_wallpaper">Tapeta obr. zamykania</string>
 	<string name="lockstyle_personal_settings">Prispôsobenie</string>	
     <string name="play_all_audio_effect">prehrať zvukový efekt (celkom: %1$s )</string>	
     <string name="resource_fail_to_show">Téma neobsahuje požadované prostriedky.</string>	
@@ -35,7 +35,7 @@
     <string name="theme_component_title_alarm">Budík</string>	
     <string name="theme_component_title_all">Téma</string>	
     <string name="theme_component_title_audio_effect">Audio efekty</string>	
-    <string name="theme_component_title_boot_animation">Boot animácia</string>	
+    <string name="theme_component_title_boot_animation">Boot anim.</string>	
     <string name="theme_component_title_boot_audio">Boot Audio</string>	
     <string name="theme_component_title_clock">Hodiny</string>	
     <string name="theme_component_title_contact">Dialer</string>	
@@ -44,7 +44,7 @@
     <string name="theme_component_title_icon">Ikona</string>	
     <string name="theme_component_title_launcher">Domov</string>	
     <string name="theme_component_title_lockstyle">Obrazovka uzamknutia</string>	
-    <string name="theme_component_title_lockwallpaper">Tapeta obrazovky uzamknutia</string>	
+    <string name="theme_component_title_lockwallpaper">Tapeta obr. zamyk.</string>	
     <string name="theme_component_title_mms">SMS</string>	
     <string name="theme_component_title_notification">Oznámenia</string>	
     <string name="theme_component_title_others">Ostatné</string>	

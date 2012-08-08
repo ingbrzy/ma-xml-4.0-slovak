@@ -256,7 +256,7 @@
   <string name="open_keyboard_to_compose_message">Otvorte klávesnicu a napíšte správu</string>
   <string name="phrase_confirm_delete_message">Vybrané frázy budú zmazané</string>
   <string name="phrase_from">Od %1s</string>  
-  <string name="phrase_list_title">Fráz</string>
+  <string name="phrase_list_title">Frázy</string>
   <string name="pick_too_many_recipients">Príliš mnoho príjemcov</string> 
   <string name="play">Prehrať</string>
   <string name="prefDefault_ringtone_repeat">1</string>
@@ -303,7 +303,7 @@
   <string name="pref_summary_notification_enabled">Zobraziť notifikáciu správy v oznamovacom riadku</string>
   <string name="pref_summary_notification_vibrateWhen">Tiež vibrovať pri oznámení</string> 
   <string name="pref_summary_off_system_mms_priority">Ostatné Mms aplikácie dostanú správu skôr</string>
-  <string name="pref_summary_on_system_mms_priority">Systémová Mms aplikácia dostane správu ako prvá</string>  
+  <string name="pref_summary_on_system_mms_priority">Systémová MMS aplikácia dostane správu ako prvá</string>  
   <string name="pref_summary_ringtone_repeat">Upozorniť každých 5 min ak je doručená nová správa</string>
   <string name="pref_summary_show_recent_contacts">Zobraziť zoznam častých kontaktov počas písania správy</string>
   <string name="pref_summary_sms_delivery_reports">Vyžadovať potvrdenie o doručení pre každú odoslanú správu</string>  
@@ -335,7 +335,7 @@
   <string name="pref_title_show_recent_contacts">Zobraziť posledné kontakty</string>  
   <string name="pref_title_sms_delete">Limit textových správ</string>
   <string name="pref_title_sms_delivery_reports">Potvrdenia o doručení</string> 
-  <string name="pref_title_system_mms_priority">Systémová Mms aplikácia má prioritu</string>  
+  <string name="pref_title_system_mms_priority">Systém. MMS aplik. má prioritu</string>  
   <string name="pref_title_wake_up_screen">Rozsvietiť displej</string>
   <string name="preferences_title">SMS a MMS</string>
   <string name="prepare_send">Pripravené na odoslanie...</string>

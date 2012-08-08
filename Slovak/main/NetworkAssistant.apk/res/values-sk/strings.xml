@@ -11,7 +11,7 @@
 	<string name="adjust_traffic_update">Update</string>	
     <string name="app_detail_internet_background">Pripojenie k Internetu pri behu na pozadí</string>	
     <string name="app_detail_internet_background_traffic">"V popredí：%1$s     Na pozadí：%2$s"</string>	
-    <string name="app_detail_internet_control_category">Riadenie siete</string>	
+    <string name="app_detail_internet_control_category">Typ siete</string>	
     <string name="app_detail_title">Detail aplikácie</string>	
     <string name="app_detail_version">Verzia: %s</string>	
     <string name="app_name">Monitoring siete</string>	
@@ -31,7 +31,7 @@
     <string name="close_txt">Zavrieť</string>	
     <string name="control_app_internet">Riadenie využitia siete</string>	
     <string name="current_warning_value">Varovná hodnota %s</string>	
-    <string name="daily_limit_dialog_disconnect_hint">Odpojiť internet pri prekročení limitu</string>	
+    <string name="daily_limit_dialog_disconnect_hint">Odpojiť internet po prekr.</string>	
     <string name="daily_limit_dialog_hint">Denný limit dát (prázdne alebo 0 znamená bez obmedzení)</string>	
     <string name="daily_limit_result">Upozorniť ma a odpojiť internet, ak denná prevádzka prekročí %dM. Zapnuté</string>	
     <string name="daily_limit_result_no_disconnect">Upozorniť ma, ak denná prevádzka prekročí %dM. Zapnuté</string>	
@@ -60,7 +60,7 @@ Môžete ich upraviť."</string>
     <string name="menu_display_wifi">Zobrazovať WiFi prevádzku</string>	
     <string name="menu_hide_system_app">Skryť systémové aplikácie</string>	
     <string name="menu_hide_wifi">Nezobrazovať WiFi prevádzku</string>	
-    <string name="menu_new_install_app_settings">Východzie nastavenie pre nové inštalované aplikácie</string>	
+    <string name="menu_new_install_app_settings">Predv. nast. pre nové aplik.</string>	
     <string name="menu_refresh">Obnoviť</string>	
     <string name="menu_settings">Nastavenie</string>	
     <string name="menu_sort">Zoradiť</string>	
@@ -74,14 +74,14 @@ Môžete ich upraviť."</string>
     <string name="plate_traffic_remain">Ostáva (%s)</string>	
     <string name="powered_by">Technická podpora poskytovaná WALL-E</string>	
     <string name="pref_category_adjust_traffic">Prispôsobenie prevádzky</string>	
-    <string name="pref_connect_settings_enable_backgroung">Povoliť automatické pripojenie k internetu na pozadí</string>	
+    <string name="pref_connect_settings_enable_backgroung">Auto. prip. na pozadí</string>	
     <string name="pref_connect_settings_enable_backgroung_hint">Povoliť aplikáciám automatické pripojovanie k internetu na pozadí</string>	
     <string name="pref_connect_settings_exceed_limit">Odpojiť internet pri prekročení limitu dát</string>	
     <string name="pref_connect_settings_exceed_limit_hint">Upozorniť ma a odpojiť internet, ak dôjde k prekročeniu limitu dát</string>	
-    <string name="pref_connect_settings_notify_in_statusbar">Zobraziť rozšírené informácie</string>	
+    <string name="pref_connect_settings_notify_in_statusbar">Zobraziť rozšírené info.</string>	
     <string name="pref_connect_settings_title">Nastavenie monitorovania siete</string>	
     <string name="pref_network_speed_internal_title">Interval aktualizácie</string>	
-    <string name="pref_network_speed_settings">Zobraziť rýchlosť siete v notif. lište</string>	
+    <string name="pref_network_speed_settings">Zobraziť rýchlosť siete</string>	
     <string name="pref_network_status_bar">Notifikačná lišta</string>	
     <string name="pref_netwotk_speed_internal_summary">Rýchlosť siete aktualizovať každých %d s</string>	
     <string name="pref_traffic_adjust_title">Prispôsobenie prevádzky dát</string>	
@@ -90,7 +90,7 @@ Môžete ich upraviť."</string>
     <string name="process_kernel_label">Android OS</string>	
     <string name="retry">Opakovať</string>	
     <string name="save">Uložiť</string>	
-    <string name="settings_page_adjust_summary_no_carrier">Operátor nebol nastavený，Automatické upravovanie vypnuté</string>	
+    <string name="settings_page_adjust_summary_no_carrier">Operátor nebol nastavený. Automatické upravovanie vypnuté</string>	
     <string name="settings_page_traffic_summary">Dostupné: %1$s, Upozornenie: %2$s, Od %3$d dňa</string>	
     <string name="settings_page_traffic_summary_no_settings">Balíček nenastavený, Od %d. dňa</string>	
     <string name="sms_match_fail">SMS nesúhlasí</string>	
