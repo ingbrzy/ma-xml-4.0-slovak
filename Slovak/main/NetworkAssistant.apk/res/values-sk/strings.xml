@@ -29,7 +29,7 @@
     <string name="carrier_query_number_location">Attribution</string>	
     <string name="carrier_query_number_title">Nastavenie operátorov</string>	
     <string name="close_txt">Zavrieť</string>	
-    <string name="control_app_internet">Riadenie využitia siete</string>	
+    <string name="control_app_internet">Využitie siete</string>	
     <string name="current_warning_value">Varovná hodnota %s</string>	
     <string name="daily_limit_dialog_disconnect_hint">Odpojiť internet po prekr.</string>	
     <string name="daily_limit_dialog_hint">Denný limit dát (prázdne alebo 0 znamená bez obmedzení)</string>	
@@ -78,7 +78,7 @@ Môžete ich upraviť."</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Povoliť aplikáciám automatické pripojovanie k internetu na pozadí</string>	
     <string name="pref_connect_settings_exceed_limit">Odpojiť internet pri prekročení limitu dát</string>	
     <string name="pref_connect_settings_exceed_limit_hint">Upozorniť ma a odpojiť internet, ak dôjde k prekročeniu limitu dát</string>	
-    <string name="pref_connect_settings_notify_in_statusbar">Zobraziť rozšírené info.</string>	
+    <string name="pref_connect_settings_notify_in_statusbar">Zobraziť spotrebu dát</string>	
     <string name="pref_connect_settings_title">Nastavenie monitorovania siete</string>	
     <string name="pref_network_speed_internal_title">Interval aktualizácie</string>	
     <string name="pref_network_speed_settings">Zobraziť rýchlosť siete</string>	
