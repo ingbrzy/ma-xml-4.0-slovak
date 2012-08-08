@@ -17,6 +17,7 @@
     <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
     <string name="artist_edit">Umelec</string>
     <string name="artists_title">Umelci</string>
+	<string name="billboard">Billboard</string>
     <string name="buffering">Ukladanie do vyrovnávacej pamäti</string>
     <string name="cancel">Zrušiť</string>
     <string name="cancel_sleep_mode">Časovač zastavený</string>
@@ -29,6 +30,9 @@
     <string name="create_equalzier_create_text_prompt">Názov ekvalizéru</string>
     <string name="create_playlist_create_text_prompt">Názov playlistu</string>
     <string name="custom">Prispôsobiť</string>
+	<string name="channel">FM</string>
+    <string formatted="false" name="channel_format">"%s  %s MHZ"</string>
+    <string name="channel_postfix">MHZ</string>
     <string name="default_interval">30</string>
     <string name="delete_file_from_sdcard">Súčasne odstrániť súbory z SD karty</string>
     <string name="delete_item">Zmazať</string>
@@ -41,6 +45,7 @@
     <string name="detail_format">"Formát: "</string>
     <string name="detail_genre">"Žáner: "</string>
     <string name="detail_size">"Veľkosť: "</string>
+	<string name="discovery_music">Preskúmať Hudbu</string>
     <string name="donot_ask_me_again">"Nepýtať sa znovu"</string>
     <string name="download">Stiahnuť</string>
     <string name="download_album_settings">Automatický sťahovať obrázky albumov</string>
@@ -89,6 +94,7 @@
     <string name="folder_title_format" formatted="false">%s(%d)</string>
     <string name="folders_title">Zložky</string>
     <string name="frequentlyplayed_title">Najčastejšie prehrávané</string>
+	<string name="hot_artists">Najhranejší Autor</string>
     <string name="id3_edit">Upraviť ID3 informácie</string>
     <string name="id3_edit_failed">Nie je možné upraviť ID3 informácie</string>
     <string name="id3_modify_confirm_check">Uložiť zmeny v ID3?</string>
@@ -99,8 +105,18 @@
     <string name="keep_quit_position_summary">Pamätať si pozíciu v poslednej prehrávanej skladbe</string>
     <string name="listen_to_music_online_settings">Počúvanie online hudby</string>
     <string name="listen_to_online_summary">Počúvanie hudby cez mobilný, alebo Wi-fi internet</string>
+	<string name="load_album_failed">Načítavanie zoznamu albumov zlyhalo, skúste to prosím znovu.</string>
+    <string name="load_album_in_process">Načítať zoznam albumov</string>
+    <string name="load_artist_failed">Načítavanie zoznamu umelcov zlyhalo, skúste to prosím znovu.</string>
+    <string name="load_artist_in_process">Načítať zoznam umelcov</string>
+    <string name="load_audio_failed">Načítavanie zoznamu audio zlyhalo, skúste to prosím znovu.</string>
+    <string name="load_audio_in_process">Načítať zoznam audio</string>
+    <string name="load_bill_failed">Načítavanie zoznamu billboard zlyhalo, skúste to prosím znovu.</string>
+    <string name="load_bill_in_process">Načítať zoznam billboard</string>
     <string name="load_category_failed">Nepodarilo sa načítať zoznam kategórií, skúste to prosím znovu.</string>
     <string name="load_category_in_process">Načítanie zoznamu</string>
+	<string name="load_channel_failed">Načítavanie zoznamu kanálov zlyhalo, skúste to prosím znovu.</string>
+    <string name="load_channel_in_process">Load channel list</string>
     <string name="loading">Načítavam</string>
     <string name="lpa_off_hint">You need to close low-power audio play to enable equalizer, please set in Settings-> System -> Battery Settings. Your battery consumption will increase.</string>
     <string name="lrc_search_failed">Texty nenájdené!</string>
@@ -126,7 +142,8 @@
     <string name="music_settings">Nastavenie</string>
     <string name="musicbrowserlabel">Hudba</string>
     <string name="network_error">Žiadne pripojenie k internetu, prosím skontrolujte nastavenie internetu</string>
-    <string name="new_equalizer_name_template">Nový profil EQ %d</string>
+    <string name="new_albums">Nové Albumy</string>
+	<string name="new_equalizer_name_template">Nový profil EQ %d</string>
     <string name="new_playlist">Nový</string>
     <string name="new_playlist_name_template">Nový playlist %d</string>
     <string name="no_effect">Bez efektu</string>
@@ -165,6 +182,7 @@
     <string name="quit_warining">Prehrávač zastaví prehrávanie o %d minút</string>
     <string name="recentlyadded_title">Naposledy pridané</string>
     <string name="recentlyplayed_title">Naposledy prehrávané</string>
+	<string name="recommend">Odporučiť</string>
     <string name="refresh_finish">Aktualizácia dokončená</string>
     <string name="refresh_in_processing">Aktualizujem...</string>
     <string name="refresh_media_db">Aktualizovať</string>
@@ -194,6 +212,7 @@
     <string name="search_in_process">Hľadanie</string>
     <string name="search_result_format">\"%s\"</string>
     <string name="search_settings_description">Umelci, albumy, a skladby</string>
+	<string name="search_suggestion">Odporúčané vyhľadávanie:</string>
     <string name="search_title">Hľadať</string>
     <string name="select_all">Vybrať všetko</string>
     <string name="select_folder">Vyberte zložku(y)</string>

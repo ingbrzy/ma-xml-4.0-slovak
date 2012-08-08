@@ -4,6 +4,8 @@
   <string name="add_account">Pridať účet</string>
   <string name="add_bookmark">Pridať k obľúbeným</string>
   <string name="albums">Album(ov)</string>
+  <string name="alert">Oznam</string>
+  <string name="alert_message_sync_histoy_power_on">Predvolené je, že história obrázkov sa synchronizuje iba počas nabíjania telefónu. Toto nastavenie môžete zmeniť v menu Nastavenia.</string>
   <string name="all_album">Všetky</string>
   <string name="all_albums_desc">Albumy</string>
   <string name="all_albums_loading">Nahrávanie...</string>  
@@ -35,6 +37,7 @@
   <string name="click_import">Kliknite sem pre import</string>
   <string name="close">Zatvoriť</string>
   <string name="cloud_albums">Cloudové Albumy</string>
+  <string name="cloud_gallery_setting">Nastavenia Cloudovej galérie</string>
   <string name="cloud_gallery_space_full">Upload zlyhal!, Cloudové úložisko galérie je plné</string>
   <string name="cloud_media_set_set">Cloudové albumy</string>
   <string name="confirm_delete"> Vymazať</string>
@@ -94,6 +97,7 @@
   <string name="focal_length">Ohnisková vzdialenosť</string>
   <string name="free_space_format">%s voľné</string> 
   <string name="gadget_title">Rámik obrázku</string>
+  <string name="gallery_cloud_provider_name">Galéria</string>
   <string name="global_setting">Nastavenia</string>
   <string name="grain">Filmové zrno</string>
   <string name="grayscale">ČB</string>
@@ -265,6 +269,10 @@
   <string name="switch_to_camera">Prepnúť na fotoaparát</string>
   <string name="sync_album_error">Nepodarilo sa stiahnuť snímky v tomto albume. Prosím skúste opäť neskôr.</string>
   <string name="sync_album_set_error">Nepodarilo sa stiahnuť zoznam albumov. Prosím skúste opäť neskôr.</string>
+  <string name="sync_history_power_on">Synchronizovať históriu obrázkov len počas nabíjania telefónu</string>
+  <string name="sync_history_power_on_summary">Odporúča sa povoliť, inak to môže mať vplyv na zvýšenú spotrebu batérie.</string>
+  <string name="sync_only_in_wifi">Iba Wi-Fi</string>
+  <string name="sync_only_in_wifi_summary">Odporúča sa povoliť, inak sa spotrebuje viac dát od operátora.</string>
   <string name="sync_picasa_albums">Obnoviť</string>
   <string name="tags">Tagy</string>
   <string name="temperature">Teplota</string>

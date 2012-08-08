@@ -305,14 +305,21 @@
     <string name="label_notes">Poznámky</string>
     <string name="label_sip_address">Internetový telefón (SIP)</string>
     <string name="launcherDialer">Telefón</string>
+	<string name="listAllContactsInAccount">Kontakty v %s</string>
+    <string name="listCustomView">Kontakty vo vlastnom zobrazení</string>
     <string name="listFoundAllContactsZero">Nenájdené</string>
     <string name="listTotalAllContactsZeroStarred">žiadne obľúbené kontakty</string>
+	<string name="listTotalPhoneContactsZero">Žiadne kontakty s telefónnym číslom</string>
     <string name="list_filter_all_accounts">Všetky kontakty</string>
     <string name="list_filter_all_starred">Obľúbené</string>
     <string name="list_filter_custom">Vlastné</string>
     <string name="list_filter_customize">Vlastné...</string>
     <string name="list_filter_phones">Všetky kontakty s telefónnymi číslami</string>
     <string name="list_filter_single">Kontakt</string>
+	<string name="listSingleContact">Jediný kontakt</string>
+    <string name="listTotalAllContactsZero">Žiadne kontakty.</string>
+    <string name="listTotalAllContactsZeroCustom">Žiadne kontakty.</string>
+    <string name="listTotalAllContactsZeroGroup">Žiadne kontakty v %s</string>
     <string name="liveFolderAll">Všetky kontakty</string>   
  	<string name="liveFolderFavorites">Obľúbené kontakty</string>
  	<string name="liveFolderPhone">Kontakty s telefónnymi číslami</string>
@@ -457,6 +464,7 @@
     <string name="preference_import_export_title">Importovať/Exportovať kontakty</string>
     <string name="preference_others">Ostatné</string>
     <string name="preference_remove_duplicate">Zlúčiť duplicitné kontakty</string>
+	<string name="preference_select_account_display">Filter podľa účtu</string>
     <string name="preview_contact_card_title">Importovať vizitku</string>
     <string name="primary_indicator">(pôvodné)</string>
     <string name="private_num">Súkromné číslo</string>
@@ -502,6 +510,7 @@
     <string name="select_new_photo_from_photo_package">Vybrať novú fotku z balíčka</string>
     <string name="select_none">Nič nie je vybrané, operácia je neplatná</string>
     <string name="select_photo_from_photo_package">Vybrať fotku z balíčka</string>
+	<string name="select_show_contacts">Zobraziť kontakt</string>
     <string name="select_vcard_title">Výber súboru vCard</string>
     <string name="send_contact_shortcut_todesktop_success">Zástupca bol pridaný na plochu</string>
     <string name="separatorJoinAggregateAll">Všetky kontakty</string>
