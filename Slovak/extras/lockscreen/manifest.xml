@@ -145,7 +145,7 @@
                         <Alpha a="255*not(#show_preview)" time="1000000000000000"/>
                     </AlphaAnimation>
 	    	        </Image>
-    		        <Text x="#screen_width/2-35" y="198" color="#FFFFFFFF" size="18" format="%d zmeškaných hovorov" paras="#call_missed_count" visibility="#call_missed_count">
+    		        <Text x="#screen_width/2-35" y="198" color="#FFFFFFFF" size="18" format="%d hovorov" paras="#call_missed_count" visibility="#call_missed_count">
                     <AlphaAnimation>
                         <Alpha a="255" time="0"/>
                         <Alpha a="255*not(#show_preview)" time="500"/>
@@ -326,7 +326,7 @@
                         <Alpha a="255" time="1000000000000000"/>
                     </AlphaAnimation>
                 </Image>
-                <Text x="#screen_width/2-35" y="198" color="#FFFFFFFF" size="18" format="%d missed calls" paras="#call_missed_count" visibility="#call_missed_count">
+                <Text x="#screen_width/2-35" y="198" color="#FFFFFFFF" size="18" format="%d hovorov" paras="#call_missed_count" visibility="#call_missed_count">
                     <AlphaAnimation>
                         <Alpha a="192*not(#preview_call_count+#sms_count)" time="0"/>
                         <Alpha a="255" time="500"/>
@@ -342,7 +342,7 @@
                         <Alpha a="255" time="1000000000000000"/>
                     </AlphaAnimation>
                 </Image>
-                <Text x="#screen_width/2-35" y="198+30*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="%d messages" paras="#sms_count" visibility="#sms_count">
+                <Text x="#screen_width/2-35" y="198+30*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="%d SMS správ" paras="#sms_count" visibility="#sms_count">
                     <AlphaAnimation>
                         <Alpha a="192*not(#preview_call_count+#sms_count)" time="0"/>
                         <Alpha a="255" time="500"/>
