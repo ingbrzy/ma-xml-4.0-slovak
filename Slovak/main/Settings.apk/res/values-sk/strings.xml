@@ -955,7 +955,7 @@
     <string name="owner_info_settings_summary" />	
     <string name="owner_info_settings_title">Info o vlastníkovi</string>	
     <string name="packages_subtitle">Zahrnuté balíčky</string>
-	<string name="password_guard">Ochrana heslom</string>	
+	<string name="password_guard">Bezpečnosť</string>	
     <string name="percentage">%d%%</string>	
     <string name="permissions_label">Oprávnenia</string>	
     <string name="personal_data_section_title">Osobné údaje</string>	
@@ -1515,7 +1515,7 @@
     <string name="vibrate_on_ring_title">Vibrácie a vyzváňanie</string>	
     <string name="virus_scan_app_continue">Pokračovať v skenovaní</string>
     <string name="virus_scan_app_find_risk">%d je podozrivých, odporúča sa ich okamžite odinštalovať.</string>
-    <string name="virus_scan_app_finish">Dokončené!</string>
+    <string name="virus_scan_app_finish">Zatvoriť</string>
     <string name="virus_scan_app_force_stop">Skenovanie pozastavené!</string>
     <string name="virus_scan_app_multi_engines">Vyberte nástroj, čas skenovania môže byť dlhší</string>
     <string name="virus_scan_app_no_risk">Žiadna podozrivá aplikácia sa nenašla.</string>
@@ -1523,7 +1523,7 @@
     <string name="virus_scan_app_risk">Nájdená podozrivá aplikácia!</string>
     <string name="virus_scan_app_safe_scanning">Prebieha skenovanie.</string>
     <string name="virus_scan_app_scan_finish">Skenovanie dokončené.</string>
-    <string name="virus_scan_app_scanning">Skenovanie...</string>
+    <string name="virus_scan_app_scanning">Skener Vírusov</string>
     <string name="virus_scan_app_stop_scan">Zastaviť skenovanie</string>
     <string name="virus_scan_app_uninstall">Hromadná odinštalácia (%d)</string>
     <string name="virus_scan_app_waiting">Čakanie na</string>
