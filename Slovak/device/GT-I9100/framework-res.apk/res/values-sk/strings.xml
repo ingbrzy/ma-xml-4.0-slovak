@@ -306,7 +306,7 @@
     <string name="turn_on_radio">Zapnúť bezdrôtové spojenie</string>
     <string name="turn_off_radio">Vypnúť bezdrôtové pripojenie</string>
     <string name="screen_lock">Uzamknutie obrazovky</string>
-    <string name="power_off">Vypnutie</string>
+    <string name="power_off">Vypnúť</string>
     <string name="shutdown_progress">Vypína sa...</string>
     <string name="shutdown_confirm">Zariadenie sa teraz vypne</string>
     <string name="restart_confirm">Zariadenie sa reštartuje</string>
@@ -315,7 +315,7 @@
     <string name="no_recent_tasks">Žiadne nedávne aplikácie</string>
     <string name="global_actions">Možnosti zariadenia</string>
     <string name="global_action_lock">Uzamknutie obrazovky</string>
-    <string name="global_action_power_off">Vypnutie</string>
+    <string name="global_action_power_off">Vypnúť</string>
     <string name="global_action_restart">Reštartovať</string>
     <string name="global_action_toggle_silent_mode">Tichý režim</string>
     <string name="global_action_silent_mode_on_status">Zvuk je vypnutý</string>
