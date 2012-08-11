@@ -82,9 +82,12 @@
     <string name="share_update_content_sign">MIUI bolo aktualizované na %1$s! Moje umiestnenie v rebríčku aktualizovania je %2$s. Pre detailný zoznam zmien, prosím navštívte %3$s.</string>
     <string name="share_update_content_unsign">MIUI bolo aktualizované na %1$s! Pre detailný zoznam zmien, prosím navštívte %2$s</string>
     <string name="sign_in_add_account_helper">Váš telefón nemá žiaden aktívny MIUI účet, pridajte účet aby ste dostávali užívateľské body.</string>
-    <string name="sign_in_info">Vaše umiestnenie v rebríčku aktualizácií je %1$s %2$s užívateľov sa prihlásilo pre MIUI %3$s</string>
-    <string name="sign_in_info_rank_more">Vaše umiestnenie v rebríčku aktualizácií je po %1$s Viac ako %2$s užívateľov sa prihlásilo pre MIUI %3$s</string>
-    <string name="sign_in_info_total_more">Vaše umiestnenie v rebríčku aktualizácií je %1$s Viac ako %2$s užívateľov sa prihlásilo pre MIUI %3$s</string>
+    <string name="sign_in_info">Vaše umiestnenie v rebríčku aktualizácií je %1$s 
+	%2$s užívateľov sa prihlásilo pre MIUI %3$s</string>
+    <string name="sign_in_info_rank_more">Vaše umiestnenie v rebríčku aktualizácií je po %1$s 
+	Viac ako %2$s užívateľov sa prihlásilo pre MIUI %3$s</string>
+    <string name="sign_in_info_total_more">Vaše umiestnenie v rebríčku aktualizácií je %1$s 
+	Viac ako %2$s užívateľov sa prihlásilo pre MIUI %3$s</string>
     <string name="stable_build">Stabilné verzie</string>
     <string name="stable_version">Stabilná verzia</string>
     <string name="start_update">Spusti aktualizáciu</string>
