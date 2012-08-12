@@ -22,8 +22,8 @@
     <string name="batch_connect_control">Dávkové riadenie sietí</string>	
     <string name="cancel_txt">Zrušiť</string>	
     <string name="cannot_find_sms_cmd">SMS príkaz nie je možné nájsť</string>	
-    <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>	
-    <string name="carrier_none_cmcc">%1$s, %2$s</string>	
+    <string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>	
+    <string name="carrier_none_cmcc">%1$s, %2$s, %3$s</string>	
     <string name="carrier_query_number_brand">Názov služby</string>	
     <string name="carrier_query_number_carrier">Operátor</string>	
     <string name="carrier_query_number_location">Attribution</string>	
