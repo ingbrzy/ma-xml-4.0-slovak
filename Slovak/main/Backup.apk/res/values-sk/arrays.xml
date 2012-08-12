@@ -23,8 +23,7 @@
         <item>Nastavenia upozornení</item>
         <item>Poznámky</item>
         <item>Režim nerušiť</item>
-        <item>Aktuálna téma</item>
-        <item>Superužívateľ</item>
+        <item>Účet</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>(dáta)</item>
@@ -45,6 +44,6 @@
     </string-array>
     <string-array name="cloud_sim_data">
         <item>Záznam hovorov</item>
-        <item>Správy (SIM)</item>
+        <item>Správy (SMS)</item>
     </string-array>
 </resources>
