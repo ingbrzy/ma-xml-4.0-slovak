@@ -58,10 +58,8 @@
 <string name="current_sim">Súčasná SIM</string>
 <string name="data_no_enough_space">K dispozícii nie je dostatok miesta, uvoľníte miesto a skúste to znova</string>
 <string name="data_no_enough_space_message">Obnovenie môže zlyhať, uvoľnite miesto vo vnútornej pamäti a akciu opakujte</string>
-<string name="data_no_enough_space_warning">V úložisku je len 30Mb voľného miesta, obnova môže zlyhať, pokračovať?</string>
 <string name="date_format">yyyy MM dd HH:mm:ss</string>
 <string name="delete">Zmazať</string>
-<string name="delete_backup">Zmazať zálohu</string> 
 <string name="delete_backup_confirm">Naozaj chcete zmazať zálohu?</string>
 <string name="delete_backup_process">Vymazávam zálohu, čakajte prosím..</string>
 <string name="delete_failed_backup_confirm">Táto záloha je poškodená a nedá sa z nej obnoviť</string>
@@ -129,7 +127,6 @@
 <string name="sc_unauthorized">Certifikát nie je platný</string>
 <string name="sdcard_no_enough_space">Nedostatok miesta na SD karte, uvoľnite miesto a skúste to znova</string>
 <string name="sdcard_no_enough_space_message">Zálohovanie môže byť neúspešné, uvoľnite miesto na SD karte a skúste to znova</string>
-<string name="sdcard_no_enough_space_warning">Na SD karte je približne 50MB voľného miesta, záloha sa nemusí podariť, pokračovať?</string>
 <string name="sdcard_unmounted">SD karta nenájdená alebo odpojená !</string>
 <string name="select_all">Vybrať všetko</string>
 <string name="service_stoped">Zastavene služby</string>

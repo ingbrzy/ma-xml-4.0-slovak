@@ -145,7 +145,6 @@
     <string name="contactsGroupsLabel">Skupiny</string>
     <string name="contactsJoinedMessage">Kontakty boli spojené</string>
     <string name="contactsList">Kontakty</string>
-    <string name="copy_number">Kopírovať číslo</string>
     <string name="copy_text">Kopírovať do schránky</string>
     <string name="create_group_dialog_title">Vytvoriť novú skupinu</string>
     <string name="create_group_item_label">[Vytvoriť novú skupinu]</string>
@@ -263,7 +262,7 @@
     <string name="frequency_three_days">Skontrolovať a pripomenúť každé 3 dni</string>
     <string name="frequency_weekly">Skontrolovať a pripomenúť každý týždeň</string>
     <string name="frequentList">Často používané</string>
-    <string name="from_account_format">%1$s</string>
+    <string formatted="false" name="from_account_format">%1$s</string>
     <string name="full_name">Celé meno</string>
     <string name="ghostData_company">Spoločnosť</string>
     <string name="ghostData_title">Titulok</string>
@@ -278,9 +277,9 @@
     <string name="groupSavedToast">Skupina uložená</string>
     <string name="groupsLabel">Skupiny</string>
     <string name="hint_findContacts">Nájsť kontakty</string>
-    <string name="hint_search_contacts">%d kontaktov</string>
-	<string name="imei">IMEI</string>
+    <string formatted="false" name="hint_search_contacts">%d kontaktov</string>
     <string name="imLabelsGroup">IM</string>
+	<string name="imei">IMEI</string>
     <string name="import_all_vcard_string">Importovať všetky vizitky</string>
     <string name="import_contact_card_button">Import</string>
     <string name="import_failure_no_vcard_file">Na SD karte nebola nájdená žiadna vizitka</string>
@@ -305,22 +304,15 @@
     <string name="label_notes">Poznámky</string>
     <string name="label_sip_address">Internetový telefón (SIP)</string>
     <string name="launcherDialer">Telefón</string>
-	<string name="listAllContactsInAccount">Kontakty v %s</string>
-    <string name="listCustomView">Kontakty vo vlastnom zobrazení</string>
     <string name="listFoundAllContactsZero">Nenájdené</string>
     <string name="listTotalAllContactsZeroStarred">žiadne obľúbené kontakty</string>
-	<string name="listTotalPhoneContactsZero">Žiadne kontakty s telefónnym číslom</string>
-    <string name="list_filter_all_accounts">Všetky kontakty</string>
+	<string name="list_filter_all_accounts">Všetky kontakty</string>
     <string name="list_filter_all_starred">Obľúbené</string>
     <string name="list_filter_custom">Vlastné</string>
     <string name="list_filter_customize">Vlastné...</string>
     <string name="list_filter_phones">Všetky kontakty s telefónnymi číslami</string>
     <string name="list_filter_single">Kontakt</string>
-	<string name="listSingleContact">Jediný kontakt</string>
-    <string name="listTotalAllContactsZero">Žiadne kontakty.</string>
-    <string name="listTotalAllContactsZeroCustom">Žiadne kontakty.</string>
-    <string name="listTotalAllContactsZeroGroup">Žiadne kontakty v %s</string>
-    <string name="liveFolderAll">Všetky kontakty</string>   
+	<string name="liveFolderAll">Všetky kontakty</string>   
  	<string name="liveFolderFavorites">Obľúbené kontakty</string>
  	<string name="liveFolderPhone">Kontakty s telefónnymi číslami</string>
 	<string name="liveFolder_all_label">Všetky kontakty</string>
@@ -373,7 +365,7 @@
     <string name="menu_splitAggregate">Rozdeliť</string>
     <string name="menu_sync_remove">Zrušiť synchronizáciu skupiny</string>
     <string name="menu_viewContact">Zobraziť kontakt</string>
-    <string name="merge_contact_message" formatted="false">%1$d kontaktov s čiastočne duplicitnými dátami, %2$d vybraných</string>
+    <string name="merge_contact_message" formatted="false">(%1$d) kontaktov s čiastočne duplicitnými dátami, (%2$d) zlúčených</string>
     <string name="messageShortcutActivityTitle">Výber čísla pre správu</string>
     <string name="missing_name">(bez mena)</string>
     <string name="move_and_resize">Posuň merítko</string>
@@ -486,14 +478,12 @@
     <string name="recentCalls_removeFromRecentList">Odstrániť z hovorov</string>
     <string name="recentCalls_trashVoicemail">Vymazať hlasovú správu</string>
     <string name="recentCallsIconLabel">Výpis hovorov</string>
-    <string name="recentContactsIconLabel">Nedávne kontakty</string>
     <string name="relationLabelsGroup">Príbuzné</string>
     <string name="remind_btn_ignore">Ignorovať</string>
     <string name="remind_btn_sync_now">Synchronizovať teraz</string>
     <string name="removePhoto">Odstrániť fotku</string>
     <string name="ringLabelsGroup">Vyzváňací tón</string>
     <string name="save_photo_progress">Ukladám fotku...</string>
-    <string name="savingContact">Ukladám kontakt…</string>
     <string name="savingDisplayGroups">Ukladám nastavenia zobrazenia …</string>
     <string name="scan_duplicate">"Hľadám duplicitné dáta, prosím čakajte... "</string>
     <string name="scan_duplicate_message">Počet duplicitných kontaktov: %1$d</string>
@@ -510,8 +500,7 @@
     <string name="select_new_photo_from_photo_package">Vybrať novú fotku z balíčka</string>
     <string name="select_none">Nič nie je vybrané, operácia je neplatná</string>
     <string name="select_photo_from_photo_package">Vybrať fotku z balíčka</string>
-	<string name="select_show_contacts">Zobraziť kontakt</string>
-    <string name="select_vcard_title">Výber súboru vCard</string>
+	<string name="select_vcard_title">Výber súboru vCard</string>
     <string name="send_contact_shortcut_todesktop_success">Zástupca bol pridaný na plochu</string>
     <string name="separatorJoinAggregateAll">Všetky kontakty</string>
     <string name="separatorJoinAggregateSuggestions">Navrhované kontakty</string>
@@ -568,7 +557,6 @@
     <string name="strequentList">Obľúbené</string>
     <string name="success_message_import_from_account">Import bol úspešný</string>
     <string name="summary_kind_title">Súhrn</string>
-    <string name="sync_xiaomi_cloud_contacts">Obnoviť z online zálohy</string>
     <string name="t9_search_guide">Inteligentné vyhľadávanie mien a čísel</string>
     <string name="take_new_photo"> Spraviť novú fotku</string>
     <string name="take_photo"> Spraviť fotku</string>
