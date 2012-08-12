@@ -79,7 +79,7 @@
   <string name="failure_external_storage_not_writable">Zlyhanie pri zápise na externé úložisko.</string>
   <string name="file_info_create_time">Vytvorené:</string>
   <string name="file_info_dimension">Rozlíšenie:</string>
-  <string name="file_info_education">Trvanie:</string>
+  <string name="file_info_duration">Dĺžka:</string>
   <string name="file_info_geo_location">Poloha:</string>
   <string name="file_info_path">Cesta:</string>
   <string name="file_info_size">Veľkosť:</string>
@@ -109,7 +109,6 @@
   <string name="height">Výška</string>
   <string name="highlight">Zvýraznenie</string>
   <string name="home_my_captured_items">celkom snímkov</string>
-  <string name="home_recent_albums">Nedávne albumy</string>
   <string name="how_many_pics">%d  Snímkov</string>
   <string name="how_many_sub_folders">%d Priečinkov</string>
   <string name="how_many_videos">%d Videí</string>
@@ -123,9 +122,9 @@
   <string name="loading">Nahrávam...</string>
   <string name="loading_account"> Nahrávam účet...</string>
   <string name="loading_failure">Snímku sa nepodarilo nahrať</string>
-  <string name="loading_files">Nahrávam...</string>
-  <string name="loading_image">Nahrávam obrázok...</string>
-  <string name="loading_video">Nahrávam video...</string>
+  <string name="loading_files">Načítavam...</string>
+  <string name="loading_image">Načítavam obrázok...</string>
+  <string name="loading_video">Načítavam video...</string>
   <string name="location">Poloha</string>
   <string name="locations">Polohy</string>
   <string name="lomoish">Lomo</string>
@@ -172,7 +171,6 @@
   <string name="open_single_image_failure">Obrázok sa nepodarilo otvoriť!</string>
   <string name="operation_cancel">Zrušiť</string>
   <string name="operation_delete">Vymazať</string>
-  <string name="operation_delete_confirm_message">Mediálne súbory, ktoré sú označené, alebo sú v označenom adresáry, budú z SD karty vymazané</string>
   <string name="operation_info">Detaily</string>
   <string name="operation_refresh">Obnoviť</string>
   <string name="operation_rename">Premenovať</string>
