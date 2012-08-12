@@ -138,7 +138,6 @@
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Načítavam...</string>
   <string name="festival_sms_push">Doporučené</string>
-  <string name="festival_sms_sdcard_unready">SD karta nie je pripravená</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="found_wild_messages">Boli nájdené správy na inej SIM karte na Cloude:%s Chcete ich stiahnuť?</string>
   <string name="flatshow_page_no">Strana %1$d</string>
@@ -201,7 +200,6 @@
   <string name="message_send_failed_title">Správa nebola odoslaná</string>
   <string name="message_send_read_report">Prečítaná správa bude odoslaná.</string>
   <string name="message_size_label">"Veľkosť správy: "</string>
-  <string name="message_title">%1$s %2$s uviedol:</string>
   <string name="message_too_big_for_audio">Správa je príliš veľká pre pripojenie audia.</string>
   <string name="message_too_big_for_video">Správa je príliš veľká pre pripojenie videa.</string>
   <string name="message_type_label">"Typ: "</string>
@@ -365,7 +363,6 @@
   <string name="replace">Nahradiť</string>
   <string name="replace_image">Nahradiť fotografiu</string>
   <string name="resent_message">Znova odoslať</string>
-  <string name="resize">Prispôsobiť veľkosť</string>
   <string name="resize_image_error_information">Veľkosť fotografie bola prispôsobená. Napriek tomu je príliš veľká a nemožno ju odoslať.</string>
   <string name="save">Uložiť</string>
   <string name="save_ringtone">Uložiť ako vyzváňanie</string>

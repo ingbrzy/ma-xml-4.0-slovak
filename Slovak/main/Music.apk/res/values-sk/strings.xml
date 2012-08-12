@@ -38,7 +38,6 @@
     <string name="delete_item">Zmazať</string>
     <string name="delete_playlist_menu">Zmazať</string>
     <string name="delete_song_desc">\"%s\" budú nenávratne vymazané z SD karty.</string>
-    <string name="delete_song_desc_nosdcard">\"%s\" bude nenávratne vymazané z USB úložiska.</string>
     <string name="deselect_all">Odznačiť všetko</string>
     <string name="detail_album">"Album: "</string>
     <string name="detail_artist">"Umelec: "</string>
@@ -85,8 +84,6 @@
     <string name="filter_by_size_min">0KB</string>
     <string name="filter_by_size_prefix">Minimálna veľkosť:</string>
     <string name="filter_by_size_summary">Filtrovať veľmi malé súbory</string>
-    <string name="filter_max">2MB</string>
-    <string name="filter_min">0K</string>
     <string name="filter_notification">Zložky sú filtrované. Môžete upraviť v nastavení filtrovania</string>
     <string name="flow_save_confirm">Áno, viem</string>
     <string name="flow_save_hint">Povoliť vyskakovacie okná</string>
@@ -130,7 +127,6 @@
     <string name="mediaplaybacklabel">Hudba</string>
     <string name="menu_batch_selection">Editor</string>
     <string name="min_interval">1</string>
-    <string name="min_track_size">Minimálna veľkosť pre hudobné súbory</string>
     <string name="mobile_connect_settings">Mobilný internet</string>
     <string name="modify_id3_for_list">ID3 informácie pre piesne v súčasnom zozname budú upravené</string>
     <string name="modify_id3_for_selected">ID3 informácie pre vybrané piesne budú upravené</string>
@@ -140,7 +136,6 @@
     <string name="music_filter_helper">Aby bolo možné skryť súbory, ktoré nesúvisia s hudbou (zvonenia, melódie, atď) je filter pre veľkosť skladieb nastavený na 800K. Toto nastavenie môžete upraviť v menu Nastavenie / Filtrovanie súborov.</string>
     <string name="music_picker_title">Vyberte skladbu</string>
     <string name="music_settings">Nastavenie</string>
-    <string name="musicbrowserlabel">Hudba</string>
     <string name="network_error">Žiadne pripojenie k internetu, prosím skontrolujte nastavenie internetu</string>
     <string name="new_albums">Nové Albumy</string>
 	<string name="new_equalizer_name_template">Nový profil EQ %d</string>
@@ -150,11 +145,9 @@
     <string name="no_tracks_title">Žiadne skladby</string>
     <string name="notification_artist_album" formatted="false">"%2$s
 %1$s"</string>
-	<string name="nowplaying_title">Práve hrá</string>
     <string name="online_indicator">-online</string>
     <string name="online_music">Online hudba</string>
     <string name="online_search_hint">Hľadať hudbu online</string>
-    <string name="online_track_count">Nekonečný</string>
     <string name="other_settings">Ostatné</string>
     <string name="overwrite_confirm">Prepísať</string>
     <string name="picker_song_add">Pridať (%d)</string>
@@ -171,7 +164,6 @@
     <string name="playlist_favorite">Obľúbené</string>
     <string name="playlist_frequently_played">Často prehrávané</string>
     <string name="playlist_new">Vytvoriť nový playlist</string>
-    <string name="playlist_nowplaying">Práve hrá</string>
     <string name="playlist_recently_added">Nedávno pridané</string>
     <string name="playlist_recently_played">Nedávno prehrávané</string>
     <string name="playlist_renamed_message">Playlist premenovaný.</string>
@@ -225,9 +217,6 @@
     <string name="shake_degree_desc">Citlivosť zatrepania</string>
     <string name="shake_degree_high">Vysoká</string>
     <string name="shake_degree_low">Nízka</string>
-    <string name="shake_sensitivity_helper">Presuňte vľavo pre vyššiu citlivosť, vpravo pre nižšiu</string>
-    <string name="shake_sensitivity_settings">Citlivosť zatrepania</string>
-    <string name="shake_sensitivity_summary">Nastavte citlivosť zatrepania k preskočeniu skladby</string>
     <string name="shake_settings">Zatrepaním preskočiť</string>
     <string name="shake_summary">Zatrepte s telefónom pre preskočenie skladby</string>
     <string name="shake_while_screen_on_title">Preskočiť len ak je displej zapnutý</string>
