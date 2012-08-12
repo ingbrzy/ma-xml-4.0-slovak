@@ -19,9 +19,7 @@
 	<string name="delete_dialog_message">Zmazať aktuálny záznam?</string>  
     <string name="menu_view_record_list">Zobraziť nahrávky</string>
     <string name="menu_setting">Nastavenie</string>
-    <string name="delete_dialog_title">Chcete vymazať aktuálny záznam?</string>
-    <string name="overwrite_dialog_title">%s už existuje. Chcete ho prepísať?</string>
-	<string name="overwrite_dialog_message" formatted="false">%s už existuje. Prepísať?</string>
+	<string name="overwrite_dialog_message" formatted="false">%s už existuje. Chcete ho prepísať?</string>
     <string name="preferences_title">Nastavenie</string>
     <string name="pref_title_record_type">Typ súboru</string>
     <string name="prefDialogTitle_recordType">Typ nahrávaného súboru</string>
