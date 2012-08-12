@@ -135,8 +135,6 @@
     <string name="notification_icon_filter_summary">Vypnutím tejto voľby, budú všetky notifikácie pre aplikácie zobrazené v ľavom hornom rohu lišty.</string>	
     <string name="notification_icon_filter_title">Skryť notifikácie</string>	
     <string name="notification_vibrate_hint">Notifikácie</string>	
-    <string name="notifications_off_text">Stlačte tu pre opätovné zapnutie notifikácií.</string>	
-    <string name="notifications_off_title">Notifikácie vypnuté</string>	
     <string name="recent_apps_key">Naposledy spustené</string>	
     <string name="recent_apps_key_show">Zobraziť Naposledy spustené</string>	
     <string name="return_to_incall_screen">Stlačte pre návrat k hovoru</string>	
@@ -157,7 +155,6 @@
     <string name="screenshot_saving_text">Screenshot je uložený.</string>	
     <string name="screenshot_saving_ticker">Ukladám screenshot…</string>	
     <string name="screenshot_saving_title">Ukladám screenshot…</string>	
-    <string name="settings_auto_dismiss_screenshot_notification">Automaticky skryť Screenshot oznámenie</string>	
     <string name="settings_expandable_under_fullscreen">Povoliť vo fullscreen režime</string>	
     <string name="settings_expandable_under_fullscreen_summary">posunutím prstu cez horný okraj displeja dole</string>	
     <string name="settings_expandable_under_keyguard">Povoliť na zamknutej obrazovke</string>	
