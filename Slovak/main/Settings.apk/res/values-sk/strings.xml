@@ -331,8 +331,7 @@
     <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadajte prístupový kľúč požadovaný zariadením:</string>	
     <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>	
     <string name="bluetooth_enter_pin_msg">Párovanie si zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadajte kód PIN požadovaný zariadením:</string>	
-	<string name="bluetooth_enter_pin_msg_hs">Na spárovanie so zariadením \"%1$s\". [Zvýšená bezpečnosť: zadajte 16 znakov kľúča]</string>
-    <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno nutné zadať i v ďalšom zariadení.</string>	
+	<string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno nutné zadať i v ďalšom zariadení.</string>	
     <string name="bluetooth_headset_profile_summary_connected">Pripojené k hands-free</string>	
     <string name="bluetooth_headset_profile_summary_use_for">Umožňuje pripojenie hands-free</string>	
     <string name="bluetooth_hid_profile_summary_connected">Pripojené k vstupnému zariadeniu</string>	
@@ -368,8 +367,7 @@
     <string name="bluetooth_pan_user_profile_summary_connected">Pripojené k zariadeniu za účelom prístupu k internetu</string>	
     <string name="bluetooth_pb_acceptance_dialog_text">Zariadenie %1$s žiada o prístup k vaším kontaktom a histórii hovorov. Povoliť zariadeniu %2$s prístup?</string>	
     <string name="bluetooth_pb_remember_choice">Na budúce sa nepýtať</string>	
-	<string name="bluetooth_pbap_connection_permission_request">Požadované povolenie Pbap</string>
-    <string name="bluetooth_permission_request">Požiadavka na povolenie zariadenia Bluetooth</string>	
+	<string name="bluetooth_permission_request">Požiadavka na povolenie zariadenia Bluetooth</string>	
     <string name="bluetooth_phonebook_request">Požiadavka telefónneho zoznamu</string>	
     <string name="bluetooth_pin_values_hint">Obvykle 0000 nebo 1234</string>	
     <string name="bluetooth_preference_device_settings">Nastavenie zariadenia</string>	
@@ -509,9 +507,7 @@
     <string name="current_backup_pw_prompt">Sem zadajte aktuálne heslo pre úplné zálohy.</string>	
     <string name="current_input_method">Predvolené</string>	
     <string name="data_size_label">Dáta</string>	
-    <string name="data_summary">Vyberte predplatné pre VoIP volanie</string>	
-    <string name="data_title">VoIP hovor</string>	
-    <string name="data_usage_app_restrict_background">Obmedziť dátové prenosy na pozadí</string>	
+	<string name="data_usage_app_restrict_background">Obmedziť dátové prenosy na pozadí</string>	
     <string name="data_usage_app_restrict_background_summary">Zakázať dáta na pozadí v mobilných sieťach. Používať siete Wi-Fi.</string>	
     <string name="data_usage_app_restrict_background_summary_disabled">Dáta na pozadí u aplikácie obmedzíte nastavením limitu mob. dát.</string>	
     <string name="data_usage_app_restrict_dialog">"Táto funkcia môže spôsobiť, že aplikácie závislé na dátach na pozadí nebudú fungovať, pokiaľ nebude k dispozícii sieť Wi-Fi. Vhodnejšie ovládacie 
@@ -590,9 +586,7 @@
     <string name="details_title">Podrobnosti používania</string>	
     <string name="development_settings_summary">Umožňuje nastaviť možnosti pre vývoj aplikácií</string>	
     <string name="development_settings_title">Možnosti pre vývojárov</string>	
-    <string name="device_additional_status">Status telefónu</string>
-    <string name="device_additional_status_summary">Číslo telefónu, signál, IMEI atď.</string>
-    <string name="device_admin_add_title">Správca zariadenia</string>	
+	<string name="device_admin_add_title">Správca zariadenia</string>	
     <string name="device_admin_settings_title">Nastavenie správcu zariadenia</string>	
     <string name="device_admin_status">Správca je aktívny a umožňuje aplikácií %1$s vykonávať nasledujúce operácie:</string>	
     <string name="device_admin_title">Správa zariadenia</string>	
@@ -943,8 +937,7 @@
     <string name="no_running_services">Nič nie je spustené.</string>	
     <string name="no_services">Neaktívne</string>	
     <string name="normal_date_format">Regionálne (%s)</string>	
-    <string name="notification_pulse_summary">Keď je prijatá nová notifikácia, zabliká LED dióda</string>	
-    <string name="notification_pulse_title">Blikať kontrolkou oznámení</string>	
+	<string name="notification_pulse_title">Blikať kontrolkou oznámení</string>	
     <string name="notification_sound_dialog_title">Zvoliť vyzváňací tón oznámení</string>	
     <string name="notification_sound_title">Predvolené oznámenie</string>	
     <string name="notification_vibrate_abbreviation">Notifikácie</string>	
@@ -1270,8 +1263,7 @@
     <string name="sim_lock_settings">Nastavenie zámku karty SIM</string>	
     <string name="sim_lock_settings_category">Nastavenie zámku karty SIM</string>	
     <string name="sim_lock_settings_title">Zámok karty SIM</string>	
-    <string name="sim_pin_attempts">Ostávajúcich pokusov :</string>
-    <string name="sim_pin_change">Zmeniť kód PIN karty SIM</string>	
+	<string name="sim_pin_change">Zmeniť kód PIN karty SIM</string>	
     <string name="sim_pin_toggle">Zamykať kartu SIM</string>	
     <string name="sim_pins_dont_match">Kódy PIN nie sú zhodné</string>	
     <string name="sim_reenter_new">Potvrďte nový kód PIN.</string>	
@@ -1645,9 +1637,7 @@
     <string name="wifi_p2p_menu_create_group">Vytvoriť skupinu</string>	
     <string name="wifi_p2p_menu_remove_group">Odobrať skupinu</string>	
     <string name="wifi_p2p_menu_search">Vyhľadávanie</string>	
-	<string name="wifi_p2p_on_summary">Otočiť Wi-Fi Direct</string>
     <string name="wifi_p2p_persist_network">Pamätať si toto pripojenie</string>	
-	<string name="wifi_p2p_settings">Nastavenia Wi-Fi Direct</string>
     <string name="wifi_p2p_settings_summary">Nastaviť pripojenie typu peer-to-peer</string>	
     <string name="wifi_p2p_settings_title">Priame pripojenie siete Wi-Fi</string>	
     <string name="wifi_p2p_wps_pin">Zadajte kód PIN</string>	
@@ -1736,8 +1726,7 @@
     <string name="wifi_tether_enabled_subtext">Prenosný hotspot %1$s je aktívny</string>	
     <string name="wifi_tether_failed_subtext">Chyba prenosného hotspotu Wi-Fi</string>	
     <string name="wifi_tether_checkbox_text">Prenosný hotspot Wi-Fi</string>	
-    <string name="wifi_tether_transmit_power_error">Nie je možné nastaviť vysielací výkon</string>	
-    <string name="wifi_unchanged">(nezmenené)</string>	
+	<string name="wifi_unchanged">(nezmenené)</string>	
     <string name="wifi_unspecified">(neurčené)</string>	
     <string name="wifi_update">Obnoviť štatistiku</string>	
     <string name="wifi_wapi_as_certificate">AS certifikát</string>	
