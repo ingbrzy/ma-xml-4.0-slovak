@@ -61,8 +61,8 @@
     <string name="fw_blacklist">Čierna listina</string>
     <string name="fw_blacklist_hint">Hovory a správy sú automaticky blokované, pokiaľ sú v čiernej listine</string>
     <string name="fw_blocked">Štatistiky blokované</string>
-    <string name="fw_blocked_count">%d %d hovory a správy blokované</string>
-    <string name="fw_call">Čas hovoru: %s (%d)</string>
+    <string formatted="false" name="fw_blocked_count">%d %d hovory a správy blokované</string>
+    <string formatted="false" name="fw_call">Čas hovoru: %s (%d)</string>
     <string name="fw_call_muted">Hovory stíšené</string>
     <string name="fw_call_rejected">Hovory odmietané</string>
     <string name="fw_clear_all_keyword">Zmazať všetky kľúčové slová</string>
@@ -85,7 +85,7 @@
     <string name="fw_menu_new_whitelist_title">Pridať do bielej listiny</string>
     <string name="fw_menu_pick_from_contact">Vybrať z kontaktov</string>
     <string name="fw_menu_remove">Zmazať</string>
-    <string name="fw_ms">Čas správy: %s (%d)</string>
+    <string formatted="false" name="fw_ms">Čas správy: %s (%d)</string>
     <string name="fw_ms_filtered">Správy sú filtrované</string>
     <string name="fw_ms_imported">Import správ</string>
     <string name="fw_ms_muted">Správy sú stíšené</string>
@@ -102,7 +102,7 @@
     <string name="fw_time_settings">Nastavenie blokov času</string>
     <string name="fw_whitelist">Biela listina</string>
     <string name="fw_whitelist_hint">Členovia z bielej listiny nebudú blokovaní</string>
-    <string name="member_firewall_log">Blokované: číslo %d detaily %d</string>
+    <string formatted="false" name="member_firewall_log">Blokované: číslo %d detaily %d</string>
     <string name="menu_edit">Editor</string>
     <string name="mms_log_tab_title">Správy</string>
     <string name="no">Zrušiť</string>
