@@ -16,33 +16,4 @@
         <item>Vľavo</item>
         <item>Vpravo</item>
     </string-array>
-	<string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
-<string-array name="gadget_weather_image">
-        <item>Jasno</item>
-        <item>Pochmúrne</item>
-        <item>Yin</item>
-        <item>Hmlisto</item>
-        <item>Prívalové dažde</item>
-        <item>Búrka</item>
-        <item>Búrka s dažďom</item>
-        <item>Búrka s bleskami</item>
-        <item>Dažde</item>
-        <item>Lejaky</item>
-        <item>Prehánky</item>
-        <item>Mrholenie</item>
-        <item>Dážď so snehom</item>
-        <item>Snehová fujavica</item>
-        <item>Snehová záveje</item>
-        <item>Sneh</item>
-        <item>Snehové prehánky</item>
-        <item>Sneženie</item>
-        <item>Piesková búrka</item>
-        <item>Zadyma</item>
-        <item>Pyliście i wilgotno</item>
-        <item>Jansa</item> 
-        <item>Búrka s krúpami</item>
-    </string-array>
 </resources>
