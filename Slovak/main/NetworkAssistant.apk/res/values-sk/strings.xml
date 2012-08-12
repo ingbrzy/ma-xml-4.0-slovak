@@ -123,6 +123,7 @@ Môžete ich upraviť."</string>
     <string name="unknown_traffic_hint">Neznámy dátový balíček, chcete ho upraviť?</string>	
     <string name="unknown_version">Neznáma verzia</string>
 	<string name="update_fail">Aktualizácia sa nepodarila</string>
+	<string name="update_no_network">Update zlyhal, skontrolujte nastavenie internetu.</string>
 	<string name="update_success">Aktualizácia dokončená</string>
 	<string name="updating">Aktualizovanie...</string>	
     <string name="used_flux">Využitie dát</string>	
