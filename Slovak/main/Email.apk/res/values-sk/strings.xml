@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="account">Účet</string>
-    <string name="account_delete_dlg_instructions_fmt">Účet %s bude odstránený z aplikácie E-mail.</string>
+    <string name="account_delete_dlg_instructions_fmt">Účet \"%s\" bude odstránený z aplikácie E-mail.</string>
     <string name="account_delete_dlg_title">Odstrániť účet</string>
-    <string name="account_duplicate_dlg_message_fmt">Toto používateľské meno už používate pre účet „%s“.</string>
+    <string name="account_duplicate_dlg_message_fmt">"Toto používateľské meno už používate pre účet \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Duplikovať účet</string>
     <string name="account_error">Nepodarilo sa načítať informácie o účte.</string>
     <string name="account_folder_list_summary_drafts">Koncepty</string>
@@ -106,7 +106,7 @@
     <string name="account_setup_failed_ioerror">Pripojenie k serveru sa nepodarilo otvoriť.</string>
     <string name="account_setup_failed_protocol_unsupported">Zadali ste nesprávnu adresu servera alebo server vyžaduje verziu protokolu, ktorú aplikácia E-mail nepodporuje.</string>
     <string name="account_setup_failed_security">Pripojenie k serveru sa nepodarilo otvoriť kvôli chybe zabezpečenia.</string>
-    <string name="account_setup_failed_security_policies_unsupported">Tento server vyžaduje bezpečnostné funkcie, ktoré vaše zariadenie so systémom Android nepodporuje (vrátane: %s).</string>
+    <string name="account_setup_failed_security_policies_unsupported">"Tento server vyžaduje bezpečnostné funkcie, ktoré vaše zariadenie so systémom Android nepodporuje, vrátane: %s."</string>
     <string name="account_setup_failed_tls_required">Vyžaduje sa služba TLS, ale server ju nepodporuje.</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Pri odstránení z Doručenej pošty</string>
     <string name="account_setup_incoming_delete_policy_label">Odstraňovať e-maily zo servera</string>
@@ -240,7 +240,7 @@
     <string name="dialog_sync_all_canceled">Synchronizácia bola zrušená</string>
     <string name="dialog_sync_all_error_title">Synchronizovať všetky</string>
     <string name="dialog_sync_all_found_none">Nie je potrebné odovzdať žiadne ďalšie fotografie ani videá.</string>
-    <string name="dialog_sync_all_preparing">Prebieha príprava fotografií (počet: %1$d) a videí (počet: %2$d) na odovzdanie...</string>
+    <string name="dialog_sync_all_preparing">Prebieha príprava fotografií (%1$d) a videí (%2$d) na odoslanie...</string>
     <string name="dialog_sync_all_scanning">Prebieha vyhľadávanie súborov...</string>
     <string name="dialog_sync_all_server_error">Pri komunikácii so serverom sa vyskytol problém. Skúste to znova neskôr.</string>
     <string name="disable_admin_warning">UPOZORNENIE: Ak deaktivujete oprávnenie aplikácie E-mail spravovať toto zariadenie, budú odstránené všetky účty aplikácie E-mail, ktoré toto oprávnenie vyžadujú. Spoločne s týmito účtami budú odstránené aj všetky ich e-maily, kontakty, udalosti kalendára a ďalšie údaje.</string>
@@ -261,7 +261,7 @@
     <string name="forward_action">Poslať ďalej</string>
     <string name="forward_download_failed_ticker">Nepodarilo sa poslať ďalej jednu alebo viac príloh.</string>
     <string name="forward_download_failed_title">Príloha nebola poslaná ďalej</string>
-    <string name="gal_searching_fmt">Prebieha vyhľadávanie %s…</string>
+    <string name="gal_searching_fmt">Prebieha vyhľadávanie %s...</string>
     <string name="general_preference_auto_advance_dialog_title">Pokračovať do</string>
     <string name="general_preference_auto_advance_label">Automatický prechod</string>
     <string name="general_preference_auto_advance_message_list">Zoznam správ</string>
@@ -336,7 +336,7 @@
     <string name="message_compose_attachment_size">Súbor nie je možné priložiť, pretože je príliš veľký.</string>
     <string name="message_compose_bcc_hint">Skrytá kópia</string>
     <string name="message_compose_cc_hint">Kópia</string>
-    <string name="message_compose_display_name">%1$s a ešte %2$d ďalších</string>
+    <string name="message_compose_display_name">%1$s a ešte (%2$d)</string>
     <string name="message_compose_error_invalid_email">Niektoré e-mailové adresy sú neplatné.</string>
     <string name="message_compose_error_no_recipients">Musíte pridať aspoň jedného príjemcu.</string>
     <string name="message_compose_from_label">Od:</string>
@@ -395,7 +395,7 @@ Kópia: %4$s
     <string name="message_view_invite_toast_no">Odmietli ste túto pozvánku.</string>
     <string name="message_view_invite_toast_yes">Prijali ste túto pozvánku.</string>
     <string name="message_view_invite_view">Zobraziť v Kalendári</string>
-    <string name="message_view_load_attachment_failed_toast">Prílohu „%s“ sa nepodarilo načítať.</string>
+    <string name="message_view_load_attachment_failed_toast">"Prílohu \" %s\" sa nepodarilo načítať."</string>
     <string name="message_view_message_details_dialog_title">Podrobnosti správy</string>
     <string name="message_view_move_to_newer">Novšie</string>
     <string name="message_view_move_to_older">Staršie</string>
@@ -424,7 +424,7 @@ Kópia: %4$s
     <string name="password_expire_warning_content_title">Uzamykacie heslo čoskoro vyprší</string>
     <string name="password_expire_warning_dialog_content_fmt">Čoskoro musíte zmeniť kód PIN alebo heslo na uzamknutie obrazovky, inak budú údaje účtu %s vymazané. Chcete ho zmeniť teraz?</string>
     <string name="password_expire_warning_dialog_title">Heslo na uzamknutie obr. čoskoro vyprší</string>
-    <string name="password_expire_warning_ticker_fmt">Účet „%s“ požaduje, aby ste zmenili kód PIN alebo heslo uzamknutia obrazovky.</string>
+    <string name="password_expire_warning_ticker_fmt">Účet \"%s\" požaduje, aby ste zmenili kód PIN alebo heslo uzamknutia obrazovky.</string>
     <string name="password_expired_content_title">Heslo na uzamknutie vypršalo</string>
     <string name="password_expired_dialog_content_fmt">V zariadení prebieha vymazanie údajov účtu %s. Môžete ich obnoviť zmenou kódu PIN alebo hesla na uzamknutie obrazovky. Chcete to zmeniť teraz?</string>
     <string name="password_expired_dialog_title">Heslo na uzamknutie obrazovky vypršalo</string>
@@ -508,13 +508,13 @@ Kópia: %4$s
     <string name="save_action">Uložiť</string>
     <string name="save_draft_action">Uložiť koncept</string>
     <string name="search_action">Hľadať</string>
-    <string name="search_header_text_fmt">Výsledky</string>
+    <string name="search_header_text_fmt">Výsledky \"%1$s\"</string>
     <string name="search_hint">Hľadať e-mail</string>
     <string name="search_mailbox_hint">Hľadať v priečinku %1$s</string>
     <string name="search_slow_warning_message">Niektorým serverom môže tento proces trvať dlho.</string>
     <string name="search_slow_warning_title">Čakanie na výsledky</string>
     <string name="security_notification_content_title">Vyžaduje sa bezpečnostná akt.</string>
-    <string name="security_notification_ticker_fmt">Účet %s požaduje aktualizáciu nastavení zabezpečenia.</string>
+    <string name="security_notification_ticker_fmt">Účet \"%s\" požaduje aktualizáciu nastavení zabezpečenia.</string>
     <string name="send_action">Odoslať</string>
     <string name="set_star_action">Pridať hviezdičku</string>
     <string name="settings_action">Nastavenia</string>

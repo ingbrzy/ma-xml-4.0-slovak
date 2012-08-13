@@ -37,7 +37,7 @@
     <string name="delete_file_from_sdcard">Súčasne odstrániť súbory z SD karty</string>
     <string name="delete_item">Zmazať</string>
     <string name="delete_playlist_menu">Zmazať</string>
-    <string name="delete_song_desc">\"%s\" budú nenávratne vymazané z SD karty.</string>
+    <string name="delete_song_desc">%s budú nenávratne vymazané z SD karty.</string>
     <string name="deselect_all">Odznačiť všetko</string>
     <string name="detail_album">"Album: "</string>
     <string name="detail_artist">"Umelec: "</string>

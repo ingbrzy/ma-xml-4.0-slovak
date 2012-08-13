@@ -23,11 +23,11 @@
     <string name="attach_photo_dialog_title">Fotka kontaktu</string>
     <string name="audio_chat">Audio chat</string>
 	<string name="batch_delete_msg">"Odstrániť %d vybrané kontakty? Kontakty uložené v cloude budú zmazané."</string>  
-  	<string name="blurbJoinContactDataWith">Vyberte kontakt s ktorým chcete zlúčiť %s.</string>
+  	<string name="blurbJoinContactDataWith">Vyberte kontakt s ktorým chcete zlúčiť s %s:</string>
     <string name="caching_vcard_message">Prebieha ukladanie vizitiek na dočasné úložisko, samotný import prebehne za okamžik</string>
     <string name="caching_vcard_title">Ukladanie vizitiek na dočasné úložisko</string>
 	<string name="callBack">Spätné volanie</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s minút %s sekúnd</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s min %s s</string>
     <string name="callDetailTitle">Detaily hovoru</string>    
 	<string name="callNoAnswerTimeFormat">Volal %s krát</string>	
 	<string name="callShortcutActivityTitle">Vyberte číslo, ktorému chcete volať</string>
@@ -119,7 +119,7 @@
 	<string name="config_import_vcard_type">pôvodné</string>
     <string name="config_prohibited_phone_number_regexp" />
     <string name="confirm_delete_selected_call_log">Potvrdiť vymazanie %1d záznamov o volaní?</string>
-    <string name="confirm_export_message">chcete exportovať zoznam kontaktov do súboru %s?</string>
+    <string name="confirm_export_message">Zoznam kontaktov bude exportovaný do súboru: %s.</string>
     <string name="confirm_export_title">Potvrdiť export</string>
     <string name="connections">Prepojenie</string>
     <string name="contact_directory_description">Adresár %1$s</string>
@@ -159,7 +159,7 @@
     <string name="delete_contact_calllog_title">Chcete vymazať všetky záznamy o volaní kontaktu?</string>
     <string name="delete_duplicate">Zlúčiť</string>
     <string name="delete_duplicate_message">"Zlučujem ... "</string>
-    <string name="delete_group_dialog_message">"Skutočne chcete odstrániť skupinu '%1$s'? (Kontakty v skupine nebudú vymazané.)"</string>
+    <string name="delete_group_dialog_message">"Skutočne chcete odstrániť skupinu \"%1$s\"? (Kontakty v skupine nebudú vymazané.)"</string>
     <string name="delete_group_dialog_title">Vymazať skupinu</string>
     <string name="delete_unknown_contact_calllog_title">Potvrdiť vymazanie volaní na neznáme čísla?</string>
     <string name="deleteConfirmation">Tento kontakt bude vymazaný.</string>
@@ -216,7 +216,7 @@
     <string name="display_options_view_names_as">Zobraziť mená kontaktov podľa</string>
     <string name="display_sim_contacts">Zobraziť kontakty zo SIM karty</string>
     <string name="display_ungrouped">Všetky ďalšie kontakty</string>
-    <string name="display_warn_remove_ungrouped">"Odstránenie '%s' zo synchronizácie zároveň odstráni všetky nezoskupené kontakty."</string>
+    <string name="display_warn_remove_ungrouped">"Odstránenie \"%s\" zo synchronizácie zároveň odstráni všetky nezoskupené kontakty."</string>
     <string name="edit_contact">Upraviť kontakt</string>
     <string name="edit_contact_card_title">Upraviť kontakt</string>
     <string name="edit_hint">Upraviť</string>
@@ -240,19 +240,19 @@
     <string name="export_vcard_description">Exportovať vCard na SD kartu</string>
     <string name="exporting_contact_failed_message">"Export dát kontaktov sa nepodaril. Príčina chyby: \"%s\""</string>
     <string name="exporting_contact_failed_title">Export dát kontaktov sa nepodaril</string>
-    <string name="exporting_contact_list_message">Prebieha export dát kontaktov do súboru %s</string>
+    <string name="exporting_contact_list_message">Prebieha export dát kontaktov do súboru: %s.</string>
     <string name="exporting_contact_list_title">Export dát kontaktov</string>
     <string name="exporting_vcard_canceled_title">Export %s bol prerušený</string>
     <string name="exporting_vcard_finished_title">Export %s dokončený</string>
-    <string name="external_profile_title">Môj %1$s profil</string>
-    <string name="fail_reason_could_not_initialize_exporter">Nemožno spustiť exportný program: %s</string>
-    <string name="fail_reason_could_not_open_file">Súbor %1$s nemožno otvoriť: %2$s</string>
-    <string name="fail_reason_error_occurred_during_export">Pri exporte došlo k chybe: %s</string>
+    <string name="external_profile_title">Môj profil %1$s</string>
+    <string name="fail_reason_could_not_initialize_exporter">Nemožno spustiť exportný program: \"%s\".</string>
+    <string name="fail_reason_could_not_open_file">Súbor \"%s\" nemožno otvoriť: %s.</string>
+    <string name="fail_reason_error_occurred_during_export">Pri exporte došlo k chybe: \"%s\".</string>
     <string name="fail_reason_io_error">Chyba V/V</string>
     <string name="fail_reason_low_memory_during_import">Nedostatok pamäti ( súbor je pravdepodobne príliš veľký )</string>
     <string name="fail_reason_no_exportable_contact">Nemožno exportovať žiadny kontakt</string>
     <string name="fail_reason_not_supported">Formát súboru nie je podporovaný.</string>
-    <string name="fail_reason_too_long_filename">Požadovaný názov súboru (%s) je príliš dlhý</string>
+    <string name="fail_reason_too_long_filename">Požadovaný názov súboru („%s”) je príliš dlhý</string>
     <string name="fail_reason_too_many_vcard">Na karte SD je príliš veľa súborov vCard</string>
     <string name="fail_reason_unknown">Neznáma chyba</string>
     <string name="favoritesFrequentCalled">Často volaní</string>
@@ -295,7 +295,7 @@
     <string name="import_vcard_description">Importovať kontakty z SD karty</string>
     <string name="importing_vcard_canceled_title">Import %s bol prerušený</string>
     <string name="importing_vcard_description">Import %s</string>
-    <string name="importing_vcard_finished_title">Import vizitky %s dokončený</string>
+    <string name="importing_vcard_finished_title">Import vCard %s dokončený</string>
     <string name="insertContactDescription">Vytvoriť kontakt</string>
     <string name="invalidContactMessage">Kontakt neexistuje.</string>
     <string name="keep_local">Miestny</string>
@@ -333,8 +333,8 @@
     <string name="menu_addStar">Pridať k obľúbeným položkám</string>
     <string name="menu_batch_delete">Vymazanie kontaktov</string> 
    	<string name="menu_call">Volať kontakt</string>
-    <string name="menu_call_ip_number">Vytočiť IP hovor (volaný %s)</string>
-    <string name="menu_callNumber">Volať kontakt %s</string>
+    <string name="menu_call_ip_number">Vytočiť IP hovor (%s)</string>
+    <string name="menu_callNumber">Volať kontakt: %s</string>
     <string name="menu_contacts_filter">Zobraziť kontakty</string>
     <string name="menu_copyContact">Skopírovať do mojich kontaktov</string>
     <string name="menu_deleteContact">Vymazať</string>
@@ -365,7 +365,7 @@
     <string name="menu_splitAggregate">Rozdeliť</string>
     <string name="menu_sync_remove">Zrušiť synchronizáciu skupiny</string>
     <string name="menu_viewContact">Zobraziť kontakt</string>
-    <string name="merge_contact_message" formatted="false">(%1$d) kontaktov s čiastočne duplicitnými dátami, (%2$d) zlúčených</string>
+    <string name="merge_contact_message" formatted="false">%1$d kontaktov s čiastočne duplicitnými dátami, %2$d zlúčených</string>
     <string name="messageShortcutActivityTitle">Výber čísla pre správu</string>
     <string name="missing_name">(bez mena)</string>
     <string name="move_and_resize">Posuň merítko</string>
@@ -421,7 +421,7 @@
     <string name="non_phone_close">Zavrieť</string>
     <string name="noRecentContacts">žiadne posledné kontakty</string>
     <string name="not_applied">Nie je podporované</string>
-    <string name="notification_new_voicemail_ticker">Nová hlasová správa od %1$s</string>
+    <string name="notification_new_voicemail_ticker">Nová hlasová správa od: %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="open_contact">Zobraziť kontakt</string>
     <string name="openDialKeyboard">Číselník</string>
@@ -464,8 +464,8 @@
     <string name="progress_notifier_message" formatted="false">Importujem %s/%s: %s</string>
     <string name="quickcontact_missing_app">Aplikácia potrebná na túto akciu nebola nájdená</string>
     <string name="quit_dialog_confirm_title">Chcete ukončiť zlučovanie kontaktov?</string>
-    <string name="raw_contact_account_label">Účty:%1$s</string>
-    <string name="raw_contact_list_title">Tento kontakt obsahuje nasledujúce %1$d raw kontakty，kliknite na vybraný kontakt pre úpravu</string>
+    <string name="raw_contact_account_label">Účet: %1$s</string>
+    <string name="raw_contact_list_title">Tento účet obsahuje nasledujúce %1$d kontakty，kliknite na vybraný účet pre úpravu</string>
     <string name="reading_vcard_failed_title">Načítanie dát vCard sa nepodarilo</string>
     <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informácie z niekoľkých účtov. Informácie z účtu len na čítanie budú v zoznamoch kontaktov skryté, 
 		ale nebudú vymazané.</string>
@@ -488,7 +488,7 @@
     <string name="scan_duplicate">"Hľadám duplicitné dáta, prosím čakajte... "</string>
     <string name="scan_duplicate_message">Počet duplicitných kontaktov: %1$d</string>
     <string name="scan_merge">Hľadanie možných duplicitných kontaktov, prosím čakajte...</string>
-    <string name="scanning_sdcard_failed_message">Vyhľadávanie na karte SD sa nepodarilo. (Dôvod: %s)</string>
+    <string name="scanning_sdcard_failed_message">"Vyhľadávanie na karte SD sa nepodarilo. (Dôvod: \"%s\")</string>
     <string name="scanning_sdcard_failed_title">Vyhľadávanie na karte SD sa nepodarilo</string>
     <string name="search_bar_hint">Vyhľadať kontakty</string>
     <string name="search_results_searching">Vyhľadávanie...</string>
@@ -577,7 +577,7 @@
     <string name="unknown_contact_name">Neznámy kontakt</string>
     <string name="unkown_location">Neznáme umiestenie</string>
     <string name="upgrade_in_progress">"Aktualizácia zoznamu kontaktov</string>
-    <string name="upgrade_out_of_memory">"Prebieha upgrade kontaktov. Upgrade vyžaduje približne %d MB vnútornej pamäte telefónu. Zvoľte jednu z nasledujúcich možností:"</string>
+    <string name="upgrade_out_of_memory">Prebieha upgrade kontaktov. Upgrade vyžaduje približne %s MB vnútornej pamäte telefónu. Zvoľte jednu z nasledujúcich možností:</string>
     <string name="upgrade_out_of_memory_retry">Skúsiť upgradovať znovu</string>
     <string name="upgrade_out_of_memory_uninstall">Odinštalovať niektoré aplikácie</string>
     <string name="use_photo_as_primary">Použiť túto fotku</string>
@@ -586,7 +586,7 @@
     <string name="vcard_export_will_start_message">%s bude za okamžik exportovaný.</string>
     <string name="vcard_import_failed">Import vizitky zlyhal</string>
     <string name="vcard_import_request_rejected_message">Import vizitky sa nepodaril, skúste to znovu neskôr.</string>
-    <string name="vcard_import_will_start_message">%s bude za okamžik importovaný.</string>
+    <string name="vcard_import_will_start_message">Súbor %s bude za okamžik importovaný.</string>
     <string name="vcard_import_will_start_message_with_default_name">Súbor bude za okamžik importovaný.</string>
     <string name="vcard_unknown_filename">neznámy kontakt</string>
     <string name="video_chat">Video chat</string>

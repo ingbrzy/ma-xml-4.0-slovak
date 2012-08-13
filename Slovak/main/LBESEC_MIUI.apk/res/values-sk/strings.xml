@@ -174,7 +174,7 @@
     <string name="Privacy_App_Uninstall">Odinštalovať</string>
     <string name="Privacy_AppPerm_Count">%1$d oprávnenie</string>
     <string name="Privacy_AppPerm_Count_Trust">%1$d oprávnenie - &lt;font color=#478800>Dôveryhodné&lt;/font></string>
-    <string name="Privacy_Perm_Count">Povolený: %1$d Zakázaný: %2$d</string>
+    <string name="Privacy_Perm_Count">Povolené: %1$d Zakázané: %2$d</string>
     <string name="Su_Enable_Dialog">%1$s sa pokúša získať oprávnenia ROOT, čo je z dôvodu bezpečnosti štandardne zakázané. Ak chcete oprávnenia povoliť, urobte tak v nastavení aplikácie Správca oprávnení.</string>
     <string name="SysOpt_Boost_AutoStart">Oprávnenie autom. spúšťaní</string>
     <string name="SysOpt_Boost_AutoStart_Group">Automatické spúšťanie</string>

@@ -80,7 +80,7 @@
 <string name="menu_item_sort_name">Mena</string>
 <string name="menu_item_sort_size">Veľkosti</string>
 <string name="menu_item_sort_type">Typu</string>
-<string name="multi_select_title">Vybraných %1$s položiek</string>
+<string name="multi_select_title">Vybraných %1$s</string>
 <string name="net_lose_connected">Sieť nedostupná, nie je možné zistiť veľkosť</string>
 <string name="networkView_notConnected">Sieť nedostupná</string>
 <string name="new_folder_name">Nová zložka</string>
@@ -117,10 +117,10 @@
 <string name="operation_unfavorite">Odobrať z obľúbených</string>
 <string name="pan_settting">MiDrive nastavenia</string>
 <string name="remote_management">FTP</string>
-<string name="rename_failed">Premenovanieă€Š%1$să€‹zlyhalo</string>
-<string name="rename_success">Premenovanieă€Š%1$să€‹úspešné</string>
-<string name="sd_card_available">Voľné miesto:%1$s</string>
-<string name="sd_card_size">SD karta:%1$s</string>
+<string name="rename_failed">Premenovanie《%1$s》zlyhalo</string>
+<string name="rename_success">Premenovanie《%1$s》úspešné</string>
+<string name="sd_card_available">"Voľné miesto: %1$s"</string>
+<string name="sd_card_size">"SD karta: %1$s"</string>
 <string name="sd_folder">SD karta</string>
 <string name="search_hint">Zadajte časť alebo celé meno súboru</string>
 <string name="search_title">Hľadať dokumenty</string>
@@ -152,7 +152,7 @@
 <string name="ui_bar_txt_upload_progress">Nahrávanie...</string>
 <string name="ui_bar_txt_upload_success">MiDrive: Nahrávanie dokončené</string>
 <string name="ui_filechange_btn_download">Stiahnuť súbory</string>
-<string name="ui_main_download_file_failed">Zlyhalo sťahovanie â€ś%1$sâ€ť</string>
+<string name="ui_main_download_file_failed">Zlyhalo sťahovanie “%1$s”</string>
 <string name="ui_main_choose_title">Vyberte spôsob zasielania</string>
 <string name="ui_main_menu_option_setting">Nastavenia</string>
 <string name="ui_main_menu_option_task_manage">Správa odosielania</string>

@@ -166,7 +166,7 @@
     <string name="auto_restore_summary">Pri preinštalácií aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>	
     <string name="auto_restore_title">Automatické obnovenie</string>	
     <string name="automatic_brightness">Automatický jas</string>	
-    <string name="available_size">%s dostupné</string>	
+    <string name="available_size">Dostupné: %s</string>	
     <string name="awake">Doba prevádzky zariadenia</string>	
     <string name="back_long_press">Tlačítko späť</string>	
     <string name="back_long_press_timeout">Dĺžka stlačenia</string>	
@@ -206,10 +206,10 @@
     <string name="battery_desc_standby">Využitie batérie v pohotovostnom režime telefónu</string>	
     <string name="battery_desc_voice">Využitie batérie hlasovými hovormi</string>	
     <string name="battery_desc_wifi">Využitie batérie sieťou Wi-Fi</string>	
-    <string name="battery_history_days">%1$d dní %2$d h %3$d min %4$d s</string>	
-    <string name="battery_history_hours">%1$d h %2$d min %3$d s</string>	
-    <string name="battery_history_minutes">%1$d min %2$d s</string>	
-    <string name="battery_history_seconds">%1$d s</string>	
+    <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>	
+    <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>	
+    <string name="battery_history_minutes">%1$dm %2$ds</string>	
+    <string name="battery_history_seconds">%1$ds</string>	
     <string name="battery_indicator_style">Štýl ikony batérie</string>	
     <string name="battery_info_awake_battery">Doba používania z batérie:</string>	
     <string name="battery_info_awake_plugged">Doba používania pri nabíjaní:</string>	
@@ -254,7 +254,7 @@
     <string name="battery_stats_gps_on_label">GPS aktívne</string>	
     <string name="battery_stats_charging_label">Nabíjanie</string>	
     <string name="battery_stats_last_duration">Doba prevádzky</string>	
-    <string name="battery_stats_on_battery">Čas prevádzky na batériu: %1$s</string>	
+    <string name="battery_stats_on_battery">%1$s na batérií</string>	
     <string name="battery_stats_phone_signal_label">Signál mobilnej siete</string>	
     <string name="battery_stats_screen_on_label">Obrazovka zapnutá</string>	
     <string name="battery_stats_wake_lock_label">Prebudiť</string>	
@@ -289,8 +289,8 @@
     <string name="bluetooth_connected_no_headset_no_a2dp">Pripojené (žiadny telefón alebo média)</string>	
     <string name="bluetooth_connecting">Pripojovanie...</string>	
     <string name="bluetooth_connecting_error_message">Pri pripojovaní k zariadeniu %1$s došlo k problémom.</string>	
-    <string name="bluetooth_connection_dialog_text">Chcete sa pripojiť k zariadeniu %1$s?</string>	
-    <string name="bluetooth_connection_notif_message">Klepnutím sa pripojíte k zariadeniu %1$s.</string>	
+    <string name="bluetooth_connection_dialog_text">Chcete sa pripojiť k zariadeniu „%1$s”?</string>	
+    <string name="bluetooth_connection_notif_message">Klepnutím sa pripojíte k zariadeniu „%1$s”.</string>	
     <string name="bluetooth_connection_permission_request">Požiadavka na pripojenie zariadenia Bluetooth</string>	
     <string name="bluetooth_default_name">telefón s MIUI</string>	
     <string name="bluetooth_device">Nepomenované zariadenie Bluetooth</string>	
@@ -377,7 +377,7 @@
     <string name="bluetooth_profile_a2dp">Zvuk médií</string>	
     <string name="bluetooth_profile_headset">Zvuk telefónu</string>	
     <string name="bluetooth_profile_hid">Vstupné zariadenie</string>	
-    <string name="bluetooth_profile_name">"%1$s's MIUI telefón"</string>	
+    <string name="bluetooth_profile_name">"%1$s MIUI telefón"</string>	
     <string name="bluetooth_profile_opp">Prenos súborov</string>	
     <string name="bluetooth_profile_pan">Prístup k internetu</string>	
     <string name="bluetooth_profile_pan_nap">Zdieľanie internetového pripojenia</string>	
@@ -499,7 +499,7 @@
 		tejto doby sa telefón niekoľkokrát reštartuje.</string>	
     <string name="crypt_keeper_low_charge_text">Nabite batériu a skúste to znovu.</string>	
     <string name="crypt_keeper_settings_title">Šifrovanie</string>	
-    <string name="crypt_keeper_setup_description">Počkajte prosím, než bude telefón zašifrovaný. Dokončené: ^1 %</string>	
+    <string name="crypt_keeper_setup_description">Počkajte prosím, než bude telefón zašifrovaný. Dokončené: ^1%.</string>	
     <string name="crypt_keeper_setup_title">Šifrovanie</string>	
     <string name="crypt_keeper_unplugged_text">Pripojte nabíjačku a skúste to znovu.</string>	
     <string name="cryptkeeper_emergency_call">Tiesňové volania</string>	
@@ -531,7 +531,7 @@
     <string name="data_usage_change_cycle">Zmeniť cyklus...</string>	
     <string name="data_usage_label_background">Pozadie</string>	
     <string name="data_usage_label_foreground">Popredie</string>	
-    <string name="data_usage_limit_dialog">"Po dosiahnutí stanoveného limitu bude dátové pripojenie k sieti %1$s zakázané. Pretože sa prenesené dáta merajú pomocou telefónu 
+    <string name="data_usage_limit_dialog">"Po dosiahnutí stanoveného limitu bude dátové pripojenie k sieti (%1$s) zakázané. Pretože sa prenesené dáta merajú pomocou telefónu 
 		a operátor ich môže účtovať odlišne, je vhodné nastaviť nízky limit."</string>	
     <string name="data_usage_limit_dialog_title">Nastavuje sa obmedzenie dátových prenosov</string>	
     <string name="data_usage_limit_editor_title">Nastavenie limitu dátových prenosov</string>	
@@ -776,7 +776,7 @@
     <string name="location_street_level">Povoliť aplikáciám určiť vašu presnú polohu pomocou systému GPS</string>	
     <string name="location_title">Moja poloha</string>	
     <string name="lock_after_timeout">Automaticky zamknúť</string>	
-    <string name="lock_after_timeout_summary">po spánku %1$s</string>	
+    <string name="lock_after_timeout_summary">Po %1$s spánku</string>	
     <string name="lock_intro_message">"Svoj telefón môžete chrániť pred neoprávneným použitím pomocou osobného gesta pre odomknutie obrazovky. Body na nasledujúcej obrazovke spojte prstom 
 		v akomkoľvek poradí. Spojiť je nutné aspoň štyri body. Akonáhle budete pripravení začať, dotknite sa tlačítka Ďalší."</string>	
     <string name="lock_screen_unlock_show">Zobraz heslo displeja priamo</string>	
@@ -840,8 +840,8 @@
     <string name="lockpattern_settings_change_lock_pattern">Zmena bezpečnostného gesta</string>	
     <string name="lockpattern_settings_choose_lock_pattern">Nastavenie bezpečnostného gesta</string>	
     <string name="lockpattern_settings_title">Gesto odomknutia</string>	
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Sekundy do ďalšieho pokusu: .</string>	
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Príliš mnoho neplatných pokusov.</string>	
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Sekundy do ďalšieho pokusu: %d</string>	
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Príliš mnoho neplatných pokusov!</string>	
     <string name="lockpattern_tutorial_cancel_label">Zrušiť</string>	
     <string name="lockpattern_tutorial_continue_label">Ďalší</string>	
     <string name="lte_ram_dump_off">Vypnúť výpis pamäte lte ram</string>	
@@ -900,18 +900,18 @@
     <string name="menu_new">Nový názov AP</string>	
     <string name="menu_restore">Obnoviť predvolené</string>	
     <string name="menu_save">Uložiť</string>	
-    <string name="menu_stats_last_unplugged">Pri poslednom odpojení pre %1$s</string>	
+    <string name="menu_stats_last_unplugged">%1$s od posledného odpojenia</string>	
     <string name="menu_stats_refresh">Obnoviť</string>	
     <string name="menu_stats_total">Využitie batérie celkom</string>	
     <string name="menu_stats_unplugged">%1$s od odpojenia</string>	
     <string name="misc_files">Rôzne súbory</string>	
-    <string name="misc_files_selected_count">vybrané: %1$d z %2$d</string>	
+    <string name="misc_files_selected_count">vybraných: %1$d z %2$d</string>	
     <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>	
     <string name="mms_vibrate_abbreviation">Správy</string>	
     <string name="model_number">Označenie modelu:</string>	
     <string name="move_app">Presunúť</string>	
-    <string name="move_app_failed_dlg_text">Presunutie aplikácie sa nepodarilo. %1$s</string>	
-    <string name="move_app_failed_dlg_title" />	
+    <string name="move_app_failed_dlg_text">"Presunutie aplikácie %1$s sa nepodarilo"</string>	
+    <string name="move_app_failed_dlg_title"/>	
     <string name="move_app_to_internal">Presunúť do telefónu</string>	
     <string name="move_app_to_sdcard">Presunúť na SD kartu</string>	
     <string name="moving">Presúvanie</string>	
@@ -992,8 +992,8 @@
     <string name="privacy_settings_title">Zálohovanie a obnovenie dát</string>	
     <string name="process_kernel_label">OS Android</string>	
     <string name="process_mediaserver_label">Mediaserver</string>	
-    <string name="process_provider_in_use_description">Poskytovateľ %1$s sa používa.</string>	
-    <string name="process_service_in_use_description">Služba %1$s sa používa.</string>	
+    <string name="process_provider_in_use_description">%1$s sa používa.</string>	
+    <string name="process_service_in_use_description">%1$s sa používa.</string>	
     <string name="progress_scanning">Hľadanie</string>	
     <string name="progress_tap_to_pair">Spárujete dotykom</string>	
     <string name="provider_label">Zobraziť odbery</string>	
@@ -1085,7 +1085,7 @@
     <string name="read_only">" (Len na čítanie)"</string>	
     <string name="really_remove_account_message">Odobraním účtu vymažete z telefónu všetky správy, kontakty a ďalšie dáta tohto účtu.</string>	
     <string name="really_remove_account_title">Chcete odobrať účet?</string>	
-    <string name="recognizer_settings_summary">Nastavenie pre poskytovateľa %s</string>	
+    <string name="recognizer_settings_summary">Nastavenie pre poskytovateľa „%s”</string>	
     <string name="recognizer_settings_title">Hlasové vyhľadávanie</string>	
     <string name="recognizer_title">Rozpoznávanie hlasu</string>	
     <string name="recompute_size">Prepočítavanie veľkosti...</string>	
@@ -1124,7 +1124,7 @@
     <string name="screen_compatibility_label">Kompatibilita s obrazovkou</string>	
     <string name="screen_compatibility_text">Táto aplikácia najskôr nie je určená pre vašu obrazovku. Tu môžete nastaviť, ako sa aplikácia obrazovke prispôsobí.</string>	
     <string name="screen_timeout">Vypnutie displeja</string>	
-    <string name="screen_timeout_summary">Pri nečinnosti: %1$s</string>	
+    <string name="screen_timeout_summary">Po %1$s nečinnosti</string>	
     <string name="screen_timeout_title">Vypnutie displeja</string>	
     <string name="screensaver_activate_on_dock_title">Spustiť i po vložení do doku</string>	
     <string name="screensaver_component_title">Vybraná dekorácia</string>	
@@ -1132,7 +1132,7 @@
     <string name="screensaver_settings_summary_on">Pokiaľ je zariadenie pripojené k zdroji, spustí sa pri prechode do režimu spánku</string>	
     <string name="screensaver_settings_title">Dekorácia displeja</string>	
     <string name="screensaver_test">Vyskúšať</string>	
-    <string name="screensaver_timeout_summary">Po nečinnosti: %1$s</string>	
+    <string name="screensaver_timeout_summary">Po %1$s nečinnosti</string>	
     <string name="screensaver_timeout_title">Čas aktivácie</string>	
     <string name="screensaver_timeout_zero_summary">Nikdy</string>	
     <string name="sd_card_settings_label">SD karta</string>	
@@ -1331,10 +1331,10 @@
     <string name="sync_error">Chyba synchronizácie</string>	
     <string name="sync_gmail">Gmail</string>	
     <string name="sync_is_failing">Nastali problémy so synchronizáciou. Služba bude čoskoro obnovená.</string>	
-    <string name="sync_item_title">Synchronizácia aplikácie %s</string>	
+    <string name="sync_item_title">Synchronizácia: %s</string>	
     <string name="sync_menu_sync_cancel">Zrušiť synchronizáciu</string>	
     <string name="sync_menu_sync_now">Synchronizovať</string>	
-    <string name="sync_one_time_sync">"Dotykom vykonáte synchronizáciu teraz 
+    <string name="sync_one_time_sync">"Dotykom vykonáte synchronizáciu 
 		%1$s"</string>	
     <string name="sync_plug">"Víta vás aplikácia Google Sync. Nový pohľad na synchronizáciu dát v réžii Googlu. Poskytuje vám prístup ku kontaktom, schôdzkam a ďalším informáciám, 
 		nech ste kdekoľvek."</string>	
@@ -1359,7 +1359,7 @@
     <string name="time_zone_auto_stub">Vyberte časovú zónu</string>	
     <string name="timezone_settings">Časová zóna</string>	
     <string name="title_font_size">Veľkosť písma</string>	
-    <string name="total_size">%s (celkom)</string>	
+    <string name="total_size">Celkom: %s</string>	
     <string name="total_size_label">Celkom</string>	
     <string name="trackball_settings">Trackball</string>	
     <string name="trackball_wake_title">Trackball prebudenie</string>	
@@ -1451,7 +1451,7 @@
     <string name="upload_debug_log_summary">Odošlite záznam debug a pomôžte vývojárom vytvoriť stabilnejší a lepší MIUI ROM. Ďakujeme!</string>	
     <string name="upload_debug_log_title">Odoslať záznam debug</string>	
     <string name="usage_log">Štatistika využitia aplikácií</string>	
-    <string name="usage_name_percent">%1$s – %2$s %%</string>	
+    <string name="usage_name_percent">"%1$s – %2$s%%"</string>	
     <string name="usage_stats_label">Štatistika použitia</string>	
     <string name="usage_time_label">Doba použitia</string>	
     <string name="usage_type_audio">Zvuk</string>	

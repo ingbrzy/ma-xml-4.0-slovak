@@ -15,7 +15,7 @@
     <string name="app_detail_title">Detail aplikácie</string>	
     <string name="app_detail_version">Verzia: %s</string>	
     <string name="app_name">Monitoring siete</string>	
-    <string name="app_traffic_detail">" prevádzka(%s)"</string>	
+    <string name="app_traffic_detail">" spotreba (%s)"</string>	
     <string name="apply_rules_failed">"Nepodarilo sa použiť bránu firewall, prosím skúste znovu.
 (%s)"</string>	
     <string name="apply_rules_failed_known">OK</string>	
@@ -30,11 +30,11 @@
     <string name="carrier_query_number_title">Nastavenie operátorov</string>	
     <string name="close_txt">Zavrieť</string>	
     <string name="control_app_internet">Využitie siete</string>	
-    <string name="current_warning_value">Varovná hodnota %s</string>	
+    <string name="current_warning_value">Varovná hodnota: %s</string>	
     <string name="daily_limit_dialog_disconnect_hint">Odpojiť internet po prekr.</string>	
     <string name="daily_limit_dialog_hint">Denný limit dát (prázdne alebo 0 znamená bez obmedzení)</string>	
-    <string name="daily_limit_result">Upozorniť ma a odpojiť internet, ak denná prevádzka prekročí %dM. Zapnuté</string>	
-    <string name="daily_limit_result_no_disconnect">Upozorniť ma, ak denná prevádzka prekročí %dM. Zapnuté</string>	
+    <string name="daily_limit_result">Upozorniť ma a odpojiť internet, ak denná prevádzka prekročí %dMB</string>	
+    <string name="daily_limit_result_no_disconnect">Upozorniť ma, ak denná prevádzka prekročí %dMB</string>	
     <string name="daily_limit_result_no_limit">Upozorniť ma, ak denná prevádzka prekročí limit. Vypnuté</string>	
     <string name="detail_app_button">Detaily aplikácie</string>	
     <string name="dialog_button_adjust">Upraviť</string>	
@@ -100,7 +100,7 @@ Môžete ich upraviť."</string>
     <string name="stop_app_button">Zavrieť</string>	
     <string name="sync_fail_notify_detail">Spätná podpora od operátora nebola prijatá, skúste to znovu</string>	
     <string name="sync_fail_notify_title">Dotaz zlyhal</string>
-    <string name="sync_traffic_fail_message">Dotaz na operátora zlyhal, možno je server zaneprázdnený. Skúste to prosím neskôr, alebo zavolajte na zákaznícku podporu</string>	
+    <string name="sync_traffic_fail_message">Dotaz na operátora zlyhal, možno je server zaneprázdnený. Skúste to prosím neskôr, alebo zavolajte na zákaznícku podporu %s</string>	
     <string name="sync_traffic_fail_title">Dotaz zlyhal</string>	
     <string name="sync_traffic_ing">Získavam od operátora,prosím čakajte …</string>	
     <string name="sync_traffic_success">"Získané dáta od operátora, prevádzka upravená"</string>	

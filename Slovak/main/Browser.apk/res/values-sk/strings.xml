@@ -115,12 +115,12 @@
     <string name="current_page">"od "</string>	
     <string name="defaultBookmarksUpButton">Záložky</string>	
     <string name="delete">Vymazať</string>	
-    <string name="delete_bookmark_warning">Vymazať záložku \"%s\"?</string>	
+    <string name="delete_bookmark_warning">Vymazať záložku „%s”?</string>	
     <string name="delete_folder">Vymazať priečinok</string>	
     <string name="delete_multi_bookmarks_alert_title">Ste si istý, že chcete vymazať %1$s položiek?</string>	
     <string name="disable_autofill">Zapnúť automatické vypĺňanie</string>	
     <string name="do_not_save">Zrušiť</string>	
-    <string name="download_no_sdcard_dlg_msg"> Na stiahnutie sa vyžaduje USB úložisko  %s.</string>	
+    <string name="download_no_sdcard_dlg_msg">Na stiahnutie %s sa vyžaduje USB úložisko.</string>	
     <string name="download_no_sdcard_dlg_title">USB úložisko nedostupné</string>	
     <string name="download_pending"> Sťahovanie začína...</string>	
     <string name="download_sdcard_busy_dlg_msg">USB úložisko je zaneprázdnené. Pre povolenie sťahovania vyberte v notifikačnej lište Vypnúť USB Úložisko.</string>	
@@ -214,7 +214,7 @@
     <string name="miui_yellowpage_category">Kategória</string>	
     <string name="miui_yellowpage_site">Stránka</string>	
     <string name="move_to_up_folder">O úroveň vyššie</string> 	
-    <string name="multi_select_title">Vybraných %1$s položiek</string>	
+    <string name="multi_select_title">Vybraných %1$s</string>	
     <string name="name">Názov</string>	
     <string name="new_folder">Nový priečinok</string>	
     <string name="new_incognito_tab">Nová inkognito karta</string>	
@@ -398,7 +398,7 @@
     <string name="share_page">Zdieľať stránku</string>	
     <string name="shortcut_bookmark">Záložka</string>	
     <string name="shortcut_bookmark_title">Vyber záložku</string>	
-    <string name="sign_in_to" formatted="false">Prihlásenie do %s1 \"%s2\"</string>	
+    <string name="sign_in_to" formatted="false">Prihlásenie do %s1 „%s2”</string>	
     <string name="snapshot_failed">"Nemožno uložiť pre čítanie offline."</string>	
     <string name="snapshot_go_live">Choď live</string>	
     <string name="ssl_continue">Pokračovať</string>	

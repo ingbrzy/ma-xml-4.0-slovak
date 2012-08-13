@@ -3,7 +3,7 @@
     <string name="accessibility_airplane_mode">Lietadlo.</string>	
     <string name="accessibility_back">Späť</string>	
     <string name="accessibility_battery_full">Batéria plná.</string>	
-    <string name="accessibility_battery_level">Ostáva %d percent.</string>	
+    <string name="accessibility_battery_level">%d percent.</string>	
     <string name="accessibility_battery_one_bar">Batéria jedna čiarka.</string>	
     <string name="accessibility_battery_three_bars">Batéria tri čiarky.</string>	
     <string name="accessibility_battery_two_bars">Batéria dve čiarky.</string>	
@@ -182,15 +182,15 @@
     <string name="status_bar_do_not_disturb_button">Nerušiť</string>	
     <string name="status_bar_input_method_settings_configure_input_methods">Nastavenie vstupu</string>	
     <string name="status_bar_latest_events_title">Notifikácie</string>	
-    <string name="status_bar_network_flow">Dnes: %1$s Ostáva: %2$s</string>	
+    <string name="status_bar_network_flow">"Dnes: %1$s Ostáva: %2$s"</string>	
     <string name="status_bar_network_flow_exceed">"Dnes: %1$s | Prekročené: %2$s"</string>	
-    <string name="status_bar_network_flow_today">Dnes:%1$s</string>	
+    <string name="status_bar_network_flow_today">Dnes: %1$s</string>	
     <string name="status_bar_network_name_separator" />	
     <string name="status_bar_no_notifications_title">Žiadne notifikácie</string>	
     <string name="status_bar_no_recent_apps">Žiadne nové aplikácie</string>	
     <string name="status_bar_ongoing_events_title">Prebiehajúce</string>	
     <string name="status_bar_please_disturb_button">Zobraziť notifikácie</string>
-	<string name="status_bar_recent_clear_result">"Vymazané %1$s.Aktuálne dostupná pamäť je %2$s."</string>
+	<string name="status_bar_recent_clear_result">Vymazané: %1$s. | Dostupné: %2$s.</string>
 	<string name="status_bar_recent_guide_all">Posunutím nahor zavriete, posunutím nadol uzamknete</string>
 	<string name="status_bar_recent_guide_bottom">Posunutím nadol uzamknete</string>
 	<string name="status_bar_recent_guide_top">Posunutím nahor ukončíte</string>	

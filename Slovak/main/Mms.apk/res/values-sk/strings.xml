@@ -29,8 +29,8 @@
   <string name="attach_subject">Predmet</string>
   <string name="attach_take_photo">Odfotiť obrázok</string>
   <string name="attach_video">Videá</string>
-  <string name="batch_delete_confirm_dialog_message">Ste si istý, že chcete zmazať vybrané správy?</string>
-  <string name="batch_delete_thread_confirm_dialog_message">Odstrániť vybrané správy?</string>
+  <string name="batch_delete_confirm_dialog_message">Vmazať %1$s vybrané správy</string>
+  <string name="batch_delete_thread_confirm_dialog_message">Odstrániť %1$s vybrané správy</string>
   <string name="batch_deleting_message_progress_message">Vymazanie označených správ(y)</string>
   <string name="batch_deleting_progress_message">Odstrániť celé vlákno správ</string>
   <string name="bcc_label">"Bcc: "</string>
@@ -131,14 +131,14 @@
   <string name="exceed_message_size_limitation">Bol dosiahnutý limit veľkosti správy.</string>
   <string name="exit_edit_mode">Koniec úprav</string>
   <string name="expire_on">Platnosť vyprší: %s</string>
-  <string name="failed_to_add_media">Túto položku (%1$s) nemožno pridať do správy.</string>
+  <string name="failed_to_add_media">Položku %1$s nemožno pridať do správy.</string>
   <string name="failed_to_resize_image">Veľkosť fotografie sa nepodarilo prispôsobiť.</string>
   <string name="fdn_check_failure">Môžete iba posielať správy na Vaše povolené čísla.</string>
   <string name="festival">Odporúčané</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Načítavam...</string>
   <string name="festival_sms_push">Doporučené</string>
-  <string name="fetion_prefix">[Fetion]</string>
+  <string name="fetion_prefix">[Otvoriť]</string>
   <string name="found_wild_messages">Boli nájdené správy na inej SIM karte na Cloude:%s Chcete ich stiahnuť?</string>
   <string name="flatshow_page_no">Strana %1$d</string>
   <string name="forward_prefix">"Fwd: "</string>
@@ -247,7 +247,7 @@
   <string name="no_subject_view">(Predmet neuvedený)</string>
   <string name="non_english_subject_limit">Maximálne 13 znakov pre ne-anglický predmet</string>
   <string name="nosend_message">Neodoslané</string>
-  <string name="notification_failed_multiple">%s správ nie je možné odoslať.</string>
+  <string name="notification_failed_multiple">Nie je možné odoslať %s správ.</string>
   <string name="notification_failed_multiple_title">Správy neodoslané</string>
   <string name="notification_multiple">%s neprečítaných správ.</string>
   <string name="notification_multiple_title">Nové správy</string>
@@ -349,7 +349,7 @@
   <string name="rate_limit_surpassed">Potvrdiť</string>
   <string name="received_label">"Prijaté: "</string>
   <string name="recent_contact_list_title">Nedávne</string>
-  <string name="recipient_editor_count_format">%d ľudí</string>
+  <string name="recipient_editor_count_format">"%d"</string>
   <string name="recipient_label">"Príjemca: "</string>
   <string name="refresh">Obnoviť</string>
   <string name="refresh_failed">Obnovenie zlyhalo</string> 
@@ -388,7 +388,7 @@
   <string name="send_signature_confirm_dialog_title">Poslať podpis</string>
   <string name="send_to">Komu: %1$s</string>
   <string name="send_to_count">Poslať %1$s správu(y)</string>
-  <string name="send_to_index_contact">Posielam z %2$s d %1$s..</string>
+  <string name="send_to_index_contact">Posielam %2$s z %1$s..</string>
   <string name="sending_message">Odosielanie…</string>  
   <string name="sent_label">"Odoslané: "</string>
   <string name="service_message_not_found">Správa vypršala alebo nie je dostupná.</string>
@@ -437,7 +437,7 @@
   <string name="to_count">%d ľudí</string>
   <string name="to_hint">Komu</string>
   <string name="to_label">"Komu "</string>
-  <string name="to_send_wrapper">Bude odoslané %s</string>
+  <string name="to_send_wrapper">Bude odoslané o %s</string>
   <string name="too_many_attachments">Počet vložených príloh je obmedzený na %1$s. Bude pridaných iba prvých %2$s príloh.</string>
   <string name="too_many_recipients">Počet príjemcov tejto správy je príliš vysoký (%1$s). Počet príjemcov je obmedzený na %2$s.</string>
   <string name="too_many_unsent_mms">Nemožno odoslať správu hneď. Existuje príliš mnoho neodoslaných mms správ.</string>
@@ -458,6 +458,6 @@
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="view_slideshow">Zobraziť prezentáciu</string>
   <string name="wap_push_title">"[WAP Push] "</string>
-  <string name="will_send_at">Bude odoslané o: %s</string>
+  <string name="will_send_at">Bude odoslané: %s</string>
   <string name="yes">OK</string>
 </resources>

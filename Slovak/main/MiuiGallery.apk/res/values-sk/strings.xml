@@ -40,7 +40,7 @@
   <string name="cloud_gallery_setting">Nastavenia Cloudovej galérie</string>
   <string name="cloud_gallery_space_full">Upload zlyhal!, Cloudové úložisko galérie je plné</string>
   <string name="cloud_media_set_set">Cloudové albumy</string>
-  <string name="confirm_delete"> Vymazať</string>
+  <string name="confirm_delete">Vymazať %s súborov?</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Snímka kontraktu</string>
   <string name="crop">Orezať</string>
@@ -208,7 +208,7 @@
   <string name="save_error">"Nemožno uložiť orezaný obrázok."</string>
   <string name="save_photo">Uložiť upravenú snímku?</string>
   <string name="save_pic_error">Obrázok sa nepodarilo uložiť!</string>
-  <string name="save_pic_to_success">"Obrázok bol uložený do %s"</string>
+  <string name="save_pic_to_success">Obrázok bol uložený do %s</string>
   <string name="save_to_sdcard">Uložiť na SD kartu</string>
   <string name="saving_failure">Snímka nemôže byť uložená</string>
   <string name="saving_image">Ukladám obrázok...</string>
