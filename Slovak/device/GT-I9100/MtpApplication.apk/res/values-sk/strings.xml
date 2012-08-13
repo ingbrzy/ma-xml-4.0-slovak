@@ -19,8 +19,4 @@
     <string name="media_scanner_running">Prehľadávač médií je spustený...</string>
     <string name="media_scanner_finished">Prehľadávanie médií je dokončené</string>
     <string name="kies_software_check">Kontroluje sa Samsung Kies (softvér na pripojenie k PC)...</string>
-    <string name="samsung_kies_text">Stlačením tlačidla Domov ukončite aplikáciu Samsung Kies</string>
-    <string name="media_player_text">Stlačením tlačidla domov ukončite Prehrávač médií</string>
-    <string name="usb_status_text">Pred použitím veľkokapacitného ukladacieho zariadenia zmeňte nastavenia rozhrania USB v menu Nastavenia bezdrôtového pripojenia a siete</string>
-    <string name="sdcard_insert_while_running_mtp">Aplikácia MTP sa reštartuje na prípravu karty SD. Pokračovať?</string>
 </resources>

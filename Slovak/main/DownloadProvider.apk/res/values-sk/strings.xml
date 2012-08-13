@@ -36,7 +36,4 @@ Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa
     <string name="download_percent">%d %%</string>
 	<string name="dialog_insufficient_space_on_external">Nie je dostatok miesta na externom úložisku</string>
     <string name="dialog_insufficient_space_on_cache">Nie je dostatok miesta na internom úložisku</string>
-	<string name="download_complete">Sťahovanie dokončené</string>
-	<string name="download_in_process">Sťahujem...</string>
-
 </resources>

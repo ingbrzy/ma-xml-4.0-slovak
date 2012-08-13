@@ -9,10 +9,7 @@
     <string name="installing">Prebieha inštalácia...</string>
     <string name="install_done">Aplikácia bola nainštalovaná.</string>
     <string name="install_confirm_question">Chcete nainštalovať túto aplikáciu? Získa prístup k týmto povoleniam:</string>
-    <string name="install_confirm_question_no_perms">Chcete nainštalovať túto aplikáciu? Nevyžaduje žiadny zvláštny prístup.</string>
-    <string name="install_confirm_question_update">Chcete nainštalovať aktualizáciu existujúcej aplikácie? Existujúce údaje sa nestratia. Aktualizovaná aplikácia získa prístup k týmto povoleniam:</string>
-    <string name="install_confirm_question_update_system">Chcete nainštalovať aktualizáciu tejto integrovanej aplikácie? Existujúce údaje sa nestratia. Aktualizovaná aplikácia získa prístup k týmto povoleniam:</string>
-    <string name="install_failed">Aplikácia nie je nainštalovaná.</string>
+	<string name="install_failed">Aplikácia nie je nainštalovaná.</string>
     <string name="install_failed_invalid_apk">Zdá sa, že je balík poškodený.</string>
     <string name="install_failed_inconsistent_certificates">Už je nainštalovaný existujúci balík s rovnakým názvom a kolidujúcim podpisom.</string>
     <string name="install_failed_older_sdk">Balík funguje iba v novších verziách systému Android.</string>
@@ -56,9 +53,5 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="uninstall_failed_msg">Aplikáciu %1$s sa nepodarilo odinštalovať.</string>
     <string name="Parse_error_dlg_title">Chyba analýzy</string>
     <string name="Parse_error_dlg_text">Pri analýze balíka sa vyskytol problém.</string>
-    <string name="newPerms">Nové</string>
-    <string name="privacyPerms">Ochrana osob. údajov</string>
-    <string name="devicePerms">Prístup k zariadeniu</string>
-    <string name="no_new_perms">Táto aktualizácia nevyžaduje žiadne nové povolenia.</string>
 	<string name="lift_ban">Odblokuj</string>
 </resources>
