@@ -246,7 +246,7 @@
     <string name="exporting_vcard_finished_title">Export %s dokončený</string>
     <string name="external_profile_title">Môj profil %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">Nemožno spustiť exportný program: \"%s\".</string>
-    <string name="fail_reason_could_not_open_file">Súbor \"%s\" nemožno otvoriť: %s.</string>
+    <string name="fail_reason_could_not_open_file">Súbor \"%s\" nemožno otvoriť</string>
     <string name="fail_reason_error_occurred_during_export">Pri exporte došlo k chybe: \"%s\".</string>
     <string name="fail_reason_io_error">Chyba V/V</string>
     <string name="fail_reason_low_memory_during_import">Nedostatok pamäti ( súbor je pravdepodobne príliš veľký )</string>
