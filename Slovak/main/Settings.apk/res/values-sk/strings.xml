@@ -1515,10 +1515,10 @@
     <string name="virus_scan_app_risk">Nájdená podozrivá aplikácia!</string>
     <string name="virus_scan_app_safe_scanning">Prebieha skenovanie.</string>
     <string name="virus_scan_app_scan_finish">Skenovanie dokončené.</string>
-    <string name="virus_scan_app_scanning">Skener Vírusov</string>
+    <string name="virus_scan_app_scanning">Zisťovanie vírusov</string>
     <string name="virus_scan_app_stop_scan">Zastaviť skenovanie</string>
     <string name="virus_scan_app_uninstall">Hromadná odinštalácia (%d)</string>
-    <string name="virus_scan_app_waiting">Čakanie na</string>
+    <string name="virus_scan_app_waiting">Čaká na skenovanie</string>
     <string name="virus_scanner_scan">Skenovať</string>
     <string name="virus_scanner_scanning">Skenovanie...</string>
     <string name="virus_scanner_select_Cancel">Zrušiť</string>
