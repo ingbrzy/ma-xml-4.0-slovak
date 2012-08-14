@@ -1520,7 +1520,7 @@
     <string name="virus_scan_app_uninstall">Hromadná odinštalácia (%d)</string>
     <string name="virus_scan_app_waiting">Čaká na skenovanie</string>
     <string name="virus_scanner_scan">Skenovať</string>
-    <string name="virus_scanner_scanning">Skenovanie...</string>
+    <string name="virus_scanner_scanning">Skener Vírusov</string>
     <string name="virus_scanner_select_Cancel">Zrušiť</string>
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_lib">Databáza Vírusov</string>
