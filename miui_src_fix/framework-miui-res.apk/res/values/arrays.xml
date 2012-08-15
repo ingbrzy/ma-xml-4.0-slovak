@@ -9,6 +9,15 @@
         <item>46006</item>
         <item>46007</item>
         <item>46009</item>
+		<item>23001</item>
+        <item>23002</item>
+        <item>23003</item>
+        <item>23004</item>
+        <item>23099</item>
+		<item>23101</item>
+        <item>23102</item>
+		<item>23104</item>
+        <item>23106</item>
     </string-array>
     <string-array name="mobile_operator_display_names">
         <item>China Mobile</item>
@@ -19,6 +28,15 @@
         <item>China Unicom</item>
         <item>China Mobile</item>
         <item>China Telecom</item>
+		<item>T-Mobile CZ</item>
+        <item>O2 CZ</item>
+        <item>Vodafone CZ</item>
+        <item>U:fon CZ</item>
+        <item>Vodafone CZ</item>
+		<item>ORANGE SK</item>
+        <item>T-Mobile SK</item>
+		<item>T-Mobile SK</item>
+        <item>O2 SK</item>
     </string-array>
     <array name="config_virtualKeyUpPattern" />
     <string-array name="alphabet_table">
@@ -62,6 +80,15 @@
         <item>46001</item>
         <item>46000</item>
         <item>46003</item>
+		<item>23001</item>
+        <item>23002</item>
+        <item>23003</item>
+        <item>23004</item>
+        <item>23099</item>
+		<item>23101</item>
+        <item>23102</item>
+		<item>23104</item>
+        <item>23106</item>
     </string-array>
     <item type="array" name="android_config_longPressVibePattern">@android:array/config_longPressVibePattern</item>
     <item type="array" name="android_config_keyboardTapVibePattern">@android:array/config_keyboardTapVibePattern</item>
