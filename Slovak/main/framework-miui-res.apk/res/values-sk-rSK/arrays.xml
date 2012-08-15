@@ -7,8 +7,8 @@
         <item>U:fon CZ</item>
         <item>Vodafone CZ</item>
 	<item>ORANGE SK</item>
-        <item>T-Mobile SK</item>
-	<item>T-Mobile SK</item>
+        <item>T-Com SK</item>
+	<item>T-Com SK</item>
         <item>O2 SK</item>
     </string-array>
     <string-array name="mobile_operator_numeric_values">
