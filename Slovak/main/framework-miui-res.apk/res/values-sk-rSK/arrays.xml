@@ -6,9 +6,9 @@
         <item>Vodafone CZ</item>
         <item>U:fon CZ</item>
         <item>Vodafone CZ</item>
-	<item>ORANGE SK</item>
-        <item>T-Com SK</item>
-	<item>T-Com SK</item>
+		<item>ORANGE SK</item>
+        <item>Telekom SK</item>
+		<item>Telekom SK</item>
         <item>O2 SK</item>
     </string-array>
     <string-array name="mobile_operator_numeric_values">
@@ -17,9 +17,9 @@
         <item>23003</item>
         <item>23004</item>
         <item>23099</item>
-	<item>23101</item>
+		<item>23101</item>
         <item>23102</item>
-	<item>23104</item>
+		<item>23104</item>
         <item>23106</item>
     </string-array>
     <string-array name="mobile_operator_numeric_equivalencies">
@@ -28,9 +28,9 @@
         <item>23003</item>
         <item>23004</item>
         <item>23099</item>
-	<item>23101</item>
+		<item>23101</item>
         <item>23102</item>
-	<item>23104</item>
+		<item>23104</item>
         <item>23106</item>
     </string-array>
 </resources>
