@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="activating">Aktivácia...</string>
 	<string name="all_resources">Všetko</string>  	
 	<string name="android_lockscreen_glogin_instructions">Pre odomknutie sa prihláste sa k svojmu účtu</string>
     <string name="arbor_day" />
@@ -335,6 +336,7 @@
   <string name="national_day" />  
   <string name="never">Nikdy</string>
   <string name="new_years_day" />  
+  <string name="no_sim">Žiadna SIM, služby sú nedostupné</string>
   <string name="online_hottest">Najlepší</string>
   <string name="online_hottest_short">Naj.</string>  
   <string name="online_latest">Najnovší</string>
@@ -392,6 +394,7 @@
   <string name="stopping_the_heat"/>
   <string name="summer_begins"/>
   <string name="summer_solstice"/>
+  <string name="sync_one_time_sync">Kliknite pre synchronizáciu (%1$s)</string>
   <string name="teachers_day"/>
   <string name="text_pastelist">Schránka</string>
   <string name="the_armys_day"/>

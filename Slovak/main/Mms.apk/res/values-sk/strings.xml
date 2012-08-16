@@ -139,6 +139,7 @@
   <string name="festival_sms_loading">Načítavam...</string>
   <string name="festival_sms_push">Doporučené</string>
   <string name="fetion_prefix">[Otvoriť]</string>
+  <string name="found_wild_messages_title">Stiahnuť Správy</string>
   <string name="found_wild_messages">Boli nájdené správy na inej SIM karte na Cloude:%s Chcete ich stiahnuť?</string>
   <string name="flatshow_page_no">Strana %1$d</string>
   <string name="forward_prefix">"Fwd: "</string>

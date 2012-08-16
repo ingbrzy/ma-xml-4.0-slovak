@@ -36,7 +36,8 @@
 <string name="delete_file">Vymazať?</string>
 <string name="delete_files">Ste si istý, že chcete vymazať vybraný(é) %1$d súbor(y)?</string>
 <string name="delete_files_and_folders">Ste si istý, že chcete vymazať vybraný(é) %1$d súbor(y) a %2$d zložku(y)?</string>
-<string name="delete_folders">Ste si istý, že chcete vymazať vybranú(é) zložku(y)?</string>
+<string name="delete_folder">Ste si istý, že chcete vymazať vybranú zložku?</string>
+<string name="delete_folders">Ste si istý, že chcete vymazať vybrané zložky?</string>
 <string name="delete_operation_result_all_success">%1$d súborov vymazaných</string>
 <string name="delete_operation_result_success_and_failed">%1$d súborov vymazaných. Nie je možné vymazať %2$d</string>
 <string name="dialog_select_type">Zvoľte typ súboru</string>
