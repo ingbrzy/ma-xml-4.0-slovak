@@ -38,4 +38,9 @@
         <item>Stránka vpred/vzad</item>
         <item>Prepnutie karty</item>
     </string-array>    
+    <string-array name="pref_link_prefetch_choices">
+       <item>Nikdy</item>
+       <item>Iba na Wi-Fi</item>
+       <item>Vždy</item>
+    </string-array>
 </resources>

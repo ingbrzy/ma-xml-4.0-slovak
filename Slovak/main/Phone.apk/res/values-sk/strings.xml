@@ -168,8 +168,8 @@
     <string name="callFailed_timedOut">Neodpovídá, vypršel čas</string>
     <string name="callFailed_unobtainable_number">Chybné číslo</string>
     <string name="callFailed_userBusy">Linka je obsazená.</string>
-    <string name="calling_via_template">"Volání prostřednictvím ^1"<b>^2</b></string>
-    <string name="calling_via_template_miui">"Volat přes ^1"<b>^2</b></string>
+    <string name="calling_via_template">"Volání prostřednictvím %s</string>
+    <string name="calling_via_template_miui">"Volat přes ^1"</string>
     <string name="cancel">Zrušit</string>
     <string name="card_title_call_ended">Hovor ukončen</string>
     <string name="card_title_cdma_call_waiting">Cdma callwaiting</string>

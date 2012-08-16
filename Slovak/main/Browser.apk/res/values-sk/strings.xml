@@ -228,6 +228,7 @@
     <string name="open_all_bookmarks">Otvoriť všetko</string>	
     <string name="open_all_in_new_window">Otvoriť všetko na nových kartách</string>	
     <string name="open_bookmark">Otvoriť</string>	
+	<string name="other_bookmarks">Ostatné Záložky</string>
     <string name="page_info">Informácie o stránke</string>	
     <string name="page_info_address">Adresa:</string>	
     <string name="page_info_view">Zobraz informácie o stránke</string>	
@@ -237,6 +238,7 @@
     <string name="please_select_a_file_to_import">Prosím vyberte dátový súbor</string>	
     <string name="popup_window_attempt">Povoliť tejto stránke otvoriť pop-up okno?</string>	
     <string name="pref_accessibility_title">Prístupnosť</string>	
+	<string name="pref_allow_apptabs">Povoliť viac kariet na aplikáciu</string>
     <string name="pref_autofill_enabled">Automatické vypĺňanie formulárov</string>	
     <string name="pref_autofill_enabled_summary">Vypĺňanie formulárov jedným dotykom</string>	
     <string name="pref_autofill_profile_editor">Automatické vypĺňanie textu</string>	
@@ -319,8 +321,15 @@
     <string name="pref_lab_fullscreen_summary">Použitie módu celej obrazovky pre skrytie status lišty</string>	
     <string name="pref_lab_quick_controls">Rýchle ovládanie</string>	
     <string name="pref_lab_quick_controls_summary">Potiahnite prst z ľavého alebo pravého okraja obrazovky, aby ste otvorili rýchle ovládanie a skryli URL a app lišty.</string>	
-    <string name="pref_lab_title">Labs</string>	
-    <string name="pref_min_font_size">Minimálna veľkosť fontu</string>	
+    <string name="pref_lab_title">Labs</string>
+    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
+    <string name="pref_link_prefetch_dialogtitle">Prednačítanie webstránky</string>
+    <string name="pref_link_prefetch_summary">Povoliť prednačítanie webstránok na pozadí</string>
+    <string name="pref_link_prefetch_title">Prednačítanie webstránky</string>
+    <string name="pref_link_prefetch_value_always">VŽDY</string>
+    <string name="pref_link_prefetch_value_never">NIKDY</string>
+    <string name="pref_link_prefetch_value_wifi_only">IBA_WIFI</string>
+	<string name="pref_min_font_size">Minimálna veľkosť fontu</string>	
     <string name="pref_min_font_size_value">%d pt</string>	
     <string name="pref_privacy_clear_cache">Vymazať cache</string>	
     <string name="pref_privacy_clear_cache_dlg">Vymazať lokálnu cache obsahu a databáz?</string>	
@@ -385,6 +394,7 @@
     <string name="report_reading_mode_issue">Oznámiť problémy s čítacím módom MIUI</string>	
     <string name="rlz_access_point">Y1</string>	
     <string name="save">OK</string>	
+	<string name="saving_snapshot">Ukladanie…</string>
     <string name="save_to_bookmarks">Uložiť do záložiek</string>	
     <string name="search_baidu">Baidu</string>	
     <string name="search_bing">Bing</string>	
