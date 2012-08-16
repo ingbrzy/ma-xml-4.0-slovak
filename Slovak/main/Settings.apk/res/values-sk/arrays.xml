@@ -76,6 +76,8 @@
         <item>Odpojovanie...</item>
         <item>Odpojené</item>
         <item>Neúspešné</item>
+		<item>Blokované</item>
+		<item>Dočasne nedostupná kvôli slabému signálu</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -88,7 +90,9 @@
         <item>Odpojovanie od siete %1$s...</item>
         <item>Odpojené</item>
         <item>Neúspešné</item>
-    </string-array>
+		<item>Blokované</item>
+		<item>Dočasne nedostupná kvôli slabému signálu</item>
+		</string-array>
     <string-array name="wifi_ap_security">
         <item>Nezabezpečená</item>
         <item>WPA PSK</item>
@@ -331,5 +335,21 @@
         <item>Ružová</item>
         <item>Oranžová</item>
         <item>Zafírová</item>
+    </string-array>
+	    <string-array name="animator_duration_scale_entries">
+        <item>Animácie vypnuté</item>
+        <item>Animácie .5x</item>
+        <item>Animácie 1x</item>
+        <item>Animácie 1.5x</item>
+        <item>Animácie 2x</item>
+        <item>Animácie 5x</item>
+        <item>Animácie 10x</item>
+    </string-array>
+        <string-array name="user_content_ratings_entries">
+        <item>Ascended being</item>
+        <item>Človek</item>
+        <item>Neandertálec</item>
+        <item>Šimpanz</item>
+        <item>Opica</item>
     </string-array>
 </resources>
