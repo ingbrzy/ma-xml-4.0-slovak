@@ -267,6 +267,7 @@
     <string name="default_transport">UDP</string>
     <string name="delete_fdn_contact">Vymazat povolené telefonní číslo</string>
     <string name="delete_selected_sim_entry_miui">Vymazat vybrané kontakty</string>
+	<string name="delete_all_sim_contacts_miui">Vymazať všetky kontakty na SIM karte</string>
     <string name="delete_sim_contact_confirm_title_miui">Smataz kontakty SIM</string>
     <string name="delete_sim_entries_finish">Kontakty SIM vymazány</string>
     <string name="delete_sim_entry_miui">Smazat</string>

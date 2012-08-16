@@ -69,10 +69,13 @@
     <string name="bookmark_not_saved">"Záložku nemožno uložiť."</string>	
     <string name="bookmark_page">Uložiť poslednú prezeranú stránku medzi záložky.</string>	
     <string name="bookmark_saved">Uložené medzi záložky.</string>	
-    <string name="bookmark_this_page">Pridať túto stránku do záložiek</string>	
+    <string name="bookmark_this_page">Pridať túto stránku do záložiek</string>
+    <string name="bookmark_this_page_to_readmodelist">Pridať túto stránku do Zoznamu zaujímavých</string>	
     <string name="bookmark_thumbnail_view">Náhľady</string>	
-    <string name="bookmark_title">Označenie</string>	
-    <string name="bookmark_url">Url</string>	
+    <string name="bookmark_title">Označenie</string>
+    <string name="bookmark_to_readmodelist_not_saved">"Nepodarilo sa uložiť do Zoznamu zaujímavych."</string>
+    <string name="bookmark_to_readmodelist_saved">Uložené do Zoznamu zaujímavých.</string>
+	<string name="bookmark_url">Url</string>	
     <string name="bookmark_url_not_valid">"Táto URL nie je platná."</string>	
     <string name="bookmarks">Záložky</string>	
     <string name="bookmarks_management">Záložky</string>	
@@ -367,6 +370,8 @@
     <string name="pref_zoom_on_double_tap">Priblížiť dvojdotykom</string>	
     <string name="preview">Náhľad</string>	
     <string name="progress_dialog_setting_wallpaper"> Nastavovanie tapety…</string>	
+	<string name="readmodelist_bookmarks">_readinglist_in_database_</string>
+	<string name="readmodelist_bookmarks_to_show">Zoznam zaujímavych</string>
 	<string name="recover">Obnoviť</string>
 	<string name="recover_from_crash">Pokračovať od poslednej relácie</string>    
 	<string name="reload">Obnoviť</string>	

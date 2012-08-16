@@ -13,6 +13,8 @@
     <string name="backup_theme_progress_message">Zálohovanie aktuálnej témy, čakajte prosím ...</string>	
     <string name="backup_theme_success_message">Téma úspešne zálohovaná..</string>	
     <string name="close">Zatvoriť</string>	
+    <string name="component_category_finest_title">Odporúčané</string>
+    <string name="component_category_more_title">Viac</string>
     <string name="component_category_ringtone_title">Zvonenie</string>	
     <string name="component_category_style_title">Štýly</string>	
     <string name="component_category_title">Prispôsobenie</string>	

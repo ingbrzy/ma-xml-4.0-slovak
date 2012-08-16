@@ -643,7 +643,8 @@
     <string name="empty_list_msg">Žiadne aplikácie tretích strán nie sú nainštalované.</string>	
 	<string name="enableNetwork">Zapnúť sieť</string>   
  	<string name="enable_adb">Ladenie USB</string>	
-    <string name="enable_adb_summary">Povoliť režim ladenia s pripojeným zariadením USB</string>	
+    <string name="enable_adb_summary">Povoliť režim ladenia s pripojeným zariadením USB</string>
+	<string name="enable_assist_key_long_press">Dlhé podržanie Menu spustí hlasový asistent</string>	
     <string name="enable_back_long_press">Ukonč. aplik. podržaním</string>	
     <string name="enable_compatibility">Upraviť veľkosť aplikácie</string>	
     <string name="enable_snapshot_screenlock">Screenshot na zamyk. obr.</string>
@@ -885,6 +886,7 @@
     <string name="media_volume_summary">Umožňuje nastaviť hlasitosť hudby a videí</string>	
     <string name="media_volume_title">Média</string>	
     <string name="medium_font">Stredné</string>	
+	<string name="menu_key">Tlačidlo Menu</string>
     <string name="memory">RAM</string>	
     <string name="memory_apps_usage">Aplikácie</string>	
     <string name="memory_available">K dispozícií</string>	
@@ -1509,6 +1511,7 @@
     <string name="virus_scan_app_find_risk">%d je podozrivých, odporúča sa ich okamžite odinštalovať.</string>
     <string name="virus_scan_app_finish">Zatvoriť</string>
     <string name="virus_scan_app_force_stop">Skenovanie pozastavené!</string>
+	<string name="virus_scan_app_is_stop_scan">Chcete zastaviť Skener Vírusov?</string>
     <string name="virus_scan_app_multi_engines">Vyberte nástroj, čas skenovania môže byť dlhší</string>
     <string name="virus_scan_app_no_risk">Žiadna podozrivá aplikácia sa nenašla.</string>
     <string name="virus_scan_app_passed">Skenovanie úspešne dokončené.</string>

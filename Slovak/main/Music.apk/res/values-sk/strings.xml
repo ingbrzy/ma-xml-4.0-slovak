@@ -4,6 +4,7 @@
     <string name="add_to_playlist">Pridať do playlistu</string>
     <string name="add_tracks">Pridať skladbu</string>
     <string name="album_display_settings">Zobrazovať obrázok albumu</string>
+	<string name="album_display_summary">Zobraziť obal albumu v prehrávači</string>
     <string name="album_download">Stiahnuť obrázok albumu</string>
     <string name="album_edit">Album</string>
     <string name="album_picker_not_found">Vo vašom zariadení nebola nájdená galéria</string>
@@ -120,6 +121,8 @@
     <string name="lrc_searching">Hľadanie textov...</string>
     <string name="lrc_select">Vyberte text</string>
     <string name="lyric_display_settings">Zobrazovať texty</string>
+	<string name="lyric_display_summary">zobraziť texty v prehrávači. (Odporúčané)</string>
+	<string name="lyric_and_album">Texty a Albumy</string>
     <string name="lyric_download">Stiahnuť texty</string>
     <string name="lyric_open_other_connect">Sťahovať text pomocou mobilného pripojenia k internetu.</string>
     <string name="lyric_picker_not_found">Vo vašom zariadení nebol nájdený žiadny správca súborov</string>
@@ -159,7 +162,8 @@
     <string name="playback_failed_by_network">%s nie je možné prehrať, skontrolujte nastavenie internetu</string>
     <string name="playback_failed_no_title_by_bad_file">Skladbu nie je možné prehrať, nepodporovaný formát, alebo súbor neexistuje.</string>
     <string name="playback_failed_no_title_by_network">Skladbu nie je možné prehrať, skontrolujte nastavenie internetu</string>
-    <string name="playlist_custom">Moje playlisty</string>
+    <string name="player_display_settings">Nastavenia Prehrávača</string>
+	<string name="playlist_custom">Moje playlisty</string>
     <string name="playlist_deleted_message">Playlist vymazaný.</string>
     <string name="playlist_favorite">Obľúbené</string>
     <string name="playlist_frequently_played">Často prehrávané</string>
@@ -214,12 +218,14 @@
     <string name="service_start_error_button">OK</string>
     <string name="service_start_error_msg">Prepáčte, skladbu nie je možné prehrať.</string>
     <string name="service_start_error_title">Problém pri prehrávaní</string>
+	<string name="shake_and_skip">Zatras. pre preskočenie pesničky</string>
     <string name="shake_degree_desc">Citlivosť zatrepania</string>
     <string name="shake_degree_high">Vysoká</string>
     <string name="shake_degree_low">Nízka</string>
     <string name="shake_settings">Zatrepaním preskočiť</string>
     <string name="shake_summary">Zatrepte s telefónom pre preskočenie skladby</string>
     <string name="shake_while_screen_on_title">Preskočiť len ak je displej zapnutý</string>
+	<string name="shake_while_screen_on_title_summary">Zatrasenie prepne pesničku len ak je displej zapnutý. Zabráni preskakovaniu skladieb napr. počas chôdze vo vrecku.</string>
     <string name="shuffle_all">Všetko náhodne</string>
     <string name="sleep_mode">Časovač</string>
     <string name="sort_by_album">Albumy</string>

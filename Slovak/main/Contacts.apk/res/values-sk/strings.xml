@@ -130,6 +130,7 @@
     <string name="contact_read_only">Kontaktné informácie zo zdroja %1$s nie je možné na tomto zariadení upraviť.</string>
     <string name="contact_status_update_attribution">cez %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s cez %2$s</string>
+	<string name="contacts_unavailable_add_xiaomi_account">Synch. kontakty Xiaomi</string>
     <string name="contactDetailAbout">O kontakte</string>
     <string name="contactDetailCalllog">Záznamy hovorov</string>
     <string name="contactDetailUpdates">Aktualizácia</string>
@@ -446,6 +447,8 @@
     <string name="postal_postcode">PSČ</string>
     <string name="postal_region">Štát</string>
     <string name="postal_street">Ulica</string>
+	<string name="pref_key_rebuild_t9_index_message">Opraviť index vyhľadávania kontaktov</string>
+	<string name="pref_key_rebuild_t9_index_title">Obnoviť T9 index</string>
 	<string name="pref_summary_import_from_account">Kopírovanie kontaktov z Google a Exchange na účet Xiaomi</string>
     <string name="pref_title_account_import">Kopírovanie z účtu</string>
     <string name="pref_title_import_from_account">Kopírovanie na účet Xiaomi</string>   

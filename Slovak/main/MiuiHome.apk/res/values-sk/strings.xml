@@ -100,6 +100,8 @@
     <string name="uninstall">Odinštalovať</string>
     <string name="uninstall_body_format">Odinštalovať aplikáciu \"%s\"?</string>
     <string name="unknown_artist_name">Neznámy interpret</string>
+	<string name="upside_apps_title">Vyberte aplikáciu</string>
+    <string name="upside_edit_bottom_empty_tip">Kliknite na obdĺžnik pre editáciu</string>
     <string name="wallpaper_scrolling">všetko</string>
     <string name="widget_favorite_contacts_edit">Editor</string>
     <string name="widget_favorite_contacts_label">Obľúbené</string>
