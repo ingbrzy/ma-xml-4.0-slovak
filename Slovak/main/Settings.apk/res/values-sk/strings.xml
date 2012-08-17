@@ -74,7 +74,8 @@
     <string name="accessibility_tutorial_lesson_2_title">Lekcia 2: Posun pomocou dvoch prstov</string>	
     <string name="accessibility_tutorial_next">Ďalší</string>	
     <string name="accessibility_tutorial_skip">Preskočiť výukový program</string>	
-    <string name="accessibility_tutorial_title">Kurz o zjednodušení prístupu</string>	
+    <string name="accessibility_tutorial_title">Kurz o zjednodušení prístupu</string>
+	<string name="account_settings">Účty</string>	
     <string name="account_sync_settings_title">Natavenie synchronizácie</string>	
     <string name="activating">Aktivujem...</string>	
     <string name="active_device_admin_msg">Správca zariadenia</string>	
@@ -93,9 +94,13 @@
     <string name="advanced_settings_summary">Povoliť ďalšie možnosti nastavení</string>	
     <string name="airplane_mode">Režim V lietadle</string>	
     <string name="alarm_volume_title">Budík</string>	
-    <string name="all_volume_title">Hlasitosť</string>	
+    <string name="all_volume_title">Hlasitosť</string>
+    <string name="allow_bind_app_widget_activity_allow_bind">Po vytvorení widgetu, %1$s má prístup k všetkým dátam ktoré zobrazuje.</string>
+    <string name="allow_bind_app_widget_activity_allow_bind_title">Vytvoriť widget a povoliť prístup?</string>
+    <string name="allow_bind_app_widget_activity_always_allow_bind">Vždy povoliť %1$s vytvorenie widgetov</string>
     <string name="allow_mock_location">Povoliť simulovanie polohy</string>	
-    <string name="allow_mock_location_summary">Povoliť simulovanie polohy</string>	
+    <string name="allow_mock_location_summary">Povoliť simulovanie polohy</string>
+    <string name="always_allow_bind_appwidgets_text">"Povolili ste aplikácií vytváranie widgetov."</string>
     <string name="android_beam_disabled_summary">Nie je k dispozícií, pretože je vypnutá funkcia NFC</string>	
     <string name="android_beam_explained">"Pokiaľ je funkcia zapnutá, môžete prenášať obsah aplikácie do iného zariadenia s funkciou NFC tým, že podržíte zariadenia 
 		blízko seba. Môžete napríklad prenášať stránky prehliadača, videá YouTube, kontakty a ďalšie. Priložte zariadenia k sebe (spravidla zadnou stranou) 
@@ -103,7 +108,8 @@
     <string name="android_beam_label">Android Beam</string>	
     <string name="android_beam_off_summary">Vypnuto</string>	
     <string name="android_beam_on_summary">Prenos obsahu aplikácie prostredníctvom NFC je pripravený</string>	
-    <string name="android_beam_settings_title">Android Beam</string>	
+    <string name="android_beam_settings_title">Android Beam</string>
+	<string name="animator_duration_scale_title">Doba trvania animácií</string>	
     <string name="apn_apn">Názov AP</string>	
     <string name="apn_auth_type">Typ overenia</string>	
     <string name="apn_auth_type_chap">CHAP</string>	
@@ -134,7 +140,9 @@
     <string name="apn_user">Užívateľské meno</string>	
     <string name="app_disable_dlg_text">Pokiaľ zakážete integrovanú aplikáciu, môže sa stať, že ostatné aplikácie prestanú fungovať správne.</string>	
     <string name="app_disable_dlg_title">Zakázať integrovanú aplikáciu</string>	
-    <string name="app_factory_reset">Odinštalovať aktualizácie</string>	
+    <string name="app_disable_notifications_dlg_text">Ak vypnete notifikácie pre túto aplikáciu, môžete zmeškať dôležité upozornenia.</string>
+    <string name="app_disable_notifications_dlg_title">Vypnúť notifikácie?</string>
+	<string name="app_factory_reset">Odinštalovať aktualizácie</string>	
     <string name="app_factory_reset_dlg_text">Všetky aktualizácie tejto aplikácie systému Android budú odinštalované.</string>	
     <string name="app_factory_reset_dlg_title">Odinštalovať aktualizácie?</string>	
     <string name="app_forward_locked">Aplikácia je chránená proti kopírovaniu.</string>	
@@ -142,7 +150,8 @@
     <string name="app_install_location_title">Preferované umiestnenie pre inštaláciu</string>	
     <string name="app_name_label">Aplikácie</string>	
     <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť na zoznamu nainštalovaných aplikácií.</string>	
-    <string name="app_not_found_dlg_title" />	
+    <string name="app_not_found_dlg_title" />
+	<string name="app_notifications_switch_label">Zobraziť notifikácie</string>	
     <string name="app_process_limit_title">Obmedzenie procesov na pozadí</string>	
     <string name="application_info_label">Informácie o aplikácií</string>	
     <string name="application_size_label">Aplikácia</string>	
@@ -158,7 +167,8 @@
     <string name="auto_caps_summary">Prvé písmeno vo vete je automaticky veľké</string>	
     <string name="auto_launch_disable_text">Nie je predvolená pre žiadne akcie.</string>	
     <string name="auto_launch_enable_text">Aplikácia bola nastavená, aby sa pre niektoré akcie spúšťala ako predvolená.</string>	
-    <string name="auto_launch_label">Spúšťať ako predvolené</string>	
+    <string name="auto_launch_label">Spúšťať ako predvolené</string>
+	<string name="auto_launch_label_generic">Predvolené</string>	
     <string name="auto_punctuate">Automatická interpunkcia</string>	
     <string name="auto_punctuate_summary">Znak „.“ je možné vložiť dvojitým stlačením klávesy Medzerník.</string>	
     <string name="auto_replace">Automatické nahradenie</string>	
@@ -269,8 +279,10 @@
     <string name="battery_sugg_radio">V oblastiach bez pokrytia signálu prepnite do režimu Lietadlo</string>	
     <string name="battery_sugg_wifi">Pokiaľ sieť Wi-Fi nepoužívate alebo na danom mieste nie je k dispozícií, vypnite Wi-Fi v telefóne.</string>	
     <string name="bearer">Nositeľ</string>	
-    <string name="biometric_weak_improve_matching_title">Zlepšiť priraďovanie tvárí</string>	
-    <string name="bluetooth">Bluetooth</string>	
+    <string name="biometric_weak_improve_matching_title">Zlepšiť priraďovanie tvárí</string>
+    <string name="biometric_weak_liveliness_summary">Vyžadovať žmurknutie očí pre odomknutie</string>
+    <string name="biometric_weak_liveliness_title">Kontrola života</string>
+	<string name="bluetooth">Bluetooth</string>	
     <string name="bluetooth_a2dp_profile_summary_connected">Pripojené k zvukovému médiu</string>	
     <string name="bluetooth_a2dp_profile_summary_use_for">Umožňuje pripojenie zvukového média</string>	
     <string name="bluetooth_advanced_titlebar">Pokročilé nastavenie Bluetooth</string>	
@@ -305,7 +317,8 @@
     <string name="bluetooth_device_context_disconnect">Odpojiť</string>	
     <string name="bluetooth_device_context_disconnect_unpair">Odpojiť a zrušiť párovanie</string>	
     <string name="bluetooth_device_context_pair_connect">Párovať a pripojiť</string>	
-    <string name="bluetooth_device_context_unpair">Zrušiť párovanie</string>	
+    <string name="bluetooth_device_context_unpair">Zrušiť párovanie</string>
+	<string name="bluetooth_device_details">Nastavenie zariadenia</string>	
     <string name="bluetooth_device_name">Názov zariadenia</string>	
     <string name="bluetooth_devices">Zariadenia Bluetooth</string>	
     <string name="bluetooth_disable_profile_message">Toto nastavenie vypne profil:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zariadenie:&lt;br>&lt;b>%2$s&lt;/b></string>	
@@ -374,7 +387,8 @@
     <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>	
     <string name="bluetooth_preference_paired_devices">Párované zariadenia</string>	
     <string name="bluetooth_preference_scan_title">Vyhľadať zariadenie</string>	
-    <string name="bluetooth_profile_a2dp">Zvuk médií</string>	
+    <string name="bluetooth_profile_a2dp">Zvuk médií</string>
+	<string name="bluetooth_profile_details">Nastavenie profilu</string>	
     <string name="bluetooth_profile_headset">Zvuk telefónu</string>	
     <string name="bluetooth_profile_hid">Vstupné zariadenie</string>	
     <string name="bluetooth_profile_name">"%1$s MIUI telefón"</string>	
@@ -441,7 +455,9 @@
     <string name="carrier_enabled_summaryOff">Názov prístupového bodu (APN) zakázaný</string>	
     <string name="carrier_enabled_summaryOn">Názov prístupového bodu (APN) povolený</string>	
     <string name="cdma_security_settings_summary">Nastavenie funkcie Moja poloha, odomknutie obrazovky a zamknutie úložiska poverení</string>	
-    <string name="checkbox_notification_same_as_incoming_call">Použije hlasitosť príchodzích hovorov tiež pre oznámenia</string>	
+    <string name="cell_broadcast_settings">Cell broadcasts</string>
+    <string name="cell_broadcast_settings_summary">Zvoliť typ zobrazenia núdzových upozornení.</string>
+	<string name="checkbox_notification_same_as_incoming_call">Použije hlasitosť príchodzích hovorov tiež pre oznámenia</string>	
     <string name="choose_timezone">Vybrať časové pásmo</string>	
 	<string name="clear_activities">Vymazať predvolené nastavenie</string>	
     <string name="clear_cache_btn_text">Vymazať medzipamäť</string>	
@@ -462,10 +478,13 @@
     <string name="controls_label">Ovládacie prvky</string>	
     <string name="controls_subtitle">Upraviť spotrebu energie</string>	
     <string name="copyright_title">Autorské práva</string>	
+	<string name="create">Vytvoriť</string>
     <string name="credentials_configure_lock_screen_hint">Pred použitím úložiska poverení musíte nastaviť kód PIN alebo heslo zámku obrazovky.</string>	
     <string name="credentials_enabled">Úložisko poverení je aktivované.</string>	
     <string name="credentials_erased">Úložisko poverení je vymazané.</string>	
     <string name="credentials_install">Inštalovať z úložiska</string>	
+	<string name="credentials_install_gesture_explanation">Musíte nakresliť svoj odomykací vzor pre potvrdenie inštalácie.</string>
+    <string name="credentials_install_gesture_prompt">Nakresliť odomykací vzor</string>
     <string name="credentials_install_summary">Nainštalovať certifikáty z úložiska</string>	
     <string name="credentials_not_erased">Úložisko poverení nie je možné vymazať.</string>	
     <string name="credentials_old_password">Aktuálne heslo:</string>	
@@ -501,6 +520,7 @@
     <string name="crypt_keeper_settings_title">Šifrovanie</string>	
     <string name="crypt_keeper_setup_description">Počkajte prosím, než bude telefón zašifrovaný. Dokončené: ^1%.</string>	
     <string name="crypt_keeper_setup_title">Šifrovanie</string>	
+	<string name="crypt_keeper_switch_input_method">Zmeniť metódu vstupu</string>
     <string name="crypt_keeper_unplugged_text">Pripojte nabíjačku a skúste to znovu.</string>	
     <string name="cryptkeeper_emergency_call">Tiesňové volania</string>	
     <string name="cryptkeeper_return_to_call">Späť k hovoru</string>	
@@ -512,7 +532,8 @@
     <string name="data_usage_app_restrict_background_summary_disabled">Dáta na pozadí u aplikácie obmedzíte nastavením limitu mob. dát.</string>	
     <string name="data_usage_app_restrict_dialog">"Táto funkcia môže spôsobiť, že aplikácie závislé na dátach na pozadí nebudú fungovať, pokiaľ nebude k dispozícii sieť Wi-Fi. Vhodnejšie ovládacie 
 		prvky pre využitie dát nájdete v nastaveniach jednotlivých aplikácií."</string>	
-    <string name="data_usage_app_restrict_dialog_title">Obmedzenie dátových prenosov na pozadí?</string>	
+    <string name="data_usage_app_restrict_dialog_title">Obmedzenie dátových prenosov na pozadí?</string>
+	<string name="data_usage_app_restricted">obmedzené</string>	
     <string name="data_usage_app_settings">Zobraziť nastavenia aplikácií</string>	
     <string name="data_usage_cycle">Cyklus počítania dát</string>	
     <string name="data_usage_cycle_editor_positive">Nastaviť</string>	
