@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Služba Nfc</string>
+    <string name="nfcUserLabel">Nfc</string>
+    <string name="inbound_me_profile_title">Kontakt prijatý cez NFC</string>
+    <string name="inbound_me_profile_text">Dotknutím sa túto osobu pridáte medzi kontakty.</string>
+    <string name="outbound_me_profile_title">Interakcia NFC bola dokončená</string>
+    <string name="outbound_me_profile_text">Dotknutím sa tejto osobe odovzdáte svoje kontaktné informácie.</string>
+    <string name="accessibility_nfc_enabled">NFC povolené.</string>
+    <string name="touch">Dotykom spustíte prenos</string>
+    <string name="beam_progress">Prichádzajúci prenos...</string>
+    <string name="beam_complete">Prenos bol dokončený</string>
+    <string name="beam_failed">Prenos nebol dokončený</string>
+    <string name="beam_canceled">Prenos bol zrušený</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="beam_touch_to_view">Zobrazte dotykom</string>
+    <string name="beam_handover_not_supported">Zariadenie príjemcu nepodporuje prenos veľkých súborov prostredníctvom funkcie Beam.</string>
+    <string name="connecting_headset">Prebieha pripájanie</string>
+    <string name="connected_headset">Pripojené</string>
+    <string name="connect_headset_failed">Nepodarilo sa pripojiť</string>
+    <string name="disconnecting_headset">Prebieha odpájanie</string>
+    <string name="disconnected_headset">Odpojené</string>
+    <string name="pairing_headset">Prebieha párovanie</string>
+    <string name="pairing_headset_failed">Nie je možné spárovať</string>
+    <string name="failed_to_enable_bt">Bluetooth sa nepodarilo povoliť</string>
+    <string name="confirm_pairing">Naozaj chcete spárovať zariadenie Bluetooth %1$s?</string>
+    <string name="pair_yes">Áno</string>
+    <string name="pair_no">Nie</string>
+</resources>
