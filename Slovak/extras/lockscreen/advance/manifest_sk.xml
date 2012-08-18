@@ -178,7 +178,7 @@
                 <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
                 </Time>
 
-	            <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d. MMMM">
+	            <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM   NNNN">
 	            </DateTime>
             </Group>
 		            <!-- xx的小米手机 -->
@@ -199,13 +199,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="%d Zmeškaných hovorov" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Zmeškané hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="180+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="%d SMS Správ" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="SMS Správ: %d" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
@@ -257,8 +257,8 @@
                     <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Nabíjanie batérie (%d%%)" paras="#battery_level">
                     </Text>
 
-                    <!-- 已充满 battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="已充满">
+                    <!-- Naładowany battery full -->
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Naładowany">
                     </Text>
                 </Group>
 
@@ -311,7 +311,7 @@
                     </AlphaAnimation>
                     <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
                     </Time>
-                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d. MMMM">
+                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM   NNNN">
                     </DateTime>
                 </Group>
                 <!-- xx的小米手机 -->
@@ -332,13 +332,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="%d Zmeškaných hovorov" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Zmeškané hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="180+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="%d SMS Správ" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="SMS Správ: %d" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
@@ -392,8 +392,8 @@
                     <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Nabíjanie batérie (%d%%)" paras="#battery_level">
                     </Text>
 
-                    <!-- 已充满 battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="已充满">
+                    <!-- Naładowany battery full -->
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Naładowany">
                     </Text>
                 </Group>
 
