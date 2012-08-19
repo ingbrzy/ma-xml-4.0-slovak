@@ -4,6 +4,7 @@
         <item>Notifikácia</item>
         <item>Email</item>
         <item>SMS</item>
+		<item>Alarm</item>
     </string-array>    
     <string-array name="reminder_minutes_labels">
         <item>0 minút</item>
@@ -25,7 +26,8 @@
     </string-array>
 	<string-array name="preferences_default_reminder_labels">
         <item>Žiadne</item>
-        <item>1 minúta</item>
+		<item>0 minut</item>        
+		<item>1 minúta</item>
         <item>5 minút</item>
         <item>10 minút</item>
         <item>15 minút</item>
@@ -65,6 +67,7 @@
         <item>Východný čas</item>
         <item>Venezuela</item>
         <item>Atlantický čas</item>
+        <item>Atlantic Time (Canada)</item>
         <item>Manaus</item>
         <item>Santiago</item>
         <item>Newfoundland</item>
@@ -174,7 +177,13 @@
         <item>Mesiac</item>
         <item>Agenda</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
+    <string-array name="quick_response_defaults">
+        <item>Budem trochu meškať.</item>
+        <item>Budem tam o 10min.</item>
+        <item>Začnite bezomňa.</item>
+        <item>"Sorry, ale nestíham. Musíme to presunúť na inokedy."</item>
+    </string-array> 
+   <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Vždy</item>
         <item>Len v tichom režime</item>
         <item>Nikdy</item>
