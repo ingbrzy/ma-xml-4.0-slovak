@@ -201,8 +201,7 @@
     <string name="cannot_move_special_mailboxes_toast">Správy v priečinkoch Koncepty, Pošta na odoslanie a Odoslané nie je možné presunúť.</string>
     <string name="category_general_preferences">Aplikácia</string>
     <string name="cc">Kópia</string>
-    <string name="chips_waiting_for_directory_result">Čakanie na ďalšie kontakty</string>
-    <string name="choose_attachment_dialog_title">Vyberte prílohu</string>
+	<string name="choose_attachment_dialog_title">Vyberte prílohu</string>
     <string name="choosertitle_sharevia">Zdieľať cez..</string>   
 	<string name="close_action">Zavrieť</string>
   	<string name="completed_no_file">Súbor sa nenašiel</string>
@@ -219,7 +218,8 @@
     <string name="contextmenu_send_mail">Poslať e-mail</string>
     <string name="contextmenu_sharelink">Zdieľať odkaz</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="copy">Kopírovať e-mailovú adresu</string>
+    <string name="copy_email">Kopírovať e-mailovú adresu</string>
+    <string name="copy_number">Kopírovať číslo telefónu</string>
     <string name="create_action">Vytvoriť novú</string>
     <string name="debug_clear_webview_cache">Vymazať cache WebView</string>
     <string name="debug_disable_graphics_acceleration_label">Zakázať hardvérovej akcelerácie UI</string>
@@ -245,7 +245,8 @@
     <string name="dialog_sync_all_server_error">Pri komunikácii so serverom sa vyskytol problém. Skúste to znova neskôr.</string>
     <string name="disable_admin_warning">UPOZORNENIE: Ak deaktivujete oprávnenie aplikácie E-mail spravovať toto zariadenie, budú odstránené všetky účty aplikácie E-mail, ktoré toto oprávnenie vyžadujú. Spoločne s týmito účtami budú odstránené aj všetky ich e-maily, kontakty, udalosti kalendára a ďalšie údaje.</string>
     <string name="discard_action">Zahodiť</string>
-    <string name="done_action">Hotovo</string>
+	<string name="done">Návrat</string>    
+	<string name="done_action">Hotovo</string>
     <string name="edit_quick_response_dialog">Upraviť rýchlu odpoveď</string>
     <string name="eml_view_title">Zobraz. súbor: %s</string>
     <string name="error_loading_message_body">Text správy sa nepodarilo načítať. Správa je možno príliš veľká, a preto ju nie je možné zobraziť.</string>
@@ -412,6 +413,7 @@ Kópia: %4$s
     <string name="more_than_999">999+</string>
     <string name="move_action">Presunúť</string>
     <string name="move_to_folder_dialog_title">Presunúť do</string>
+   	<string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="next_action">Ďalej</string>
     <string name="notification_multiple_new_messages_fmt">Nové správy: %1$d</string>
     <string name="notification_to_account">adresát: %1$s</string>
@@ -520,7 +522,9 @@ Kópia: %4$s
     <string name="settings_action">Nastavenia</string>
     <string name="settings_activity_title">Nastavenia</string>
     <string name="show_quick_text_list_dialog_action">Vložiť rýchlu odpoveď</string>
-    <string name="status_loading_messages">Prebieha načítavanie správ…</string>
+    <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>   
+ 	<string name="status_loading_messages">Prebieha načítavanie správ…</string>
     <string name="status_network_error">Problém s pripojením.</string>
     <string name="subject_hint">Predmet</string>
     <string name="summary_menu_show_finished">Zobraziť dokončené odovzdania</string>
@@ -562,6 +566,7 @@ Kópia: %4$s
     <string name="widget_all_mail">Doručená pošta (všetky)</string>
     <string name="widget_loading">Prebieha načítav.</string>
     <string name="widget_no_accounts">Zatiaľ ste nevytvorili e-mailový účet.</string>
+  	<string name="widget_no_mailboxes">"Tento účet nie je synchronizovaný. Skúste to opäť neskôr."</string>
     <string name="widget_other_views">Zmeňte klep. na ikonu</string>
     <string name="widget_starred">Označené hviezdičkou</string>
     <string name="widget_touch_to_configure">Dotykom nastavte.</string>
