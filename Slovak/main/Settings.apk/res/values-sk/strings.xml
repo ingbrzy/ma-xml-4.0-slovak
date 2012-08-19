@@ -1119,7 +1119,7 @@
     <string name="quick_launch_summary">Umožňuje nastaviť klávesové skratky pre spustenie aplikácií</string>	
     <string name="quick_launch_title">Rýchle spustenie</string>	
     <string name="radio_controls_summary">Spravovať Wi-Fi, Bluetooth, režim V lietadle, mobilné siete a siete VPN</string>	
-    <string name="radio_controls_title">Ďalšie nastavenia...</string>	
+    <string name="radio_controls_title">Ďalšie nastavenia</string>	
     <string name="radio_info_band_mode_label">Zvoliť pásmo rádia</string>	
     <string name="radio_info_call_redirect_label">Presmerované hovory:</string>	
     <string name="radio_info_call_status_label">Stav hovoru:</string>	
