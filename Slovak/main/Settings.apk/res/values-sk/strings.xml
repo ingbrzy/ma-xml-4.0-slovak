@@ -1648,7 +1648,7 @@
     <string name="virus_scan_app_find_risk">%d je podozrivých, odporúča sa ich okamžite odinštalovať.</string>
     <string name="virus_scan_app_finish">Zatvoriť</string>
     <string name="virus_scan_app_force_stop">Skenovanie pozastavené!</string>
-	<string name="virus_scan_app_is_stop_scan">Chcete zastaviť Skener Vírusov?</string>
+	<string name="virus_scan_app_is_stop_scan">Chcete zastaviť AntiVírus?</string>
     <string name="virus_scan_app_multi_engines">Vyberte nástroj, čas skenovania môže byť dlhší</string>
     <string name="virus_scan_app_no_risk">Žiadna podozrivá aplikácia sa nenašla.</string>
     <string name="virus_scan_app_passed">Skenovanie úspešne dokončené.</string>
@@ -1660,14 +1660,14 @@
     <string name="virus_scan_app_uninstall">Hromadná odinštalácia (%d)</string>
     <string name="virus_scan_app_waiting">Čaká na skenovanie</string>
     <string name="virus_scanner_scan">Skenovať</string>
-    <string name="virus_scanner_scanning">Skener Vírusov</string>
+    <string name="virus_scanner_scanning">AntiVírus</string>
     <string name="virus_scanner_select_Cancel">Zrušiť</string>
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_lib">Databáza Vírusov</string>
     <string name="virus_scanner_select_multi">Vybratie viac ako jednej databázy vírusov, bude vyžadovať reinštaláciu</string>
     <string name="virus_scanner_select_single">Zvoľte databázu vírusov</string>
     <string name="virus_scanner_select_trust_lib">Zvoľte Knižnicu vírusov</string>
-    <string name="virus_scanner_title">Skener Vírusov</string>
+    <string name="virus_scanner_title">AntiVírus</string>
     <string name="virus_scanner_update_lib">Skontrolovať Databázu vírusov</string>
 	<string name="voice_category">Reč</string>	
     <string name="voice_input_output_settings">Hlasový vstup a výstup</string>	
