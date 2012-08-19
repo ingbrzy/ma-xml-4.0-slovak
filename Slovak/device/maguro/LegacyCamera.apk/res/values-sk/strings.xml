@@ -74,7 +74,7 @@ Vyjdite na chvíľu zo zorného poľa."</string>
     <string name="pref_camera_picturesize_title">Veľkosť fotografie</string>
     <string name="pref_camera_recordlocation_entry_off">Vypnuté</string>
     <string name="pref_camera_recordlocation_entry_on">Zapnuté</string>
-    <string name="pref_camera_recordlocation_title">Úložné miesto</string>
+    <string name="pref_camera_recordlocation_title">GPS</string>
     <string name="pref_camera_scenemode_entry_action">Akcia</string>
     <string name="pref_camera_scenemode_entry_auto">Auto</string>
     <string name="pref_camera_scenemode_entry_night">Noc</string>
