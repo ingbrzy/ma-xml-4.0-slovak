@@ -28,10 +28,10 @@
 
         </ContentProviderBinder>
 
-        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,'%s')" whereParas="@sms_num1" countName="hasName1">
+        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,%s)" whereParas="@sms_num1" countName="hasName1">
             <Variable name="sms_name1" type="string" column="display_name" row="0"/>
         </ContentProviderBinder>
-        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,'%s')" whereParas="@sms_num2" countName="hasName2">
+        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,%s)" whereParas="@sms_num2" countName="hasName2">
             <Variable name="sms_name2" type="string" column="display_name" row="0"/>
         </ContentProviderBinder>
 
@@ -199,13 +199,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Zmeškané hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="180+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="SMS Správ: %d" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="SMS: %d" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
@@ -332,13 +332,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Zmeškané hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="180+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="SMS Správ: %d" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="SMS: %d" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
