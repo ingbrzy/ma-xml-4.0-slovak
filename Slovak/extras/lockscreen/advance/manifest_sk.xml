@@ -28,10 +28,10 @@
 
         </ContentProviderBinder>
 
-        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,%s)" whereParas="@sms_num1" countName="hasName1">
+        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,'%s')" whereParas="@sms_num1" countName="hasName1">
             <Variable name="sms_name1" type="string" column="display_name" row="0"/>
         </ContentProviderBinder>
-        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,%s)" whereParas="@sms_num2" countName="hasName2">
+        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,'%s')" whereParas="@sms_num2" countName="hasName2">
             <Variable name="sms_name2" type="string" column="display_name" row="0"/>
         </ContentProviderBinder>
 

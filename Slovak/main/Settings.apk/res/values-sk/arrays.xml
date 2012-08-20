@@ -279,9 +279,9 @@
         <item>Silné</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-        <item>Graficky</item>
+        <item>Grafická</item>
         <item>Percentá</item>
-        <item>Linka nad oznamovacou lištou</item>
+        <item>Čiara nad oznamovacou lištou</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Pýtať sa pri pripojení</item>
@@ -338,9 +338,9 @@
     </string-array>
 	<string-array name="animator_duration_scale_entries">
         <item>Animácie vypnuté</item>
-        <item>Animácie .5x</item>
+        <item>Animácie 0,5x</item>
         <item>Animácie 1x</item>
-        <item>Animácie 1.5x</item>
+        <item>Animácie 1,5x</item>
         <item>Animácie 2x</item>
         <item>Animácie 5x</item>
         <item>Animácie 10x</item>
