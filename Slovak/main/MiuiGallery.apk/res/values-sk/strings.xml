@@ -270,6 +270,9 @@
   <string name="sync_only_in_wifi">Iba Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Odporúča sa povoliť, inak sa spotrebuje viac dát od operátora.</string>
   <string name="sync_picasa_albums">Obnoviť</string>
+  <string name="tab_all_text">Nastav všetko</string>
+  <string name="tab_lockscreen_text">Tapeta obr. zamykania</string>
+  <string name="tab_wallpaper_text">Tapeta plochy</string>
   <string name="tags">Tagy</string>
   <string name="temperature">Teplota</string>
   <string name="time">Čas</string>

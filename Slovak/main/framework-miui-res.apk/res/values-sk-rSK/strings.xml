@@ -72,6 +72,8 @@
 	<string name="payphone">Telefónny automat</string>
 	<string name="perm_get_user_info_dspt">Zobraziť detaily účtu Xiaomi</string>
 	<string name="perm_get_user_info_lab">Získať informácie o účte Xiaomi</string>
+	<string name="perm_tigger_toggle_dspt">Povoliť aplikáciám použiť prepínače v stav. lište</string>
+	<string name="perm_tigger_toggle_lab">Použiť prepínače zo stav. lišty</string>
     <string name="private_num">Súkromné číslo</string>
     <string name="processing">Spracovávam...</string>
     <string name="reboot_confirm">Telefón sa reštartuje</string>

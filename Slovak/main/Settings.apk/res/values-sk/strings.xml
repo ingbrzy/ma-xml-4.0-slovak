@@ -470,8 +470,11 @@
     <string name="common_settings">Časté nastavenia</string>	
     <string name="complete_settings">Kompletné nastav.</string>	
     <string name="computing_size">Prebieha výpočet…</string>	
-    <string name="config_list_label">Konfigurované siete</string>	
-    <string name="configure_input_method">Nastaviť metódy vstupu</string>	
+    <string name="config_list_label">Konfigurované siete</string>
+	<string name="config_mass_storage_function_name">mass_storage</string>
+	<string name="config_mtp_function_name">mtp</string>
+	<string name="config_ptp_function_name">ptp</string>
+	<string name="configure_input_method">Nastaviť metódy vstupu</string>	
     <string name="confirm_erase">Potvrdiť vymazanie</string>	
     <string name="confirm_new_backup_pw_prompt">Sem znovu zadajte aktuálne heslo pre úplné zálohy.</string>	
     <string name="contributors_title">Prispievatelia</string>	
