@@ -34,10 +34,10 @@
     <string name="answer_state_setting_summary">Nastavenie stíšenia otočením, senzor priblíženia atď.</string>
     <string name="answer_state_setting_title">Nastavenie správania pri prichádzajúcom hovore</string>
     <string name="answer_state_setting_title_miui">Nastavenie správania pri prichádzajúcom hovore</string>
-    <string name="answer_widget_dialog_title_miui">Vyberte odpovedajúce gesto</string>
+    <string name="answer_widget_dialog_title_miui">Vyberte gesto prijatia hovoru</string>
     <string name="answer_widget_sliding_horizontal_miui">Horizontálne posunutie</string>
     <string name="answer_widget_sliding_vertical_miui">Vertikálne posunutie</string>
-    <string name="answer_widget_title_miui">Odpovedajúce gesto</string>
+    <string name="answer_widget_title_miui">Gesto prijatia hovoru</string>
     <string name="apn_settings">Názvy prístupových bodov (AP)</string>
     <string name="areacode_required_for_emergency_number_miui">Miestne núdzové číslo</string>
     <string name="areacode_required_miui">Je potrebný kód krajiny</string>
