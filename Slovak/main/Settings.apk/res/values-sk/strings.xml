@@ -1582,8 +1582,10 @@
     <string name="usage_type_wake_lock">Zakázať režim spánku</string>	
     <string name="usage_type_wifi_running">Pripojenie WiFi aktívne</string>	
     <string name="usb_connection_category">Pripojiť ako</string>	
-    <string name="usb_label_installer_cd">Inštalácia nástrojov pre prenos súborov</string>	
-    <string name="usb_msd_summary">Umožní prenos súborov na Windows a Mac</string>	
+    <string name="usb_label_installer_cd">Inštalácia nástrojov pre prenos súborov</string>
+	<string name="usb_msd_driver_installer_summary">Tu môžete stiahnuť ovládač pre Windows a MAC</string>
+	<string name="usb_msd_driver_installer_title">Driver (MSD)</string>
+	<string name="usb_msd_summary">Umožní prenos súborov na Windows a Mac</string>	
     <string name="usb_msd_title">Veľkokapacitné úložisko</string>	
     <string name="usb_mtp_summary">Umožňuje prenášať multimediálne súbory v systéme Windows alebo pomocou aplikácie Android File Transfer v systéme Mac (ďalšie informácie na 
 		stránke www.android.com/filetransfer).</string>	
