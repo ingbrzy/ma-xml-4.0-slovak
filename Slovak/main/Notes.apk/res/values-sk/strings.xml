@@ -49,6 +49,8 @@
     <string name="menu_font_size">Veľkosť písma</string>
     <string name="menu_font_small">Malé</string>
     <string name="menu_font_super">Najväčšie</string>
+	<string name="menu_grid_mode">Zobrazenie do mriežky</string>
+	<string name="menu_list_mode">Zobrazenie zoznamu</string>
     <string name="menu_move">Presun do zložky</string>
     <string name="menu_move_parent_folder">Nadradená zložka</string>
     <string name="menu_search">Prehľadanie</string>
@@ -91,6 +93,7 @@
     <string name="search_hint">Prehľadanie poznámok</string>
     <string name="search_label">Hľadať</string>
     <string name="search_setting_description">Vyhľadá text v poznámkach</string>
+	<string name="send_to_note">Odoslať do Poznámky</string>
     <string name="success_sdcard_export">Export úspešný</string>
     <string name="success_sync_account">Synchronizácia s účtom %1$s bola úspešná</string>
     <string name="sync_progress_init_list">Získavam zoznam vzdialených poznámok...</string>

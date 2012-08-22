@@ -23,6 +23,7 @@
     <string name="description_version">Verzia:</string>
     <string name="download_failed">Sťahovanie zlyhalo</string>
     <string name="download_preview_failed">Načítavanie náhľadu zlyhalo</string>
+	<string name="find_device_sim_change_instructions">"Vaše zariadenie bolo zablokované. Vložte SIM kartu alebo Váše heslo pre účet Xiaomi."</string>
     <string name="firewall_setting">Firewall</string>
   	<string name="first_back_long_press_message">"Prajete si, aby na ukončili aplikácie stlačením a podržaním tlačidla späť? Zapnúť v Nastavenia> Systém> 
 	HW tlačidlá"</string>
@@ -74,6 +75,8 @@
 	<string name="perm_get_user_info_lab">Získať informácie o účte Xiaomi</string>
 	<string name="perm_tigger_toggle_dspt">Povoliť aplikáciám použiť prepínače v stav. lište</string>
 	<string name="perm_tigger_toggle_lab">Použiť prepínače zo stav. lišty</string>
+	<string name="perm_use_find_device">Zistiť polohu zariadenia</string>
+	<string name="perm_use_pin_security">Použiť zabezpečenie PIN</string>
     <string name="private_num">Súkromné číslo</string>
     <string name="processing">Spracovávam...</string>
     <string name="reboot_confirm">Telefón sa reštartuje</string>

@@ -12,7 +12,9 @@
     <string name="airkan_control_device_des">Môžete ovládať prehrávanie pomocou tlačidiel v dolnej časti</string>
     <string name="airkan_device_xiaomi_phone">Xiaomi</string>
     <string name="app_name">Video</string>
+	<string name="buffering">Ukladanie do vyrovnávacej pamäte...</string>
     <string name="hello">Hello World, VideoPlayerActivity!</string>
+	<string name="loading_video_netplay_label">Načítavanie, čakajte prosím...</string>
     <string name="menu_item_about_label">O aplikácií</string>
     <string name="menu_item_hide_media_info_label">Skryť info o videu</string>
     <string name="menu_item_media_info_label">Informácie o videu</string>
