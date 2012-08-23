@@ -61,7 +61,6 @@
     <Var name="preview_sms_y" expression="#preview_y-12-#preview_sms_count*#preview_item_height"/>
     <Var name="preview_call_y" expression="#preview_sms_y-#preview_call_count*#preview_item_height"/>
 
-
     <!-- 音乐控制 -->
     <MusicControl x="0" y="#unlock_y-226" w="#screen_width" h="#screen_width" name="music_control" autoShow="true" visibility="false" defAlbumCover="default_album_cover.png">
         <!-- 背景 -->
@@ -92,6 +91,7 @@
         </Image>
         <Image x="#unlock_x" y="226-230" align="center" src="unlock_top_p.png" visibility="not(#unlocker.state)"/>
         <Image x="#unlock_x" y="226" align="center" alignV="center" src="music_album_cover.png" visibility="not(#unlocker.state)"/>
+
 	
         <!-- 上一首 -->
         <Button name="music_prev" x="#unlock_x-226" y="116" w="#screen_width/2-110" h="220" visibility="not(#unlocker.state)">
@@ -135,7 +135,7 @@
         </Button>
     </MusicControl>
 
-    <!--音量控制-->
+       <!--音量控制-->
     <Var name="volume_height" expression="8" const="true" />
     <Group visibility="eq(#volume_type, 3)">
 	<Image x="411" y="85"  src="volume_background.png">
@@ -156,6 +156,10 @@
         <!-- 此endpoint只为显示圆盘动画，不会有PressedState和ReachedState切换 -->
         <EndPoint x="0" y="0" w="0" h="0">
             <PressedState>
+                <FramerateController>
+                    <ControlPoint time="0" frameRate="50"/>
+                    <ControlPoint time="500" frameRate="0"/>
+                </FramerateController>
 		        <Group>
                     <AlphaAnimation>
                         <Alpha a="0" time="0"/>
@@ -178,7 +182,7 @@
                 <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
                 </Time>
 
-	            <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM   NNNN">
+	            <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM">
 	            </DateTime>
             </Group>
 		            <!-- xx的小米手机 -->
@@ -190,6 +194,11 @@
 			        </AlphaAnimation>
 	            </Text>
 
+		<Group>
+                    <Image x="#screen_width/2+30" y="180" src="volumn.png" visibility="1">
+                    </Image>
+                </Group>
+
 		        <Group>
                     <AlphaAnimation>
                         <Alpha a="255" time="0"/>
@@ -199,7 +208,7 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Hovorov: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
@@ -257,8 +266,8 @@
                     <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Nabíjanie batérie (%d%%)" paras="#battery_level">
                     </Text>
 
-                    <!-- Naładowany battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Batéria nabitá">
+                    <!-- 已充满 battery full -->
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Charged">
                     </Text>
                 </Group>
 
@@ -299,8 +308,8 @@
                         <Alpha a="0" time="1000000000000000"/>
                     </AlphaAnimation>
                 </Image>
-
-		
+				
+                
 
                 <!-- 时间、日期 -->
                 <Group>
@@ -309,9 +318,9 @@
                         <Alpha a="255" time="500"/>
                         <Alpha a="255" time="1000000000000000"/>
                     </AlphaAnimation>
-                    <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
-                    </Time>
-                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM   NNNN">
+                <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
+                </Time>
+                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM">
                     </DateTime>
                 </Group>
                 <!-- xx的小米手机 -->
@@ -332,7 +341,7 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Hovorov: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
@@ -377,7 +386,6 @@
                 </Group>
 
 
-
                 <Group>
                     <AlphaAnimation>
                         <Alpha a="64" time="0"/>
@@ -392,8 +400,8 @@
                     <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Nabíjanie batérie (%d%%)" paras="#battery_level">
                     </Text>
 
-                    <!-- Naładowany battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Batéria nabitá">
+                    <!-- 已充满 battery full -->
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Charged">
                     </Text>
                 </Group>
 
