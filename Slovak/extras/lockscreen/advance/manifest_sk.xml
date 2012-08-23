@@ -208,7 +208,7 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Hovorov: %d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
@@ -341,7 +341,7 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Hovorov: %d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
