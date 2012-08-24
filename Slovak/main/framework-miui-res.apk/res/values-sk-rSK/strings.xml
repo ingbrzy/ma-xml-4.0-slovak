@@ -114,7 +114,7 @@
   	<string name="sdcard_status_changed_dialog_message">"Dokončenie akcie. Otvorte aplikáciu znovu, pre obnovenie zdrojov."</string>
   	<string name="sdcard_status_changed_dialog_title">Zmena na SD karte</string>
   	<string name="select">Vybrať</string>
-    <string name="select_all">Vybrať všetko</string>
+    <string name="select_all">Všetko</string>
     <string name="sync_one_time_sync">Kliknite pre synchronizáciu (%1$s)</string>
     <string name="text_pastelist">Schránka</string>
     <string name="unknown">Neznáme číslo</string>
