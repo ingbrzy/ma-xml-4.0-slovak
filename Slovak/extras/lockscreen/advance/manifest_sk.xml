@@ -267,7 +267,7 @@
                     </Text>
 
                     <!-- 已充满 battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Charged">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Batéria nabitá">
                     </Text>
                 </Group>
 
@@ -401,7 +401,7 @@
                     </Text>
 
                     <!-- 已充满 battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Charged">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Batéria nabitá">
                     </Text>
                 </Group>
 
