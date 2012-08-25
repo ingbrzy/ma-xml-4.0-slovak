@@ -133,8 +133,8 @@
 <string name="operation_unfavorite">Odobrať z obľúbených</string>
 <string name="pan_settting">MiDrive nastavenia</string>
 <string name="remote_management">FTP</string>
-<string name="rename_failed">Premenovanie《%1$s》zlyhalo</string>
-<string name="rename_success">Premenovanie《%1$s》úspešné</string>
+<string name="rename_failed">Premenovanie %1$s zlyhalo</string>
+<string name="rename_success">Premenovanie %1$s úspešné</string>
 <string name="sd_card_available">"Voľné miesto: %1$s"</string>
 <string name="sd_card_size">"SD karta: %1$s"</string>
 <string name="sd_folder">SD karta</string>
