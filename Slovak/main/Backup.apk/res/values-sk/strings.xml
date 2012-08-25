@@ -12,6 +12,7 @@
 <string name="auto_backup_only_wifi">Použiť iba Wi-Fi</string>
 <string name="auto_backup_open">Povoliť automatické zálohovanie</string>
 <string name="auto_backup_progress">Prebieha automatická záloha, počkajte prosím...</string>
+<string name="auto_backup_setting">Nastavenie auto. zálohy</string>
 <string name="auto_backup_time">Plán zálohovania</string>
 <string name="backup">Záloha</string>
 <string name="backup_delete">Zmazať:</string>
@@ -28,7 +29,7 @@
 <string name="backup_recently">\u0020(Posledné)</string>
 <string name="backup_report">Hlásenie zálohovania</string>
 <string name="backup_update">Aktualizácia</string>
-<string name="batch_delete_backup_confirm">\nZvolená záloha bude odstránená. Naozaj chcete pokračovať?</string>
+<string name="batch_delete_backup_confirm">Zvolená záloha bude odstránená. Naozaj chcete pokračovať?</string>
 <string name="button_backup">Nová záloha</string>
 <string name="button_cancel">Zrušiť</string>
 <string name="button_finish">Hotovo</string>
