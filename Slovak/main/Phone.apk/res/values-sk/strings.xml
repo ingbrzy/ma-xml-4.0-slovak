@@ -118,7 +118,7 @@
     <string name="call_record_notification_message_miui">Kliknite pre zobrazenie %s.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">Nahrávanie bolo zastavené, SD karta bola odpojená.</string>
     <string name="call_record_notification_title_error_miui">Nahrávanie hovoru zlyhalo</string>
-    <string name="call_record_notification_title_miui">Nahrávam...</string>
+    <string name="call_record_notification_title_miui">Nahrávanie hovoru ukončené.</string>
     <string name="call_record_sample_prefix_miui">MIUI_Recording</string>
     <string name="call_record_sd_error_miui">Chyba prístupu k SD karte</string>
     <string name="call_record_sd_space_low_miui">Na SD karte je málo miesta, skúste znova po uvoľnení miesta</string>
