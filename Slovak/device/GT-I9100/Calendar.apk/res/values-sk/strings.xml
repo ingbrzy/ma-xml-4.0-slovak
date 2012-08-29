@@ -18,14 +18,11 @@
     <string name="accessibility_sync_cal">Synchronizovať kalendár</string>
     <string name="accounts">Účty a synchronizácia</string>
     <string name="acct_not_synced">Tento účet nie je synchronizovaný, preto kalendáre nemusia byť aktuálne.</string>
-    <string name="acessibility_cal_notification">Oznámenie kalendára</string>
-    <string name="acessibility_selected_marker_description">Vybrané udalosti</string>
-    <string name="acessibility_snooze_notification">Stlmiť upozornenia</string>
     <string name="add_account">Pridať účet</string>
     <string name="agenda_today">Dnes, %1$s</string>
     <string name="agenda_tomorrow">ZAJTRA, %1$s</string>
     <string name="agenda_view">Agenda</string>
-    <string name="agenda_yesterday">VČERA, %1$s</string>
+	<string name="agenda_yesterday">VČERA, %1$s</string>
     <string name="alert_title">Upozornenia kalendára</string>
   	<string name="app_label">Kalendár</string> 
   	<string name="attendees_label">Hostia</string>
@@ -41,31 +38,24 @@
    	<string name="birthday_notification_age_term"></string>   
     <string name="birthday_notification_type_term_lunar" />
     <string name="calendar_refresh">Aktualizovať</string>
-	<string name="change_response_title">Zmeniť odpoveď</string>
-	<string name="chips_waiting_for_directory_result">Čaká sa na ďalšie kontakty</string>
-    <string name="copy">Kopírovať e-mailovú adresu</string>
+	<string name="copy">Kopírovať e-mailovú adresu</string>
     <string name="copy_db">Odoslať databázu</string>
     <string name="create_an_account_desc">"Kalendár funguje najlepšie s účtom Google.
-
 • Prístup z akéhokoľvek webového prehliadača
 • Bezpečné zálohovanie udalostí"</string>
     <string name="creating_event">Udalosť bola vytvorená.</string>
     <string name="creating_event_with_guest">Pozvánky boli odoslané.</string>
     <string name="custom">Vlastné (nemožno upraviť v telefóne)</string>
     <string name="daily">Denne</string>
-	<string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="day_view">Deň</string>
     <string name="day_view_new_event_hint">Pridať novú udalosť</string>
     <string name="delete_label">Zmazať</string>
-	<string name="delete_recurring_event_title">Stlmiť %s?</string>
     <string name="delete_this_event_title">Zmazať túto udalosť?</string>
     <string name="description_label">Popis</string>
     <string name="directory_searching_fmt">Vyhľadávanie na webe %s…</string>
     <string name="discard_label">Zrušiť</string>
     <string name="dismiss_all_label">Zavrieť všetko</string>
-	<string name="do_not_check">Nekontrolovať -></string>
     <string name="does_not_repeat">Jednorazová udalosť</string>
-   	<string name="done">Návrat</string>   
  	<string name="edit_event_all_day_label">Celý deň</string>
     <string name="edit_event_calendar_label">Kalendár</string>
     <string name="edit_event_from_label">Od</string>
@@ -73,13 +63,12 @@
     <string name="edit_event_show_all">Zobraziť všetko</string>
     <string name="edit_event_to_label">Do</string>
     <string name="edit_label">Upraviť</string>
-    <string name="email_guests_label">Hosťovský Email</string>
-    <string name="email_picker_label">Email z</string>
-    <string name="email_subject_prefix">"Re: "</string>
     <string name="empty_event">Prázdna udalosť sa nevytvorila</string>
     <string name="event_create">Nová udalosť</string>
     <string name="event_delete">Zmazať udalosť</string>
     <string name="event_edit">Upraviť udalosť</string>
+    <string name="event_info_desc_less">Menej</string>
+    <string name="event_info_desc_more">Viac</string>
     <string name="event_info_organizer">Organizátor:</string>
     <string name="event_info_reminders_label">Pripomienka</string>
     <string name="event_info_title">Zobraziť udalosť</string>
@@ -94,6 +83,8 @@
     <string name="hint_description">Popis</string>
     <string name="hint_what">Názov udalosti</string>
     <string name="hint_where">Miesto</string>
+	<string name="change_response_title">Zmeniť odpoveď</string>
+	<string name="chips_waiting_for_directory_result">Čaká sa na ďalšie kontakty</string>
     <string name="loading">Načítanie...</string>
     <string name="local_calendar_display_name">Lokálny kalendár</string>
     <string name="local_owner_account_name">Lokálny účet</string>
@@ -144,14 +135,7 @@
     <string name="preferences_week_start_day_title">Začiatok týždňa</string>
     <string name="presence_label">Zobraziť ma ako</string>
     <string name="privacy_label">Súkromná/Verejná</string>
-    <string name="quick_response_custom_msg">Vlastná odpoveď...</string>
-    <string name="quick_response_dialog_title">Vyber vlastnú odpoveď</string>
-    <string name="quick_response_email_failed">Nieje možné najsť aplikáciu Email</string>
-    <string name="quick_response_settings">Rýchla odpoveď</string>
-    <string name="quick_response_settings_edit_title">Rýchla odpoveď</string>
-    <string name="quick_response_settings_summary">Upraviť vlastnú odpoveď pri odoslaní emailu</string>
-    <string name="quick_response_settings_title">Upraviť rýchle odpovede</string>
-    <string name="reminders_label">Pridať pripomienku</string>
+	<string name="reminders_label">Pridať pripomienku</string>
     <string name="repeats_label">Opakovanie</string>
     <string name="response_maybe">Možno</string>
     <string name="response_no">Nie</string>
@@ -170,16 +154,12 @@
     <string name="show_newer_events">Dotykom zobrazíte udalosti po období %1$s</string>
     <string name="show_older_events">Dotykom zobrazíte udalosti pred obdobím %1$s</string>
     <string name="snooze_all_label">Odložiť všetko</string>
-  	<string name="snooze_label">Stlmiť</string>   
  	<string name="synced">synchronizovaný</string>
     <string name="tardis">TARDIS</string>
     <string name="template_announce_item_index" formatted="false">Udalosť %1$s z %2$s</string>
     <string name="timezone_label">Časové pásmo</string>
-    <string name="today">Dnes</string>
-    <string name="today_at_time_fmt">Dnes o %s</string>
-    <string name="tomorrow">Zajtra</string>
-	<string name="tomorrow_at_time_fmt">Zajtra o %s</string>
-    <string name="view_event_calendar_label">Kalendár:</string>
+	<string name="tomorrow">Zajtra</string>
+	<string name="view_event_calendar_label">Kalendár:</string>
     <string name="view_event_organizer_label">Organizátor:</string>
     <string name="view_event_response_label">Zúčastníte sa?</string>
     <string name="week_view">Týždeň</string>

@@ -188,10 +188,4 @@
         <item>Len v tichom režime</item>
         <item>Nikdy</item>
     </string-array>
-	    <string-array name="preferences_week_start_day_labels">
-        <item>Predvolené</item>
-        <item>Sobota</item>
-        <item>Nedela</item>
-        <item>Pondelok</item>
-    </string-array>
 </resources>

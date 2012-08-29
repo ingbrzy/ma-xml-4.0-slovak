@@ -4,7 +4,6 @@
         <item>Notifikácia</item>
         <item>Email</item>
         <item>SMS</item>
-        <item>Alarm</item>
     </string-array>    
     <string-array name="reminder_minutes_labels">
         <item>0 minút</item>
@@ -177,12 +176,6 @@
         <item>Mesiac</item>
         <item>Agenda</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Budem trochu meškať.</item>
-        <item>Budem tam o 10min.</item>
-        <item>Začnite bezomňa.</item>
-        <item>"Sorry, ale nestíham. Musíme to presunúť na inokedy."</item>
-    </string-array> 
    <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Vždy</item>
         <item>Len v tichom režime</item>
