@@ -31,20 +31,22 @@
   	<string name="attendees_label">Hostia</string>
     <string name="birthday_calendar_display_name">Upozornenie na narodeniny</string>
     <string name="birthday_event_description">"Dnes má narodeniny %1$s!"</string>
+	<string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
 	<string name="birthday_notification_title_today">%1$s má narodeniny</string>
 	<string name="birthday_notification_text_today">Nezabudnite zablahoželať!</string>    
 	<string name="birthday_notification_text_three_days_later">Za 3 dni má narodeniny!</string>
     <string name="birthday_notification_title_three_days_later">%1$s bude mať narodeniny</string>
-    <string name="birthday_notification_age_term" />  
+   	<string name="birthday_notification_age_term"></string>   
     <string name="birthday_notification_type_term_lunar" />
     <string name="calendar_refresh">Aktualizovať</string>
 	<string name="change_response_title">Zmeniť odpoveď</string>
+	<string name="chips_waiting_for_directory_result">Čaká sa na ďalšie kontakty</string>
+    <string name="copy">Kopírovať e-mailovú adresu</string>
     <string name="copy_db">Odoslať databázu</string>
-	<string name="copy_email">Kopírovať e-mailovú adresu</string>
-    <string name="copy_number">Kopírovať číslo telefónu</string>
     <string name="create_an_account_desc">"Kalendár funguje najlepšie s účtom Google.
+
 • Prístup z akéhokoľvek webového prehliadača
 • Bezpečné zálohovanie udalostí"</string>
     <string name="creating_event">Udalosť bola vytvorená.</string>
