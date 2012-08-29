@@ -213,7 +213,8 @@
     <string name="menu_preferences">Nastavenia</string>	
     <string name="menu_save_snapshot">Uložiť pre čítanie offline.</string>	
     <string name="menu_share_url">Zdieľať</string>	
-    <string name="menu_view_download">Stiahnuté</string>	
+    <string name="menu_view_download">Stiahnuté</string>
+	<string name="MIUI_homepage">MIUI Home</string>	
     <string name="miui_yellowpage_category">Kategória</string>	
     <string name="miui_yellowpage_site">Stránka</string>	
     <string name="move_to_up_folder">O úroveň vyššie</string> 	
@@ -379,6 +380,7 @@
     <string name="pref_zoom_on_double_tap">Priblížiť dvojdotykom</string>	
     <string name="preview">Náhľad</string>	
     <string name="progress_dialog_setting_wallpaper"> Nastavovanie tapety…</string>	
+	<string name="readmode_reach_last_page">Bola dosiahnutá posledná stránka</string>
 	<string name="readmodelist_bookmarks">_readinglist_in_database_</string>
 	<string name="readmodelist_bookmarks_to_show">Zoznam zaujímavych</string>
 	<string name="recover">Obnoviť</string>
