@@ -75,6 +75,7 @@
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Naozaj chcete zmazať %d čísiel?</string>
     <string name="auto_ip_setting_miui">Automaticky nastavené IP</string>
     <string name="auto_ip_summary_not_enabled">Nie je povolené</string>
+	<string name="auto_ip_support_local_numbers">Podpora lokálnych čísiel</string>
     <string name="auto_record_call_summary_miui">Začne nahrávať hovor pri spojení a ukladať ho na SD kartu</string>
     <string name="auto_record_call_title_miui">Automaticky nahrávať</string>
     <string name="auto_redial_pref_summary_miui">Automaticky volať späť pokiaľ je linka obsadená</string>
@@ -536,6 +537,13 @@
     <string name="mismatch_pin2_miui">Zadaný nesprávny PIN. Opakujte pokus.</string>
     <string name="mismatchPin">Zadané PINy sa nezhodujú. Opakujte pokus.</string>
     <string name="mismatchPin2">Zadané PIN2 sa nezhodujú. Opakujte pokus.</string>
+	<string name="missed_call_notify_five_times">5 krát</string>
+	<string name="missed_call_notify_once">Raz</string>
+	<string name="missed_call_notify_ten_times">10 krát</string>
+	<string name="missed_call_notify_thrice">3 krát</string>
+	<string name="missed_call_notify_times_summary_miui">Opakovať každých 5 minút</string>
+	<string name="missed_call_notify_times_title_miui">Upozornenie na zmeškaný hovor</string>
+	<string name="missed_call_notify_twice">2 krát</string>
     <string name="mmiCancelled">Kód MMI bol zrušený</string>
     <string name="mmiStarted">Kód MMI bol spustený</string>
     <string name="mobile_networks">Nastavenie mobilnej siete</string>

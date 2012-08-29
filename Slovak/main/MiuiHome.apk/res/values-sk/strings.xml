@@ -32,6 +32,10 @@
     <string name="gadget_photo_24_label">Fotorámček 2x4</string>
     <string name="gadget_photo_44_label">Fotorámček 4x4</string>
     <string name="gadget_weather_app_not_installed">Prosím nainštalujte MIUI počasie</string>
+	<string name="gadget_weather_download_message">Vyžaduje sa stiahnutie témy: %1$s. veľkosť: %2$s. Prosím, po dokončení sťahovania zvoľte znovu.</string>
+	<string name="gadget_weather_download_start">Štart</string>
+	<string name="gadget_weather_download_title">Stiahnuť</string>
+	<string name="gadget_weather_theme_type">Typ Widgetu</string>
     <string name="gadget_weather_loading">Žiadne dáta o počasí</string>
     <string name="gadget_weather_title_14">Počasie 1X4</string>
     <string name="gadget_weather_title_24">Počasie 2X4</string>

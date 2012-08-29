@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="activate">Aktivovať</string>
+	<string name="activate_fail_notification_title">Znovu aktivujte synchronizáciu Xiaomi</string>
     <string name="activating">Aktivácia...</string>
     <string name="all_resources">Všetko</string>
     <string name="android_lockscreen_glogin_instructions">Pre odomknutie sa prihláste sa k svojmu účtu</string>
@@ -36,6 +38,8 @@
   	<string name="global_action_privacy_mode_on_toast">Režim návštevník je zapnutý. Hovory, poznámky, galéria a sms sú skryté a plochu nie je možno 
 	upravovať.</string>
   	<string name="global_action_toggle_privacy_mode">Návštevník</string>
+	<string name="check_phone_error_title">Otvorenie Synchronizácie zlyhalo</string>
+	<string name="check_phone_io_error">Chyba siete</string>
     <string name="childrens_day">"Deň detí"</string>
     <string name="chinese_youth_day">Deň mládeže</string>
     <string name="christmas_dad">Vianoce</string>
@@ -71,6 +75,7 @@
   	<string name="online_no_network">Nemôžem sa pripojiť do siete</string>
   	<string name="online_search_hint">Hľadať online</string>
 	<string name="payphone">Telefónny automat</string>
+	<string name="perm_auto_backup">Automatická záloha</string>
 	<string name="perm_get_user_info_dspt">Zobraziť detaily účtu Xiaomi</string>
 	<string name="perm_get_user_info_lab">Získať informácie o účte Xiaomi</string>
 	<string name="perm_tigger_toggle_dspt">Povoliť aplikáciám použiť prepínače v stav. lište</string>
@@ -115,6 +120,9 @@
   	<string name="sdcard_status_changed_dialog_title">Zmena na SD karte</string>
   	<string name="select">Vybrať</string>
     <string name="select_all">Všetko</string>
+	<string name="send_sms_for_sync_notice">Systém odošle aktivačnú SMS, chcete pokračovať?</string>
+	<string name="send_sms_for_sync_title">Odoslať SMS pre aktiváciu Synchronizácie</string>
+	<string name="sim_changed_reactivate_notice">Súčasná SIM karta nieje aktivovaná. Je potrebné odoslať SMS správu pre aktiváciu Xiaomi Synchronizácie. Aktivovať teraz?</string>
     <string name="sync_one_time_sync">Kliknite pre synchronizáciu (%1$s)</string>
     <string name="text_pastelist">Schránka</string>
     <string name="unknown">Neznáme číslo</string>

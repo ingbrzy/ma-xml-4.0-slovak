@@ -434,9 +434,11 @@
     <string name="phoneLabelsGroup">Telefón</string>
     <string name="photo_package_activity_title">Balíček fotografií</string>
     <string name="photoPickerNotFoundText">V telefóne nie sú k dispozícii žiadne obrázky.</string>
+	<string name="pick_favorites_contacts_list_title">Celkom z %1$d obľúbených kontaktov</string>
     <string name="pick_favorites_list_title">Celkom %1$d obľúbených čísel</string>
     <string name="pick_new_photo">Vyberte novú fotku z Galérie</string>
     <string name="pick_photo">Vybrať novú fotku z Galérie</string>
+	<string name="pick_recent_contacts_list_title">Celkom z %1$d posledných kontaktov</string>
     <string name="pick_recent_list_title">Celkom %1$d nedávno použitých kontaktov</string>
     <string name="pickerNewContactHeader">Vytvoriť nový kontakt</string>
     <string name="pkgLabel">Kontakty a Volanie</string>

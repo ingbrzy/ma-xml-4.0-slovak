@@ -263,6 +263,7 @@
   <string name="straighten">Vyrovnať</string>
   <string name="straighten_tooltip">Potiahni snímku pre jej vyrovnanie</string>
   <string name="switch_to_camera">Prepnúť na fotoaparát</string>
+  <string name="sync_album">Synch. album</string>
   <string name="sync_album_error">Nepodarilo sa stiahnuť snímky v tomto albume. Prosím skúste opäť neskôr.</string>
   <string name="sync_album_set_error">Nepodarilo sa stiahnuť zoznam albumov. Prosím skúste opäť neskôr.</string>
   <string name="sync_history_power_on">Synchronizovať obrázky len počas nabíjania telefónu</string>

@@ -68,6 +68,7 @@
     <string name="title_local">Lokálne</string>	
     <string name="title_online">Online</string>	
     <string name="title_system_resource">Systémové prostriedky</string>	
+	<string name="wallpaper_crop">Orezať</string>
     <string name="wallpaper_decoded_error">Nepodarilo sa dešifrovať!</string>	
     <string name="wallpaper_loading_text">Načítava sa...</string>	
     <string name="wallpaper_set_as_both">Nastaviť ako oboje</string>	

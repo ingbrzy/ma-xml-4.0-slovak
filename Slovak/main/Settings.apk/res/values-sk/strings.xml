@@ -719,6 +719,8 @@
     <string name="erase_application_description">Vymaže všetky nainštalované aplikácie</string>	
     <string name="erase_external_storage">Vymazať externú SD kartu</string>	
     <string name="erase_external_storage_description">Vymazať všetky dáta v telefóne, napríklad hudbu a fotografie.</string>	
+	<string name="erase_internal_storage">Vymazať interné úložisko</string>
+	<string name="erase_internal_storage_description">Vymazanie interného úložiska vymaže všetky súbory ako napr. fotky a hudbu.</string>
     <string name="erase_optional">Voliteľné vymazanie</string>	
     <string name="erase_personal_data">Osobné údaje</string>	
     <string name="erase_personal_data_description">Vrátane účtov, kontaktov, záznamu hovorov a iných údajov.</string>	
@@ -816,6 +818,12 @@
     <string name="intent_sender_resource_label">Resource:</string>	
     <string name="intent_sender_sendbroadcast_text">Odoslať broadcast</string>	
     <string name="intent_sender_startactivity_text">Spustiť činnosť activity</string>	
+	<string name="internal_format">Formátovať internú pamäť</string>
+	<string name="internal_format_summary">Vymazanie interného úložiska vymaže všetky súbory ako napr. fotky a hudbu.</string>
+	<string name="internal_media_format_button_text">Vymazať Interné</string>
+	<string name="internal_media_format_desc">Vymazať interné úložisko? Stratíte všetky vaše dáta ako napr. fotky a hudbu.</string>
+	<string name="internal_media_format_final_desc">"Vymazanie interného úložiska vymaže všetky uložené dáta! Táto akcia sa nedá vrátiť späť! Telefón sa po dokončení reštartuje!"</string>
+	<string name="internal_media_format_title">Vymazať Interné úložisko</string>
     <string name="internal_memory">Interné úložisko</string>	
     <string name="internal_storage">Interné úložisko</string>	
     <string name="invalid_location">Umiestnenie inštalácie nie je platné.</string>	

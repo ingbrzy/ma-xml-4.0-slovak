@@ -16,4 +16,8 @@
         <item>Vľavo</item>
         <item>Vpravo</item>
     </string-array>
+	    <string-array name="gadget_weather_theme_type_entries">
+        <item>Predvolený</item>
+        <item>Trieda</item>
+    </string-array>
 </resources>
