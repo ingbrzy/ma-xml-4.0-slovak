@@ -163,6 +163,7 @@
   <string name="layout_bottom">Rozloženie(dole)</string>
   <string name="layout_selector_title">"Rozloženie prezentácie"</string>
   <string name="layout_top">Rozloženie(hore)</string>
+  <string name="loading_all_messages">Načítavanie všetkých správ...</string>
   <string name="loading_contacts">Načítavam kontakty...</string>
   <string name="loading_conversations">Nahrávanie konverzácií...</string> 
   <string name="me">Ja</string>
@@ -398,6 +399,7 @@
   <string name="service_network_problem">Chyba, problém siete.</string>
   <string name="service_not_activated">Služba nie je aktivovaná.</string> 
   <string name="set">Nastaviť</string>
+  <string name="show_all_messages">Zobraziť všetky správy</string>
   <string name="sim_copy_to_phone_memory">Kopírovať do pamäti telefónu</string>
   <string name="sim_delete">Vymazať</string>
   <string name="sim_empty">Žiadne uložené správy na SIM karte.</string>
