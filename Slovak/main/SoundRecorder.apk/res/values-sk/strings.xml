@@ -39,9 +39,9 @@
 	<string name="notification_playback">Prehrávanie nahrávky...</string>
 	<string name="notification_playback_paused">Prehrávanie pozastavené...</string>
     <string name="mark_now">(Súčasný)</string>
-    <string name="second">%d sekúnd</string>
-    <string name="minute">%d minút</string>
-    <string name="hour">%d hodín</string>
+    <string name="second">%d s</string>
+    <string name="minute">%d m</string>
+    <string name="hour">%d h</string>
     <string name="call_record_or">alebo</string>
     <string name="dialog_play">Prehrať</string>
     <string name="dialog_send">Odoslať</string>
