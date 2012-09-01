@@ -105,7 +105,7 @@
     <string name="clearCallLogConfirmation">Skutočne chcete vymazať hovory?</string>
     <string name="clearCallLogConfirmation_title">Vymazať hovory</string>
     <string name="clearCallLogProgress_title">Vymazávam zoznam hovorov</string>
-  	<string name="clear_default">Vymazať pôvodné</string>  
+  	<string name="clear_default">Vymazať predvolené</string>  
   	<string name="click_close">Kliknite pre zatvorenie</string>
     <string name="composer_failed_to_get_database_infomation">Načítanie informácií z databázy sa nepodarilo</string>
     <string name="composer_has_no_exportable_contact">Nemožno exportovať žiadne kontakty. Ak máte v telefóne skutočne uložené kontakty, je možné, že poskytovateľ dátových služieb zakázal ich export mimo telefón.</string>
@@ -115,8 +115,8 @@
     <string name="config_export_file_extension">vcf</string>
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />
-    <string name="config_export_vcard_type"> pôvodné</string>
-	<string name="config_import_vcard_type">pôvodné</string>
+    <string name="config_export_vcard_type">predvolené</string>
+	<string name="config_import_vcard_type">predvolené</string>
     <string name="config_prohibited_phone_number_regexp" />
     <string name="confirm_delete_selected_call_log">Potvrdiť vymazanie %1d záznamov o volaní?</string>
     <string name="confirm_export_message">Zoznam kontaktov bude exportovaný do súboru: %s.</string>
@@ -154,7 +154,7 @@
     <string name="date_picker_label">Pripomenúť 3 dni pred narodeninami</string>
     <string name="date_time_set">Nastaviť</string>
     <string name="date_year_toggle">Zadajte rok</string>
-    <string name="default_ringtone">Pôvodné zvonenie</string>
+    <string name="default_ringtone">Predvolené zvonenie</string>
     <string name="delete">Vymazať</string>
     <string name="delete_call_log_title">Vymazať vybrané logy hovorov?</string>
     <string name="delete_contact_calllog_title">Chcete vymazať všetky záznamy o volaní kontaktu?</string>
@@ -463,7 +463,7 @@
     <string name="preference_remove_duplicate">Zlúčiť duplicitné kontakty</string>
 	<string name="preference_select_account_display">Filter podľa účtu</string>
     <string name="preview_contact_card_title">Importovať vizitku</string>
-    <string name="primary_indicator">(pôvodné)</string>
+    <string name="primary_indicator">(predvolené)</string>
     <string name="private_num">Súkromné číslo</string>
     <string name="profile_display_name">Nastaviť môj profil</string>
     <string name="progress_notifier_message" formatted="false">Importujem %s/%s: %s</string>
@@ -510,7 +510,7 @@
     <string name="separatorJoinAggregateAll">Všetky kontakty</string>
     <string name="separatorJoinAggregateSuggestions">Navrhované kontakty</string>
     <string name="service_provider">Poskytovateľ</string>
-    <string name="set_default">Nastaviť pôvodné</string>
+    <string name="set_default">Nastaviť predvolené</string>
     <string name="share_error">Tento kontakt nemôže byť zdieľaný.</string>
     <string name="share_via">Zdielať cez</string>
     <string name="share_visible_contacts">Zdielať viditeľné kontakty</string>
