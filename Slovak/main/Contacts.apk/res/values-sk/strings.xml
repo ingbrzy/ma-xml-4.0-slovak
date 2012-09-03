@@ -505,6 +505,7 @@
     <string name="select_new_photo_from_photo_package">Vybrať novú fotku z balíčka</string>
     <string name="select_none">Nič nie je vybrané, operácia je neplatná</string>
     <string name="select_photo_from_photo_package">Vybrať fotku z balíčka</string>
+	<string name="select_show_contacts">Zobraziť kontakt</string>
 	<string name="select_vcard_title">Výber súboru vCard</string>
     <string name="send_contact_shortcut_todesktop_success">Zástupca bol pridaný na plochu</string>
     <string name="separatorJoinAggregateAll">Všetky kontakty</string>
