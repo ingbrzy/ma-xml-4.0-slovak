@@ -25,6 +25,10 @@
     <string name="description_version">Verzia:</string>
     <string name="download_failed">Sťahovanie zlyhalo</string>
     <string name="download_preview_failed">Načítavanie náhľadu zlyhalo</string>
+	<string name="error_forbidden">Váš účet má nejaké problémy. Synchronizácia je vypnutá.</string>
+	<string name="error_not_acceptable">Server má problémy. Synchronizácia je vypnutá.</string>
+    <string name="error_title">Chyba synchr. pre %s</string>
+	<string name="error_unauthorized">Príliš veľa chýb pre autorizáciu účtu. Synchronizácia je vypnutá.</string>
 	<string name="find_device_sim_change_instructions">"Vaše zariadenie bolo zablokované. Vložte SIM kartu alebo Váše heslo pre účet Xiaomi."</string>
     <string name="firewall_setting">Firewall</string>
   	<string name="first_back_long_press_message">"Prajete si, aby na ukončili aplikácie stlačením a podržaním tlačidla späť? Zapnúť v Nastavenia> Systém> 
@@ -32,6 +36,7 @@
 	<string name="first_back_long_press_title">Dlhé stlačenie tlačídla Späť</string>
 	<string name="fools_day">"Prvý Apríl"</string>    
     <string name="force_exit_message">Úspešne zabitá aplikácia \"%1$s\"</string>
+	<string name="format_time_in_12_hours">%1$s %2$s</string>
   	<string name="global_action_privacy_mode_dialog_message">V móde návštevník sú hovory, poznámky, galéria a sms sú skryté a plochu nie je možno upravovať.</string>
   	<string name="global_action_privacy_mode_off_status">Režim návštevník je Vypnutý</string>
   	<string name="global_action_privacy_mode_on_status">Režim návštevník je Zapnutý</string>
@@ -112,7 +117,9 @@
     <string name="resourcebrowser_lable">Zdroje</string>
     <string name="reverse_all">Vymazať všetko</string>
   	<string name="safetylegal_activity_unreachable">Váš telefón nie je pripojený k dátovej sieti. Pre zobrazenie informácií teraz prejdite na %s z webového prehliadača vášho počítača pripojeného k sieti Internet.</string>
-  	<string name="sd_not_available">SD karta je odpojená alebo neprístupná</string>
+  	<string name="screen_on_proximity_sensor_hint">"Zabránenie náhodného použitia môžete vypnúť v 'Nastavenia - Displej'. Dlho podržte tlačidlo 'Zapínanie' pre vyvolanie Menu."</string>
+	<string name="screen_on_proximity_sensor_summary">"Zabránenie náhodného použitia je povolené. Potiahnite prstom dohora pre jeho deaktiváciu"</string>
+	<string name="sd_not_available">SD karta je odpojená alebo neprístupná</string>
   	<string name="sd_not_available_low_internal_storage">SD karta je odpojená alebo neprístupná. Na internom úložisku je málo miesta.</string>
   	<string name="sd_not_available_saved_to_internal_storage">Uložené na interné úložisko</string>
   	<string name="sd_not_available_use_internal_storage">SD karta neprístupná, uložené na interné úložisko</string>

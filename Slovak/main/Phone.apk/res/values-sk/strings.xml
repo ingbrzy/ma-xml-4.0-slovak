@@ -78,7 +78,14 @@
 	<string name="auto_ip_support_local_numbers">Podpora lokálnych čísiel</string>
     <string name="auto_record_call_summary_miui">Začne nahrávať hovor pri spojení a ukladať ho na SD kartu</string>
     <string name="auto_record_call_title_miui">Automaticky nahrávať</string>
-    <string name="auto_redial_pref_summary_miui">Automaticky volať späť pokiaľ je linka obsadená</string>
+	<string name="auto_record_scenario_enteries_always_miui">Automaticky nahrávať pre všetky čísla</string>
+	<string name="auto_record_scenario_enteries_whitelist_miui">Automaticky nahrávať pre vybrané čísla</string>
+	<string name="auto_record_scenario_title_miui">Režim nahrávania hovoru</string>
+	<string name="auto_record_whitelist_miui">Nastaviť zvolené čísla</string>
+	<string name="auto_record_whitelist_no_item_miui">Kliknite na spodné tlačidlo pre pridanie čísiel na automatické nahrávanie hovoru</string>
+	<string name="auto_record_whitelist_summary_for_one_miui">1</string>
+	<string name="auto_record_whitelist_summary_miui">%d čísiel</string>
+	<string name="auto_redial_pref_summary_miui">Automaticky volať späť pokiaľ je linka obsadená</string>
     <string name="auto_redial_pref_title_miui">Automaticky volať späť</string>
     <string name="auto_reg">Auto registrácia</string>
     <string name="auto_registration">Auto registrácia</string>
@@ -123,9 +130,10 @@
     <string name="call_record_sample_prefix_miui">MIUI_Recording</string>
     <string name="call_record_sd_error_miui">Chyba prístupu k SD karte</string>
     <string name="call_record_sd_space_low_miui">Na SD karte je málo miesta, skúste znova po uvoľnení miesta</string>
-    <string name="call_recording_notification_summary_miui">Zobraziť oznámenie o nahrávke po ukončenie hovoru</string>
+	<string name="call_recording_notification_summary_miui">Zobraziť oznámenie o nahrávke po ukončenie hovoru</string>
     <string name="call_recording_notification_title_miui">Oznámenie o nahrávaní</string>
     <string name="call_recording_prompt_miui">Otvoriť nahrávanie hovoru</string>
+	<string name="call_record_setting_miui">Nahrávanie hovoru</string>
     <string name="call_settings">Hovory</string>
     <string name="call_settings_category_miui">Nastavenie hovorov</string>
     <string name="call_settings_miui">Nastavenie hovorov</string>

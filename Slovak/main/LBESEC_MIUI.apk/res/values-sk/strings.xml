@@ -23,6 +23,10 @@
     <string name="Dashboard_Perm_SU">Spravovať oprávnenia ROOT</string>
     <string name="Dashboard_Perm_SU_Desc">Sledovanie %1$d aplikácií s oprávnením ROOT</string>
     <string name="Dashboard_Perm_SU_Disabled">Oprávnenie ROOT je zakázané</string>
+	<string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT nieje dostupný v Stabilnej verzii MIUI</string>
+	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Povolenie práv ROOT aplikáciám tretích strán môže spôsobiť nestabilitu systému, stratu Vašich osobných dát alebo poškodenie telefónu. Pre povolenie ROOT prejdite na vývojársku verziu MIUI."</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Stiahnuť MIUI</string>
+	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
     <string name="Dashboard_Perm_SU_Switch">Oprávnenie ROOT</string>
     <string name="Dashboard_Su_Enable_Content">Povolenie dovolí požiadať aplikácie o oprávnenie ROOT. Aplikácie s týmto oprávnením môžu spôsobiť nestabilitu systému, alebo stratu dát, prípadne i poškodenie systému a hardwaru. Buďte prosím opatrný. Skutočne ich chcete povoliť?</string>
     <string name="Dashboard_Su_Enable_Title">Oprávnenie ROOT</string>
@@ -126,6 +130,7 @@
     <string name="HIPS_Perm_RejectAll">Zakázať všetko</string>
     <string name="HIPS_Perm_ROOT">ROOT</string>
     <string name="HIPS_Perm_ROOT_Desc">Požaduje práva užívateľa ROOT</string>
+	<string name="HIPS_Perm_ROOT_Desc_Stable">Nedostupné v stabilnej verzii MIUI</string>
     <string name="HIPS_Perm_ROOT_Hint">%1$s aplikácie majú povolenie pre ROOT prístup</string>
     <string name="HIPS_Perm_ROOT_Title">získať práva ROOT</string>
     <string name="HIPS_Perm_SendSMS">Poslať SMS</string>

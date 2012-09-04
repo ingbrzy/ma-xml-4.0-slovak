@@ -45,6 +45,7 @@
   <string name="contact_photo">Snímka kontraktu</string>
   <string name="crop">Orezať</string>
   <string name="crop_action">Orezať</string>
+  <string name="crop_fail_to_load_image">Načítavanie obrázku pre orezanie zlyhalo.</string>
   <string name="crop_label">Orezať obrázok</string>
   <string name="crop_not_saved">"Orezaný obrázok nebol uložený."</string>
   <string name="crop_save_text">Orezať</string>

@@ -1340,6 +1340,8 @@
 		Ak chcete tieto informácie zobraziť, prejdite z ľubovoľného počítača pripojeného k internetu na stránku %s.</string>	
     <string name="settings_safetylegal_title">Bezpečnostné informácie</string>	
     <string name="settings_shortcut">Zástupca nastavení</string>	
+	<string name="screen_on_proximity_sensor_summary">Zabrániť použitie telefónu napr. vo vrecku (aktivované senzorom priblíženia).</string>
+	<string name="screen_on_proximity_sensor_title">Zabrániť náhodnému použitiu</string>
     <string name="show_all_anrs">Zobraziť všetky ANR</string>	
     <string name="show_all_anrs_summary">Dialóg Aplikácia neodpovedá pre aplikácie na pozadí</string>	
     <string name="show_background_processes">Zobraziť medzipamäť</string>	

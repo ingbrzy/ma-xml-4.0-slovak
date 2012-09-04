@@ -173,6 +173,8 @@
 <string name="ui_main_menu_option_setting">Nastavenia</string>
 <string name="ui_main_menu_option_task_manage">Správa odosielania</string>
 <string name="ui_main_progress_txt_open_file">Sťahovanie...</string>
+<string name="ui_main_toast_favorite_removed">Odstránené(ý) obľúbené(ý)</string>
+<string name="ui_main_toast_operation_failed">Odstránenie obľúbených %1$s zlyhalo</string>
 <string name="ui_main_toast_shareLink_err">Vytváranie externého odkazu zložky zlyhalo</string>
 <string name="ui_main_toast_shareLink_header">Zdieľam %1$s cez MiDrive, prosím kliknite na odkaz nižšie pre jeho zobrazenie:</string>
 <string name="ui_task_menu_clean">Vymazať všetky úlohy</string>
