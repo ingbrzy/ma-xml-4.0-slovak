@@ -288,18 +288,6 @@
         <item>Len nabíjať</item>
         <item>Pripojiť úložisko</item>
     </string-array>
-    <string-array name="led_color_values">
-        <item>white</item>
-        <item>green</item>
-        <item>red</item>
-        <item>blue</item>
-        <item>yellow</item>
-        <item>cyan</item>
-        <item>\#800080</item>
-        <item>\#ffc0cb</item>
-        <item>\#ffa500</item>
-        <item>\#add8e6</item>
-    </string-array>
     <string-array name="led_freq_entries">
         <item>2 sekundy</item>
         <item>3 sekundy</item>
@@ -325,16 +313,14 @@
         <item>Vždy zapnuté</item>
     </string-array>
  	<string-array name="led_color_entries">
-        <item>Biela</item>
-        <item>Zelená</item>
-        <item>Červená</item>
         <item>Modrá</item>
-        <item>Žltá</item>
-        <item>Azurová</item>
-        <item>Purpurová</item>
-        <item>Ružová</item>
+        <item>Červená</item>
         <item>Oranžová</item>
-        <item>Zafírová</item>
+        <item>Žltá</item>
+        <item>Zelená</item>
+        <item>Azurová</item>
+        <item>Biela</item>
+        <item>Purpurová</item>
     </string-array>
 	<string-array name="animator_duration_scale_entries">
         <item>Animácie vypnuté</item>
