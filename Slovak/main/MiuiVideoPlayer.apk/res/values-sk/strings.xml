@@ -26,7 +26,7 @@
     <string name="menu_item_switch_width_height_label">Nastaviť pomer strán</string>
     <string name="menu_wh_item_adapt_height_label">Prispôsobiť na výšku</string>
     <string name="menu_wh_item_adapt_width_label">Prispôsobiť na šírku</string>
-    <string name="menu_wh_item_auto_select_label">Výber</string>
+    <string name="menu_wh_item_auto_select_label">Automatický výber</string>
 	<string name="menu_wh_item_full_screen_label">Celá obrazovka</string>
     <string name="menu_wh_item_using_16_9_label">Pomer 16:9</string>
     <string name="menu_wh_item_using_4_3_label">Pomer 4:3</string>
