@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MIUIStats</string>
-    <string name="main_title">Anonymné dáta použitia</string>
     <string name="main_desc">"Prihlásenie na odosielanie anonymných dát použitia umožní vývojárom CyanogenMod získať prehľad o inštaláciách na zariadeniach. Posielané dáta obsahujú unikátny identifikátor, ktorý žiadnym spôsobom neohrozí Vaše súkromie, alebo nezverejní typ zariadenia alebo informácie o verzii. Dáta sú zasielané pri každom štarte zariadenia. Stlačením tlačidla 'Náhľad na dáta' nižšie uvidíte príklad dát, ktorá sú odosielané."</string>
     <string name="main_optin">Povoliť zasielanie</string>
     <string name="main_btn_preview">Náhľad na dáta</string>
