@@ -132,6 +132,7 @@
     <string name="call_record_sd_space_low_miui">Na SD karte je málo miesta, skúste znova po uvoľnení miesta</string>
 	<string name="call_recording_notification_summary_miui">Zobraziť oznámenie o nahrávke po ukončenie hovoru</string>
     <string name="call_recording_notification_title_miui">Oznámenie o nahrávaní</string>
+	<string name="call_record_path_name_of_sdcard_miui">SD karta</string>
     <string name="call_recording_prompt_miui">Otvoriť nahrávanie hovoru</string>
 	<string name="call_record_setting_miui">Nahrávanie hovoru</string>
     <string name="call_settings">Hovory</string>
