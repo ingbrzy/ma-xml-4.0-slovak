@@ -138,4 +138,5 @@
   	<string name="user_agreement3">" a "</string>
   	<string name="user_agreement4">ochrane osobných údajov</string>
   	<string name="user_agreement5">,Stlačte OK pokiaľ súhlasíte s nasledujúcim ujednaním, Stlačením na Zrušiť akciu ukončíte.</string>
+	<string name="wake_alarm_message">Zastaviť budík. Upozorniť o %s</string>
   </resources>
