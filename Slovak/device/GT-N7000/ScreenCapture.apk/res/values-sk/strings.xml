@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snímka obrazovky</string>
+    <string name="done">Hotovo</string>
+    <string name="save">Ulož</string>
+    <string name="cancel">Zruš.</string>
+    <string name="save_title">Ukladanie...</string>
+    <string name="saved">Uložené</string>
+    <string name="pen_setting">Nastavenia pera</string>
+    <string name="eraser">Guma</string>
+    <string name="crop">Orezať</string>
+    <string name="no_storage">Pred uložením vložte kartu SD</string>
+    <string name="crop_label">Crop image</string>
+    <string name="wallpaper">Nastavuje sa tapeta. Počkajte, prosím...</string>
+    <string name="savingImage">Ukladanie obrázka...</string>
+    <string name="share_via">Zdieľ. cez</string>
+    <string name="set_as">Nastaviť ako</string>
+    <string name="print">Tlač</string>
+    <string name="processing">Spracováva sa...</string>
+    <string name="wait_dialog">Generuje sa obrázok...</string>
+    <string name="fail_export">Fail Image Export.</string>
+    <string name="clearall">Vym. vš.</string>
+    <string name="lasso">Laso</string>
+    <string name="rectangle">Obdĺžnik</string>
+    <string name="orange_guideline">Ťuknutím na oranžovú vodiacu čiaru a jej podržaním upravíte jej veľkosť</string>
+    <string name="Captured_And_Edit">Nasnímaná/upravená obrazovka sa zahodí</string>
+    <string name="discard">Vyradiť</string>
+    <string name="phone_memory_is_full">Phone memory is full. Delete some items</string>
+    <string name="capture_complete">Snímka obrazovky bola vytvorená. Uložila sa ako súbor s obrázkom</string>
+    <string name="screen_capture_fail">Snímanie zlyhalo</string>
+    <string name="screenshot_saving_ticker">Prebieha ukladanie snímky obrazovky...</string>
+    <string name="screenshot_saving_title">Prebieha ukladanie snímky obrazovky...</string>
+    <string name="screenshot_saving_text">Snímka obrazovky sa ukladá.</string>
+    <string name="screenshot_saved_title">Snímka obrazovky bola zaznamenaná.</string>
+    <string name="screenshot_saved_text">Snímku obrazovky zobrazíte dotykom.</string>
+    <string name="screenshot_failed_title">Snímku obrazovky sa nepodarilo zachytiť.</string>
+    <string name="screenshot_failed_text">Snímku obrazovky sa nepodarilo uložiť. Ukladací priestor sa možno práve používa.</string>
+</resources>

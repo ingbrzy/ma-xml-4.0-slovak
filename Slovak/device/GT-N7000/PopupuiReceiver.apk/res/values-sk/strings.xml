@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PopupuiReceiver</string>
+    <string name="btn_text_yes">OK</string>
+    <string name="btn_text_no">Zrušiť</string>
+    <string name="text_discription">Sieť neposkytuje informácie o dátume a čase. Prejdite na nastavenia dátumu a času a nastavte ich manuálne</string>
+    <string name="timezone_toast">Pred nastavením času vyberte časové pásmo</string>
+    <string name="popup_name">Oznámenia</string>
+    <string name="sound_off_toast">Keď sú vypnuté všetky zvuky, nedá sa upraviť hlasitosť. Zvuk môžete zapnúť v nastaveniach zjednodušenia ovládania</string>
+    <string name="ear_protect_toast">Hlasitá hudba môže pri dlhodobom počúvaní poškodiť sluch</string>
+</resources>

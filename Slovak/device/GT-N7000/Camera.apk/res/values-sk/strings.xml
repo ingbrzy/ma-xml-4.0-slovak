@@ -45,7 +45,7 @@ spustiť fotoaparát"</string>
     <string name="SM_CARTOON">Animovaný film</string>
     <string name="SM_SELFSHOT">Autoportrét</string>
     <string name="SM_SHOOTANDSHARE">Zdieľať záber</string>
-    <string name="NORMAL">Normálny</string>
+    <string name="NORMAL">Normálne</string>
     <string name="VM_WARM">Teplo</string>
     <string name="VM_COOL">Chladný</string>
     <string name="VM_MONO">Mono</string>
@@ -250,7 +250,6 @@ spustiť fotoaparát"</string>
     <string name="ev_minus_2_0">-2.0</string>
     <string name="not_supported_zoom">Priblíženie nie je podporované počas nahrávania videa s rozlíšením Full HD</string>
     <string name="plugged_low_batt_msg">Jednotka flash sa nedá použiť. Batéria je vybitá</string>
-    <string name="low_temp_msg">Blesk nemožno použiť pri nízkej teplote</string>
     <string name="user_profile_title">Profil používateľa</string>
     <string name="preview_file_received_title">Zobraziť ukážku prijatého súboru</string>
     <string name="network_title">Zdieľať záber počas pripojenia cez Wi-Fi Direct</string>
@@ -272,7 +271,7 @@ spustiť fotoaparát"</string>
     <string name="notify_waiting_approval">Čaká sa na schválenie zo zariadenia %s...</string>
     <string name="share_with">Zdieľať s</string>
     <string name="gallery">Galéria</string>
-    <string name="take_photo">Fotografovať</string>
+    <string name="take_photo">Odfotiť</string>
     <string name="activate_agree">Súhlasím</string>
     <string name="activate_reject">Odmietnuť</string>
     <string name="name_cannot_empty">Zadať meno</string>

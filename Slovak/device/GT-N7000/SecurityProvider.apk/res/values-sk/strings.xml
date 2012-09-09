@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ukladací priestor zabezp.</string>
+    <string name="provider_label">Zabezpečenie</string>
+    <string name="permgrouplab_security">Služby, ktoré ovládajú nastavenia zabezpečenia zariadenia</string>
+    <string name="permgroupdesc_security">Umožňuje aplikácii čítať alebo zmeniť nastavenia zabezpečenia aktuálneho zariadenia</string>
+    <string name="permlab_readPolicies">Čítať politiky zabezpečenia</string>
+    <string name="permdesc_readPolicies">Umožňuje aplikácii čítať aktuálne politiky zabezpečenia</string>
+    <string name="permlab_writePolicies">Zapísať politiky zabezpečenia</string>
+    <string name="permdesc_writePolicies">Umožňuje aplikácii zapísať alebo zmeniť aktuálne politiky zabezpečenia</string>
+</resources>

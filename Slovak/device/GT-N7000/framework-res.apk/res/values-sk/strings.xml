@@ -13,7 +13,7 @@
     <string name="ok">OK</string>
     <string name="paste">Vložiť</string>
     <string name="search_go">Vyhľadávanie</string>
-    <string name="selectAll">Všetko</string>
+    <string name="selectAll">Vybrať všetko</string>
     <string name="unknownName">(neznáme)</string>
     <string name="untitled">&lt;Untitled></string>
     <string name="VideoView_error_button">OK</string>
@@ -334,8 +334,8 @@
     <string name="global_action_toggle_data_mode">Režim dátovej siete</string>
     <string name="global_action_data_mode_on_status">Režim dátovej siete je aktivovaný</string>
     <string name="global_action_data_mode_off_status">Režim dátovej siete je deaktivovaný</string>
-    <string name="global_action_data_mode_on_status_confirm">Aktivuje sa mobilné dátové pripojenie</string>
-    <string name="global_action_data_mode_off_status_confirm">Mobilné dátové pripojenie sa vypne</string>
+    <string name="global_action_data_mode_on_status_confirm">Režim dátovej siete sa aktivuje</string>
+    <string name="global_action_data_mode_off_status_confirm">Režim dátovej siete sa deaktivuje</string>
     <string name="safeMode">Bezpečný režim</string>
     <string name="permgroupdesc_mdm">Umožňuje aplikácii použiť služby MDM</string>
     <string name="permlab_mdmApplications">Povolenie aplikácie MDM</string>
@@ -865,6 +865,7 @@ Ak chcete získať inú kartu SIM, kontaktujte poskytovateľa bezdrôtových slu
     <string name="lockscreen_failed_attempts_almost_glogin">Nesprávny odomykací vzor bol nakreslený %1$d-krát. Máte ešte %2$d pokusy predtým, než budete požiadaní o odomknutie zariadenia použitím prihlasovacích údajov konta Google alebo záložného kódu PIN. Skúste to znova po uplynutí %3$d sekúnd</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefón ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. Po %d ďalších neúspešných pokusoch sa v telefóne obnovia predvolené továrenské nastavenia a všetky používateľské údaje budú stratené.</string>
     <string name="lockscreen_failed_attempts_now_wiping">Telefón ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. V telefóne sa teraz obnovia predvolené továrenské nastavenia.</string>
+    <string name="lockscreen_too_many_failed_attempts_countdown">Skúste to znova v priebehu %d sekúnd</string>
     <string name="lockscreen_forgot_pattern_button_text">Zabudli ste vzor?</string>
     <string name="lockscreen_glogin_forgot_pattern">Odomknutie konta</string>
     <string name="lockscreen_glogin_too_many_attempts">Príliš veľa pokusov o nakreslenie vzoru!</string>
@@ -1066,8 +1067,6 @@ Chcete ho ukončiť?"</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct je zapnuté</string>
     <string name="wifi_p2p_enabled_notification_message">Ťuknutím zmeníte nastavenia</string>
     <string name="wifi_p2p_connected_notification_title">Pripojené k %d zariadeniam cez Wi-Fi Direct</string>
-    <string name="wifi_p2p_incoming_request_confirmation">Pripojiť k %1$s v priebehu %2$d s</string>
-    <string name="wifi_p2p_auto_disabling_confirmation">Od zapnutia spojenia Wi-Fi Direct nedošlo po dobu %d minút k žiadnej aktivite. Vypnutie spojenia Wi-Fi Direct môže predĺžiť výdrž batérie. Pokračovať?</string>
     <string name="select_character">Vložiť znak</string>
     <string name="sms_control_default_app_name">Neznáma aplikácia</string>
     <string name="sms_control_title">Odosielanie správ SMS</string>
@@ -1124,7 +1123,6 @@ Chcete ho ukončiť?"</string>
     <string name="configure_input_methods">Konfigurovať metódy vstupu</string>
     <string name="fast_scroll_alphabet">" AÁÄBCČDĎDZDŽEÉFGHCHIÍJKLĽMNŇOÓÔPRŔSŠTŤUÚVWXYÝZŽ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="restricts_use_of_external_sd_card_msg">Politika zabezpečenia obmedzuje použitie karty SD</string>
     <string name="ext_media_checking_notification_title">Pripravuje sa ukladací priestor USB...</string>
     <string name="ext_media_checking_notification_title_sd">Pripravuje sa karta SD...</string>
     <string name="ext_media_checking_notification_message">Kontrola chýb</string>
@@ -1200,10 +1198,9 @@ pre konto %s"</string>
     <string name="car_mode_disable_notification_message">Deaktivovať režim auta</string>
     <string name="tethered_notification_title">Aktívny verejný príst. bod alebo zdieľanie pripojenia</string>
     <string name="tethered_notification_message">Ťuknutím konfigurujte</string>
-    <string name="tethered_notification_title_client">Zariadenia pripojené k prenosnému prístupovému bodu Wi-Fi: %s</string>
     <string name="back_button_label">Späť</string>
     <string name="next_button_label">Ďalší</string>
-    <string name="skip_button_label">Vynechať</string>
+    <string name="skip_button_label">Vyne-chať</string>
     <string name="throttle_warning_notification_title">Vysoké využitie mobilných dát</string>
     <string name="throttle_warning_notification_message">Ťuknutím získate ďalšie informácie o využití mobilných dát</string>
     <string name="throttled_notification_title">Dosiahol sa limit využitia mobilných dát</string>
@@ -1429,7 +1426,6 @@ pre konto %s"</string>
     <string name="invalid_sim_notification_title">Neplatná SIM karta</string>
     <string name="invalid_sim_notification_text">Kontaktujte oddelenie starostlivosti o zákazníkov</string>
     <string name="unregistered_SIM">Neregistrovaná karta SIM</string>
-    <string name="keyguard_signature_guide">Na odomknutie nakreslite podpis na obrazovke</string>
     <string name="cutAll">Vystrihnúť všetko</string>
     <string name="copyAll">Kopírovať všetko</string>
     <string name="undo">Vrátiť späť</string>
@@ -1445,6 +1441,4 @@ je príliš veľký"</string>
     <string name="tw_ids_com_body_delete_from_clipboard">Odstrániť zo schránky</string>
     <string name="tw_ids_com_body_Lock_in_clipboard">Zamknúť k schránke</string>
     <string name="tw_ids_com_body_unlock_in_clipboard">Odomknúť od schránky</string>
-    <string name="tw_clipboard_no_item">Žiadne položky</string>
-    <string name="lockscreen_too_many_failed_attempts_countdown">Skúste to znova v priebehu %d sekúnd</string>
 </resources>

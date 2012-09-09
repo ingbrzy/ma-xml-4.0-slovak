@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="About_Share">
+        <item>AllShare</item>
+        <item>Bluetooth</item>
+        <item>Gmail</item>
+        <item>Správy</item>
+        <item>Picasa</item>
+        <item>Plánovač S</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="About_SPlanner">
+        <item>Nová udalosť</item>
+        <item>"Nová
+úloha"</item>
+        <item>Prepojenie</item>
+    </string-array>
+    <string-array name="About_Share_Recognition">
+        <item>Gmail</item>
+        <item>E-mail</item>
+        <item>Správa</item>
+        <item>SNS</item>
+        <item>Plánovač S</item>
+        <item>Wi-Fi</item>
+    </string-array>
+    <string-array name="bg_color_menu">
+        <item>Žltá</item>
+        <item>Modrá</item>
+        <item>Zelená</item>
+        <item>Ružová</item>
+        <item>﻿Béžová</item>
+    </string-array>
+    <string-array name="sort_item">
+        <item>Dátum (najnovšie)</item>
+        <item>Dátum (najstaršie)</item>
+        <item>Najprv text</item>
+        <item>Najprv kresba</item>
+        <item>Farba</item>
+    </string-array>
+    <string-array name="Set_as_items">
+        <item>Ikona kontaktu</item>
+        <item>Tapeta úvodnej obrazovky</item>
+        <item>Tapeta zamkn. obrazovky</item>
+    </string-array>
+</resources>

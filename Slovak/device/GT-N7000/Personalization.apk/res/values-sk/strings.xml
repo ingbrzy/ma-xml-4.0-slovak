@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perso</string>
+    <string name="label_perso">Blokovanie siete</string>
+    <string name="label_mcc_mnc">MCC/MNC</string>
+    <string name="label_nsp">NSP</string>
+    <string name="label_sp">SP</string>
+    <string name="label_cp">CP</string>
+    <string name="label_second">NCK</string>
+    <string name="label_control_key">Ovládacie tlačidlo</string>
+    <string name="sim_perso_ok_text">OK</string>
+    <string name="sim_perso_dismiss_text">Odmietnuť</string>
+    <string name="requesting_lock">Vyžaduje sa uzamknutie...</string>
+    <string name="lock_failed">požiadavka na zamknutie bola neúspešná</string>
+    <string name="lock_success">uzamknutie úspešné</string>
+    <string name="requesting_unlock">Vyžaduje sa odomknutie...</string>
+    <string name="unlock_failed">Požiadavka na odomknutie bola neúspešná</string>
+    <string name="unlock_success">Odomknutie úspešné</string>
+    <string name="label_perso_unlock_tile">Odomknutie siete</string>
+    <string name="label_unlock">Zadajte ovládacie tlačidlo</string>
+    <string name="label_unlock_np">Blokovanie siete</string>
+    <string name="label_unlock_nsp">Blokovanie podsiete</string>
+    <string name="label_unlock_sp">Zámok SP</string>
+    <string name="label_unlock_cp">Zámok CP</string>
+    <string name="label_controlkey_np">Zadajte ovládacie tlačidlo uzamknutia siete</string>
+    <string name="label_controlkey_nsp">Zadajte ovládacie tlačidlo uzamknutia podsiete</string>
+    <string name="label_controlkey_sp">Zadajte ovládacie tlačidlo uzamknutia SP</string>
+    <string name="label_controlkey_cp">Zadajte ovládacie tlačidlo uzamknutia CP</string>
+</resources>

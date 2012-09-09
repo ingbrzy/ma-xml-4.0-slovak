@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Poskytov. sťahovania SEC</string>
+    <string name="permlab_downloadManager">Prístup k správcovi sťahovaní</string>
+    <string name="permdesc_downloadManager">Umožňuje aplikácii prístup k správcovi sťahovaní a použiť ho na sťahovanie súborov. Škodlivé aplikácie to môžu použiť na narušenie sťahovania súborov a prístup k súkromným informáciám</string>
+    <string name="permlab_accessAllDownloads">Access all system downloads</string>
+    <string name="permdesc_accessAllDownloads">Allows the application to view and modify all initiated by any application on the system</string>
+    <string name="permlab_downloadManagerAdvanced">Rozšírené funkcie správcu sťahovaní</string>
+    <string name="permdesc_downloadManagerAdvanced">Umožňuje aplikácii prístup k rozšíreným funkciám správcu sťahovaní. Škodlivé aplikácie to môžu použiť na narušenie sťahovania súborov a prístup k súkromným informáciám</string>
+    <string name="permlab_cacheFilesystem">Použiť systémovú vyrovnávaciu pamäť</string>
+    <string name="permdesc_cacheFilesystem">Umožňuje aplikácii priamy prístup, upravenie a vymazanie systémovej vyrovnávacej pamäte. Škodlivé aplikácie to môžu použiť na závažné narušenie sťahovania súborov a iných aplikácií a na prístup k súkromným údajom</string>
+    <string name="permlab_downloadCompletedIntent">Odoslať oznámenia o sťahovaní</string>
+    <string name="permdesc_downloadCompletedIntent">Umožňuje aplikácii odosielať oznámenia o dokončených sťahovaniach súborov. Škodlivé aplikácie to môžu použiť na pomýlenie iných aplikácií, ktoré sťahujú súbory</string>
+    <string name="permlab_seeAllExternal">Zobraziť všetky súbory stiahnuté na kartu SD</string>
+    <string name="permdesc_seeAllExternal">Umožňuje aplikácii zobraziť všetky súbory stiahnuté na kartu SD bez ohľadu na to, ktorá aplikácia ich stiahla</string>
+    <string name="download_unknown_title">&lt;Untitled></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">a %d ďalšie</string>
+    <string name="notification_download_complete">Sťahovanie je dokončené</string>
+    <string name="notification_download_failed">Sťahovanie nebolo úspešné</string>
+    <string name="notification_downloaded_folder">Stiahnuté do %s</string>
+</resources>

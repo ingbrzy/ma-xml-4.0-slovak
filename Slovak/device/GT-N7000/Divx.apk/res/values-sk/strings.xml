@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Licenčné nastavenia</string>
+    <string name="license_settings_title">Licenčné nastavenia</string>
+    <string name="expiry_reminder">Pripomienka skončenia platnosti</string>
+    <string name="roaming_network">Roamingová sieť</string>
+    <string name="roaming_network_summary">Stiahnuť automaticky</string>
+    <string name="roaming_option_auto_download">Stiahnuť automaticky</string>
+    <string name="roaming_option_manual">Ručne</string>
+    <string name="roaming_option_always_reject">Vždy odmietnuť</string>
+    <string name="roaming_network_dialog_title">Roamingová sieť</string>
+    <string name="dialog_cancel_button">Zrušiť</string>
+    <string name="dialog_ok_button">OK</string>
+    <string name="dialog_deregistration_button">OK</string>
+    <string name="dialog_registration_button">OK</string>
+    <string name="dialog_cancel_registration_button">Zrušiť</string>
+    <string name="dialog_ok_registration_button">OK</string>
+    <string name="expiry_reminder_summary">Stiahnuť automaticky</string>
+    <string name="divx_registration_summary">Proces registrácie formátu DivX</string>
+    <string name="clear_license">Vymazať licencie</string>
+    <string name="clear_license_summary">Vymazať všetky licencie DRM</string>
+    <string name="unable_to_remove_license">Licencie sa nedajú vymazať</string>
+    <string name="all_licenses_are_clearing">Mazanie...</string>
+    <string name="all_licenses_are_removed">Vymazané</string>
+    <string name="clear_license_popup">"Obsah vyžadujúci licencie musíte pred použitím získať znova.
+Chcete vymazať licencie?"</string>
+    <string name="divx_vod">DivX® VOD</string>
+    <string name="divx_registration">Registrácia</string>
+    <string name="divx_deregistration">Zrušiť registráciu</string>
+    <string name="divx_registration_info">Pred prehrávaním chráneného videa DivX musíte zaregistrovať zariadenie</string>
+    <string name="divx_registration_code">Registračný kód: %s</string>
+    <string name="divx_register_website">Zaregistrovať v %s</string>
+    <string name="divx_deregistration_code">Kód na zrušenie registrácie: %s</string>
+    <string name="divx_deregister_website">Zrušiť registráciu v %s</string>
+    <string name="divx_deregistration_info">Pokračovať v registrácii?</string>
+    <string name="dialog_deregister_confirmation_message">Vaše zariadenie je už zaregistrované. Naozaj chcete zrušiť registráciu?</string>
+</resources>

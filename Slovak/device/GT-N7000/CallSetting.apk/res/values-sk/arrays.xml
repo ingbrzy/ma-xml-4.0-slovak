@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calldiverting_list">
+        <item>Vždy</item>
+        <item>Ak obsadené</item>
+        <item>Pri neodpovedaní</item>
+        <item>Pri nedostupnosti</item>
+        <item>Zrušiť všetky</item>
+    </string-array>
+    <string-array name="callbarring_list">
+        <item>Všetky odchádzajúce hovory</item>
+        <item>Odchádzajúce medzinárodné hovory</item>
+        <item>Medzinárodné hovory okrem hovorov domov</item>
+        <item>Všetky prichádzajúce hovory</item>
+        <item>Prichádzajúce pri roamingu</item>
+        <item>Zrušiť všetky</item>
+    </string-array>
+    <string-array name="waiting_time">
+        <item>5 sekúnd</item>
+        <item>10 sekúnd</item>
+        <item>15 sekúnd</item>
+        <item>20 sekúnd</item>
+        <item>25 sekúnd</item>
+        <item>30 sekúnd</item>
+    </string-array>
+    <string-array name="automatic_time">
+        <item>1 sekunda</item>
+        <item>2 sekundy</item>
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekúnd</item>
+    </string-array>
+    <string-array name="autoreject_alert">
+        <item>Denníky</item>
+        <item>Kontakty</item>
+    </string-array>
+    <string-array name="fakecallerimage_alert">
+        <item>Obrázok</item>
+        <item>Odfotiť</item>
+    </string-array>
+    <string-array name="callerimage_alert_video_default">
+        <item>Obrázky</item>
+        <item>Videá</item>
+    </string-array>
+    <string-array name="callerimage_alert_video_changed">
+        <item>Predvolený obrázok</item>
+        <item>Obrázky</item>
+        <item>Videá</item>
+    </string-array>
+    <string-array name="callerimage_alert_default">
+        <item>Obrázky</item>
+        <item>Videá</item>
+        <item>Fotografovať</item>
+        <item>Nahrať video</item>
+    </string-array>
+    <string-array name="callerimage_alert_changed">
+        <item>Predvolený obrázok</item>
+        <item>Obrázky</item>
+        <item>Videá</item>
+        <item>Fotografovať</item>
+        <item>Nahrať video</item>
+    </string-array>
+    <string-array name="entries_list_preference">
+        <item>Vyp.</item>
+        <item>Po 1 sekunde</item>
+        <item>Po 2 sekundách</item>
+        <item>Po 3 sekundách</item>
+        <item>Po 4 sekundách</item>
+        <item>Po uplynutí 5 sekúnd</item>
+    </string-array>
+    <string-array name="entryvalues_list_preference">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="match_criteria_entries">
+        <item>Presne rovnaké ako</item>
+        <item>Začať s</item>
+        <item>Končí na</item>
+        <item>Obsahuje</item>
+    </string-array>
+    <string-array name="match_criteria_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="auto_reject_mode">
+        <item>Vyp.</item>
+        <item>Všetky čísla</item>
+        <item>Autom. odmietané čísla</item>
+    </string-array>
+    <string-array name="auto_reject_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
