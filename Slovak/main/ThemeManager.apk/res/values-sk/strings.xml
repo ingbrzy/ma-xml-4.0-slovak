@@ -48,7 +48,7 @@
     <string name="theme_component_title_framework">Framework</string>	
     <string name="theme_component_title_icon">Ikona</string>	
     <string name="theme_component_title_launcher">Domov</string>	
-    <string name="theme_component_title_lockstyle">Obrazovka zámku</string>	
+    <string name="theme_component_title_lockstyle">Zámok</string>	
     <string name="theme_component_title_lockwallpaper">Tapeta zámku</string>	
     <string name="theme_component_title_mms">SMS</string>	
     <string name="theme_component_title_notification">Oznámenia</string>	
