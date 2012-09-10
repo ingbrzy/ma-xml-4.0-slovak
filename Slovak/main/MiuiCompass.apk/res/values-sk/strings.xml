@@ -3,4 +3,8 @@
     <string name="app_label">Kompas</string>
     <string name="getting_location">Získavam polohu...</string>
     <string name="cannot_get_location">Nie je možné určiť polohu</string>
+	<string name="location_east">%s E</string>
+	<string name="location_north">%s N</string>
+	<string name="location_south">%s S</string>
+	<string name="location_west">%s W</string>
 </resources>
