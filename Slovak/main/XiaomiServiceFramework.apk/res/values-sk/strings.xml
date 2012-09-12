@@ -72,6 +72,7 @@
     <string name="micloud_val_sms_alert">Zašle sa SMS na potvrdenie Vášho telefónneho čísla, pokračovať?</string>	
     <string name="micloud_waiting">Čakajte...</string>	
     <string name="micloud_welcome_banner">XiaoMi účet</string>	
+	<string name="micloud_welcome_skip_login" />
     <string name="next">Ďalšie</string>
 	<string name="other_settings">Ďalšie nastavenia</string>
     <string name="password">Heslo</string>	
@@ -113,4 +114,5 @@
 	<string name="send_sms_for_sync_title">Sync service nie je aktivovaný</string>
 	<string name="sim_changed_notification_content">SIM nieje aktivovaná, znova ju aktivujte, prosím.</string>
 	<string name="sim_changed_reactivate_notice">Súčasná SIM nie je aktivovaná. Vyžaduje sa SMS pre jej aktivovanie, aktivovať teraz?</string>
+	<string name="xmpp_server_addr" />
 </resources>

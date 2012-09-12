@@ -278,6 +278,7 @@
     <string name="groupSavedToast">Skupina uložená</string>
     <string name="groupsLabel">Skupiny</string>
     <string name="hint_findContacts">Nájsť kontakty</string>
+	<string name="hint_search_phone_numbers">%d tel. čísiel kontaktov</string>
     <string formatted="false" name="hint_search_contacts">%d kontaktov</string>
     <string name="imLabelsGroup">IM</string>
 	<string name="imei">IMEI</string>

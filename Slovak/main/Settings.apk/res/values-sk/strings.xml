@@ -1676,6 +1676,7 @@
     <string name="virus_scan_app_stop_scan">Zastaviť skenovanie</string>
     <string name="virus_scan_app_uninstall">Hromadná odinštalácia (%d)</string>
     <string name="virus_scan_app_waiting">Čaká na skenovanie</string>
+	<string name="virus_scanner_kinsoft_provider">Bezpečnosť zabezpečuje Kingsoft Phone Guardian</string>
     <string name="virus_scanner_scan">Skenovať</string>
     <string name="virus_scanner_scanning">AntiVírus</string>
     <string name="virus_scanner_select_Cancel">Zrušiť</string>

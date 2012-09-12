@@ -5,10 +5,10 @@
     <string name="getting_location">Získavam polohu...</string>
     <string name="cannot_get_location">Nie je možné určiť polohu</string>
 	<string name="hpa">hPa</string>
-	<string name="location_east">%s Z</string>
+	<string name="location_east">%s V</string>
 	<string name="location_north">%s S</string>
 	<string name="location_south">%s J</string>
-	<string name="location_west">%s V</string>
+	<string name="location_west">%s Z</string>
 	<string name="meter">Meter</string>
 	<string name="pressure">Tlak</string>
 </resources>

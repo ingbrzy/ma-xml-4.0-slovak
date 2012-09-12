@@ -113,7 +113,12 @@
     <string name="opt_reject_blacklist_stranger">Neprijímať neznáme hovory</string>
     <string name="opt_reject_blacklist_stranger_summary">Hovory budú neprijaté z čiernej listiny, ale prijaté z bielej listiny</string>
     <string name="remove">Odstrániť</string>
-    <string name="save_button">Uložiť</string>
+	<string name="remove_call_log">Vymazať všetky záznamy o volaní?</string>
+	<string name="remove_contact">Vymazať všetky zvolené kontakty?</string>
+	<string name="remove_delete">Vymazať</string>
+	<string name="remove_inf">Vymazať vybrané informácie?</string>
+	<string name="remove_sms">Vymazať všetky záznamy o správach?</string>
+	<string name="save_button">Uložiť</string>
     <string name="show_firewall_notification">Zobraziť upozornenie firewallu</string>
     <string name="show_notification">Zobraziť upozornenie</string>
 </resources>

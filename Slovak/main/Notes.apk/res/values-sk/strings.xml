@@ -62,6 +62,7 @@
     <string name="menu_setting">Nastavenie</string>
     <string name="menu_share">Zdieľať</string>
     <string name="menu_title_select_folder">Vyberte zložku</string>
+	<string name="move_to_parent">Presunúť do materskej zložky</string>
     <string name="note_alert_expired">Expirované</string>
     <string name="notealert_enter">Zobraziť</string>
     <string name="notealert_ok">Ok</string>

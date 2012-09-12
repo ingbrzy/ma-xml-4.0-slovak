@@ -17,6 +17,7 @@
     <string name="description_author">Autor:</string>
     <string name="description_designer">Designer:</string>
     <string name="description_download">Stiahnuť:</string>
+	<string name="description_downloadtime">Čas stiahnutia:</string>
     <string name="description_file">Súbor:</string>
     <string name="description_missed">N/A</string>
     <string name="description_modifiedtime">Upravené:</string>
@@ -134,6 +135,7 @@
     <string name="sync_one_time_sync">Kliknite pre synchronizáciu (%1$s)</string>
     <string name="text_pastelist">Schránka</string>
     <string name="unknown">Neznáme číslo</string>
+	<string name="description_uploadtime">Čas odoslania:</string>
   	<string name="user_agreement1">Budete používať systém a služby poskytované spoločnosťou Xiaomi, prosím prečítajte si </string>
   	<string name="user_agreement2">podmienky používania</string>
   	<string name="user_agreement3">" a "</string>
