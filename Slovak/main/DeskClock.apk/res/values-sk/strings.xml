@@ -3,7 +3,7 @@
         <string name="add_alarm">Pridať budík</string>
     <string name="alarm_alert_alert_silenced">Budík stíšený na dobu %d minút.</string>
     <string name="alarm_alert_dismiss_text">Zavrieť</string>
-    <string name="alarm_alert_snooze_set">Odložené o %d minút.</string>
+    <string name="alarm_alert_snooze_set">Odložiť o %d minút.</string>
     <string name="alarm_alert_snooze_text">Odložiť</string>
     <string name="alarm_ascending_mode_summary">Hlasitosť budíka postupne narastá až do max výšky nastavenej hlasitosti.</string>
     <string name="alarm_ascending_mode_title">Stupňujúca sa hlasitosť</string>
