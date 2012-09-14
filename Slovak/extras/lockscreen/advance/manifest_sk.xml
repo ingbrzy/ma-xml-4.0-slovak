@@ -61,6 +61,7 @@
     <Var name="preview_sms_y" expression="#preview_y-12-#preview_sms_count*#preview_item_height"/>
     <Var name="preview_call_y" expression="#preview_sms_y-#preview_call_count*#preview_item_height"/>
 
+
     <!-- 音乐控制 -->
     <MusicControl x="0" y="#unlock_y-226" w="#screen_width" h="#screen_width" name="music_control" autoShow="true" visibility="false" defAlbumCover="default_album_cover.png">
         <!-- 背景 -->
@@ -91,7 +92,6 @@
         </Image>
         <Image x="#unlock_x" y="226-230" align="center" src="unlock_top_p.png" visibility="not(#unlocker.state)"/>
         <Image x="#unlock_x" y="226" align="center" alignV="center" src="music_album_cover.png" visibility="not(#unlocker.state)"/>
-
 	
         <!-- 上一首 -->
         <Button name="music_prev" x="#unlock_x-226" y="116" w="#screen_width/2-110" h="220" visibility="not(#unlocker.state)">
@@ -135,7 +135,6 @@
         </Button>
     </MusicControl>
 
-
     <Unlocker name="unlocker" bounceInitSpeed="500" bounceAcceleration="1500">
         <StartPoint x="#unlock_x-78" y="#unlock_y-78" w="136" h="136">
         </StartPoint>
@@ -169,7 +168,7 @@
                 <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
                 </Time>
 
-	            <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM">
+	            <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM"">
 	            </DateTime>
             </Group>
 		            <!-- xx的小米手机 -->
@@ -180,11 +179,6 @@
 				        <Alpha a="128*not(#show_preview)" time="1000000000000000"/>
 			        </AlphaAnimation>
 	            </Text>
-
-		<Group>
-                    <Image x="#screen_width/2+30" y="180" src="volumn.png" visibility="1">
-                    </Image>
-                </Group>
 
 		        <Group>
                     <AlphaAnimation>
@@ -295,8 +289,8 @@
                         <Alpha a="0" time="1000000000000000"/>
                     </AlphaAnimation>
                 </Image>
-				
-                
+
+		
 
                 <!-- 时间、日期 -->
                 <Group>
@@ -307,7 +301,7 @@
                     </AlphaAnimation>
                 <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
                 </Time>
-                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM">
+                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM"">
                     </DateTime>
                 </Group>
                 <!-- xx的小米手机 -->
@@ -371,6 +365,7 @@
                     <Image x="#preview_x" y="#preview_sms_y+#preview_item_height" alignV="center" src="preview_seperator.png" visibility="ge(#preview_sms_count,2)">
                     </Image>
                 </Group>
+
 
 
                 <Group>
