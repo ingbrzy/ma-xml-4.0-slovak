@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="altitude">Nadmorská výška</string>
     <string name="app_label">Kompas</string>
     <string name="getting_location">Získavam polohu...</string>
     <string name="cannot_get_location">Nie je možné určiť polohu</string>
