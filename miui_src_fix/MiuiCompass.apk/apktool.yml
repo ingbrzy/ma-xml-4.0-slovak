@@ -1,0 +1,10 @@
+version: 1.5.0.5a056e3
+apkFileName: MiuiCompass.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 6
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '16'
