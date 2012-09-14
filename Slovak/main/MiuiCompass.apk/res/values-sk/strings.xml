@@ -9,6 +9,6 @@
 	<string name="location_north">%s S</string>
 	<string name="location_south">%s J</string>
 	<string name="location_west">%s Z</string>
-	<string name="meter">Meter</string>
-	<string name="pressure">Tlak</string>
+    <string name="pressure">Tlak %.1fhPa</string>
+    <string name="altitude">Nadmorská výška %.1fm</string>
 </resources>
