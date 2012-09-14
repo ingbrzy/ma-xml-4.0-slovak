@@ -51,7 +51,7 @@
     <string name="firewall_action">Operácia blokovania</string>
     <string name="firewall_log">DND log</string>
     <string name="firewall_settings">DND nastavenia</string>
-    <string name="firewall_settings_tab_title">Firewall</string>
+    <string name="firewall_settings_tab_title">Pravidlá</string>
     <string name="fw_action_settings">Nastavenia firewallu</string>
     <string name="fw_add_keyword">Pridať kľúčové slová k sledovaniu</string>
     <string name="fw_add_keyword_existing">Kľúčové slovo %s už existuje</string>
@@ -79,7 +79,7 @@
     <string name="fw_keyword_filter_summary">Filtrovať správy, v ktorých budú označené kľúčové slová</string>
     <string name="fw_keyword_list">Zoznam kľúčových slov</string>
     <string name="fw_keyword_list_hint">Tieto kľúčové slová, budú použité k blokovaniu prichádzajúcich správ</string>
-    <string name="fw_log_inf">Firewall</string>
+    <string name="fw_log_inf">Záznamy</string>
     <string name="fw_menu_new_blacklist_title">Pridať do čierne listiny</string>
     <string name="fw_menu_new_manual">Ručne pridať číslo</string>
     <string name="fw_menu_new_whitelist_title">Pridať do bielej listiny</string>
