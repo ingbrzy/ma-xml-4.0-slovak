@@ -8,7 +8,7 @@
     <string name="Dashboard_Log_Clear_Content">Všetky logy budú vymazané. Skutočne chcete pokračovať?</string>
     <string name="Dashboard_Log_Clear_Title">Vymazať logy</string>
     <string name="Dashboard_Perm">Oprávnenia</string>
-    <string name="Dashboard_Perm_AutoStart">Aplikácie spúšťané po štarte</string>
+    <string name="Dashboard_Perm_AutoStart">Po štarte</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Zap/vyp autom. spúšťanie aplikácií</string>
     <string name="Dashboard_Perm_AutoStart_Switch">Správca autom. spustenia</string>
     <string name="Dashboard_Perm_Header">Sledovanie %1$d aplikácií</string>
