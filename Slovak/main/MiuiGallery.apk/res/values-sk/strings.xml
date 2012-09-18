@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_not_login">Môžete sa prihlásiť na svoj účet Xiaomi a synchronizovať Vaše dáta s MiCloud.</string>
   <string name="activity_not_found">Nie je dostupná žiadna aplikácia na dokončenie akcie.</string>
   <string name="add_account">Pridať účet</string>
   <string name="add_bookmark">Pridať k obľúbeným</string>
   <string name="albums">Album(ov)</string>
   <string name="alert">Oznam</string>
+  <string name="alert_message_initial_cloud">Systém automaticky odošle Vaše staré a nové fotografie len ak ste pripojení na sieť Wi-fi.</string>
   <string name="alert_message_sync_histoy_power_on">Predvolené je, že história obrázkov sa synchronizuje iba počas nabíjania telefónu. Toto nastavenie môžete zmeniť v menu Nastavenia.</string>
   <string name="all_album">Všetky</string>
   <string name="all_albums_desc">Albumy</string>
@@ -131,9 +133,12 @@
   <string name="loading_failure">Snímku sa nepodarilo nahrať</string>
   <string name="loading_files">Načítavam...</string>
   <string name="loading_image">Načítavam obrázok...</string>
+  <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
   <string name="loading_video">Načítavam video...</string>
+  <string name="loading_will_cost">Sťahovanie fotografií vyžaduje prenos dát</string>
   <string name="location">Poloha</string>
   <string name="locations">Polohy</string>
+  <string name="login_account">Prihlásenie Xiaomi &amp; Sync</string>
   <string name="lomoish">Lomo</string>
   <string name="make_available_offline">Sprístupniť offline</string>
   <string name="maker">Tvorca</string>
@@ -176,6 +181,7 @@
   <string name="not_auto_create_recent_album">Nevytvárať automaticky často zobrazené albumy</string>
   <string name="open_map">Otvoriť mapu</string>
   <string name="open_single_image_failure">Obrázok sa nepodarilo otvoriť!</string>
+  <string name="open_sync">Synchr. teraz</string>
   <string name="operation_cancel">Zrušiť</string>
   <string name="operation_delete">Vymazať</string>
   <string name="operation_info">Detaily</string>
@@ -276,6 +282,7 @@
   <string name="sync_album_set_error">Nepodarilo sa stiahnuť zoznam albumov. Prosím skúste opäť neskôr.</string>
   <string name="sync_history_power_on">Synchronizovať obrázky len počas nabíjania telefónu</string>
   <string name="sync_history_power_on_summary">Odporúča sa povoliť, inak to môže mať vplyv na zvýšenú spotrebu batérie.</string>
+  <string name="sync_not_open">Môžete automaticky synchronizovať Vaše fotografie s cloudom pre ich ľahšiu organizáciu.</string>
   <string name="sync_only_in_wifi">Iba Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Odporúča sa povoliť, inak sa spotrebuje viac dát od operátora.</string>
   <string name="sync_picasa_albums">Obnoviť</string>

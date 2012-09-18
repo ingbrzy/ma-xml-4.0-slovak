@@ -113,6 +113,8 @@
     <string name="opt_reject_blacklist_stranger">Neprijímať neznáme hovory</string>
     <string name="opt_reject_blacklist_stranger_summary">Hovory budú neprijaté z čiernej listiny, ale prijaté z bielej listiny</string>
     <string name="remove">Odstrániť</string>
+	<string name="remove_keyword">Ste si istý, že chcete odstrániť toto kľúčové slovo?</string>
+	<string name="remove_all_keywords">Ste si istý, že chcete odstrániť všetky kľúčové slová?</string>
 	<string name="remove_call_log">Vymazať všetky záznamy o volaní?</string>
 	<string name="remove_contact">Vymazať všetky zvolené kontakty?</string>
 	<string name="remove_delete">Vymazať</string>

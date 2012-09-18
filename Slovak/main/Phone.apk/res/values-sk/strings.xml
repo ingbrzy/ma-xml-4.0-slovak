@@ -97,6 +97,7 @@
     <string name="auto_retry_mode_title_miui">Auto opakovanie</string>
     <string name="autoip_miui">Automatické IP vytáčanie</string>
     <string name="autoip_sum_miui">Automatické pridanie IP (predčísla zahraničných čísiel)</string>
+	<string name="back_miui">Späť</string>
     <string name="bad_pin_miui">Zadali ste nesprávne starý PIN. prosím skúste to znova.</string>
     <string name="bad_pin2_miui">Zadali ste nesprávne starý PIN2. prosím skúste to znova.</string>
     <string name="bad_puk_miui">Zadali ste nesprávne PUK. prosím skúste to znova.</string>
