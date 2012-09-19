@@ -10,8 +10,7 @@
     <string name="album_picker_not_found">Vo vašom zariadení nebola nájdená galéria</string>
     <string name="album_search_failed">Obrázok albumu nebol nájdený!</string>
     <string name="albums_title">Albumy</string>
-    <string name="albumsongseparator">"
-"</string>
+    <string name="albumsongseparator">""</string>
     <string name="all_tracks">Všetka hudba</string>
     <string name="android_album_settings">Použiť integrovaný obrázok albumu.</string>
     <string name="android_album_summary">Automaticky použije obrázok zo skladby. Môže spôsobiť chyby.</string>
@@ -116,7 +115,9 @@
 	<string name="load_channel_failed">Načítavanie zoznamu kanálov zlyhalo, skúste to prosím znovu.</string>
     <string name="load_channel_in_process">Load channel list</string>
     <string name="loading">Načítavam</string>
-    <string name="lpa_off_hint">You need to close low-power audio play to enable equalizer, please set in Settings-> System -> Battery Settings. Your battery consumption will increase.</string>
+    <string name="lpa_off_hint">Pre použitie equalizéru je nutné vypnúť prehrávanie s nízkou spotrebou energie, Nastavte v Nastavenia-> Systém -> Nastavenie batérie. Spotreba batérie sa môže zvýšiť.</string>
+    <string name="lrc_progress_modify">Nastaviť rýchlosť textu piesne</string>
+    <string name="lrc_progress_modify_helper">Nastavte rýchlosť textu piesne posunutím hore alebo dole</string>
     <string name="lrc_search_failed">Texty nenájdené!</string>
     <string name="lrc_searching">Hľadanie textov...</string>
     <string name="lrc_select">Vyberte text</string>
@@ -146,8 +147,7 @@
     <string name="new_playlist_name_template">Nový playlist %d</string>
     <string name="no_effect">Bez efektu</string>
     <string name="no_tracks_title">Žiadne skladby</string>
-    <string name="notification_artist_album" formatted="false">"%2$s
-%1$s"</string>
+    <string name="notification_artist_album" formatted="false">"%2$s %1$s"</string>
     <string name="online_indicator">-online</string>
     <string name="online_music">Online hudba</string>
     <string name="online_search_hint">Hľadať hudbu online</string>
