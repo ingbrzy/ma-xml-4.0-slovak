@@ -23,6 +23,8 @@
 <string name="compress_title">Zbaliť</string>
 <string name="confirm">OK</string>
 <string name="confirm_know">OK</string>
+<string name="copy_failed">Kopírovanie zlyhalo</string>
+<string name="copy_success">Kopírovanie dokončené</string>
 <string name="create_new_folder_failed">Nie je možné vytvoriť zložku %1$s</string>
 <string name="create_new_folder_succeeded">Vytvorená zložka %1$s</string>
 <string name="cution">Tipy</string>
@@ -81,6 +83,8 @@
 <string name="instruction_pre">Slúži k prenosu súborov medzi telefónom a PC pomocou FTP protokolu.</string>
 <string name="kuaipan_over_space">Váš MiDrive už nemá voľné miesto.</string>
 <string name="kuaipan_tech_support">Technický poskytovateľ Kingsoft Kuaipan</string>
+<string name="kuaipan_prompt">MiDrive Pomoc</string>
+<string name="kuaipan_prompt_message">"Server je momentálne nedostupný, skúste to opäť neskôr"</string>
 <string name="local_cache">Lokálna medzipamäť/cache</string>
 <string name="local_cache_size">Veľkosť lokálnej medzipamäte/cache: %s</string>
 <string name="login_reg_content">MiDrive Vám pomáha udržiavať súbory a synchronizovať ich medzi viacerými zariadeniami.</string>
@@ -92,6 +96,8 @@
 <string name="menu_item_sort_name">Mena</string>
 <string name="menu_item_sort_size">Veľkosti</string>
 <string name="menu_item_sort_type">Typu</string>
+<string name="move_failed">Presunutie zlyhalo</string>
+<string name="move_success">Presunutie dokončené</string>
 <string name="multi_select_title">Vybraných %1$s</string>
 <string name="net_lose_connected">Sieť nedostupná, nie je možné zistiť veľkosť</string>
 <string name="networkView_notConnected">Sieť nedostupná</string>

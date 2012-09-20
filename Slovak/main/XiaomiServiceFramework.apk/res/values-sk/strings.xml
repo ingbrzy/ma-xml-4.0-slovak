@@ -105,6 +105,11 @@
     <string name="title_login">Prihláste sa k XiaoMi účtu</string>	
     <string name="title_reg">Zaregistrujte XiaoMi účet</string>	
     <string name="unactivated_user">Neaktivovaný</string>	
+	<string name="user_agreement_p1">"Prihlásením sa, súhlasíte "</string>
+    <string name="user_agreement_p2">s podmienkami služby Xiaomi</string>
+    <string name="user_agreement_p3"> a </string>
+    <string name="user_agreement_p4">Podmienkami súkromia</string>
+    <string name="user_agreement_p5">"Prihlásením sa, súhlasíte "</string>
 	<string name="activate_fail_notification_title">Opätovná aktivácia Xiaomi sync service</string>
 	<string name="activating">Aktivácia...</string>
 	<string name="btn_activate">Aktivovať</string>
