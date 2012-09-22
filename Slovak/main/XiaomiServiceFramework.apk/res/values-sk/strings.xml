@@ -58,7 +58,7 @@
     <string name="micloud_error_empty_pwd">Prosím vyplňte heslo</string>	
     <string name="micloud_error_empty_username">Prosím vyplňte Email/Číslo</string>	
     <string name="micloud_error_illegal_pwd">Nepovolené heslo</string>	
-    <string name="micloud_input_email_prompt">Vložte svpj email</string>	
+    <string name="micloud_input_email_prompt">Vložte svoj email</string>	
     <string name="micloud_input_password_prompt">Vložte heslo</string>	
     <string name="micloud_log_prompt">Prihlásenie k XiaoMi účtu</string>	
     <string name="micloud_on_pc_notice">"Navštívte i.xiaomi.com k správe Vaších dát"</string>	
