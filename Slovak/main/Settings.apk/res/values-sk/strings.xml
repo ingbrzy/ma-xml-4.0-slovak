@@ -671,7 +671,7 @@
     <string name="display_label">Obrazovka</string>	
     <string name="display_order_text">Radiť podľa:</string>	
     <string name="display_preview_label">Náhľad:</string>	
-    <string name="display_settings">Obraz</string>	
+    <string name="display_settings">Displej</string>	
     <string name="display_settings_title">Zobrazenie</string>	
     <string name="dlg_cancel">Zrušiť</string>	
     <string name="dlg_confirm_unmount_text">Pokiaľ SD kartu odpojíte, niektoré používané aplikácie prestanú fungovať. Tieto aplikácie pravdepodobne nebudú k dispozícií, pokiaľ SD kartu opäť nepripojíte.</string>	
