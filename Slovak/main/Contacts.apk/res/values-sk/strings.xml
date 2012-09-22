@@ -22,15 +22,15 @@
     <string name="aggregation_suggestion_join_dialog_title">Zlúčiť kontakty</string>
     <string name="attach_photo_dialog_title">Fotka kontaktu</string>
     <string name="audio_chat">Audio chat</string>
-	<string name="batch_delete_msg">"Odstrániť %d vybrané kontakty? Kontakty uložené v cloude budú zmazané."</string>  
-  	<string name="blurbJoinContactDataWith">Vyberte kontakt s ktorým chcete zlúčiť s %s:</string>
+    <string name="batch_delete_msg">"Odstrániť %d vybrané kontakty? Kontakty uložené v cloude budú zmazané."</string>  
+    <string name="blurbJoinContactDataWith">Vyberte kontakt s ktorým chcete zlúčiť s %s:</string>
     <string name="caching_vcard_message">Prebieha ukladanie vizitiek na dočasné úložisko, samotný import prebehne za okamžik</string>
     <string name="caching_vcard_title">Ukladanie vizitiek na dočasné úložisko</string>
-	<string name="callBack">Spätné volanie</string>
+    <string name="callBack">Spätné volanie</string>
     <string name="callDetailsDurationFormat" formatted="false">%s min %s s</string>
     <string name="callDetailTitle">Detaily hovoru</string>    
-	<string name="callNoAnswerTimeFormat">Volal %s krát</string>	
-	<string name="callShortcutActivityTitle">Vyberte číslo, ktorému chcete volať</string>
+    <string name="callNoAnswerTimeFormat">Volal %s krát</string>	
+    <string name="callShortcutActivityTitle">Vyberte číslo, ktorému chcete volať</string>
     <string name="call_assistant">Volať na číslo %s</string>
     <string name="call_callback">Volať na číslo spätného volania</string>
     <string name="call_car">Volať do auta</string>
@@ -58,7 +58,7 @@
     <string name="call_work_mobile">Volať na pracovný mobil</string>
     <string name="call_work_pager">Volať na pracovný pager</string>
     <string name="calllog_menu_blacklist">Pridať na black list</string>
-	<string name="calllog_menu_edit_before_call">Upraviť pred volaním</string>
+    <string name="calllog_menu_edit_before_call">Upraviť pred volaním</string>
     <string name="calllog_menu_send_sms">Poslať SMS</string>
     <string name="callrecordview_item_newcontact">Nový kontakt</string>
     <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d min %d s</string>
@@ -73,7 +73,7 @@
     <string name="callrecordview_menu_delete_all">Vymazať všetky záznamy o hovoroch</string>
     <string name="callrecordview_menu_delete_called">Vymazať volané</string>
     <string name="callrecordview_menu_delete_confirm">Vymazať %s?</string>
-	<string name="callrecordview_menu_delete_missed">Vymazať zmeškané hovory</string>
+    <string name="callrecordview_menu_delete_missed">Vymazať zmeškané hovory</string>
     <string name="callrecordview_menu_delete_one">Vymazať záznam o hovore</string>
     <string name="callrecordview_menu_delete_stranger">Vymazať neznáme čísla</string>
     <string name="callrecordview_menu_paste">Vložiť</string>
@@ -105,8 +105,8 @@
     <string name="clearCallLogConfirmation">Skutočne chcete vymazať hovory?</string>
     <string name="clearCallLogConfirmation_title">Vymazať hovory</string>
     <string name="clearCallLogProgress_title">Vymazávam zoznam hovorov</string>
-  	<string name="clear_default">Vymazať predvolené</string>  
-  	<string name="click_close">Kliknite pre zatvorenie</string>
+    <string name="clear_default">Vymazať predvolené</string>  
+    <string name="click_close">Kliknite pre zatvorenie</string>
     <string name="composer_failed_to_get_database_infomation">Načítanie informácií z databázy sa nepodarilo</string>
     <string name="composer_has_no_exportable_contact">Nemožno exportovať žiadne kontakty. Ak máte v telefóne skutočne uložené kontakty, je možné, že poskytovateľ dátových služieb zakázal ich export mimo telefón.</string>
     <string name="composer_not_initialized">Editor vCard nie je správne inicializovaný</string>
@@ -116,7 +116,7 @@
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />
     <string name="config_export_vcard_type">predvolené</string>
-	<string name="config_import_vcard_type">predvolené</string>
+    <string name="config_import_vcard_type">predvolené</string>
     <string name="config_prohibited_phone_number_regexp" />
     <string name="confirm_delete_selected_call_log">Potvrdiť vymazanie %1d záznamov o volaní?</string>
     <string name="confirm_export_message">Zoznam kontaktov bude exportovaný do súboru: %s.</string>
@@ -130,7 +130,7 @@
     <string name="contact_read_only">Kontaktné informácie zo zdroja %1$s nie je možné na tomto zariadení upraviť.</string>
     <string name="contact_status_update_attribution">cez %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s cez %2$s</string>
-	<string name="contacts_unavailable_add_xiaomi_account">Synch. kontakty Xiaomi</string>
+    <string name="contacts_unavailable_add_xiaomi_account">Synch. kontakty Xiaomi</string>
     <string name="contactDetailAbout">O kontakte</string>
     <string name="contactDetailCalllog">Záznamy hovorov</string>
     <string name="contactDetailUpdates">Aktualizácia</string>
@@ -278,10 +278,10 @@
     <string name="groupSavedToast">Skupina uložená</string>
     <string name="groupsLabel">Skupiny</string>
     <string name="hint_findContacts">Nájsť kontakty</string>
-	<string name="hint_search_phone_numbers">%d tel. čísiel kontaktov</string>
+    <string name="hint_search_phone_numbers">%d tel. čísiel kontaktov</string>
     <string formatted="false" name="hint_search_contacts">%d kontaktov</string>
     <string name="imLabelsGroup">IM</string>
-	<string name="imei">IMEI</string>
+    <string name="imei">IMEI</string>
     <string name="import_all_vcard_string">Importovať všetky vizitky</string>
     <string name="import_contact_card_button">Import</string>
     <string name="import_failure_no_vcard_file">Na SD karte nebola nájdená žiadna vizitka</string>
@@ -308,7 +308,13 @@
     <string name="launcherDialer">Telefón</string>
     <string name="listFoundAllContactsZero">Nenájdené</string>
     <string name="listTotalAllContactsZeroStarred">žiadne obľúbené kontakty</string>
-	<string name="list_filter_all_accounts">Všetky kontakty</string>
+    <string name="list_filter_all_accounts">Všetky kontakty</string>
+    <string name="listAllContactsInAccount">Kotakty z %s</string>
+    <string name="listCustomView">Kontakty vo vlastnom zobrazení</string>
+    <string name="listSingleContact">Jediný kontakt</string>
+    <string name="listTotalAllContactsZero">Žiadne kontakty.</string>
+    <string name="listTotalAllContactsZeroCustom">Žiadne viditeľné kontakty.</string>
+    <string name="listTotalAllContactsZeroGroup">Žiadne kontakty v %s</string>   
     <string name="list_filter_all_starred">Obľúbené</string>
     <string name="list_filter_custom">Vlastné</string>
     <string name="list_filter_customize">Vlastné...</string>
