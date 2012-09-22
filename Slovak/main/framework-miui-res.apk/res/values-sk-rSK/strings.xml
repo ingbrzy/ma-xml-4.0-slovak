@@ -120,7 +120,7 @@
   	<string name="safetylegal_activity_unreachable">Váš telefón nie je pripojený k dátovej sieti. Pre zobrazenie informácií teraz prejdite na %s z webového prehliadača vášho počítača pripojeného k sieti Internet.</string>
   	<string name="screen_on_proximity_sensor_hint">"Zabránenie náhodného použitia môžete vypnúť v 'Nastavenia - Displej'. Dlho podržte tlačidlo 'Zapínanie' pre vyvolanie Menu."</string>
 	<string name="screen_on_proximity_sensor_summary">"Zabránenie náhodného použitia je povolené. Funkcie telefónu sú nedostupné"</string>
-	<string name="screen_on_proximity_sensor_title">Zabránenie náhodného použitia</string>
+	<string name="screen_on_proximity_sensor_title">Zabránené náhodnému použitiu</string>
 	<string name="sd_not_available">SD karta je odpojená alebo neprístupná</string>
   	<string name="sd_not_available_low_internal_storage">SD karta je odpojená alebo neprístupná. Na internom úložisku je málo miesta.</string>
   	<string name="sd_not_available_saved_to_internal_storage">Uložené na interné úložisko</string>
