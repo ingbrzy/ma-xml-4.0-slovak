@@ -1390,7 +1390,8 @@
     <string name="sim_pins_dont_match">Kódy PIN nie sú zhodné</string>	
     <string name="sim_reenter_new">Potvrďte nový kód PIN.</string>	
     <string name="skip_button_label">Zrušiť</string>	
-    <string name="skip_label">Ďalej</string>	
+    <string name="skip_label">Ďalej</string>
+    <string name="skip_step">Preskočiť</string>	
     <string name="small_font">Malé</string>	
     <string name="sms_delivered_sound_dialog_title">Vybrať zvuk doručenky</string>	
     <string name="sms_delivered_sound_title">Zvuk doručenky</string>	
