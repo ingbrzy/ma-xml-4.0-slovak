@@ -85,6 +85,8 @@
     <string name="reg_failed">Registrácia sa nepodarila</string>	
     <string name="remove_account_notice">Čo si prajete vykonať so synchronizovanými správami, kontaktmi, históriou volaní, a poznámkami vo Vašom zariadení?</string>	
     <string name="send_sms_for_sync_notice">Je potrebné zaslať aktivačnú sms, pokračovať?</string>	
+	<string name="skip_setup_account_msg">Svoj účet Xiaomi môžete použiť na synchronizáciu správ, kontaktov a ďalších údajov. Chcete pokračovať neskôr?</string>
+    <string name="skip_setup_account_title">Preskočit nastavenia účtu</string>
     <string name="sub_sync_big_photo_item_summary">Doporučené zapnúť pre zníženie spotreby dát</string>	
     <string name="sub_sync_big_photo_item_title_wifi_only">Pre zobrazenie fotiek použiť iba Wifi</string>	
     <string name="sub_sync_item_gallery_summary">Doporučené zapnúť pre zníženie spotreby dát</string>	
@@ -119,7 +121,7 @@
 	<string name="check_phone_io_error">Chyba siete</string>
 	<string name="no_sim">SIM nenájdená, synchronizácia zlyhala</string>
 	<string name="send_sms_for_sync_title">Sync service nie je aktivovaný</string>
-	<string name="sim_changed_notification_content">SIM nieje aktivovaná, znova ju aktivujte, prosím.</string>
+	<string name="sim_changed_notification_content">SIM nieje aktivovaná. Aktivujte ju, prosím.</string>
 	<string name="sim_changed_reactivate_notice">Súčasná SIM nie je aktivovaná. Vyžaduje sa SMS pre jej aktivovanie, aktivovať teraz?</string>
 	<string name="xmpp_server_addr" />
 </resources>
