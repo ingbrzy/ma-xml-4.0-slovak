@@ -72,7 +72,7 @@
     <string name="micloud_val_sms_alert">Zašle sa SMS na potvrdenie Vášho telefónneho čísla, pokračovať?</string>	
     <string name="micloud_waiting">Čakajte...</string>	
     <string name="micloud_welcome_banner">Xiaomi</string>	
-    <string name="micloud_welcome_skip_login">Preskočiť</string>
+    <string name="micloud_welcome_skip_login"><u>Preskočiť</u></string>
     <string name="next">Ďalšie</string>
     <string name="other_settings">Ďalšie nastavenia</string>
     <string name="password">Heslo</string>	
