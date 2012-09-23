@@ -42,9 +42,9 @@
     <string name="login_notice">Prihlasovanie...</string>	
     <string name="login_retry">Opakovať</string>	
     <string name="micloud_about">" "<u>Viac o MiCloud</u>" "</string>	
-    <string name="micloud_account">XiaoMi účet</string>	
+    <string name="micloud_account">Xiaomi</string>	
     <string name="micloud_account_label">Účet: %1$s</string>	
-    <string name="micloud_account_name">XiaoMi účet</string>	
+    <string name="micloud_account_name">Xiaomi</string>	
     <string name="micloud_account_not_actived">Účet nie je aktivovaný</string>	
     <string name="micloud_active_email_sent_1">Zaslať aktivačný email na adresu:</string>	
     <string name="micloud_active_email_sent_2" />	
@@ -60,7 +60,7 @@
     <string name="micloud_error_illegal_pwd">Nepovolené heslo</string>	
     <string name="micloud_input_email_prompt">Vložte svoj email</string>	
     <string name="micloud_input_password_prompt">Vložte heslo</string>	
-    <string name="micloud_log_prompt">Prihlásenie k XiaoMi účtu</string>	
+    <string name="micloud_log_prompt">Prihlásenie k účtu Xiaomi</string>	
     <string name="micloud_on_pc_notice">"Navštívte i.xiaomi.com k správe Vaších dát"</string>	
     <string name="micloud_password_confirm_hint">Potvrďte heslo</string>	
     <string name="micloud_password_error_inconsistent">Heslá sa nezhodujú</string>	
@@ -71,7 +71,7 @@
     <string name="micloud_use_existing">Existujúci</string>	
     <string name="micloud_val_sms_alert">Zašle sa SMS na potvrdenie Vášho telefónneho čísla, pokračovať?</string>	
     <string name="micloud_waiting">Čakajte...</string>	
-    <string name="micloud_welcome_banner">XiaoMi účet</string>	
+    <string name="micloud_welcome_banner">Xiaomi</string>	
     <string name="micloud_welcome_skip_login">Preskočiť</string>
     <string name="next">Ďalšie</string>
     <string name="other_settings">Ďalšie nastavenia</string>
