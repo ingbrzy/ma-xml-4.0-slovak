@@ -36,6 +36,7 @@
   <string name="cleaning_cache"> Vymazať cache...</string>
   <string name="clear_thumbnail_cache">Vymazať cache náhľadov</string>
   <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria rescanuje mediálne súbory a vytvorí nové náhľady.</string>
+  <string name="clear_thumbnail_cache_summary">Prezeranie galérie vytvorí náhľady. Vymazanie medzipamäte uvoľní miesto na úložisku.</string> 
   <string name="click_import">Kliknite sem pre import</string>
   <string name="close">Zatvoriť</string>
   <string name="cloud_albums">Cloudové Albumy</string>
@@ -280,7 +281,8 @@
   <string name="sync_album">Synch. album</string>
   <string name="sync_album_error">Nepodarilo sa stiahnuť snímky v tomto albume. Prosím skúste opäť neskôr.</string>
   <string name="sync_album_set_error">Nepodarilo sa stiahnuť zoznam albumov. Prosím skúste opäť neskôr.</string>
-  <string name="sync_history_power_on">Synchronizovať obrázky len počas nabíjania telefónu</string>
+  <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string> 
+ <string name="sync_history_power_on">Synchronizovať obrázky len počas nabíjania telefónu</string>
   <string name="sync_history_power_on_summary">Odporúča sa povoliť, inak to môže mať vplyv na zvýšenú spotrebu batérie.</string>
   <string name="sync_not_open">Môžete automaticky synchronizovať Vaše fotografie s cloudom pre ich ľahšiu organizáciu.</string>
   <string name="sync_only_in_wifi">Iba Wi-Fi</string>

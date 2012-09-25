@@ -39,6 +39,7 @@
     <string name="answer_widget_sliding_vertical_miui">Vertikálne posunutie</string>
     <string name="answer_widget_title_miui">Gesto prijatia hovoru</string>
     <string name="apn_settings">Názvy prístupových bodov (AP)</string>
+    <string name="areacode_required_accept_miui">OK</string>
     <string name="areacode_required_for_emergency_number_miui">Miestne núdzové číslo</string>
     <string name="areacode_required_miui">Je potrebný kód krajiny</string>
     <string name="atr_disable">Oblastné prehľady dopravy zakázané</string>
@@ -271,10 +272,11 @@
     <string name="countrycode_alert_title_miui">Upozornenia</string>
     <string name="crystaltalk_summary_miui">Nastavenie optimalizácie zvuku hovoru</string>
     <string name="crystaltalk_title_miui">Nastavenie NICAM</string>
-    <string name="current_areacode_miui">Lokálny kód oblasti</string>
-    <string name="current_areacode_sum_miui">Lokálny kód aktuálneho umiestnenia. Napríklad: 421</string>
+    <string name="current_areacode_miui">Predvoľba krajiny</string>
+    <string name="current_areacode_sum_miui">Aktuálna predvoľba krajiny. Napríklad: 421</string>
+    <string name="current_areacode_sum_set_miui">Aktuálna predvoľba krajiny: %s</string>
     <string name="custom_location_location_hint_miui">Meno</string>
-    <string name="custom_location_number_hint_miui">Kód oblasti ako 421, číslo skupiny ako 68#####</string>
+    <string name="custom_location_number_hint_miui">Predvoľba krajiny ako 421, číslo skupiny ako 68#####</string>
     <string name="cw_title_miui">Čakajúci hovor</string>
     <string name="data_enable_summary">Aktivuje dátové prenosy prostredníctvom mobilnej siete</string>
     <string name="data_enabled">Dátové prenosy</string>

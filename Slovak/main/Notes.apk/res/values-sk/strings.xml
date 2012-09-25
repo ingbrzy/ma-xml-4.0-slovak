@@ -5,6 +5,8 @@
     <string name="alert_message_delete_folder">Vymazať zložku a v nej obsiahnuté poznámky?</string>
     <string name="alert_message_delete_note">Chcete vymazať túto poznámku?</string>
     <string name="alert_message_delete_notes">Chcete vymazať %d poznámok?</string>
+    <string name="alert_message_delete_folders">Chcete vymazať %1$s zložky?</string>
+    <string name="alert_message_delete_folders_notes">Chcete vymazať %1$s zložiek a %2$s poznámok?</string>
     <string name="alert_title_delete">Mazanie vybraných poznámok</string>
 	<string name="app_name">Poznámky</string> 
 	<string name="app_widget">Poznámky</string>
