@@ -269,10 +269,10 @@
     <string name="ghostData_title">Titulok</string>
     <string name="group_edit_field_hint_text">Meno skupiny</string>
     <string name="group_name_contacts">Kontakty</string>
-    <string name="group_name_coworkers">Spolupracovníci</string>
+    <string name="group_name_coworkers">Kolegovia</string>
     <string name="group_name_family">Rodina</string>
     <string name="group_name_friends">Priatelia</string>
-    <string name="group_name_hint"> Názov skupiny</string>
+    <string name="group_name_hint">Názov skupiny</string>
     <string name="group_read_only">Na tomto zariadení nemožno upraviť</string>
     <string name="groupSavedErrorToast">Chyba, nemožno uložiť zmeny.</string>
     <string name="groupSavedToast">Skupina uložená</string>
