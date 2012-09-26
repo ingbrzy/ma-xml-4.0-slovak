@@ -31,6 +31,7 @@
   <string name="camera_disconnected">Fotoaparát odpojený.</string>
   <string name="camera_folder_display_name">Snímky z fotoaparátu</string>
   <string name="camera_setas_wallpaper">Tapeta</string>
+  <string name="camera_view_none_message">Tu budú zobrazené Vaše fotografie.</string>
   <string name="cancel"> Zrušiť</string>
   <string name="cancel_bookmark">Odstrániť z obľúbených</string>
   <string name="cleaning_cache"> Vymazať cache...</string>
@@ -38,8 +39,10 @@
   <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria rescanuje mediálne súbory a vytvorí nové náhľady.</string>
   <string name="clear_thumbnail_cache_summary">Prezeranie galérie vytvorí náhľady. Vymazanie medzipamäte uvoľní miesto na úložisku.</string> 
   <string name="click_import">Kliknite sem pre import</string>
+  <string name="click_to_enter_camera">Otvoriť fotoaparát</string>
   <string name="close">Zatvoriť</string>
   <string name="cloud_albums">Cloudové Albumy</string>
+  <string name="cloud_gallery_no_pictures">Žiadne fotografie v MiCloud</string>
   <string name="cloud_gallery_setting">Nastavenia Cloudovej galérie</string>
   <string name="cloud_gallery_space_full">Upload zlyhal!, Cloudové úložisko galérie je plné</string>
   <string name="cloud_media_set_set">Cloudové albumy</string>
@@ -160,6 +163,7 @@
   <string name="mimetype">MIME písmo</string>
   <string name="miui_capture_screen_folder_display_name">Screenshoty</string>
   <string name="model">Model</string>
+  <string name="modify_cloud_settings">Nastavenia MiCloud</string>
   <string name="more">Viac</string>
   <string name="move_cloud_data">Údaje z cloudovej galérie boli premiestnené do: %s</string>
   <string name="movie_view_label">Video prehrávač</string>
@@ -172,6 +176,7 @@
   <string name="no_file">Nenašli sa žiadne súbory</string>
   <string name="no_files">Adresár je prázdny</string>
   <string name="no_location">Žiadna poloha</string>
+  <string name="no_network_connected">Žiadne internetové pripojenie</string>
   <string name="no_map_app">Žiadna aplikácia pre mapy</string>
   <string name="no_recent_album">Albumy možno pridať medzi obľúbené pre rýchle zobrazenie</string>
   <string name="no_storage_disable_cloud_albums">Cloudové albumy sú nedostupné, prosím skúste znovu keď bude externé úložisko dostupné.</string>
@@ -180,6 +185,7 @@
   <string name="no_such_item">"Nemôžem nájsť položku."</string>
   <string name="no_thumbnail">Žiaden náhľad</string>
   <string name="not_auto_create_recent_album">Nevytvárať automaticky často zobrazené albumy</string>
+  <string name="only_upload_in_charging">Fotografie budú odoslané len ak je pripojená nabíjačka.</string>
   <string name="open_map">Otvoriť mapu</string>
   <string name="open_single_image_failure">Obrázok sa nepodarilo otvoriť!</string>
   <string name="open_sync">Synchr. teraz</string>
