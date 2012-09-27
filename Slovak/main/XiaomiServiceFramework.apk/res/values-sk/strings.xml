@@ -2,6 +2,7 @@
 <resources>
     <string name="access_denied">Prístup zamietnutý</string>	
     <string name="account">Účet</string>	
+	<string name="account_dspt">"Účet Xiaomi môže synchronizovať a zálohovať Vaše správy, kontakty, fotky, atď"</string>
     <string name="account_hint_text">Email/Telefónne číslo</string>	
     <string name="account_name">Účet: %1$s</string>	
     <string name="alert_title_remove_account">Vymazať účet</string>	
