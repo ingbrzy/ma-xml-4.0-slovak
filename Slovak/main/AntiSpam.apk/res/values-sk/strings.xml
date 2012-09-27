@@ -39,7 +39,7 @@
     <string name="clear_all_mslog">Zmazať log správ</string>
     <string name="close_rule">Zrušiť všetky pravidlá</string>
     <string name="confirm">OK</string>
-	<string name="confirm_clear_blacklist">Ste si istý, že chcete vymazať čiernu listiny?</string>
+	<string name="confirm_clear_blacklist">Ste si istý, že chcete vymazať čiernu listinu?</string>
     <string name="confirm_clear_whitelist">Ste si istý, že chcete vymazať bielu listinu?</string>
     <string name="context_add_contact">Pridať do existujúceho kontaktu</string>
     <string name="context_call">Hovor %s</string>
