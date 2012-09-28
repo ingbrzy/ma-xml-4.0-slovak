@@ -238,7 +238,7 @@
     <string name="picasa">Picasa</string>	
     <string name="please_select_a_file_to_import">Prosím vyberte dátový súbor</string>	
     <string name="popup_window_attempt">Povoliť tejto stránke otvoriť pop-up okno?</string>	
-    <string name="pref_accessibility_title">Prístupnosť</string>	
+    <string name="pref_accessibility_title">Prispôsobenie</string>	
 	<string name="pref_allow_apptabs">Povoliť viac kariet na aplikáciu</string>
     <string name="pref_autofill_enabled">Automatické vypĺňanie formulárov</string>	
     <string name="pref_autofill_enabled_summary">Vypĺňanie formulárov jedným dotykom</string>	
@@ -371,8 +371,8 @@
     <string name="pref_text_zoom">Škálovanie textu</string>	
     <string name="pref_ua_mione_entry">Mi-one</string>	
     <string name="pref_ua_mione_value">6</string>	
-    <string name="pref_ua_string">User agent string</string>	
-    <string name="pref_ua_title">User agent management</string>	
+    <string name="pref_ua_string">Zariadenie</string>	
+    <string name="pref_ua_title">Identifikácia zariadenia</string>	
     <string name="pref_use_instant_search">Google Instant</string>	
     <string name="pref_use_instant_search_summary">Použiť Google Instant pri používaní Google Search pre zobrazenie výsledkov počas písania (toto môže zvýšiť použitie dát).</string>	
     <string name="pref_volume_key_enabled">Tlačidlá hlasitosti</string>	
