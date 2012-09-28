@@ -161,7 +161,7 @@
 <string name="tab_sd">SD karta</string>
 <string name="toast_file_not_can_read">Súbor je poškodený.</string>
 <string name="trash_box_capacity">Kapacita koša: %1$s</string>
-<string name="trash_box_link">Prejsť na pan.xiaomi.com vyprázdniť kôš</string>
+<string name="trash_box_link">Prejsť na i.xiaomi.com vyprázdniť kôš</string>
 <string name="trash_box_message1">Môžete odstrániť zbytočné súbory a uvoľniť tak miesto</string>
 <string name="trash_box_message2">Môžete odstrániť súbory a vyprázdnite kôš, aby ste urobili miesto</string>
 <string name="ui_bar_title_download">MiDrive: Sťahovanie</string>
