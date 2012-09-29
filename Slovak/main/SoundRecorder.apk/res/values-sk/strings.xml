@@ -33,7 +33,7 @@
     <string name="notification_warning">Málo miesta, ostáva menej ako %d minút</string>
     <string name="record_list">Zoznam nahrávok</string>
     <string name="sd_card_not_available">SD karta nie je dostupná</string>
-    <string name="call_record">Nahrávanie hovoru</string>
+    <string name="call_record">Nahrávanie hovoru (%d)</string>
     <string name="open_file_explorer">Otvoriť správcu súborov</string>
     <string name="no_file">Žiadne nahrávky</string>
 	<string name="notification_playback">Prehrávanie nahrávky...</string>
