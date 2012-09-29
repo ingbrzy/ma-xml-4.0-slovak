@@ -743,7 +743,7 @@
     <string name="filter_apps_third_party">Stiahnuté</string>	
     <string name="filter_dlg_title">Vyberte možnosti filtra</string>	
     <string name="finish_button_label">Dokončiť</string>	
-    <string name="firmware_version">Verzia Android:</string>	
+    <string name="firmware_version">Android:</string>	
 	<string name="font_size_huge">Obrovské</string>
 	<string name="font_size_large">Veľké</string>
 	<string name="font_size_medium">Stredné</string>
