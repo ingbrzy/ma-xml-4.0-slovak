@@ -139,7 +139,7 @@
   <string name="loading_image">Načítavam obrázok...</string>
   <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
   <string name="loading_video">Načítavam video...</string>
-  <string name="loading_will_cost">Sťahovanie fotografií vyžaduje prenos dát</string>
+  <string name="loading_will_cost">Sťahovanie fotografií vyžaduje prenos dát (%1$dK)</string>
   <string name="location">Poloha</string>
   <string name="locations">Polohy</string>
   <string name="login_account">Prihlásenie Xiaomi &amp; Sync</string>
