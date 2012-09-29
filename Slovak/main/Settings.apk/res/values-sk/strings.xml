@@ -176,7 +176,7 @@
     <string name="auto_restore_summary">Pri preinštalácií aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>	
     <string name="auto_restore_title">Automatické obnovenie</string>	
     <string name="automatic_brightness">Automatický jas</string>	
-    <string name="available_size">Dostupné: %s</string>	
+    <string name="available_size">%s Voľné</string>	
     <string name="awake">Doba prevádzky zariadenia</string>	
     <string name="back_long_press">Tlačítko späť</string>	
     <string name="back_long_press_timeout">Dĺžka stlačenia</string>	
@@ -1490,7 +1490,7 @@
     <string name="time_zone_auto_stub">Vyberte časovú zónu</string>	
     <string name="timezone_settings">Časová zóna</string>	
     <string name="title_font_size">Veľkosť písma</string>	
-    <string name="total_size">Celkom: %s</string>	
+    <string name="total_size">%s Celkom</string>	
     <string name="total_size_label">Celkom</string>	
   	<string name="track_frame_time">Profile GPU rendering</string>
   	<string name="track_frame_time_summary">Measure rendering time in adb shell dumpsys gfxinfo</string>
