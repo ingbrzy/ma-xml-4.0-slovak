@@ -281,6 +281,7 @@
   <string name="slideshow_interval_invalid">Neplatné nastavenie časového intervalu, musí byť medzi 1 a 3600.</string>
   <string name="slideshow_repeat_mode">Opakovať</string>
   <string name="storage_all_volumes">Všetky úložné zariadenia</string>
+  <string name="storage_no_space">"Nieje voľné miesto na úložisku."</string>
   <string name="straighten">Vyrovnať</string>
   <string name="straighten_tooltip">Potiahni snímku pre jej vyrovnanie</string>
   <string name="switch_to_camera">Prepnúť na fotoaparát</string>

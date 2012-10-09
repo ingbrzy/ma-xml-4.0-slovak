@@ -87,9 +87,9 @@
     <string name="callrecordview_menu_show_title">Výber kategórie</string>
     <string name="cancel_confirmation_dialog_message">Chcete zrušiť uskutočnené zmeny?</string>
     <string name="cancel_confirmation_dialog_title">Zrušiť zmeny</string>
-    <string name="cancel_export_confirmation_message"> Skutočne chcete prerušiť export %s?</string>
+    <string name="cancel_export_confirmation_message">Skutočne chcete prerušiť export %s?</string>
     <string name="cancel_export_confirmation_title">Ruším export vizitiek</string>
-    <string name="cancel_import_confirmation_message"> Skutočne chcete prerušiť import %s?</string>
+    <string name="cancel_import_confirmation_message">Skutočne chcete prerušiť import %s?</string>
     <string name="cancel_import_confirmation_title">Ruším import vizitiek</string>
     <string name="cancel_vcard_import_or_export_failed">Rušenie importu/exportu vizitiek zlyhalo</string>
     <string name="chat">Chat</string>

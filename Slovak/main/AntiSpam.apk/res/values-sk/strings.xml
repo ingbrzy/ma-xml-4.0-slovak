@@ -67,6 +67,7 @@
     <string formatted="false" name="fw_call">Čas hovoru: %s (%d)</string>
     <string name="fw_call_muted">Hovory stíšené</string>
     <string name="fw_call_rejected">Hovory odmietané</string>
+	<string name="fw_call_imported">Importovať zo záznamu volaní</string>
     <string name="fw_clear_all_keyword">Zmazať všetky kľúčové slová</string>
     <string name="fw_clear_blacklist">Vyčistiť čiernu listinu</string>
     <string name="fw_clear_whitelist">Vyčistiť bielu listinu</string>
