@@ -113,7 +113,9 @@ Môžete ich upraviť."</string>
     <string name="sync_fail_notify_title">Dotaz zlyhal</string>
     <string name="sync_traffic_fail_message">Dotaz na operátora zlyhal, možno je server zaneprázdnený. Skúste to prosím neskôr, alebo zavolajte na zákaznícku podporu %s</string>	
     <string name="sync_traffic_fail_title">Dotaz zlyhal</string>	
-    <string name="sync_traffic_ing">Získavam od operátora,prosím čakajte …</string>	
+    <string name="sync_traffic_ing">Získavam od operátora,prosím čakajte...</string>
+    <string name="sync_traffic_no_cmd_detail">"Npíšte Vašu krajinu a operátora na naše fórum MIUI: http://www.miui.com/forum-172-1.html. Ďakujeme."</string>
+    <string name="sync_traffic_no_cmd_title">Nie je dostupná vzorová SMS</string>	
     <string name="sync_traffic_success">"Získané dáta od operátora, prevádzka upravená"</string>	
     <string name="this_month">Tento mesiac</string>	
     <string name="today">Dnes</string>	
