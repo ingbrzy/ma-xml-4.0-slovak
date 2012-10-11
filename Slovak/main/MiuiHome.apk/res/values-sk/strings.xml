@@ -38,6 +38,7 @@
 	<string name="gadget_weather_downloading">Téma sa sťahuje. Po dokončení ju opäť vyberte.</string>
 	<string name="gadget_weather_theme_type">Typ Widgetu</string>
     <string name="gadget_weather_loading">Žiadne dáta o počasí</string>
+	<string name="gadget_weather_low_temp">nízka teplota</string>
     <string name="gadget_weather_title_14">Počasie 1X4</string>
     <string name="gadget_weather_title_24">Počasie 2X4</string>
     <string name="global_search_hint">Vložte hľadaný výraz</string>
