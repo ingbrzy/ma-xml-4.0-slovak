@@ -933,9 +933,9 @@
     <string name="sum_select_automatically_option_miui">Automaticky vybrať preferovanú sieť, %s</string>
     <string name="sum_show_caller_id">Číslo sa zobrazí v odchádzajúcich hovoroch</string>
     <string name="sum_voicemail_choose_provider">Vyberte službu hlasovej schránky</string>
-	<string name="t9_indexing_method_pinyin">PinYin</string>
+	<string name="t9_indexing_method_pinyin">Abecedne</string>
     <string name="t9_indexing_method_title_miui">Vyhľadávanie T9</string>
-    <string name="t9_indexing_method_zhuyin">ZhuYin</string>
+    <string name="t9_indexing_method_zhuyin">Foneticky</string>
     <string name="t9_indexing_rebuilding_message">Obnovovanie T9 Indexov...</string>
     <string name="technology_news_disable">Technologické správy zakázané</string>
     <string name="technology_news_enable">Technologické správy povolené</string>
