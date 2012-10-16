@@ -44,4 +44,9 @@
     <string name="video_info_length_label">Dĺžka:</string>
     <string name="video_info_resolution_label">Rozlíšenie videa:</string>
     <string name="video_info_video_coding_label">Formát kódovania videa:</string>
+	<string name="vp_VideoView_error_button">OK</string>
+    <string name="vp_VideoView_error_network_not_available">Sieť je nedostupná</string>
+    <string name="vp_VideoView_error_text_invalid_progressive_playback">Prepáčte ale vybrané video nieje možné streamovať do zariadenia</string>
+    <string name="vp_VideoView_error_text_unknown">Prepáčte ale vybraný formát súboru nieje možné prehrať</string>
+    <string name="vp_VideoView_error_title">Chyba prehrávania videa!</string>
 </resources>

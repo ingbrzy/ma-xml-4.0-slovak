@@ -67,7 +67,8 @@
   <string name="confirm_dialog_title">Vymazať</string>
   <string name="confirm_rate_limit">Odosielate veľké množstvo MMS správ. Je to v poriadku?</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>
-  <string name="context_menu_browse_web">WWW</string>
+  <string name="context_menu_browse_web">www</string>
+  <string name="context_menu_call">Zavolať</string>
   <string name="context_menu_contact">Kontakt: %1$s</string>
   <string name="context_menu_copy">Kópia</string>
   <string name="context_menu_copy_notice">Text bol skopírovaný do schránky</string>
