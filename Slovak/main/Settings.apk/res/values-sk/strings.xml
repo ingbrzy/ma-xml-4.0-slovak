@@ -1751,6 +1751,8 @@
     <string name="wfd_menu_searching">Vyhľadávanie...</string>
     <string name="wfd_menu_teardown">Odpojiť</string>
     <string name="wfd_settings_title">Nastavenia Wi-Fi Displej</string>
+	<string name="wfd_wps_keypad">Stlačenie tlačidla</string>
+    <string name="wfd_wps_pbc">Vložiť PIN</string>
     <string name="widget_picker_title">Zvoľte widget</string>	
     <string name="wifi_access_points">Siete WiFi</string>	
     <string name="wifi_add_network">Pridať sieť</string>	
