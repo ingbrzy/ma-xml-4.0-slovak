@@ -71,7 +71,6 @@
     <string name="fade_effect_summary">Zapnúť prelínanie medzi jednotlivými skladbami</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="filter_by_duration">Filtrovať podľa dĺžky</string>
-    <string name="filter_by_duration_format" formatted="false">%2$dmin%5$2ds</string>
     <string name="filter_by_duration_max">5 hod</string>
     <string name="filter_by_duration_min">0 s</string>
     <string name="filter_by_duration_prefix">Maximálna dĺžka (v hodinách):</string>

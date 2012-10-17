@@ -191,7 +191,6 @@
     <string name="import_bookmarks_wizard_next">Ďalej</string>	
     <string name="import_bookmarks_wizard_previous">Späť</string>	
     <string name="importing_favorite_files">Importovanie údajov ...</string>	
-    <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>	
     <string name="instant_search_label">Google s Instant (Labs)</string>	
 	<string name="is_first_history_item">Prvý záznam v histórii</string>
 	<string name="is_first_tab">prvá záložka</string>
@@ -381,7 +380,6 @@
     <string name="preview">Náhľad</string>	
     <string name="progress_dialog_setting_wallpaper"> Nastavovanie tapety…</string>	
 	<string name="readmode_reach_last_page">Bola dosiahnutá posledná stránka</string>
-	<string name="readmodelist_bookmarks">_readinglist_in_database_</string>
 	<string name="readmodelist_bookmarks_to_show">Zoznam zaujímavych</string>
 	<string name="recover">Obnoviť</string>
 	<string name="recover_from_crash">Pokračovať od poslednej relácie</string>    
