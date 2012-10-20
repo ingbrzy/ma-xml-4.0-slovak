@@ -910,8 +910,8 @@ Ak chcete pokračovať, dotknite sa tlačidla OK. Ak chcete zostať na stránke,
     <string name="low_internal_storage_view_title">Nedostatok ukladacieho priestoru</string>
     <string name="low_internal_storage_view_text">Niektoré systémové funkcie nemusia fungovať</string>
     <string name="loading">Prebieha načítavanie...</string>
-    <string name="capital_on">ZAPNUTÉ</string>
-    <string name="capital_off">VYPNUTÉ</string>
+    <string name="capital_on">ZAP</string>
+    <string name="capital_off">VYP</string>
     <string name="whichApplication">Dokončiť akciu pomocou aplikácie</string>
     <string name="alwaysUse">Použiť ako predvolené nastavenie pre túto akciu.</string>
     <string name="clearDefaultHintMsg">Vymazať predvolené nastavenia v sekcii Nastavenia systému > Aplikácie > Prevzaté položky.</string>
@@ -1216,7 +1216,7 @@ pre účet %s"</string>
     <string name="fingerprints">Digitálne odtlačky:</string>
     <string name="sha256_fingerprint">Digitálny odtlačok SHA-256:</string>
     <string name="sha1_fingerprint">Digitálny odtlačok SHA-1:</string>
-    <string name="activity_chooser_view_see_all"><b>Zobraziť všetky</b></string>
+    <string name="activity_chooser_view_see_all">Zobraziť všetky</string>
     <string name="activity_chooser_view_dialog_title_default">Vybrať aktivitu</string>
     <string name="share_action_provider_share_with">Zdieľať s</string>
     <string name="status_bar_device_locked">Zariadenie je zamknuté.</string>
