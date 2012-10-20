@@ -876,8 +876,7 @@
     <string name="location_title">Moja poloha</string>	
     <string name="lock_after_timeout">Automaticky zamknúť</string>	
     <string name="lock_after_timeout_summary">Po %1$s spánku</string>	
-    <string name="lock_intro_message">"Svoj telefón môžete chrániť pred neoprávneným použitím pomocou osobného gesta pre odomknutie obrazovky. Body na nasledujúcej obrazovke spojte prstom 
-		v akomkoľvek poradí. Spojiť je nutné aspoň štyri body. Akonáhle budete pripravení začať, dotknite sa tlačítka Ďalší."</string>	
+    <string name="lock_intro_message">"Svoj telefón môžete chrániť pred neoprávneným použitím pomocou osobného gesta pre odomknutie obrazovky. Body na nasledujúcej obrazovke spojte prstom v akomkoľvek poradí. Spojiť je nutné aspoň štyri body. Akonáhle budete pripravení začať, dotknite sa tlačítka Ďalší."</string>	
     <string name="lock_screen_unlock_show">Zobraz heslo displeja priamo</string>	
     <string name="lock_screen_unlock_show_summary">"Po povolení nepoužívajte iné uzamykanie displeja, choďte len do rozhrania pre uzamykanie"</string>	
     <string name="lock_settings_picker_settings">Nastaviť zámok obrazovky</string>	
