@@ -10,4 +10,17 @@
         <item>Správy</item>
         <item>Emaily</item>
     </string-array>
+	<string-array name="contact_entries">
+        <item>Meno</item>
+        <item>Prezívka</item>
+        <item>Telefón</item>
+        <item>E-mail</item>
+        <item>Organizácia</item>
+        <item>Chat</item>
+        <item>SIP Telefón</item>
+        <item>Narodeniny</item>
+        <item>Web</item>
+        <item>Adresa</item>
+        <item>Poznámka</item>
+    </string-array>
 </resources>

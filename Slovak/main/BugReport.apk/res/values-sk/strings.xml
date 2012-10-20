@@ -11,7 +11,7 @@
     <string name="btn_send">Odoslať</string>
     <string name="err_type">Typ chyby</string>
     <string name="err_type_reboot">Reštartovanie</string>
-    <string name="err_type_force_close">Ukončenie</string>
+    <string name="err_type_force_close">Pád aplikácie</string>
     <string name="err_type_network">Chyba siete</string>
     <string name="err_type_others">Iné</string>
     <string name="err_type_power_consuming">Vysoká spotreba</string>
