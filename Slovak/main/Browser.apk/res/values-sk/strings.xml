@@ -33,7 +33,7 @@
     <string name="add_to_other_folder_menu_option">Iný priečinok</string>	
     <string name="add_xiaomi_account_warning">Najskôr sa prosím prihláste do účtu Xiaomi</string>	
     <string name="added_to_bookmarks">Pridať do záložiek.</string>	
-    <string name="allow"> Povoliť</string>	
+    <string name="allow">Povoliť</string>	
     <string name="application_name">Prehliadač</string>	
     <string name="autofill_profile_editor_address_line_1">Riadok adresy 1:</string>	
     <string name="autofill_profile_editor_address_line_1_hint">Ulica, P.O. box,</string>	
@@ -49,7 +49,7 @@
     <string name="autofill_profile_editor_phone_number">Telefón:</string>	
     <string name="autofill_profile_editor_phone_number_invalid">Neplatné telefónne číslo.</string>	
     <string name="autofill_profile_editor_save_profile">Uložiť</string>	
-    <string name="autofill_profile_editor_state">Štát/Provincia/Región:</string>	
+    <string name="autofill_profile_editor_state">Štát/Región:</string>	
     <string name="autofill_profile_editor_zip_code">PSČ:</string>	
     <string name="autofill_profile_successful_delete">Automatické vypĺňanie textu vymazané.</string>	
     <string name="autofill_profile_successful_save">Automatické vypĺňanie textu uložené.</string>	
@@ -100,7 +100,7 @@
     <string name="contextmenu_add_contact">Pridať kontakt</string>	
     <string name="contextmenu_copy">Kopírovať</string>	
     <string name="contextmenu_copylink">Kopírovať link URL</string>	
-    <string name="contextmenu_dial_dot">Volať…</string>	
+    <string name="contextmenu_dial_dot">Volať...</string>	
     <string name="contextmenu_download_image">Uložiť obrázok</string>	
     <string name="contextmenu_download_image_as">Uložiť obrázok ako</string>	
     <string name="contextmenu_map">Mapa</string>	
@@ -164,13 +164,12 @@
     <string name="geolocation_settings_page_dialog_message">Vymazať prístup k polohe pre túto stránku?</string>	
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>	
     <string name="geolocation_settings_page_summary_allowed">Táto stránka má práve prístup k vašej polohe.</string>	
-    <string name="geolocation_settings_page_summary_not_allowed">" Táto stránka práve nemá prístup k vašej polohe. "</string>	
+    <string name="geolocation_settings_page_summary_not_allowed">"Táto stránka práve nemá prístup k Vašej polohe."</string>	
     <string name="geolocation_settings_page_title">Vymazať prístup k polohe</string>	
     <string name="go_home">Domovská stránka</string>	
     <string name="google_bookmarks">"Google: "</string>	
     <string name="goto_dot">Choď</string>	
     <string name="history">História</string>	
-    <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>	
     <string name="homepage_set">Nastaviť domovskú stránku.</string>	
     <string name="http">http://</string>	
     <string name="import_bookmark">Importovať záložky</string>	
@@ -190,7 +189,7 @@
     <string name="import_bookmarks_wizard_done">Dokončiť</string>	
     <string name="import_bookmarks_wizard_next">Ďalej</string>	
     <string name="import_bookmarks_wizard_previous">Späť</string>	
-    <string name="importing_favorite_files">Importovanie údajov ...</string>	
+    <string name="importing_favorite_files">Importovanie údajov...</string>	
     <string name="instant_search_label">Google s Instant (Labs)</string>	
 	<string name="is_first_history_item">Prvý záznam v histórii</string>
 	<string name="is_first_tab">prvá záložka</string>
@@ -199,7 +198,7 @@
 	<string name="is_page_bottom">V dolnej časti stránky</string>
 	<string name="is_page_top">V hornej časti stránky</string> 
    	<string name="js_engine_flags">Nastaviť JS flags</string>	
-    <string name="loading_video"> Nahrávam video…</string>	
+    <string name="loading_video">Nahrávam video...</string>	
     <string name="loadSuspended">"Prehliadač nemôže načítať stránku, žiadne pripojenie na Internet."</string>	
     <string name="loadSuspendedTitle">Žiadne pripojenie</string>	
     <string name="local_bookmarks">Lokálna</string>	
@@ -264,13 +263,9 @@
     <string name="pref_content_search_engine">Nastaviť vyhľadávací engine</string>	
     <string name="pref_content_search_engine_summary">Vybrať vyhľadávací engine</string>	
     <string name="pref_content_title">Obsah stránky</string>	
-    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>	
     <string name="pref_data_preload_dialogtitle">Prednahrávanie výsledkov vyhľadávania.</string>	
     <string name="pref_data_preload_summary">Povoliť prehliadaču prednahrávať výsledky vyhľadávania s vysokou spoľahlivosťou na pozadí.</string>	
     <string name="pref_data_preload_title">Prednahrávanie výsledkov hľadania</string>	
-    <string name="pref_data_preload_value_always">VŽDY</string>	
-    <string name="pref_data_preload_value_never">NIKDY</string>	
-    <string name="pref_data_preload_value_wifi_only">IBA_WIFI</string>	
     <string name="pref_data_title">Riadenie šírky pásma</string>	
     <string name="pref_default_text_encoding">Enkódovanie textu</string>	
   	<string name="pref_default_text_encoding_default">Latin-1</string>  
@@ -322,13 +317,9 @@
     <string name="pref_lab_quick_controls">Rýchle ovládanie</string>	
     <string name="pref_lab_quick_controls_summary">Potiahnite prst z ľavého alebo pravého okraja obrazovky, aby ste otvorili rýchle ovládanie a skryli URL a app lišty.</string>	
     <string name="pref_lab_title">Labs</string>
-    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_dialogtitle">Prednačítanie webstránky</string>
     <string name="pref_link_prefetch_summary">Povoliť prednačítanie webstránok na pozadí</string>
     <string name="pref_link_prefetch_title">Prednačítanie webstránky</string>
-    <string name="pref_link_prefetch_value_always">VŽDY</string>
-    <string name="pref_link_prefetch_value_never">NIKDY</string>
-    <string name="pref_link_prefetch_value_wifi_only">IBA_WIFI</string>
 	<string name="pref_min_font_size">Minimálna veľkosť fontu</string>	
     <string name="pref_min_font_size_value">%d pt</string>	
     <string name="pref_privacy_clear_cache">Vymazať cache</string>	
@@ -354,7 +345,7 @@
     <string name="pref_privacy_enable_geolocation_summary">Povoliť stránkam požadovať vaše umiestnenie.</string>	
     <string name="pref_privacy_formdata_title">Údaje formulára</string>	
     <string name="pref_privacy_location_title">Umiestnenie</string>	
-    <string name="pref_privacy_security_title">Súkromie &amp; bezpečnosť</string>	
+    <string name="pref_privacy_security_title">Súkromie a bezpečnosť</string>	
     <string name="pref_reading_mode_enabled_title">Čítací mód</string>	
     <string name="pref_reading_mode_enabled_title_summary">Je potrebné zapnúť JavaScript</string>	
     <string name="pref_security_accept_cookies">Povoliť cookies</string>	
@@ -368,8 +359,6 @@
     <string name="pref_security_show_security_warning_summary">"Zobraziť výstrahu, ak sa vyskytne problém so zabezpečením stránky"</string>	
     <string name="pref_set_homepage_to">Nastaviť ako</string>	
     <string name="pref_text_zoom">Škálovanie textu</string>	
-    <string name="pref_ua_mione_entry">Mi-one</string>	
-    <string name="pref_ua_mione_value">6</string>	
     <string name="pref_ua_string">Zariadenie</string>	
     <string name="pref_ua_title">Identifikácia zariadenia</string>	
     <string name="pref_use_instant_search">Google Instant</string>	
@@ -392,9 +381,8 @@
     <string name="removed_from_bookmarks">Odstránené zo záložiek.</string>	
     <string name="replace">Nahradiť</string>	
     <string name="report_reading_mode_issue">Oznámiť problémy s čítacím módom MIUI</string>	
-    <string name="rlz_access_point">Y1</string>	
     <string name="save">OK</string>	
-	<string name="saving_snapshot">Ukladanie…</string>
+	<string name="saving_snapshot">Ukladanie...</string>
     <string name="save_to_bookmarks">Uložiť do záložiek</string>	
     <string name="search_baidu">Baidu</string>	
     <string name="search_bing">Bing</string>	
@@ -427,7 +415,7 @@
     <string name="ssl_untrusted">"Tento certifikát nepochádza od dôveryhodnej autority."</string>	
     <string name="ssl_warnings_header">Vyskytli sa problémy s bezpečnostným certifikátom pre túto stránku.</string>	
     <string name="stop">Stop</string>	
-    <string name="stopping">Zastavovanie…</string>	
+    <string name="stopping">Zastavovanie...</string>	
     <string name="tab_bookmarks">Záložky</string>	
     <string name="tab_closed">Karta zatvorená.</string>	
     <string name="tab_history">História</string>	
@@ -435,8 +423,8 @@
     <string name="tab_opened_background">Karta otvorená na pozadí.</string>	
     <string name="tab_quicklinks">Rýchle odkazy</string>	
     <string name="tab_snapshots">Uložené stránky</string>	
-    <string name="tab_yellowpage">Žltá stránka</string>	
-    <string name="title_bar_loading">Nahrávam…</string>	
+    <string name="tab_yellowpage">Zlaté stránky</string>	
+    <string name="title_bar_loading">Nahrávam...</string>	
     <string name="too_many_subwindows_dialog_message">Súčasne môže byť otvorené len jedno pop-up okno.</string>	
     <string name="too_many_subwindows_dialog_title">Pop-up je už otvorený</string>	
     <string name="too_many_windows_dialog_message">"Nemožno otvoriť novú kartu, kým inú nezavriete."</string>	
