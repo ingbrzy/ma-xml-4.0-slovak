@@ -224,6 +224,8 @@
   <string name="multimedia_notification">Zvuk oznámenia</string>
   <string name="mx_activate_failure">Aktivovanie Cloud správ zlyhalo</string>
   <string name="mx_activating">Aktivovanie…</string>
+  <string name="mx_auto_resend_mms">Auto. odoslanie MMS</string>
+  <string name="mx_auto_resend_mms_summary">Odoslať ako MMS ak Cloud Správy niesú dostupné. Bude spoplatnené Vaším operátorom.</string>
   <string name="mx_activate_error_malformed_info">Aktivovanie Cloud správ zlyhalo, vyžaduje sa opätovný pokus o aktiváciu</string>
   <string name="mx_activate_error_server">Aktivácia servera pre Cloud správy zlyhala</string>
   <string name="mx_activate_error_sim_change">SIM karta zmenená, vyžaduje sa opätovný pokus o aktiváciu Cloud správ</string>

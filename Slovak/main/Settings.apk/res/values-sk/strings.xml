@@ -1014,6 +1014,25 @@
     <string name="move_app_to_internal">Presunúť do telefónu</string>	
     <string name="move_app_to_sdcard">Presunúť na SD kartu</string>	
     <string name="moving">Presúvanie</string>	
+	<string name="msd_help_summary">"Máte problém s prístupom na úložisko telefónu cez počítač? Zvoľte Váš operačný systém:"</string>
+    <string name="msd_help_title">Pomoc</string>
+    <string name="msd_install">Inštalovať ovládač</string>
+    <string name="msd_install_finish">OK</string>
+    <string name="msd_install_next">Ďalej</string>
+    <string name="msd_install_retry_linux">"Ak Váš počítač nerozpozná telefón,
+ Skúste nasledovné:
+ 1) Použite príkaz: sudo aptitude install mtpfs libfuse-dev libmad0-dev
+ 2) Vytvorte zložku: mkdir /media/mtp
+ 3) Potvrďte oprávnenia skupiny pre súčasnú skupinu používateľov
+ 4) Opäť sa prihláste
+ 5) Prejdite do pripojených zariadení mtpfs /media/mtp cez File Explorer
+ 6) Odinštalujte zariadenie fusermount -u /media/mtp
+  Poznámka: Platí len pre linux Ubuntu 8.04 a vyššie"</string>
+    <string name="msd_install_retry_mac">"Ak počítač nenašiel Váš telefón, skúste nasledovné:"</string>
+    <string name="msd_install_retry_windows_vista">"Ak počítač nenašiel Váš telefón, skúste nasledovné:"</string>
+    <string name="msd_install_retry_windows_xp">"Ak počítač nenašiel Váš telefón, skúste nasledovné:"</string>
+    <string name="msd_install_succeed">Ovládač nainštalovaný</string>
+    <string name="msd_install_windows_xp_step_2_1">"1.Ak sa zobrazí sprievodca inštalácie, nasledujte všetky kroky pre správne nainštalovanie ovládačov"</string>
     <string name="multi_touch_points_category_title">Multidotykové body</string>	
     <string name="multi_touch_points_preference">Reštartovať pre zapnutie</string>	
     <string name="musicfx_title">Hudobné efekty</string>	

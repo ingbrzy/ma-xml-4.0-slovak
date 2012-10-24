@@ -184,6 +184,7 @@
   <string name="no_storage_title">Žiadne úložisko</string>
   <string name="no_such_item">"Nemôžem nájsť položku."</string>
   <string name="no_thumbnail">Žiaden náhľad</string>
+  <string name="none_picture">V galérií sa nenašli žiadne fotky</string>
   <string name="not_auto_create_recent_album">Nevytvárať automaticky často zobrazené albumy</string>
   <string name="only_upload_in_charging">Fotografie budú odoslané len ak je pripojená nabíjačka.</string>
   <string name="open_map">Otvoriť mapu</string>

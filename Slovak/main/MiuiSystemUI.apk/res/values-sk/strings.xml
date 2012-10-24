@@ -260,7 +260,13 @@
     <string name="usb_mode_dont_ask">"Na budúce sa nepýtať"</string>	
     <string name="usb_mode_mount_storage_title">Otvoriť USB úložisko?</string>	
     <string name="usb_mode_notification">USB úložisko</string>	
+    <string name="usb_mtp_text">Súbory</string>
+    <string name="usb_notification">USB pripojené</string>
+    <string name="usb_notification_mtp_info">Prístup k súborom cez pripojenie k počítaču</string>
+    <string name="usb_notification_mtp_problem">Pomoc &gt;</string>
+    <string name="usb_notification_ptp_info">Prístup k fotkám cez pripojenie k počítaču</string>
     <string name="usb_preference_title">Nastavenie USB prenosu</string>	
+	<string name="usb_ptp_text">Fotky</string>
     <string name="usb_storage_error_message">Vyskytol sa problém pri použití USB úložiska ako USB mass storage.</string>	
     <string name="usb_storage_message">Ste pripojení k počítaču cez USB. Stlačte tlačítko nižšie, ak chcete kopírovať súbory medzi počítačom a Android USB úložiskom.</string>	
     <string name="usb_storage_notification_message">Vyberte súbory pre skopírovanie do/z vášho počítača.</string>	
