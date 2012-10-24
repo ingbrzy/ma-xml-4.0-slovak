@@ -468,6 +468,9 @@
     <string name="postal_postcode">PSČ</string>
     <string name="postal_region">Štát</string>
     <string name="postal_street">Ulica</string>
+    <string name="pref_key_photo">Fotka</string>
+    <string name="pref_key_photo_word_summary">Automaticky zvoliť fotku pre kontakty ktoré ju nemajú.</string>
+    <string name="pref_key_photo_word_title">Automaticky zvoliť fotku pre kontakty</string>
 	<string name="pref_key_rebuild_t9_index_message">Opraviť index vyhľadávania kontaktov</string>
 	<string name="pref_key_rebuild_t9_index_title">Obnoviť T9 index</string>
 	<string name="pref_summary_import_from_account">Kopírovanie kontaktov z Google a Exchange na účet Xiaomi</string>

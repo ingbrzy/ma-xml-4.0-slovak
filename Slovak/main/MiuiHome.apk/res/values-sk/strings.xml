@@ -23,6 +23,7 @@
     <string name="failed_to_drop_widget_invalid">Neplatný Widget</string>
     <string name="failed_to_drop_widget_nospace">Presun sa nepodaril, nie je dostatok miesta!</string>
     <string name="folder_name">Zložka</string>
+	<string name="frame_load_failed">Načítavanie Fotorámčeka zlyhalo!</string>
 	<string name="gadget_clear_button_label">Vymazať úlohy</string>
     <string name="gadget_clock_12_label">Hodiny 1x2</string>
     <string name="gadget_clock_22_label">Hodiny 2x2</string>

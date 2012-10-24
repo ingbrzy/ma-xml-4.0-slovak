@@ -49,6 +49,7 @@
   <string name="confirm_delete">Vymazať %s súborov?</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Snímka kontraktu</string>
+  <string name="contrast">Kontrast</string>
   <string name="crop">Orezať</string>
   <string name="crop_action">Orezať</string>
   <string name="crop_fail_to_load_image">Načítavanie obrázku pre orezanie zlyhalo.</string>
@@ -104,6 +105,12 @@
   <string name="flip">Prevrátiť</string>
   <string name="flip_tooltip">Potiahni snímku pre jej prevrátenie</string>
   <string name="focal_length">Ohnisková vzdialenosť</string>
+  <string name="frame_black">Čierny</string>
+  <string name="frame_button">Rámček</string>
+  <string name="frame_classic">Klasický</string>
+  <string name="frame_movie">Film</string>
+  <string name="frame_semicircle">Polkruh</string>
+  <string name="frame_white">Biely</string>
   <string name="free_space_format">%s voľné</string> 
   <string name="gadget_title">Rámik obrázku</string>
   <string name="gallery_cloud_provider_name">Galéria</string>
