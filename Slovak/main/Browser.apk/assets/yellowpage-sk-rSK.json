@@ -53,7 +53,7 @@
                     "url":"http://technet.cz/"
                 },
                 {
-                    "title":"DSL",
+                    "title":"DSL.sk",
                     "url":"http://dsl.sk/"
                 },
                 {
@@ -65,7 +65,7 @@
                     "url":"http://pctuning.tyden.cz/"
                 },
                 {
-                    "title":"CDr",
+                    "title":"CDR",
                     "url":"http://cdr.cz/"
                 },
                 {
@@ -103,7 +103,7 @@
             "cat":"Video",
             "sites":[
                 {
-                    "title":"CSFD",
+                    "title":"ČSFD",
                     "url":"http://csfd.cz/"
                 },
                 {
@@ -169,7 +169,7 @@
                     "url":"http://svf.sk/"
                 },
                 {
-                    "title":"oSporte",
+                    "title":"oŠporte",
                     "url":"http://osporte.sk/"
                 }
             ]
@@ -198,8 +198,8 @@
                     "url":" http://sector.sk/"
                 },
                 {
-                    "title":"Sector",
-                    "url":" http://sector.sk/"
+                    "title":"Hrej.cz",
+                    "url":" http://hrej.cz/"
                 }
             ]
         },
@@ -211,7 +211,7 @@
                     "url":"http://ebay.com/"
                 },
                 {
-                    "title":"Hej",
+                    "title":"Hej.sk",
                     "url":"http://hej.sk/"
                 },
                 {
@@ -227,7 +227,7 @@
                     "url":"http://datacomp.sk/"
                 },
                 {
-                    "title":"Agem",
+                    "title":"Agem.sk",
                     "url":"http://agem.sk/"
                 }
             ]
@@ -236,7 +236,7 @@
             "cat":"Android",
             "sites":[
                 {
-                    "title":"MojAndroid",
+                    "title":"MôjAndroid",
                     "url":"http://mojandroid.sk/"
                 },
                 {
@@ -244,15 +244,15 @@
                     "url":"http://svetandroida.cz/"
                 },
                 {
-                    "title":"Smartmania",
+                    "title":"Smartmánia",
                     "url":"http://smartmania.cz/"
                 },
                 {
-                    "title":"Mobilmania",
+                    "title":"Mobilmánia",
                     "url":"http://mobilmania.cz/"
                 },
                 {
-                    "title":"Dotekomania",
+                    "title":"Dotekománia",
                     "url":"http://dotekomanie.cz/"
                 },
                 {

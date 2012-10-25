@@ -62,7 +62,7 @@
   	<string name="lockscreen_time_bottom_hint">Posunutím dole odomknete telefón</string>
   	<string name="lockscreen_unlock_sim_via_puk">Zadajte PUK kód pre odblokovanie SIM karty</string>
     <string name="memory_clear_nothing_result">Pamäť vyčistená</string>
-    <string name="memory_clear_result">"Dostupné: %1$s | Voľné: %2$s"</string>
+    <string name="memory_clear_result">"Uvoľnené: %1$s | Dostupné: %2$s"</string>
   	<string name="miui_copyright_title">Autorské práva</string>
   	<string name="miui_privacy_policy_title">Ochrana osobných údajov</string>
   	<string name="miui_user_agreement_title">Podmienky použitia</string>
