@@ -8,7 +8,7 @@
                     "url":"http://sme.sk"
                 },
                 {
-                    "title":"Novy čas",
+                    "title":"Nový čas",
                     "url":"http://cas.sk/"
                 },
                 {
@@ -38,6 +38,35 @@
                 {
                     "title":"Youtube",
                     "url":"http://youtube.com/"
+                }
+            ]
+        },
+        {
+            "cat":"Android",
+            "sites":[
+                {
+                    "title":"MôjAndroid",
+                    "url":"http://mojandroid.sk/"
+                },
+                {
+                    "title":"Svět Androida",
+                    "url":"http://svetandroida.cz/"
+                },
+                {
+                    "title":"Smartmánia",
+                    "url":"http://smartmania.cz/"
+                },
+                {
+                    "title":"Mobilmánia",
+                    "url":"http://mobilmania.cz/"
+                },
+                {
+                    "title":"Dotekománia",
+                    "url":"http://dotekomanie.cz/"
+                },
+                {
+                    "title":"sGalaxy.cz",
+                    "url":"http://sgalaxy.cz/forum/index.php/"
                 }
             ]
         },
@@ -149,7 +178,7 @@
             "cat":"Šport",
             "sites":[
                 {
-                    "title":"Sport",
+                    "title":"Šport",
                     "url":"http://sport.sk/"
                 },
                 {
@@ -215,7 +244,7 @@
                     "url":"http://hej.sk/"
                 },
                 {
-                    "title":"Heureka",
+                    "title":"Heuréka",
                     "url":"http://heureka.sk/"
                 },
                 {
@@ -229,35 +258,6 @@
                 {
                     "title":"Agem.sk",
                     "url":"http://agem.sk/"
-                }
-            ]
-        },
-        {
-            "cat":"Android",
-            "sites":[
-                {
-                    "title":"MôjAndroid",
-                    "url":"http://mojandroid.sk/"
-                },
-                {
-                    "title":"Svet Androida",
-                    "url":"http://svetandroida.cz/"
-                },
-                {
-                    "title":"Smartmánia",
-                    "url":"http://smartmania.cz/"
-                },
-                {
-                    "title":"Mobilmánia",
-                    "url":"http://mobilmania.cz/"
-                },
-                {
-                    "title":"Dotekománia",
-                    "url":"http://dotekomanie.cz/"
-                },
-                {
-                    "title":"sGalaxy.cz",
-                    "url":"http://sgalaxy.cz/forum/index.php/"
                 }
             ]
         },
