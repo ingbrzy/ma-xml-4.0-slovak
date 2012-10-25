@@ -1728,6 +1728,7 @@
     <string name="vpn_cancel">Zrušiť</string>	
     <string name="vpn_connect">Pripojiť</string>	
     <string name="vpn_connect_to">Pripojiť k sieti %s</string>	
+	<string name="vpn_configure">Nastaviť VPN</string>
     <string name="vpn_create">Pridať sieť VPN</string>	
     <string name="vpn_dns_servers">Servery DNS (napr. 8.8.8.8)</string>	
     <string name="vpn_edit">Upraviť sieť VPN</string>	
@@ -1750,9 +1751,11 @@
     <string name="vpn_routes">Presmerovávacie trasy (napr. 10.0.0.0/8)</string>	
     <string name="vpn_save">Uložiť</string>	
     <string name="vpn_save_login">Uložiť údaje o účte</string>	
+	<string name="vpn_safe">Zabezpečenie VPN</string>
     <string name="vpn_search_domains">Domény vyhľadávania DNS</string>	
     <string name="vpn_server">Adresa serveru</string>	
     <string name="vpn_settings_title">Sieť VPN</string>	
+	<string name="vpn_settings_password">Nastavenie hesla VPN</string>
     <string name="vpn_show_options">Zobraziť rozšírené možnosti</string>	
     <string name="vpn_title">Sieť VPN</string>	
     <string name="vpn_type">Typ</string>	

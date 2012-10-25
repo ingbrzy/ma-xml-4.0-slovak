@@ -45,9 +45,9 @@
 	upravovať.</string>
   	<string name="global_action_toggle_privacy_mode">Návštevník</string>
   	<string name="group_name_contacts">Kontakty</string>
-        <string name="group_name_coworkers">Kolegovia</string>
-        <string name="group_name_family">Rodina</string>
-        <string name="group_name_friends">Priatelia</string>
+    <string name="group_name_coworkers">Kolegovia</string>
+    <string name="group_name_family">Rodina</string>
+    <string name="group_name_friends">Priatelia</string>
 	<string name="check_phone_error_title">Otvorenie Synchronizácie zlyhalo</string>
 	<string name="check_phone_io_error">Chyba siete</string>
     <string name="childrens_day">"Deň detí"</string>
@@ -151,5 +151,6 @@
   	<string name="user_agreement3">" a "</string>
   	<string name="user_agreement4">ochrane osobných údajov</string>
   	<string name="user_agreement5">,Stlačte OK pokiaľ súhlasíte s nasledujúcim ujednaním, Stlačením na Zrušiť akciu ukončíte.</string>
+	<string name="miui_user_manual_title">Návod</string>
 	<string name="wake_alarm_message">Zastaviť budík. Upozorniť o %s</string>
   </resources>
