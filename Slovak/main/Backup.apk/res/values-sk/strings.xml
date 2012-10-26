@@ -22,8 +22,8 @@
 <string name="backup_file_error">Nastal problém so zálohou, operácia nie je dokončená.</string>
 <string name="backup_finished">Záloha hotová</string>
 <string name="backup_hint">Nevypínajte alebo nereštartujte telefón!</string>
-<string name="backup_items_app_tailer">\u0020dáta aplikácií</string>
-<string name="backup_items_sysdata_tailer">\u0020systémové dáta\u0020</string>
+<string name="backup_items_app_tailer">x dáta aplikácií</string>
+<string name="backup_items_sysdata_tailer">x systémové dáta\u0020</string>
 <string name="backup_new">Nový:</string>
 <string name="backup_progress">Zálohujem...</string>
 <string name="backup_recently">\u0020(Posledné)</string>
