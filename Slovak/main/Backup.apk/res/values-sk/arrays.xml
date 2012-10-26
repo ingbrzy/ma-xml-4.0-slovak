@@ -6,11 +6,11 @@
     </string-array>
     <string-array name="system_package_label">
         <item>Prehliadač</item>
-		<item>Správca súborov</item>
-		<item>Galéria</item>
-		<item>Správca oprávnení</item>
+	<item>Správca súborov</item>
+	<item>Galéria</item>
+	<item>Správca oprávnení</item>
         <item>Počasie</item>
-		<item>Fotoaparát</item>
+	<item>Fotoaparát</item>
         <item>Monitor siete</item>        
     </string-array>
     <string-array name="system_data_label">
@@ -39,13 +39,6 @@
         <item>Poznámky</item>
     </string-array>
     <string-array name="cloud_account_data">
-        <item>Kontakty</item>
-		<item>Záznam hovorov</item>
-		<item>Správy</item>
-        <item>Nastavenia Wi-Fi</item>
-        <item>Poznámky</item>
-    </string-array>
-	<string-array name="cloud_account_data">
         <item>Kontakty</item>
         <item>Nastavenia Wi-Fi</item>
         <item>Poznámky</item>
