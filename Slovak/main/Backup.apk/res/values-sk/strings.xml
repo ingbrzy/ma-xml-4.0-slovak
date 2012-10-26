@@ -22,10 +22,10 @@
 <string name="backup_file_error">Nastal problém so zálohou, operácia nie je dokončená.</string>
 <string name="backup_finished">Záloha hotová</string>
 <string name="backup_hint">Nevypínajte alebo nereštartujte telefón!</string>
-<string name="backup_items_app_tailer"> dáta aplikácií</string>
-<string name="backup_items_sysdata_tailer"> systémové dáta</string>
+<string name="backup_items_app_tailer">\u0020dáta aplikácií</string>
+<string name="backup_items_sysdata_tailer">\u0020systémové dáta\u0020</string>
 <string name="backup_new">Nový:</string>
-<string name="backup_progress">Zálohujem..</string>
+<string name="backup_progress">Zálohujem...</string>
 <string name="backup_recently">\u0020(Posledné)</string>
 <string name="backup_report">Hlásenie zálohovania</string>
 <string name="backup_update">Aktualizácia</string>
@@ -89,7 +89,7 @@
 <string name="local_no_backup">Žiadna lokálna záloha</string>
 <string name="local_restore_window_title">Obnova z SD karty</string>
 <string name="local_select_sysdata">Systémové dáta</string>
-<string name="local_select_userapp">Aplikácia</string>    
+<string name="local_select_userapp">Aplikácie</string>    
 <string name="menu_patch_delete">Zmazať zálohy</string>
 <string name="miliao_account_guide">Účet MiTalk bol povýšený na účet Xiaomi.\n Užite si všetky dostupné online služby</string>
 <string name="miliao_account_login">Prihlásiť k MiTalk</string>
