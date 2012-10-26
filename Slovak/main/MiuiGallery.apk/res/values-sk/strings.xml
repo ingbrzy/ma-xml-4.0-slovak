@@ -48,7 +48,7 @@
   <string name="cloud_media_set_set">Cloudové albumy</string>
   <string name="confirm_delete">Vymazať %s súborov?</string>
   <string name="confirm_know">OK</string>
-  <string name="contact_photo">Snímka kontraktu</string>
+  <string name="contact_photo">Obrázok kontraktu</string>
   <string name="contrast">Kontrast</string>
   <string name="crop">Orezať</string>
   <string name="crop_action">Orezať</string>
@@ -125,12 +125,12 @@
   <string name="group_by_tags">Podľa označení</string>
   <string name="group_by_time">Podľa času</string>
   <string name="height">Výška</string>
-  <string name="highlight">Zvýraznenie</string>
+  <string name="highlight">Jas</string>
   <string name="home_my_captured_items">celkom snímkov</string>
-  <string name="how_many_pics">%d  Snímkov</string>
-  <string name="how_many_sub_folders">%d Priečinkov</string>
-  <string name="how_many_videos">%d Videí</string>
-  <string name="how_many_volumes">%d úložných zariadení</string>
+  <string name="how_many_pics">%d\u0020Snímkov</string>
+  <string name="how_many_sub_folders">%d\u0020Priečinkov</string>
+  <string name="how_many_videos">%d\u0020Videí</string>
+  <string name="how_many_volumes">%d\u0020úložných zariadení</string>
   <string name="image_property">Vlastnosti snímky</string>
   <string name="Import">Import</string>
   <string name="import_complete">Import kompletný</string>
