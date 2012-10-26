@@ -62,7 +62,7 @@
 <string name="date_format">yyyy MM dd HH:mm:ss</string>
 <string name="delete">Zmazať</string>
 <string name="delete_backup_confirm">Naozaj chcete zmazať zálohu?</string>
-<string name="delete_backup_process">Vymazávam zálohu, čakajte prosím..</string>
+<string name="delete_backup_process">Vymazávam zálohu, čakajte prosím...</string>
 <string name="delete_failed_backup_confirm">Táto záloha je poškodená a nedá sa z nej obnoviť</string>
 <string name="disable_encrypt_title">Šifrovanie vypnuté</string>
 <string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>
@@ -99,11 +99,11 @@
 <string name="no_network">Pripojenie k sieti nie je k dispozícii.\nOverte prosím pripojenie a skúste to znova</string>
 <string name="note_title">Poznámky</string>
 <string name="nothing_searched">Výsledok hľadania: nič nenájdené</string>
-<string name="progress_backup_hint">Zálohovanie dát..</string>
-<string name="progress_restore_hint">Obnovovanie dát..</string>
+<string name="progress_backup_hint">Zálohovanie dát...</string>
+<string name="progress_restore_hint">Obnovovanie dát...</string>
 <string name="prompt_reading">Čítanie..</string>
-<string name="prompt_sending">Odosielanie..</string>
-<string name="prompt_writing">Zálohovanie..</string>
+<string name="prompt_sending">Odosielanie...</string>
+<string name="prompt_writing">Zálohovanie...</string>
 <string name="read_encrypt_fail">Čítanie šifrovania zlyhalo</string>
 <string name="refresh">Obnoviť</string>
 <string name="restore">Obnovenie</string>
@@ -153,7 +153,7 @@
 <string name="task_pre_running">Príprava</string>
 <string name="task_progress">Priebeh</string>
 <string name="task_restore_cancel_dialog">Obnovenie ešte nebolo dokončené.\nPrerušenie môže viesť k poškodeniu dát</string>
-<string name="task_restore_cancel_progress">Zastavujem..</string>
+<string name="task_restore_cancel_progress">Zastavujem...</string>
 <string name="task_restore_finished_local">Obnovenie dokončené</string>
 <string name="task_restore_none">Obnovenie nie je potrebné</string> 
 <string name="task_running_dialog">Zálohovanie a obnova dát na pozadí prebieha, pre zobrazenie stlačte ANO!</string>    
