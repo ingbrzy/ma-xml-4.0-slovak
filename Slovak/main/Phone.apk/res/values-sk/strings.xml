@@ -84,7 +84,6 @@
 	<string name="auto_record_scenario_title_miui">Režim nahrávania hovoru</string>
 	<string name="auto_record_whitelist_miui">Nastaviť zvolené čísla</string>
 	<string name="auto_record_whitelist_no_item_miui">Kliknite na spodné tlačidlo pre pridanie čísiel na automatické nahrávanie hovoru</string>
-	<string name="auto_record_whitelist_summary_for_one_miui">1</string>
 	<string name="auto_record_whitelist_summary_miui">%d čísiel</string>
 	<string name="auto_redial_pref_summary_miui">Automaticky volať späť pokiaľ je linka obsadená</string>
     <string name="auto_redial_pref_title_miui">Automaticky volať späť</string>
@@ -118,7 +117,6 @@
     <string name="call_log_number_limit_setting_switcher">Limit</string>
     <string name="call_log_number_limit_setting_switcher_summary">Zvoľte max počet položiek vo výpise hovorov</string>
     <string name="call_log_number_limit_setting_title">Nastavenie úložiska výpisu hovorov</string>
-    <string name="call_log_number_limit_subsummary">%d</string>
     <string name="call_log_number_limit_summary_miui">Nastavenie ukladania zoznamu hovorov</string>
     <string name="call_log_number_limit_title">Nastavte úložisko pre zoznam hovorov</string>
     <string name="call_lost">Hovor bol stratený.</string>
@@ -453,11 +451,10 @@
     <string name="hac_mode_summary_miui">Zapne podporu pre načúvací prístroj</string>
     <string name="hac_mode_title">Načúvací prístroj</string>
     <string name="hac_mode_title_miui">Načúvací prístroj</string>
-    <string name="handon_ringer_summary_miui">nie je funkčný pokiaľ sú zapnuté vibrácie pre prichádzajúce hovory</string>
+    <string name="handon_ringer_summary_miui">Nefunguje pokiaľ sú zapnuté vibrácie pre prichádzajúce hovory</string>
     <string name="handon_ringer_title_miui">Zdvihnutím stíšiť</string>
     <string name="hangup_sms_miui">Odpovedať pomocou SMS</string>
     <string name="ignore_miui">Ignorovať</string>
-    <string name="imei">IMEI</string>
     <string name="importAllSimEntries">Importovať všetko</string>
     <string name="importSimEntry">Importovať</string>
     <string name="importToFDNfromContacts">Import z kontaktov</string>
@@ -517,8 +514,6 @@
     <string name="label_puk2_code">Zadajte kód PUK2</string>
     <string name="label_puk2_code_miui">Zadať PUK2 kód</string>
  	<string name="label_rcdp">UIM firemný PIN</string>
-  	<string name="label_rdp">UIM UIM PIN</string>
-  	<string name="label_rhrpd">UIM hrpd PIN</string>
   	<string name="label_rn1dp">UIM sieť1 PIN</string>
   	<string name="label_rn2dp">UIM sieť2 PIN</string>
   	<string name="label_rspdp">UIM PIN poskytovateľa služieb</string>
@@ -540,7 +535,6 @@
     <string name="manage_fdn_list_miui">FDN zoznam</string>
     <string name="manage_fdn_list_sum_miui">Upraviť zoznam tel. čísel</string>
     <string name="manageConferenceLabel">Upraviť konferenčné hovory</string>
-    <string name="meid">MEID</string>
     <string name="menu_add">Pridať kontakt</string>
     <string name="menu_delete">Vymazať kontakt</string>
     <string name="menu_edit">Upraviť kontakt</string>
@@ -744,10 +738,10 @@
     <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G preferovaná</string>
     <string name="preferred_network_type_pref_entries_auto_miui">Automaticky</string>
     <string name="preferred_network_type_pref_entries_global_miui">Globálne</string>
-    <string name="preferred_network_type_pref_entries_only_2g_miui">Len 2G (šetrí energiu)</string>
+    <string name="preferred_network_type_pref_entries_only_2g_miui">Len 2G (šetrí batériu)</string>
     <string name="preferred_network_type_pref_entries_only_3g_miui">Len 3G</string>
     <string name="preferred_network_type_title_miui">Voľba typu siete</string>
-    <string name="primary_account">primárny</string>
+    <string name="primary_account">Primárny</string>
     <string name="primary_account_summary">Používa sa pre odchádzajúce hovory</string>
     <string name="primary_account_summary_with">Primárny účet. %s</string>
     <string name="primary_account_title">Nastaviť ako primárny účet</string>
@@ -962,10 +956,7 @@
 	<string name="tone_miui">Tóny</string>
     <string name="transport">protokol</string>
     <string name="transport_title">Typ transportu</string>
-    <string name="tty_mode_entries_full_miui">TTY full</string>
-    <string name="tty_mode_entries_hco_miui">TTY HCO</string>
     <string name="tty_mode_entries_off_miui">TTY vypnuté</string>
-    <string name="tty_mode_entries_vco_miui">TTY VCO</string>
     <string name="tty_mode_option_summary">Nastaviť režim TTY</string>
     <string name="tty_mode_option_summary_miui">Nastaviť TTY režim</string>
     <string name="tty_mode_option_title">Režim TTY</string>
