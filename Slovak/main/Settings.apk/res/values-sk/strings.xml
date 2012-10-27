@@ -87,8 +87,6 @@
     <string name="add_account_label">Pridať účet</string>	
     <string name="add_device_admin">Aktivovať</string>	
     <string name="add_device_admin_msg">Aktivovať správcu zariadenia?</string>	
-    <string name="additional_system_update" />	
-    <string name="additional_system_update_menu" />	
     <string name="additional_system_update_settings_list_item_title">Ďalšia aktualizácia systému</string>	
     <string name="advanced_settings">Upresniť nastavenie</string>	
     <string name="advanced_settings_summary">Povoliť ďalšie možnosti nastavení</string>	
@@ -112,9 +110,7 @@
 	<string name="animator_duration_scale_title">Doba trvania animácií</string>	
     <string name="apn_apn">Názov AP</string>	
     <string name="apn_auth_type">Typ overenia</string>	
-    <string name="apn_auth_type_chap">CHAP</string>	
     <string name="apn_auth_type_none">Žiadne</string>	
-    <string name="apn_auth_type_pap">PAP</string>	
     <string name="apn_auth_type_pap_chap">PAP alebo CHAP</string>	
     <string name="apn_edit">Upraviť prístupový bod</string>	
     <string name="apn_general">Obecné</string>	
@@ -142,7 +138,7 @@
     <string name="app_disable_dlg_title">Zakázať integrovanú aplikáciu</string>	
     <string name="app_disable_notifications_dlg_text">Ak vypnete notifikácie pre túto aplikáciu, môžete zmeškať dôležité upozornenia.</string>
     <string name="app_disable_notifications_dlg_title">Vypnúť notifikácie?</string>
-	<string name="app_factory_reset">Odinštalovať aktualizácie</string>	
+    <string name="app_factory_reset">Odinštalovať aktualizácie</string>	
     <string name="app_factory_reset_dlg_text">Všetky aktualizácie tejto aplikácie systému Android budú odinštalované.</string>	
     <string name="app_factory_reset_dlg_title">Odinštalovať aktualizácie?</string>	
     <string name="app_forward_locked">Aplikácia je chránená proti kopírovaniu.</string>	
@@ -150,8 +146,7 @@
     <string name="app_install_location_title">Preferované umiestnenie pre inštaláciu</string>	
     <string name="app_name_label">Aplikácie</string>	
     <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť na zoznamu nainštalovaných aplikácií.</string>	
-    <string name="app_not_found_dlg_title" />
-	<string name="app_notifications_switch_label">Zobraziť notifikácie</string>	
+    <string name="app_notifications_switch_label">Zobraziť notifikácie</string>	
     <string name="app_process_limit_title">Obmedzenie procesov na pozadí</string>	
     <string name="application_info_label">Informácie o aplikácií</string>	
     <string name="application_size_label">Aplikácia</string>	
@@ -192,7 +187,6 @@
     <string name="backup_data_title">Zálohovanie mojich dát</string>	
     <string name="backup_erase_dialog_message">Chcete prestať zálohovať heslá sietí Wi-Fi, záložky, ďalšie nastavenia, dáta aplikácií a vymazať všetky kópie zo serverov 
 		Google?</string>	
-    <string name="backup_erase_dialog_title" />	
     <string name="backup_lock_settings_picker_title">Výber záložného zámku</string>	
     <string name="backup_pw_cancel_button_text">Zrušiť</string>	
     <string name="backup_pw_set_button_text">Nastaviť heslo pre zálohy</string>	
@@ -264,7 +258,7 @@
     <string name="battery_stats_gps_on_label">GPS aktívne</string>	
     <string name="battery_stats_charging_label">Nabíjanie</string>	
     <string name="battery_stats_last_duration">Doba prevádzky</string>	
-    <string name="battery_stats_on_battery">%1$s na batérií</string>	
+    <string name="battery_stats_on_battery">%1$s na batériu</string>	
     <string name="battery_stats_phone_signal_label">Signál mobilnej siete</string>	
     <string name="battery_stats_screen_on_label">Obrazovka zapnutá</string>	
     <string name="battery_stats_wake_lock_label">Prebudiť</string>	
@@ -304,7 +298,7 @@
     <string name="bluetooth_connection_dialog_text">Chcete sa pripojiť k zariadeniu „%1$s”?</string>	
     <string name="bluetooth_connection_notif_message">Klepnutím sa pripojíte k zariadeniu „%1$s”.</string>	
     <string name="bluetooth_connection_permission_request">Požiadavka na pripojenie zariadenia Bluetooth</string>	
-    <string name="bluetooth_default_name">telefón s MIUI</string>	
+    <string name="bluetooth_default_name">Telefón s MIUI</string>	
     <string name="bluetooth_device">Nepomenované zariadenie Bluetooth</string>	
     <string name="bluetooth_device_advanced_enable_opp_title">Povoliť prich. prenosy súborov</string>	
     <string name="bluetooth_device_advanced_online_mode_summary">Umožňuje pripojenie zariadení s rozhraním Bluetooth</string>	
@@ -415,7 +409,6 @@
     <string name="bluetooth_tethering_overflow_error">Maximálny počet zariadení pre tethering: %1$d.</string>	
     <string name="bluetooth_turning_off">Vypínanie rozhrania Bluetooth…</string>	
     <string name="bluetooth_turning_on">Zapnúť Bluetooth?</string>	
-    <string name="bluetooth_unknown" />	
     <string name="bluetooth_untether_blank">U zariadenia %1$s bude ukončené zdieľané pripojenie.</string>	
     <string name="bluetooth_visibility">Viditeľné</string>	
     <string name="bluetooth_visibility_timeout">Časový limit viditeľnosti</string>	
@@ -469,11 +462,8 @@
     <string name="clear_user_data_text">Mazanie dát</string>	
     <string name="common_settings">Časté nastavenia</string>	
     <string name="complete_settings">Kompletné nastav.</string>	
-    <string name="computing_size">Prebieha výpočet…</string>	
+    <string name="computing_size">Prebieha výpočet...</string>	
     <string name="config_list_label">Konfigurované siete</string>
-	<string name="config_mass_storage_function_name">mass_storage</string>
-	<string name="config_mtp_function_name">mtp</string>
-	<string name="config_ptp_function_name">ptp</string>
 	<string name="configure_input_method">Nastaviť metódy vstupu</string>	
     <string name="confirm_erase">Potvrdiť vymazanie</string>	
     <string name="confirm_new_backup_pw_prompt">Sem znovu zadajte aktuálne heslo pre úplné zálohy.</string>	
@@ -498,7 +488,6 @@
     <string name="credentials_reset_warning">Nesprávne heslo. Máte ešte jeden pokus, než bude úložisko poverení vymazané.</string>	
     <string name="credentials_reset_warning_plural">Nesprávne heslo. Počet ostávajúcich pokusov, než bude úložisko poverení vymazané: %1$d</string>	
     <string name="credentials_title">Úložisko poverení</string>	
-    <string name="credentials_unlock" />	
     <string name="credentials_unlock_hint">Zadajte heslo pre úložisko poverení.</string>	
     <string name="credentials_wrong_password">Nesprávne heslo.</string>	
     <string name="crypt_keeper_button_text">Šifrovať telefón</string>	
@@ -567,8 +556,8 @@
 		Keďže spotreba dát je meraná Vaším telefónom, a Váš operátor môže spotrebu dát merať odlišne, zvážte nastavenie menšieho limitu dát."</string>
 	<string name="data_usage_limit_dialog_title">Nastavuje sa obmedzenie dátových prenosov</string>	
     <string name="data_usage_limit_editor_title">Nastavenie limitu dátových prenosov</string>	
-    <string name="data_usage_list_mobile">mobilné</string>	
-    <string name="data_usage_list_none">žiadne</string>
+    <string name="data_usage_list_mobile">Mobilné</string>	
+    <string name="data_usage_list_none">Žiadne</string>
 	<string name="data_usage_menu_auto_sync">Synchr. dáta</string>
 	<string name="data_usage_menu_metered">Mobilný prístupový bod</string>
 	<string name="data_usage_menu_restrict_background">Obmedzenie dátových prenosov na pozadí</string>	
@@ -613,7 +602,7 @@
     <string name="date_time_set_date">Nastavenie dátumu</string>	
     <string name="date_time_set_time">Nastavenie času</string>	
     <string name="date_time_set_timezone">Voľba časového pásma</string>	
-    <string name="date_time_settings">Dátum &amp; čas</string>
+    <string name="date_time_settings">Dátum a čas</string>
     <string name="debug_app">Zvoľte debug app</string>
     <string name="debug_app_not_set">Nieje nastavena žiadna debug app.</string>
     <string name="debug_app_set">Debugging app.: %1$s</string>
@@ -643,8 +632,8 @@
     <string name="device_admin_title">Správa zariadenia</string>	
     <string name="device_admin_warning">Aktiváciou tohto správcu umožníte aplikácií %1$s vykonávať nasledujúce operácie:</string>	
     <string name="device_cpu">CPU:</string>	
-    <string name="device_cpu2_info">"2 jadrá "</string>	
-    <string name="device_cpu4_info">"4 jadrá "</string>	
+    <string name="device_cpu2_info">"2 jadrá"</string>	
+    <string name="device_cpu4_info">"4 jadrá"</string>	
     <string name="device_info_default">Neznáme</string>	
     <string name="device_info_label">Info o zariadení</string>	
     <string name="device_info_not_available">Nedostupný</string>	
@@ -677,7 +666,6 @@
     <string name="dlg_confirm_unmount_text">Pokiaľ SD kartu odpojíte, niektoré používané aplikácie prestanú fungovať. Tieto aplikácie pravdepodobne nebudú k dispozícií, pokiaľ SD kartu opäť nepripojíte.</string>	
     <string name="dlg_confirm_unmount_title">Odpojiť SD kartu?</string>	
     <string name="dlg_error_unmount_text">SD kartu nie je možné odpojiť. Skúste to opäť neskôr.</string>	
-    <string name="dlg_error_unmount_title" />	
     <string name="dlg_ok">OK</string>	
     <string name="dock_audio_settings_title">Zvuk</string>	
     <string name="dock_audio_summary_car">Nastavenie pripojeného doku do auta</string>	
@@ -730,7 +718,6 @@
     <string name="error_mcc_not3">Pole MCC musí obsahovať aspoň 3 číslice.</string>	
     <string name="error_mnc_not23">Pole MNC musí obsahovať 2 alebo 3 číslice.</string>	
     <string name="error_name_empty">Pole Názov nesmie byť prázdne.</string>	
-    <string name="error_title" />	
     <string name="external_code_size_label">Aplikácia úložiska USB</string>	
     <string name="external_data_size_label">Dáta úložiska USB</string>	
     <string name="factory_reset_summary">Môžete vymazať osobné údaje telefónu, alebo vymažte nainštalované aplikácie a naformátujte SD kartu pre obnovenie predvolených nastavení.</string>	
@@ -814,9 +801,9 @@
     <string name="install_unknown_applications">Povoliť inštaláciu aplikácií, ktoré nepochádzajú zo služby Market</string>	
     <string name="insufficient_storage">Nedostatok miesta v úložisku.</string>	
     <string name="intent_sender_account_label">Účet:</string>	
-    <string name="intent_sender_action_label">Action:</string>	
+    <string name="intent_sender_action_label">Akcia:</string>	
     <string name="intent_sender_data_label">Dáta:</string>	
-    <string name="intent_sender_resource_label">Resource:</string>	
+    <string name="intent_sender_resource_label">Zdroj:</string>	
     <string name="intent_sender_sendbroadcast_text">Odoslať broadcast</string>	
     <string name="intent_sender_startactivity_text">Spustiť činnosť activity</string>	
 	<string name="internal_format">Formátovať internú pamäť</string>
@@ -829,11 +816,6 @@
     <string name="internal_storage">Interné úložisko</string>	
     <string name="invalid_location">Umiestnenie inštalácie nie je platné.</string>	
     <string name="invalid_size_value">Nepodarilo sa určiť veľkosť balíčka</string>	
-    <string name="ipaddr_label">IPaddr:</string>
-	<string name="join_many_items_first">%1$s, %2$s</string>
-	<string name="join_many_items_last">%1$s a %2$s</string>
-	<string name="join_many_items_middle">%1$s, %2$s</string>
-	<string name="join_two_items">%1$s a %2$s</string>
 	<string name="keep_screen_on">Nevypínať obrazovku</string>	
     <string name="keep_screen_on_summary">Obrazovka sa pri nabíjaní neprepne do režimu spánku</string>	
     <string name="kernel_version">Verzia jadrá/kernel</string>	
@@ -918,9 +900,7 @@
     <string name="lockpattern_change_lock_pin_label">Zmena bezpečnostného kódu PIN</string>	
     <string name="lockpattern_need_to_confirm">Urobte gesto znovu pre potvrdenie:</string>	
     <string name="lockpattern_need_to_unlock">Potvrďte uložené gesto</string>	
-    <string name="lockpattern_need_to_unlock_footer"/>	
     <string name="lockpattern_need_to_unlock_wrong">Skúste to znovu:</string>	
-    <string name="lockpattern_need_to_unlock_wrong_footer" />	
     <string name="lockpattern_pattern_confirmed_header">Nové gesto odomknutia:</string>	
     <string name="lockpattern_pattern_entered_header">Gesto bolo zaznamenané.</string>	
     <string name="lockpattern_recording_incorrect_too_short">Minimálny počet spojených bodiek je %d. Skúste to znovu:</string>	
@@ -942,9 +922,9 @@
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Príliš mnoho neplatných pokusov!</string>	
     <string name="lockpattern_tutorial_cancel_label">Zrušiť</string>	
     <string name="lockpattern_tutorial_continue_label">Ďalší</string>	
-    <string name="lte_ram_dump_off">Vypnúť výpis pamäte lte ram</string>	
-    <string name="lte_ram_dump_on">Zapnúť výpis pamäte lte ram</string>	
-    <string name="macaddr_label">MAC addr:</string>	
+    <string name="lte_ram_dump_off">Vypnúť výpis pamäte LTE RAM</string>	
+    <string name="lte_ram_dump_on">Zapnúť výpis pamäte LTE RAM</string>	
+    <string name="macaddr_label">MAC:</string>	
     <string name="main_running_process_description">Hlavný proces, ktorý sa používa.</string>	
     <string name="manage_device_admin">Správcovia zariadenia</string>	
     <string name="manage_device_admin_summary">Zobraziť alebo deaktivovať správcu zariadenia</string>	
@@ -986,7 +966,7 @@
 	<string name="memory">RAM</string>	
     <string name="memory_apps_usage">Aplikácie</string>	
     <string name="memory_available">K dispozícií</string>	
-    <string name="memory_calculating_size">Výpočet…</string>	
+    <string name="memory_calculating_size">Výpočet...</string>	
     <string name="memory_dcim_usage">Fotografie, videá</string>	
     <string name="memory_downloads_usage">Sťahovanie</string>	
     <string name="memory_media_misc_usage">Rôzne</string>	
@@ -1010,7 +990,6 @@
     <string name="model_number">Označenie modelu:</string>	
     <string name="move_app">Presunúť</string>	
     <string name="move_app_failed_dlg_text">"Presunutie aplikácie %1$s sa nepodarilo"</string>	
-    <string name="move_app_failed_dlg_title"/>	
     <string name="move_app_to_internal">Presunúť do telefónu</string>	
     <string name="move_app_to_sdcard">Presunúť na SD kartu</string>	
     <string name="moving">Presúvanie</string>	
@@ -1066,16 +1045,13 @@
     <string name="oem_radio_info_label">Informácie a nastaveniach špecifických pre výrobcu OEM</string>	
     <string name="onscreen_keyboard_settings_summary">Nastavenie klávesnice na obrazovke</string>	
     <string name="owner_info_settings_edit_text_hint">Zadajte text, ktorý sa zobrazí na zamknutej obrazovke</string>	
-    <string name="owner_info_settings_summary" />	
     <string name="owner_info_settings_title">Info o vlastníkovi</string>	
     <string name="packages_subtitle">Zahrnuté balíčky</string>
 	<string name="password_guard">Bezpečnosť</string>	
-    <string name="percentage">%d%%</string>	
     <string name="permissions_label">Oprávnenia</string>	
     <string name="personal_data_section_title">Osobné údaje</string>	
     <string name="phone_info_label">Info o telefóne</string>	
     <string name="phone_language">Jazyk</string>	
-    <string name="phone_language_summary" />	
     <string name="pico_installed">Nainštalované</string>	
     <string name="pico_languages_and_voices">Jazyky a hlasy</string>	
     <string name="pico_not_installed">Nie je nainštalované</string>	
@@ -1096,7 +1072,6 @@
     <string name="power_phone">Hlasové hovory</string>	
     <string name="power_screen">Obrazovka</string>	
     <string name="power_usage_history">Využitie batérie</string>	
-    <string name="power_usage_level_and_status">%1$s – %2$s</string>	
     <string name="power_usage_not_available">Údaje o spotrebe nie sú známe.</string>	
     <string name="power_usage_summary">Čo využíva batériu</string>	
     <string name="power_usage_summary_title">Batéria</string>	
@@ -1134,8 +1109,6 @@
     <string name="proxy_exclusionlist_label">Nepoužívať server proxy pre</string>	
     <string name="proxy_hostname_hint">proxy.example.com</string>	
     <string name="proxy_hostname_label">Názov hostiteľa serveru proxy</string>	
-    <string name="proxy_port_hint">8080</string>	
-    <string name="proxy_port_label">Port proxy</string>	
     <string name="proxy_settings_label">Nastavenie proxy serveru</string>	
     <string name="proxy_settings_title">Nastavenie serveru proxy</string>	
     <string name="proxy_warning_limited_support">Server proxy protokolu HTTP môže používať prehliadač, ale nesmie ho používať ďalšia aplikácia.</string>	
@@ -1186,9 +1159,6 @@
     <string name="radioInfo_data_connecting">Pripojovanie</string>	
     <string name="radioInfo_data_disconnected">Odpojené</string>	
     <string name="radioInfo_data_suspended">Pozastavené</string>	
-    <string name="radioInfo_display_asu">asu</string>	
-    <string name="radioInfo_display_bytes">B</string>	
-    <string name="radioInfo_display_dbm">dBm</string>	
     <string name="radioInfo_display_packets">pakety</string>	
     <string name="radioInfo_lac">LAC</string>	
     <string name="radioInfo_menu_getPDP">Získať zoznam PDP</string>	
@@ -1205,7 +1175,7 @@
     <string name="radioInfo_service_off">Rádio(Modem) je vypnuté</string>	
     <string name="radioInfo_service_out">Nepokrytá oblasť</string>	
     <string name="radioInfo_unknown">neznámy</string>	
-    <string name="read_only">" (Len na čítanie)"</string>	
+    <string name="read_only">"(Len na čítanie)"</string>	
     <string name="really_remove_account_message">Odobraním účtu vymažete z telefónu všetky správy, kontakty a ďalšie dáta tohto účtu.</string>	
     <string name="really_remove_account_title">Chcete odobrať účet?</string>	
     <string name="recognizer_settings_summary">Nastavenie pre poskytovateľa „%s”</string>	
@@ -1230,7 +1200,6 @@
     <string name="restore_default_apn">Obnovenie predvolených nastavení názvu prístupového bodu (APN)</string>	
     <string name="restore_default_apn_completed">Obnovenie predvolených nastavení názvu prístupového bodu (APN) bolo dokončené.</string>	
     <string name="ring_volume_title">Hlasitosť zvonenia</string>	
-    <string name="ringtone_summary" />	
     <string name="ringtone_title">Vyzváňací tón telefónu</string>	
     <string name="roaming">Dát. služby pri roamingu</string>	
     <string name="roaming_disable">Dátové služby sa môžu pripojovať pri roamingu</string>	
@@ -1239,7 +1208,6 @@
     <string name="roaming_reenable_title">Upozornenie</string>	
     <string name="roaming_turn_it_on_button">Zapnúť</string>	
     <string name="roaming_warning">Naozaj chcete povoliť dátové služby pri roamingu? Môžu byť účtované vysoké poplatky.</string>	
-    <string name="rssi_label">RSSI:</string>	
     <string name="running_processes_item_description_p_p">Počet procesov: %1$d; počet služieb: %2$d</string>	
     <string name="running_processes_item_description_p_s">Počet procesov: %1$d; počet služieb: %2$d</string>	
     <string name="running_processes_item_description_s_p">Počet procesov: %1$d; počet služieb: %2$d</string>	
@@ -1279,7 +1247,6 @@
     <string name="sd_insert_summary">Vložte SD kartu</string>	
     <string name="sd_memory">Úložisko USB</string>	
     <string name="sd_mount">Pripojiť SD kartu</string>	
-    <string name="sd_mount_summary" />	
     <string name="sdcard_format">Zmazať úložisko USB</string>	
     <string name="sdcard_changes_instructions">Zmena sa prejaví pri ďalšom pripojení USB kábla.</string>	
     <string name="sdcard_setting">Úložisko USB</string>	
@@ -1338,7 +1305,6 @@
     <string name="select_device_admin_msg">Správcovia zariadenia</string>	
     <string name="service_background_processes">Voľné: %1$s</string>	
     <string name="service_busy">Služba je zaneprázdnená, skúste to znova.</string>	
-    <string name="service_client_name">%1$s</string>	
     <string name="service_foreground_processes">Využité: %1$s</string>	
     <string name="service_manage">Nastavenie</string>	
     <string name="service_manage_description">%1$s: práve sa používa. Ovládacie prvky zobrazíte dotykom na Nastavenia.</string>	
@@ -1375,7 +1341,6 @@
   	<string name="show_magnifier_when_input">Ukázať lupu</string>    
 	<string name="show_owner_info_on_lockscreen_label">Zobrazovať vlastníka na zamknutej obrazovke</string>	
     <string name="show_password">Zobraziť hesla</string>	
-    <string name="show_password_summary" />	
     <string name="show_rounded_corners">Zobraziť zaoblené rohy</string>	
     <string name="show_rounded_corners_summary">Je vyžadovaný reštart!</string>	
     <string name="show_running_services">Zobraziť spustené služby</string>	
@@ -1437,12 +1402,6 @@
     <string name="status_bar_settings">Notifikačná lišta</string>	
     <string name="status_bt_address">Adresa zariadení Bluetooth</string>	
     <string name="status_data_state">Stav mobilnej siete</string>	
-    <string name="status_icc_id">ICCID</string>	
-    <string name="status_imei">IMEI</string>	
-    <string name="status_imei_sv">IMEI SV</string>	
-    <string name="status_meid_number">MEID</string>	
-    <string name="status_min_number">MIN</string>	
-    <string name="status_msid_number">MSID</string>	
     <string name="status_network_type">Typ mobilnej siete</string>	
     <string name="status_number">Moje telefónne číslo</string>	
     <string name="status_operator">Sieť</string>	
@@ -1468,7 +1427,6 @@
     <string name="strict_mode">Prísny režim aktivovaný</string>	
     <string name="strict_mode_summary">Blikanie pri dlhých operáciách hlavného vlákna</string>	
     <string name="sum_carrier_select">Vybrať sieťového operátora</string>	
-    <string name="summary_font_size">%1$s</string>	
     <string name="supplicant_state_label">Supplicant state:</string>	
 	<string name="sync_active">Synchr. aktívna</string>    
 	<string name="sync_automatically">Automaticky synch. dáta aplikácií</string>	
@@ -1489,7 +1447,6 @@
 		nech ste kdekoľvek."</string>	
     <string name="sync_settings">Účty a synchronizácia</string>	
     <string name="system_package">Aktualizácia systému nie je možné nainštalovať na SD kartu.</string>	
-    <string name="system_update_settings_list_item_summary" />	
     <string name="system_update_settings_list_item_title">Aktualizácia systému</string>	
     <string name="terms_title">Zmluvné podmienky</string>	
     <string name="testing">Testovanie</string>	
@@ -1588,7 +1545,6 @@
     <string name="unlock_set_unlock_mode_pin">Zabezpečené pomocou kódu PIN</string>	
     <string name="unlock_set_unlock_none_summary">Žiadne zabezpečenie</string>	
     <string name="unlock_set_unlock_none_title">Posunutím</string>	
-    <string name="unlock_set_unlock_off_summary" />	
     <string name="unlock_set_unlock_off_title">Žiadny</string>	
     <string name="unlock_set_unlock_password_summary">Vysoké zabezpečenie</string>	
     <string name="unlock_set_unlock_password_title">Heslo</string>	
@@ -1602,7 +1558,6 @@
     <string name="upload_debug_log_summary">Odošlite záznam debug a pomôžte vývojárom vytvoriť stabilnejší a lepší MIUI ROM. Ďakujeme!</string>	
     <string name="upload_debug_log_title">Odoslať záznam debug</string>	
     <string name="usage_log">Štatistika využitia aplikácií</string>	
-    <string name="usage_name_percent">"%1$s – %2$s%%"</string>	
     <string name="usage_stats_label">Štatistika použitia</string>	
     <string name="usage_time_label">Doba použitia</string>	
     <string name="usage_type_audio">Zvuk</string>	
@@ -1660,7 +1615,6 @@
     <string name="user_dict_settings_edit_dialog_title">Upraviť slovo</string>	
     <string name="user_dict_settings_empty_text">V užívateľskom slovníku nie sú žiadne slová. Slovo môžete pridať stlačením tlačítka Pridať (+).</string>	
 	<string name="user_dict_settings_more_languages">Viac jazykov...</string>
-    <string name="user_dict_settings_summary" />	
     <string name="user_dict_settings_titlebar">Užívateľský slovník</string>	
     <string name="user_dict_single_settings_title">Osobný slovník</string>	
   	<string name="user_discard_user_menu">Zrušiť</string>
@@ -1677,7 +1631,7 @@
   	<string name="user_system_apps_heading">Aplikácie systému</string>
   	<string name="verifier_device_identifier">ID zariadenia pre vývoj</string>	
     <string name="verifier_device_identifier_not_available">Informácie o zariadení nie sú k dispozícií.</string>	
-    <string name="version_text">verzia %1$s</string>	
+    <string name="version_text">Verzia %1$s</string>	
     <string name="vibrate_category_title">Vibrácie</string>	
     <string name="vibrate_in_normal_title">Vždy vibrovať</string>	
     <string name="vibrate_in_silent_title">Vibrovať v tichom režime</string>	
@@ -1790,7 +1744,6 @@
 	<string name="wifi_context_menu_connect">Pripojiť k Wi-Fi sieti</string>
 	<string name="wifi_context_menu_forget">Zabudnúť sieť</string>
 	<string name="wifi_disabled_generic">Vypnuté</string>	
-    <string name="wifi_disabled_heading" />	
     <string name="wifi_disabled_help">Sieť nebola použitá z dôvodu zlého pripojenia. Toto nastavenie môžete vypnúť na obrazovke Nastavenia v časti Wi-Fi, položka ponuky 
 		Pokročilé.</string>	
     <string name="wifi_disabled_network_failure">Bolo zabránené slabému pripojeniu</string>	
@@ -1980,7 +1933,7 @@
 	<string name="wifi_wapi_user_cert">WAPI User Certifikát</string>
     <string name="wifi_wapi_user_certificate">Užívateľský certifikát</string>	
     <string name="wifi_wps_available_first_item">Je k dispozícií chránená sieť</string>	
-    <string name="wifi_wps_available_second_item">" (k dispozícií je chránená sieť)"</string>	
+    <string name="wifi_wps_available_second_item">"(k dispozícií je chránená sieť)"</string>	
     <string name="wifi_wps_complete">WPS úspešné. Pripájanie k sieti...</string>
 	<string name="wifi_wps_connected">Pripojené k Wi-Fi sieti %s</string>
   	<string name="wifi_wps_failed">Službu WPS sa nepodarilo spustiť. Skúste to znovu.</string>	
