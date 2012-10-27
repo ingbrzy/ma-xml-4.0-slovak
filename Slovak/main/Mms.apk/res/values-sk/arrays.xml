@@ -38,11 +38,11 @@
         <item>Len v tichom režime</item>
         <item>Nikdy</item>
     </string-array>
-        <string-array name="entries_date_type">
+    <string-array name="entries_date_type">
         <item>Zobraziť čas prijatia</item>
         <item>Zobraziť čas odoslania</item>
     </string-array>  
-    <string-array name="resent_via_entries">
+    <string-array name="resent_via_entries_sms">
         <item>Pomocou SMS</item>
         <item>Pomocou Cloud SMS</item>
     </string-array>
