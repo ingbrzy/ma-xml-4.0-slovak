@@ -36,7 +36,7 @@
     <string name="correct_id3_settings">Nastavenia opráv ID3</string>
     <string name="correct_id3_start">Začať opravu ID3</string>
     <string name="correct_id3_success">ID3 úspešne opravené</string>
-    <string name="correct_id3_summary">Metóda opravy ID3 môže preniesť zvýšiť spotrebu mobilných dát. Po dokončení prosím zavrite.</string>
+    <string name="correct_id3_summary">Metóda opravy ID3 môže zvýšiť spotrebu mobilných dát. Po dokončení ju prosím zavrite.</string>
     <string name="create_confirm">Potvrdiť</string>
     <string name="create_equalzier_create_text_prompt">Názov ekvalizéru</string>
     <string name="create_playlist_create_text_prompt">Názov playlistu</string>
