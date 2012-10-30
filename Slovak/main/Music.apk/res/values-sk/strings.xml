@@ -17,6 +17,9 @@
     <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
     <string name="artist_edit">Umelec</string>
     <string name="artists_title">Umelci</string>
+    <string name="auto_correct_id3_settings">Nastavenia ID3 opráv</string>
+    <string name="auto_correct_id3_summary">Automaticky sa upravia ID3 tagy počas prehrávania skladby.</string>
+    <string name="batch_correct_id3_completed">Dávková oprava ID3 je dokončená!</string>
 	<string name="billboard">Billboard</string>
     <string name="buffering">Ukladanie do vyrovnávacej pamäti</string>
     <string name="cancel">Zrušiť</string>
@@ -26,6 +29,14 @@
     <string name="click_to_shuffle">Klepnite sem pre spustenie náhodného prehrávania</string>
 	<string name="confirm">Potvrdiť</string>    
 	<string name="continue_when_wifi_disconnect">Potvrdiť počúvanie online hudby cez mobilnú sieť</string>
+    <string name="correct_id3_by_internet">Automaticky opraviť ID3 pomocou internetu</string>
+    <string name="correct_id3_failed">Oprava ID3 zlyhala!</string>
+    <string name="correct_id3_not_support">Oprava ID3 nie je podporovaná týmto typom súboru.</string>
+    <string name="correct_id3_open_other_connect">Zapnite opravu ID3 pomocou mobilného internetu</string>
+    <string name="correct_id3_settings">Nastavenia opráv ID3</string>
+    <string name="correct_id3_start">Začať opravu ID3</string>
+    <string name="correct_id3_success">ID3 úspešne opravené</string>
+    <string name="correct_id3_summary">Metóda opravy ID3 môže preniesť zvýšiť spotrebu mobilných dát. Po dokončení prosím zavrite.</string>
     <string name="create_confirm">Potvrdiť</string>
     <string name="create_equalzier_create_text_prompt">Názov ekvalizéru</string>
     <string name="create_playlist_create_text_prompt">Názov playlistu</string>

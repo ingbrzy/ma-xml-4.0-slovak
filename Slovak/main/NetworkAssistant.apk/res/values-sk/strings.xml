@@ -17,7 +17,7 @@
     <string name="adjust_traffic_title">Upraviť prenos dát</string>
 	<string name="adjust_traffic_update">Update</string>	
     <string name="app_detail_internet_background">Pripojenie k Internetu pri behu na pozadí</string>	
-    <string name="app_detail_internet_background_traffic">"V popredí：%1$s     Na pozadí：%2$s"</string>	
+    <string name="app_detail_internet_background_traffic">"V popredí：%1$s | Na pozadí：%2$s"</string>	
     <string name="app_detail_internet_control_category">Typ siete</string>	
     <string name="app_detail_title">Detail aplikácie</string>	
     <string name="app_detail_version">Verzia: %s</string>	
@@ -29,8 +29,6 @@
     <string name="batch_connect_control">Dávkové riadenie sietí</string>	
     <string name="cancel_txt">Zrušiť</string>	
     <string name="cannot_find_sms_cmd">SMS príkaz nie je možné nájsť</string>	
-    <string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>	
-    <string name="carrier_none_cmcc">%1$s, %2$s, %3$s</string>	
     <string name="carrier_query_number_brand">Názov služby</string>	
     <string name="carrier_query_number_carrier">Operátor</string>	
     <string name="carrier_query_number_location">Attribution</string>	
@@ -51,7 +49,6 @@
     <string name="edit_frame_free_traffic_title">Ostávajúce dáta v balíčku</string>	
     <string name="edit_frame_month_start_title">Monitorovať od dňa:</string>	
     <string name="edit_frame_warning_title">Varovná hodnota</string>
-	<string name="empty" />	
     <string name="finish_traffic_settings_hint">Nastavenie balíčku dokončené</string>	
     <string name="finish_traffic_settings_message">"Využité dáta sú %s. Súhlasia dáta?
 Môžete ich upraviť."</string>	
@@ -106,6 +103,7 @@ Môžete ich upraviť."</string>
     <string name="settings_page_traffic_summary_no_settings">Balíček nenastavený, Od %d. dňa</string>	
     <string name="sms_match_fail">SMS nesúhlasí</string>	
     <string name="sms_template_match_fail">SMS vzor nesúhlasí</string>	
+	<string name="sms_template_updated_label">"Aktualizované: "</string>
     <string name="sort_dialog_title">Zoradiť</string>	
     <string name="sorted_flux">Rebríček prevádzky</string>	
     <string name="stop_app_button">Zavrieť</string>	
@@ -128,6 +126,7 @@ Môžete ich upraviť."</string>
     <string name="traffic_total">Dátový balíček: %s</string>	
     <string name="traffic_used_status">Využité: %s</string>	
     <string name="traffic_widget_name">Monitoring siete (1x2)</string>	
+	<string name="unknown">Neznáme</string>
     <string name="unknown_free_traffic_hint">"Pokiaľ nepoznáte veľkosť svojho dátového balíčku, prosím zavolajte operátorovi"</string>	
     <string name="unknown_free_traffic_text">"Nepoznáte svoj dátový balíček?"</string>	
     <string name="unknown_free_traffic_title">Inštrukcie</string>	
@@ -139,13 +138,8 @@ Môžete ich upraviť."</string>
 	<string name="update_success">Aktualizácia dokončená</string>
 	<string name="updating">Aktualizovanie...</string>	
     <string name="used_flux">Využitie dát</string>	
-    <string name="warning_settings_toast">"%1$d%% %2$dMB"</string>	
+	<string name="version_label">"Verzia: "</string>
     <string name="warning_title">Upozornenie</string>	
-    <string name="widget_color_exceed_warn">\#F9882C</string>	
-    <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>	
-    <string name="widget_color_used_all">\#C00203</string>	
     <string name="widget_traffic_total">Dátový balíček: %s</string>	
     <string name="widget_traffic_used_status">Využité: %s</string>	
-    <string name="wifi_traffic">WiFi: %s</string>	
-    <string name="wifi_type">"Wi-Fi     "</string>	
 </resources>

@@ -590,6 +590,7 @@
     <string name="success_message_import_from_account">Import bol úspešný</string>
     <string name="summary_kind_title">Súhrn</string>
     <string name="t9_search_guide">Inteligentné vyhľadávanie mien a čísel</string>
+	<string name="t9_search_guide_zhuyin">Vložte číslo alebo vyhľadajte kontakt pomocou indexu T9.</string>
     <string name="take_new_photo"> Spraviť novú fotku</string>
     <string name="take_photo"> Spraviť fotku</string>
     <string name="titleJoinContactDataWith">Spojiť kontakty</string>

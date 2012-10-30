@@ -90,11 +90,10 @@
     <string name="pref_wallpaper_scroll_type_title">Štýl posúvania tapety</string>
     <string name="preferences_general_title">Základné nastavenia</string>
     <string name="preferences_title">Nastavenie spúšťača</string>
-    <string name="process" />
+	<string name="prompt_transition_icon_layout">Použiť predchádzajúce usporiadanie ikon pre nove rozloženie plochy?</string>
 	<string name="reset_scene_prompt">Scéna bude obnovená do predvoleného stavu</string>
     <string name="select_frame">Rám</string>
     <string name="select_photo">Fotka</string>
-    <string name="sharedUserId" />
     <string name="sort_by_abc">Radiť podľa názvu</string>
     <string name="sort_by_frequency">Radiť podľa frekvencie použitia</string>
     <string name="sort_by_not_defined">Neradiť</string>

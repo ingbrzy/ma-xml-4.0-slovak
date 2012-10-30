@@ -1436,7 +1436,7 @@
     <string name="sync_enabled">Synchronizácia ZAP.</string>	
     <string name="sync_error">Chyba synchronizácie</string>	
     <string name="sync_gmail">Gmail</string>
-<string name="sync_in_progress">Synchronizácia...</string>	
+    <string name="sync_in_progress">Synchronizácia...</string>	
     <string name="sync_is_failing">Nastali problémy so synchronizáciou. Služba bude čoskoro obnovená.</string>	
     <string name="sync_item_title">Synchr.: %s</string>	
     <string name="sync_menu_sync_cancel">Zrušiť synchronizáciu</string>	
@@ -1446,6 +1446,7 @@
     <string name="sync_plug">"Víta vás aplikácia Google Sync. Nový pohľad na synchronizáciu dát v réžii Googlu. Poskytuje vám prístup ku kontaktom, schôdzkam a ďalším informáciám, 
 		nech ste kdekoľvek."</string>	
     <string name="sync_settings">Účty a synchronizácia</string>	
+	<string name="sync_wifi_label">Nastavenie Wi-Fi synch.</string>
     <string name="system_package">Aktualizácia systému nie je možné nainštalovať na SD kartu.</string>	
     <string name="system_update_settings_list_item_title">Aktualizácia systému</string>	
     <string name="terms_title">Zmluvné podmienky</string>	
@@ -1651,7 +1652,14 @@
     <string name="virus_scan_app_stop_scan">Zastaviť skenovanie</string>
     <string name="virus_scan_app_uninstall">Hromadná odinštalácia (%d)</string>
     <string name="virus_scan_app_waiting">Čaká na skenovanie</string>
+	<string name="virus_scanner_auto_update">Aktualizovať automaticky</string>
 	<string name="virus_scanner_kinsoft_provider">Bezpečnosť zabezpečuje Kingsoft Phone Guardian</string>
+    <string name="virus_scanner_lib_already_latest">Vírusová databáza je aktuálna</string>
+    <string name="virus_scanner_lib_update">Je dostupná aktualizácia vírusovej databázy</string>
+    <string name="virus_scanner_lib_update_failed">Aktualizácia vírusovej databázy zlyhala!</string>
+    <string name="virus_scanner_lib_updating">Aktualizácia databázy...</string>
+    <string name="virus_scanner_manual_update">Aktualizovať manuálne</string>
+    <string name="virus_scanner_provider">Bezpečnosť zabezpečuje %s</string>
     <string name="virus_scanner_scan">Skenovať</string>
     <string name="virus_scanner_scanning">AntiVírus</string>
     <string name="virus_scanner_select_Cancel">Zrušiť</string>

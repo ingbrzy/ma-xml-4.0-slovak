@@ -74,8 +74,10 @@
     <string name="fw_edit_keyword">Upraviť kľúčové slová</string>
     <string name="fw_end_time">Konečný čas</string>
     <string name="fw_import_blacklist">Import čiernej listiny</string>
+	<string name="fw_import_blacklist_confirm">%d zvolených čísiel, vložiť do čiernej listiny?</string>
     <string name="fw_import_ms">Importovať všetky správy</string>
     <string name="fw_import_whitelist">Import bielej listiny</string>
+	<string name="fw_import_whitelist_confirm">%d zvolených čísiel, vložiť do bielej listiny?</string>
     <string name="fw_in_blacklist">Číslo %s už je v čiernej listine</string>
     <string name="fw_in_whitelist">Číslo %s už je v bielej listine</string>
     <string name="fw_keyword_filter">Kľúčové slová spam filtra</string>
