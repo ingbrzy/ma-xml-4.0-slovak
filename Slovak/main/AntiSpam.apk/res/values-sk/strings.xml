@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_action_accept_accept">Prijať_test</string>
+    <string name="act_action_accept_accept">Prijať</string>
     <string name="act_action_accept_mute">Stíšiť správy</string>
     <string name="act_action_accept_reject">Blokovať správy</string>
     <string name="act_action_mute_accept">Stíšiť hovory</string>
