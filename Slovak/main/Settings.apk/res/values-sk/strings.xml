@@ -4,6 +4,7 @@
     <string name="about_settings_summary">Zobrazí právne informácie, stav a verziu softwaru</string>	
     <string name="ac_enable_title">Zapnúť kontrolu prístupu</string>	
     <string name="ac_privacy_mode_title">Chrániť režim súkromia</string>	
+	<string name="ac_privacy_mode_sum">Pre deaktivovanie súkromného režimu vložte Vaše prístupové heslo</string>
     <string name="ac_set_apps_title">Chránené aplikácie</string>	
     <string name="accelerometer_summary_off">Pri otáčaní telefónu automaticky prepínať orientáciu</string>	
     <string name="accelerometer_summary_on">Pri otáčaní telefónu automaticky prepínať orientáciu</string>	
@@ -1085,6 +1086,7 @@
     <string name="preference_change_password_title">Zmeniť heslo</string>	
     <string name="preferred_media_app_summary">Vybrať hudobný prehrávač</string>	
     <string name="privacy_mode_enable_title">Zapnúť režim súkromie</string>	
+	<string name="privacy_mode_enable_sum">Skryť záznamy hovorov, správy a ostatné dáta pri aktivovanom súkromnom režime</string>
     <string name="privacy_protect_title">Ochrana súkromia</string>	
     <string name="privacy_settings">Zálohovanie a obnova dát</string>	
     <string name="privacy_settings_title">Zálohovanie a obnovenie dát</string>	

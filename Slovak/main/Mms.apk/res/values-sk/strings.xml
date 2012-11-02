@@ -8,6 +8,7 @@
   <string name="add_music">Pridať hudbu</string>
   <string name="add_nickname">Prezývka</string>
   <string name="add_nickname_title">Pridať prezývku</string>
+  <string name="add_number_to_sender">Pridať číslo do %s</string>
   <string name="add_phrase">Fráza</string>
   <string name="add_picture">Pridať fotografiu</string>
   <string name="add_slide">Pridať snímok</string>
@@ -167,6 +168,7 @@
   <string name="loading_all_messages">Načítavanie všetkých správ...</string>
   <string name="loading_contacts">Načítavam kontakty...</string>
   <string name="loading_conversations">Nahrávanie konverzácií...</string> 
+  <string name="loading_mms">Načítavanie MMS...</string>
   <string name="me">Ja</string>
   <string name="menu_add_address_to_contacts">Pridať %s medzi Kontakty</string>
   <string name="menu_add_to_contacts">Pridať do kontaktov</string>
