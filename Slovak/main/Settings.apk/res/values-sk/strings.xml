@@ -424,7 +424,7 @@
     <string name="build_number">Číslo buildu</string>	
     <string name="builtin_keyboard_settings_summary">Nastavenie fyzickej klávesnice</string>	
     <string name="builtin_keyboard_settings_title">Fyzická klávesnica</string>	
-    <string name="button_light_timeout">Trvanie podsvietenia tlačidiel</string>	
+    <string name="button_light_timeout">Doba podsvietenia tlač.</string>	
     <string name="cache_header_label">Medzipamäť</string>	
     <string name="cache_size_label">Medzipamäť</string>	
     <string name="cached">Proces na pozadí v medzipamäti</string>	
