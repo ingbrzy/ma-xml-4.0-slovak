@@ -456,11 +456,11 @@
 	<string name="clear_activities">Vymazať predvolené nastavenie</string>	
     <string name="clear_cache_btn_text">Vymazať medzipamäť</string>	
     <string name="clear_data_dlg_text">Všetky dáta (všetky súbory, nastavenia, účty, databázi apod.) tieto aplikácie budú trvalo vymazané.</string>	
-    <string name="clear_data_dlg_title">Zmazať dáta aplikácie?</string>	
-    <string name="clear_data_failed">Nie je možné zmazať dáta aplikácie.</string>	
-    <string name="clear_failed_dlg_text">Nepodarilo sa zmazať dáta aplikácie.</string>	
-    <string name="clear_failed_dlg_title">Mazanie dát</string>	
-    <string name="clear_user_data_text">Mazanie dát</string>	
+    <string name="clear_data_dlg_title">Vymazať dáta aplikácie?</string>	
+    <string name="clear_data_failed">Nie je možné vymazať dáta aplikácie.</string>	
+    <string name="clear_failed_dlg_text">Nepodarilo sa vymazať dáta aplikácie.</string>	
+    <string name="clear_failed_dlg_title">Vymazať dáta</string>	
+    <string name="clear_user_data_text">Vymazať dáta</string>	
     <string name="common_settings">Časté nastavenia</string>	
     <string name="complete_settings">Kompletné nastav.</string>	
     <string name="computing_size">Prebieha výpočet...</string>	
