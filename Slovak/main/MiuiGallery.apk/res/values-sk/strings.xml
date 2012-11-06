@@ -47,6 +47,13 @@
   <string name="cloud_gallery_space_full">Upload zlyhal!, Cloudové úložisko galérie je plné</string>
   <string name="cloud_media_set_set">Cloudové albumy</string>
   <string name="confirm_delete">Vymazať %s súborov?</string>
+  <string formatted="false" name="confirm_delete_album">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
+  <string name="confirm_delete_folders_and_pictures">Ste si istý, že chcete vymazať %s?</string>
+  <string formatted="false" name="confirm_delete_folders_including">%s zložiek (%s súborov)</string>
+  <string name="confirm_delete_including_null">0 položiek</string>
+  <string name="confirm_delete_pictures">%s obrázkov</string>
+  <string name="confirm_delete_system_album">%s je systémový album, skutočne vymazať?</string>
+  <string name="confirm_delete_videos">%s videá</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Obrázok kontraktu</string>
   <string name="contrast">Kontrast</string>

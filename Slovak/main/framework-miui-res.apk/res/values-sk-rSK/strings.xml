@@ -196,5 +196,6 @@
     <string name="user_agreement4">ochrane osobných údajov</string>
     <string name="user_agreement5">,Stlačte OK pokiaľ súhlasíte s nasledujúcimi podmienkami, stlačením na Zrušiť akciu ukončíte.</string>
     <string name="miui_user_manual_title">Návod</string>
+	<string name="v5_icon_menu_bar_more_item_label">Viac</string>
     <string name="wake_alarm_message">Zastaviť budík. Upozorniť o %s</string>
   </resources>
