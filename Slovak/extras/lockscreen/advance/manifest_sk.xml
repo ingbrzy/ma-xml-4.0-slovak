@@ -169,7 +169,7 @@
                 <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
                 </Time>
 
-	            <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM">
+	            <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d. MMMM">
 	            </DateTime>
             </Group>
 		            <!-- xx的小米手机 -->
@@ -302,7 +302,7 @@
                     </AlphaAnimation>
                 <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
                 </Time>
-                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM">
+                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d. MMMM">
                     </DateTime>
                 </Group>
                 <!-- xx的小米手机 -->
