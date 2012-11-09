@@ -16,7 +16,7 @@
 <string name="category_zip">Archívy</string>
 <string name="clean_message">Odstraňovanie %1$s</string>
 <string name="clean_title">Odstrániť z koša súbory staršie ako 30 dní</string>
-<string name="clean_trash_box_desctiption">Vyprázdňovanie koša...</string>
+<string name="clean_transh_box_desctiption">Vyprázdňovanie koša...</string>
 <string name="clean_trash_box">Vyprázdniť kôš</string>
 <string name="clean_trash_box_failed">Odstránenie zlyhalo</string>
 <string name="clear_cache">Vyčistiť medzipamäť/cache</string>
