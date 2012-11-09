@@ -181,12 +181,7 @@
 			        </AlphaAnimation>
 	            </Text>
 
-		<Group>
-                    <Image x="#screen_width/2+30" y="180" src="volumn.png" visibility="1">
-                    </Image>
-                </Group>
-
-		        <Group>
+                <Group>
                     <AlphaAnimation>
                         <Alpha a="255" time="0"/>
                         <Alpha a="255*not(#show_preview)" time="500"/>
