@@ -103,6 +103,7 @@
     <string name="dlg_error_title">USB operácia nedokončená</string>	
     <string name="dlg_ok">OK</string>
     <string name="dreams_dock_launcher">Aktivovať šetrič obrazovky</string>	
+	<string name="drive_mode_tip">Režim AUTO je aktivovaný, jazdite opatrne..!</string>
     <string name="ext_media_badremoval_notification_message">Odpojte USB úložisko pred odobraním, aby sa zabránilo poškodeniu dát.</string>	
     <string name="ext_media_badremoval_notification_title">USB úložisko neočakávane odobrané</string>	
     <string name="ext_media_checking_notification_message">Kontrolujem chyby.</string>	

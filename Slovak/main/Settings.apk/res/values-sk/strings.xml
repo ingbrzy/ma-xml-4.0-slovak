@@ -682,6 +682,19 @@
     <string name="dock_sounds_enable_summary_on">Prehrať zvuk pri vkladaní alebo vyberaní telefónu z doku</string>	
     <string name="dock_sounds_enable_title">Zvuk pri vložení do doku</string>	
     <string name="does_not_exist">Aplikácia neexistuje.</string>	
+    <string name="drive_mode">Režim AUTO</string>
+    <string name="drive_mode_auto_reply">Auto. odpoveď</string>
+    <string name="drive_mode_auto_sms_reply_content">Prepáčte, Práve šoférujem. Zavolám neskôr...</string>
+    <string name="drive_mode_auto_sms_reply_content_title">Správa odpovede</string>
+    <string name="drive_mode_calling_auto_sms_reply">Auto. zrušiť hovor s SMS</string>
+    <string name="drive_mode_invert_stop_report">Otočiť pre zastavenie upozornení</string>
+    <string name="drive_mode_only_contact_reply">Odpovedať iba mojim kontaktom</string>
+    <string name="drive_mode_phone_report">Upozorniť na hovor</string>
+    <string name="drive_mode_settings">Nastav. režimu AUTO</string>
+    <string name="drive_mode_sms_auto_sms_reply">Auto. odpoveď SMS</string>
+    <string name="drive_mode_sms_report">Upozorniť na SMS</string>
+    <string name="drive_mode_title">Nastaviť upozornenie na hovor a odpoveď</string>
+    <string name="drive_mode_voice_report">Upozorniť na hovor</string>
     <string name="dtmf_tone_enable_title">Tóny pri dotyku číselníku</string>	
     <string name="emergency_tone_summary">Nastaviť chovanie pri tiesňovom volaní</string>	
     <string name="emergency_tone_title">Tiesňové vyzváňanie</string>	
@@ -1656,6 +1669,7 @@
     <string name="virus_scan_app_uninstall">Hromadná odinštalácia (%d)</string>
     <string name="virus_scan_app_waiting">Čaká na skenovanie</string>
 	<string name="virus_scanner_auto_update">Aktualizovať automaticky</string>
+	<string name="virus_scanner_date_formater">dd MMM. yyyy</string>
 	<string name="virus_scanner_kinsoft_provider">Bezpečnosť zabezpečuje Kingsoft Phone Guardian</string>
     <string name="virus_scanner_lib_already_latest">Vírusová databáza je aktuálna</string>
     <string name="virus_scanner_lib_update">Je dostupná aktualizácia vírusovej databázy</string>

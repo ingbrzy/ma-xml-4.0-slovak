@@ -157,6 +157,8 @@
   <string name="has_draft">Koncept</string>
   <string name="has_invalid_recipient">%1$s Neplatných príjemcov</string>
   <string name="hidden_sender_address">Adresa skrytého odosielateľa</string>
+  <string name="in_calling">Volať</string>
+  <string name="in_sms">Správa</string>
   <string name="inline_subject">Predmet:</string>
   <string name="insufficient_drm_rights">Nemáte dostatočné práva DRM.</string>
   <string name="invalid_destination">Zadali ste neplatnú adresu.</string>
@@ -419,10 +421,12 @@
   <string name="slide_number">Prechod %s</string>
   <string name="slide_show_part">Časť %1$s/%2$s</string>
   <string name="slideshow_activity">Prezentácia</string>
+  <string name="sms_content">Obsah správy</string>
   <string name="sms_full_body">Prichádzajúca správa bola odmietnutá z dôvodu plnej pamäte. Odstráňte prosím staré správy.</string>
   <string name="sms_full_title">Textové správy majú už plnú pamäť</string>
   <string name="sms_rejected_body">Prichádzajúca správa bola odmietnutá z neznámeho dôvodu.</string>
   <string name="sms_rejected_title">Textová správa odmietnutá</string>
+  <string name="sms_sender">Od</string>
   <string name="status_failed">Neúspešný</string>
   <string name="status_label">"Status: "</string>
   <string name="status_none">Žiadny</string> 
@@ -464,6 +468,7 @@
   <string name="undelivered_msg_dialog_body">"Správu sa nepodarilo odoslať. Pokus: %s."</string>
   <string name="undelivered_msg_dialog_title">Nedoručená správa</string>
   <string name="undelivered_sms_dialog_body">Správu sa nepodarilo odoslať.</string>
+  <string name="unknown_num">Neznáme číslo</string>
   <string name="unknown_sender">Neznámy odosielateľ</string>
   <string name="unsupported_media_format">%1$s je v nepodporovanom formáte</string>
   <string name="view">Zobraziť</string>

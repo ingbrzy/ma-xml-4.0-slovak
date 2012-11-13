@@ -125,6 +125,7 @@
     <string name="resource_get_auth_retrieving">Kontrola autorských práv...</string>
     <string name="resource_local">Lokálne %1$s</string>
     <string name="resource_mute">Žiadne</string>
+	<string name="resource_no_result">Nič sa nenašlo</string>
     <string name="resource_notification_default">Notifikácie</string>
     <string name="resource_online">Online %1$s</string>
     <string name="resource_price_free">Zdarma</string>
@@ -158,10 +159,12 @@
     <string name="send_sms_for_sync_title">Odoslať SMS pre aktiváciu Synchronizácie</string>
     <string name="sim_changed_reactivate_notice">Súčasná SIM karta nie je aktivovaná. Je potrebné odoslať SMS správu pre aktiváciu Xiaomi Synchronizácie. Aktivovať teraz?</string>
     <string name="status_bar_toggle_ac">Kontrola prístupu</string>	
+	<string name="status_bar_toggle_auto_brightness">Auto. jas</string>
     <string name="status_bar_toggle_bluetooth">BT</string>	
     <string name="status_bar_toggle_brightness">Jas</string>	
     <string name="status_bar_toggle_data">Dáta</string>	
-    <string name="status_bar_toggle_divider">Upraviť</string>	
+    <string name="status_bar_toggle_divider">Upraviť</string>
+    <string name="status_bar_toggle_drive_mode">AUTO</string>	
     <string name="status_bar_toggle_flight_mode">Lietadlo</string>	
     <string name="status_bar_toggle_gps">GPS</string>	
     <string name="status_bar_toggle_lock">Zámok</string>	

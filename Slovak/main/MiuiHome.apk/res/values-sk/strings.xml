@@ -101,6 +101,8 @@
     <string name="starting_preset_app">Spúšťanie</string>
     <string name="title_select_live_folder">Vybrať zložku</string>
     <string name="title_select_shortcut">Vybrať zástupcu</string>
+    <string name="toggle_select_title">Zvoliť prepínač</string>
+    <string name="toggle_title">Prepínač</string>
     <string name="transformation_type_classic">Klasický</string>
     <string name="transformation_type_classic_no_overshoot">Klasický</string>
     <string name="transformation_type_crossfade">Prelínanie</string>
