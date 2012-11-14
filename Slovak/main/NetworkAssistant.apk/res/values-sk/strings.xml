@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about">O aplikácií</string>
     <string name="adjust_traffic_auto_adjust_hint">Systém sa pýta a upravuje údaje pravidelne od operátora. Je potrebné nastaviť informácie o operátorovi.</string>	
     <string name="adjust_traffic_auto_adjust_open_hint">Automatické upravovanie mesačného balíčku je nastavené</string>	
     <string name="adjust_traffic_auto_adjust_title">Automatické nastavenie</string>	
@@ -77,6 +78,9 @@ Môžete ich upraviť."</string>
     <string name="notify_carrier_settings_title">Nemáte nastaveného svojho operátora. Nastaviť teraz?</string>
     <string name="notify_traffic_settings_cancel_hint">Notifikácie a monitorovanie spotreby dát bude deaktivované. Ukončiť?</string>
     <string name="notify_traffic_settings_title">Nemáte nastavený Váš limit dát. Chcete ho nastaviť?</string>
+	<string name="overseas_menu_traffic_adjust">Nastaviť manuálne</string>
+    <string name="overseas_menu_traffic_settings">Limit dát</string>
+    <string name="overseas_unknown_traffic_hint">Nemáte nastavený limit stiahnutých dát. Chcete ho nastaviť?</string>
 	<string name="plate_traffic_already_used">Využité (%s)</string>	
     <string name="plate_traffic_exceed">Prekročenie (%s)</string>	
     <string name="plate_traffic_remain">Ostáva (%s)</string>	
