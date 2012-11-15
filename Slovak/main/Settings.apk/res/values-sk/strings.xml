@@ -689,7 +689,7 @@
     <string name="dolby_effects">Dolby Efekt</string>
     <string name="dolby_eq_auto">Vlastný</string>	
     <string name="dolby_eq_blues">Blues</string>
-    <string name="dolby_eq_classical">Klasika</string>
+    <string name="dolby_eq_classical">Classical</string>
     <string name="dolby_eq_country">Country</string>
     <string name="dolby_eq_dance">Dance</string>
     <string name="dolby_eq_delete">Vymazať</string>
@@ -697,7 +697,7 @@
     <string name="dolby_eq_electronic">Electronic</string>
     <string name="dolby_eq_enter_alert_msg">Chcete otvorť nastavenia Dolby EQ?</string>
     <string name="dolby_eq_enter_alert_title">Otvoriť Dolby EQ</string>
-	<string name="dolby_eq_flat">Plochý</string>
+	<string name="dolby_eq_flat">Flat</string>
     <string name="dolby_eq_hiphop">Hiphop</string>
     <string name="dolby_eq_jazz">Jazz</string>
     <string name="dolby_eq_jungle">Jungle</string>
