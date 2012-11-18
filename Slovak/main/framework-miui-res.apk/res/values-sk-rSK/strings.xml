@@ -21,6 +21,7 @@
     <string name="description_file">Súbor:</string>
     <string name="description_missed">N/A</string>
     <string name="description_size">Veľkosť:</string>
+	<string name="description_summary">Informácie:</string>
     <string name="description_unknown">Neznáme</string>
     <string name="description_version">Verzia:</string>
     <string name="download_failed">Sťahovanie zlyhalo</string>
@@ -29,6 +30,7 @@
     <string name="error_not_acceptable">Server má problémy. Synchronizácia je vypnutá.</string>
     <string name="error_title">Chyba synchr. pre %s</string>
     <string name="error_unauthorized">Príliš veľa chýb pre autorizáciu účtu. Synchronizácia je vypnutá.</string>
+	<string name="every_day">Denne</string>   
     <string name="find_device_sim_change_instructions">"Vaše zariadenie bolo zablokované. Vložte SIM kartu alebo Váše heslo pre účet Xiaomi."</string>
     <string name="firewall_setting">Firewall</string>
     <string name="first_back_long_press_message">"Prajete si, aby na ukončili aplikácie stlačením a podržaním tlačidla späť? Zapnúť v Nastavenia> Systém> 
@@ -65,6 +67,7 @@
     <string name="miui_copyright_title">Autorské práva</string>
     <string name="miui_privacy_policy_title">Ochrana osobných údajov</string>
     <string name="miui_user_agreement_title">Podmienky použitia</string>
+	<string name="mms_vibrate_hint">Správa</string>
     <string name="month_of_april">Apr</string>
     <string name="month_of_august">Aug</string>
     <string name="month_of_december">Dec</string>
@@ -92,6 +95,8 @@
     <string name="payphone">Telefónny automat</string>
     <string name="permdesc_accessNote">Povolí aplikácií čítať a upraviť Vaše poznámky uložené v telefóne.</string>
     <string name="permlab_accessNote">Prístup k poznámkam</string>
+    <string name="perm_activate_dspt">Odoslanie SMS pre aktiváciu služieb Xiaomi</string>
+    <string name="perm_activate_lab">Aktivácia služieb Xiaomi</string>
     <string name="perm_auto_backup">Automatická záloha</string>
     <string name="perm_get_user_info_dspt">Zobraziť detaily účtu Xiaomi</string>
     <string name="perm_get_user_info_lab">Získať informácie o účte Xiaomi</string>
@@ -146,6 +151,9 @@
     <string name="screen_on_proximity_sensor_summary">"Funkcie telefónu sú nedostupné"</string>
     <string name="screen_on_proximity_sensor_title">Odkryte senzor priblíženia!</string>
     <string name="screen_button_disabled_message">Senzorové tlačidlá sú deaktivované. Môžete ich opäť aktivovať podržaním \"Home\" a \"Power\"</string>
+	<string name="screen_button_enabled_message">Senzorové tlačidlá sú aktivované</string>
+    <string name="screen_button_notification_text">"Stlačte 'Home'+'Power' pre aktiváciu"</string>
+    <string name="screen_button_notification_title">Senzorové tlačidlá</string>
     <string name="screen_rotation_freeze_message">Rotácia obrazovky je uzamknutá v horizontálnej polohe</string> 
     <string name="sd_not_available">SD karta je odpojená alebo neprístupná</string>
     <string name="sd_not_available_low_internal_storage">SD karta je odpojená alebo neprístupná. Na internom úložisku je málo miesta.</string>
@@ -191,6 +199,7 @@
     <string name="theme_updating_content">Aktualizovanie %1$d/%2$d</string>
     <string name="theme_updating_precontent">Pripravujem...</string>
     <string name="theme_updating_title">Aktualizovanie témy</string>
+	<string name="to_vibrate_settings">Nastavenie vibrácií</string>
     <string name="unknown">Neznáme číslo</string>
     <string name="description_uploadtime">Čas odoslania:</string>
     <string name="user_agreement1">Budete používať systém a služby poskytované spoločnosťou Xiaomi, prosím prečítajte si </string>
