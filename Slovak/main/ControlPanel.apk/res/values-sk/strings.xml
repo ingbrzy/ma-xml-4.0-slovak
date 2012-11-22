@@ -65,9 +65,9 @@ Súčasné nastavenie: "</string>
     <string name="cpu_set_on_boot_summary">Použiť nastavenia automaticky po reštarte</string>
     <string name="rom_info">informácie o ROM</string>
     <string name="rom_info_summary">Detailné informácie o ROM a prístroji</string>
-    <string name="rom_info_name">Nazov ROM:</string>
+    <string name="rom_info_name">Build:</string>
     <string name="rom_info_syspart">Systemova Particia:</string>
-    <string name="rom_info_version">Verzia:</string>
+    <string name="rom_info_version">Verzia Androidu:</string>
     <string name="rom_info_build_date">Datum zostavenia:</string>
     <string name="rom_info_device">Pristroj:</string>
     <string name="rom_info_manufacturer">Vyrobca:</string>
@@ -78,7 +78,7 @@ Súčasné nastavenie: "</string>
     <string name="rom_info_lcd_density">Hustota LCD:</string>
     <string name="rom_info_dalvik_heapsize">Dalvik Heapsize:</string>
     <string name="rom_info_rom_busybox">Verzia busybox:</string>
-    <string name="rom_info_gsm_numeric">Kod operatora:</string>
+    <string name="rom_info_gsm_numeric">Kod mobilneho operatora:</string>
     <string name="storage_settings">Úložisko</string>
     <string name="storage_summary">Upraviť IO nastavenie pre zlepšenie rýchlosti</string>
     <string name="storage_scheduler">IO Scheduler</string>
