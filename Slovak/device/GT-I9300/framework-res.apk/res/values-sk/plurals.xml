@@ -69,11 +69,11 @@
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Siete Wi-Fi sú k dispozícii</item>
-        <item quantity="one">Sieť Wi-Fi je k dispozícii</item>
+        <item quantity="one">Siete Wi-Fi sú k dispozícii</item>
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="other">Otvoriť dostupné siete Wi-Fi</item>
-        <item quantity="one">Otvoriť dostupnú sieť Wi-Fi</item>
+        <item quantity="one">Otvoriť dostupné siete Wi-Fi</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d z %2$d</item>
