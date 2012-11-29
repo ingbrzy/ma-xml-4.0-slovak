@@ -150,6 +150,7 @@
     <string name="exported_bookmark_file_name">Moje obľúbené</string>	
     <string name="file_picker_new_folder">Nový priečinok</string>	
     <string name="file_picker_sdcard_not_found">SD karta nenájdená, označte prosím, ak bolo zariadenie práve inštalované ( mounted ) alebo sa používa</string>	
+    <string name="find_on_page">Nájsť na stránke</string>
     <string name="folder_name">Názov zložky</string>	
     <string name="forward">Dopredu</string>	
     <string name="geolocation_permissions_prompt_dont_share">Odmietnuť</string>	
