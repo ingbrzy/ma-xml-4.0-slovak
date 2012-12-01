@@ -36,8 +36,8 @@
 	<string name="menu_refresh">Obnoviť</string>
     <string name="play_all_audio_effect">prehrať zvukový efekt (celkom: %1$s)</string>
     <string name="resource_comment_account_need_activitied">Váš účet nie je aktivovaný, Chcete ho aktivovať teraz?</string>
-    <string name="resource_comment_count">%1$s má hodnotenie %2$s a komentáre (%3$s verzia)</string>
-    <string name="resource_comment_description">%1$s komentovať na %2$s:%3$s:%4$s</string>
+    <string name="resource_comment_count">%1$s hodnotení a %2$s komentárov (verzia %3$s)</string>
+    <string name="resource_comment_description">%1$s komentoval dňa %2$s.%3$s.%4$s</string>
     <string name="resource_comment_edit_comment">Pridať komentár</string>
     <string name="resource_comment_edit_comment_waiting">Kontrola či ste už zanechali komentár</string>
     <string name="resource_comment_edit_text_default">Písať komentár</string>
