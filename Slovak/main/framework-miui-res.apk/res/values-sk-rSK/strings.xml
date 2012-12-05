@@ -124,6 +124,9 @@
     <string name="resource_downloaded_title">Stiahnuť</string>
     <string name="resource_downloading">Sťahovanie</string>
     <string name="resource_get_auth">Nemáte autorské práva k tejto téme..</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Téma nemôže byť použitá pre toto zariadenie. Váš Xiaomi účet je limitovaný pre 10 zariadení. Skúste iný účet Xiaomi.</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Dosiahnutý limit používania</string>
+    <string name="resource_importing">Nahrávanie</string>
     <string name="resource_get_auth_failed">Kontrola autorských práv zlyhala.</string>
     <string name="resource_get_auth_checking">Kontrola autorských práv...</string>
     <string name="resource_get_auth_missing">Téma nie je stiahnutá z oficiálneho marketu MIUI.</string>
@@ -139,6 +142,8 @@
     <string name="resource_see_more">Viac</string>
     <string name="resource_select">Vybrať</string>
     <string name="resource_selected_number">Vybraných %1$d zdroj(ov)</string>
+	<string name="resource_server_out_of_service">Server je momentálne nedostupný, skúste to opäť neskôr.</string>
+    <string name="resource_switch_account">Prepnúť účet</string>
     <string name="resource_system_title">Systémové zdroje</string>
     <string name="resource_title">Detaily zdrojov</string>
     <string name="resource_transparent_wallpaper">Priehľadné pozadie</string>
