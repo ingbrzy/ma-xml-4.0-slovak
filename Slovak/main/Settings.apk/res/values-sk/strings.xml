@@ -101,9 +101,7 @@
     <string name="allow_mock_location_summary">Povoliť simulovanie polohy</string>
     <string name="always_allow_bind_appwidgets_text">"Povolili ste aplikácií vytváranie widgetov."</string>
     <string name="android_beam_disabled_summary">Nie je k dispozícií, pretože je vypnutá funkcia NFC</string>	
-    <string name="android_beam_explained">"Pokiaľ je funkcia zapnutá, môžete prenášať obsah aplikácie do iného zariadenia s funkciou NFC tým, že podržíte zariadenia 
-		blízko seba. Môžete napríklad prenášať stránky prehliadača, videá YouTube, kontakty a ďalšie. Priložte zariadenia k sebe (spravidla zadnou stranou) 
-		a dotknite sa obrazovky. Aplikácia určí, aký obsah sa bude prenášať."</string>	
+    <string name="android_beam_explained">"Pokiaľ je funkcia zapnutá, môžete prenášať obsah aplikácie do iného zariadenia s funkciou NFC tým, že podržíte zariadenia blízko seba. Môžete napríklad prenášať stránky prehliadača, videá YouTube, kontakty a ďalšie. Priložte zariadenia k sebe (spravidla zadnou stranou) a dotknite sa obrazovky. Aplikácia určí, aký obsah sa bude prenášať."</string>	
     <string name="android_beam_label">Android Beam</string>	
     <string name="android_beam_off_summary">Vypnuto</string>	
     <string name="android_beam_on_summary">Prenos obsahu aplikácie prostredníctvom NFC je pripravený</string>	
