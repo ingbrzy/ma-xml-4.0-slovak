@@ -19,6 +19,9 @@
 	<string name="balance">Zostatok: %1$s Mi kreditov</string>
     <string name="basic_info">Základné informácie</string>	
     <string name="btn_back">Naspäť</string>
+    <string name="btn_call">Podpora</string>
+    <string name="btn_count_down_auto">%1$s sekúnd</string>
+    <string name="btn_count_down_wait">Čakajte %1$s sekúnd</string>
     <string name="btn_mili_center_recharge">Navýšiť Mi kredit</string>
     <string name="btn_query">Informácie</string>
     <string name="btn_recharge_large">Navýšiť teraz</string>
@@ -149,6 +152,7 @@
     <string name="prev">Späť</string>	
 	<string name="progress_alipay_creating">Vytváranie objednávky Alipay...</string>
     <string name="progress_alipay_installing">Inštalovanie Alipay pluginu...</string>
+	<string name="progress_connecting">Pripájanie...</string>
     <string name="progress_creating">Získavanie informácie objednávky...</string>
     <string name="progress_error_common">Navýšenie kreditu zlyhalo, skúste opäť neskôr.</string>
     <string name="progress_error_contact_server">"Spojenie zlyhalo. kontaktujte naších partnerov v Shenzhou na čísle: 400-001-0195，Vaše sériové číslo je: %1$s"</string>
@@ -160,12 +164,16 @@
     <string name="progress_loading">Spracovávanie, čakajte prosím...</string>
     <string name="progress_prepaid_creating">Vytváranie objednávky navýšenia kreditu...</string>
     <string name="progress_querying">Spracovávanie filteru platieb...</string>
+	<string name="progress_submit_hint">Trvá asi 3 minnúty</string>
     <string name="progress_submit_hint_init">Navýšenie bude vykonané do 3 minút, aktualizuje sa o %1$s sekúnd</string>
     <string name="progress_submit_hint_query">Navýšenie bude vykonané do 3 minút, môžte aktualizovať o %1$s sekúnd</string>
     <string name="progress_submit_summary">Navýšenie: %1$s RMB</string>
     <string name="progress_submit_title">Navýšenie odoslané</string>
     <string name="progress_success_summary">Stav účtu: %1$s Mi kreditov</string>
     <string name="progress_success_title">Navýšenie %1$s Mi kreditov úspešné</string>
+    <string name="progress_warning_contact_server">"Správa nebola doručená:
+    1. Kontaktujte zákaznícku podporu na: %1$s
+    2. Vaše sériové číslo: %2$s"</string>
     <string name="quick_login_title">Je vyžadované overenie, prosím, vložte vaše heslo</string>	
     <string name="reg_by_email_failure">Registrácia sa nepodarila: %1$s</string>	
     <string name="reg_failed">Registrácia sa nepodarila</string>	
