@@ -164,7 +164,7 @@
     <string name="progress_loading">Spracovávanie, čakajte prosím...</string>
     <string name="progress_prepaid_creating">Vytváranie objednávky navýšenia kreditu...</string>
     <string name="progress_querying">Spracovávanie filteru platieb...</string>
-	<string name="progress_submit_hint">Trvá asi 3 minnúty</string>
+	<string name="progress_submit_hint">Trvá asi 3 minúty</string>
     <string name="progress_submit_hint_init">Navýšenie bude vykonané do 3 minút, aktualizuje sa o %1$s sekúnd</string>
     <string name="progress_submit_hint_query">Navýšenie bude vykonané do 3 minút, môžte aktualizovať o %1$s sekúnd</string>
     <string name="progress_submit_summary">Navýšenie: %1$s RMB</string>
