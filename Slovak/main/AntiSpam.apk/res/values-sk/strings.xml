@@ -62,7 +62,7 @@
     <string name="fw_all_day">Denne</string>
     <string name="fw_blacklist">Čierna listina</string>
     <string name="fw_blacklist_hint">Hovory a správy sú automaticky blokované, pokiaľ sú v čiernej listine</string>
-    <string name="fw_blocked">Štatistiky blokované</string>
+    <string name="fw_blocked">Blokované</string>
     <string formatted="false" name="fw_blocked_count">Hovory: %d, SMS: %d.</string>
     <string formatted="false" name="fw_call">Čas hovoru: %s (%d)</string>
     <string name="fw_call_muted">Hovory stíšené</string>
