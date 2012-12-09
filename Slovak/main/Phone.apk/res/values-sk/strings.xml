@@ -186,7 +186,7 @@
     <string name="card_title_conf_call">Konferenčný hovor</string>
     <string name="card_title_dialing">Vytáčanie</string>
     <string name="card_title_forwarded_incoming_call_miui">Presmerovaný hovor</string>
-    <string name="card_title_hanging_up">Skladanie</string>
+    <string name="card_title_hanging_up">Ukončenie hovoru</string>
     <string name="card_title_in_call">Počas hovoru</string>
     <string name="card_title_incoming_call">Prichádzajúci hovor</string>
     <string name="card_title_my_phone_number">Moje číslo je %s</string>
