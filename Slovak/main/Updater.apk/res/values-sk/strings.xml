@@ -20,7 +20,7 @@
     <string name="cancel_download_buton_text">Zruš</string>
     <string name="confirm_download_cancelation_dialog_message">Ste si istý že chcete zrušiť vybrané sťahovanie?</string>
     <string name="copy_install_log">Skopírovať log do schránky</string>
-    <string name="current_version_text">Súčasná verzia</string>
+    <string name="current_version_text">Súčasná verzia </string>
     <string name="current_version_update_monthly_build">Súčasná verzia (Aktualizácia mesačných verzií)</string>
     <string name="daily_build">Denné verzie</string>
     <string name="dialog_no">Nie</string>
