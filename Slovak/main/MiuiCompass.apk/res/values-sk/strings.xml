@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="altitude">Nadmorská výška %.1fm</string>
     <string name="app_label">Kompas</string>
     <string name="getting_location">Získavam polohu...</string>
 	<string name="calibrate_success">Kalibrácia dokončená</string>
     <string name="cannot_get_location">Nie je možné určiť polohu</string>
+    <string name="dialog_content">Kalibrácia kompasu nie je dokončená a môže pracovať nesprávne. Ste si istí, že ju chcete ukončiť?</string>
+    <string name="dialog_title">Ukončiť kalibráciu</string>
 	<string name="location_east">%s V</string>
 	<string name="location_north">%s S</string>
 	<string name="location_south">%s J</string>
 	<string name="location_west">%s Z</string>
+	<string name="menu_calibrate">Kalibrácia</string>
     <string name="pressure">Tlak %.1fhPa</string>
-    <string name="altitude">Nadmorská výška %.1fm</string>
+    <string name="toast_accuracy_low">"Presnosť nie je dostačujúca, stlačte Menu pre kalibráciu kompasu."</string>
+    <string name="user_guide_calibrate">Stlačte Menu pre kalibráciu kompasu</string>
 </resources>

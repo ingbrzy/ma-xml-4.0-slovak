@@ -13,8 +13,10 @@
     <string name="airkan_device_xiaomi_phone">Xiaomi</string>
 	<string name="airkan_video_playing" />
 	<string name="airkan_video_playing_in">Video sa prehráva...</string>
+	<string name="loading_video_netplay_label_v5">Načítava sa stream, Čakajte prosím...</string>
     <string name="app_name">Video</string>
 	<string name="buffering">Ukladanie do vyrovnávacej pamäte...</string>
+	<string name="buffering_video_netplay_label_v5">Ukladanie do vyrovnávacej pamäte...</string>
     <string name="hello">Hello World, VideoPlayerActivity!</string>
 	<string name="loading_video_netplay_label">Načítavanie, čakajte prosím...</string>
     <string name="menu_item_about_label">O aplikácií</string>
@@ -31,12 +33,15 @@
 	<string name="menu_wh_item_full_screen_label">Celá obrazovka</string>
     <string name="menu_wh_item_using_16_9_label">Pomer 16:9</string>
     <string name="menu_wh_item_using_4_3_label">Pomer 4:3</string>
+	<string name="temp_play_history_button_label">Zobraziť históriu</string>
+	<string name="to_be_play_label_v5">Začinanie prehrávania</string>
     <string name="toast_back_key_pressed_notice">Stlačte znovu pre ukončenie.</string>
 	<string name="toast_message_continue_play_from">Pokračovať v prehrávaní od</string>
 	<string name="toast_message_continue_play_hour">h</string>
 	<string name="toast_message_continue_play_minute">m</string>
 	<string name="toast_message_continue_play_second_and_play">s</string>
-	<string name="temp_play_history_button_label">Zobraziť históriu</string>
+    <string name="top_status_local_media">Lokálne média</string>
+    <string name="top_status_online_media">Online média</string>
     <string name="video_info_audio_bitrate_label">Bitrate audio:</string>
     <string name="video_info_audio_coding_label">Formát kódovania zvuku:</string>
     <string name="video_info_audio_null">Nedostupný</string>

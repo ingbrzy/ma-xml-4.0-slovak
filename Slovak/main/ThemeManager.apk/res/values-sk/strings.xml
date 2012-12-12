@@ -89,6 +89,8 @@
     <string name="theme_changed_message">Úspešne aplikovaná %1$s.</string>	
     <string name="theme_changing_dialog_title">Aplikovanie novej témy, prosím čakajte....</string>	
     <string name="theme_import">Nahrať z SD karty</string>	
+	<string name="theme_import_data">Importovanie témy</string>
+    <string name="theme_import_fail">Importovanie %1$s zlyhalo</string>
 	<string name="theme_import_success">Import dokončený</string>
 	<string name="theme_importing">Nahrávanie témy...</string>
     <string name="theme_import_activity_label">Aktualizovať tému</string>
