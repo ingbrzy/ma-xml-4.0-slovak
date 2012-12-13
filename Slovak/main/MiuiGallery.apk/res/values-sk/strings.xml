@@ -43,6 +43,7 @@
   <string name="close">Zatvoriť</string>
   <string name="cloud_albums">Cloudové Albumy</string>
   <string name="cloud_gallery_no_pictures">Žiadne fotografie v MiCloud</string>
+  <string name="cloud_gallery_recyclebin_full">Kôš v Cloude je plný, vyprázdnite ho na stránke i.xiaomi.com</string>
   <string name="cloud_gallery_setting">Nastavenia Cloudovej galérie</string>
   <string name="cloud_gallery_space_full">Upload zlyhal!, Cloudové úložisko galérie je plné</string>
   <string name="cloud_media_set_set">Cloudové albumy</string>
