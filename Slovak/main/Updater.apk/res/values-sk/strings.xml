@@ -122,7 +122,6 @@
     <string name="submit_progress">Odosielanie...</string>
     <string name="submit_success">Odoslanie úspešné, ďakujeme!</string>
     <string name="choose_recommend">Prosím zvoľte či odporučiť alebo nie</string>
-    <string name="not_recommend">"Nedoporučujem"</string>
 	<string name="active_xiaomi_account">Aktívny</string>
 	<string name="active_xiaomi_account_msg">"Navštívte MIUI fórum pre aktiváciu účtu Xiaomi:"</string>
 	<string name="active_xiaomi_account_title">Aktivovať účet Xiaomi</string>
@@ -135,7 +134,6 @@
 	<string name="my_update_feel">Moje dojmy</string>
 	<string name="my_worst_update">Hrozný update</string>
 	<string name="next">Ďalší</string>
-	<string name="previous">Predchádzajúci</string>
 	<string name="update_comment_hint">(voliteľné)</string>
 	<string name="update_comment_title">Váš komentár</string>
 	<string name="update_feedback">Spätná väzba o update</string>
