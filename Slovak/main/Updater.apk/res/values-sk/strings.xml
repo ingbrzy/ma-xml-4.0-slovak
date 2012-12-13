@@ -68,6 +68,10 @@
     <string name="no_updates_found">Už máte nainštalovanú najnovšiu verziu.</string>
     <string name="no_updates_warning">Žiadne nové aktualizácie pre Váš telefón neboli nájdené.</string>
     <string name="no_updates_warning2">Táto aplikácia Vás upozorní na nové aktualizácie.</string>
+	<string name="not_recommend">"Neodporúčam"</string>
+	<string name="paused_queued_for_network">Čakanie na internetové pripojenie</string>
+    <string name="paused_queued_for_wifi">Čakanie na Wi-Fi pripojenie</string>
+    <string name="previous">Predchádzajúci</string>
     <string name="reboot_to_new_system">Reštartovať do novej verzie</string>
 	<string name="refuse_recommend_reason">Prosím vyplňte dôvod</string>
     <string name="sdcard_has_no_space_dialog_body">Na SD karte nie je dostatok voľného miesta, uvoľníte ho a aktualizujte znova</string>
