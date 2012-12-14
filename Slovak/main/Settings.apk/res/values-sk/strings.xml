@@ -1272,11 +1272,14 @@
     <string name="runningservicedetails_stop_dlg_title">Zastaviť systémovú službu?</string>	
     <string name="runningservices_settings_summary">Umožňuje zobraziť a ovládať aktuálne spustené služby</string>	
     <string name="runningservices_settings_title">Spustené služby</string>	
-    <string name="scan_list_label">Výsledky skenovania:</string>	
+    <string name="scan_list_label">Výsledky skenovania:</string>
+    <string name="screen">Displej</string>
     <string name="screen_button_custom">Úprava pozície tlačítka na displeji</string>    	
     <string name="screen_button_key">Virtuálne tlačítko na displeji</string>	
+    <string name="screen_color_temperature_adjust">Teplota farieb</string>
     <string name="screen_compatibility_label">Kompatibilita s obrazovkou</string>	
     <string name="screen_compatibility_text">Táto aplikácia najskôr nie je určená pre vašu obrazovku. Tu môžete nastaviť, ako sa aplikácia obrazovke prispôsobí.</string>	
+    <string name="screen_saturation_adjust">Sýtosť farieb</string>
     <string name="screen_timeout">Vypnutie displeja</string>	
     <string name="screen_timeout_summary">Po %1$s nečinnosti</string>	
     <string name="screen_timeout_title">Vypnutie displeja</string>	
@@ -1499,7 +1502,8 @@
     <string name="sync_plug">"Víta vás aplikácia Google Sync. Nový pohľad na synchronizáciu dát v réžii Googlu. Poskytuje vám prístup ku kontaktom, schôdzkam a ďalším informáciám, 
 		nech ste kdekoľvek."</string>	
     <string name="sync_settings">Účty a synchronizácia</string>	
-	<string name="sync_wifi_label">Nastavenie Wi-Fi synch.</string>
+    <string name="sync_wifi_label">Nastavenie Wi-Fi synch.</string>
+    <string name="system">Systém</string>
     <string name="system_package">Aktualizácia systému nie je možné nainštalovať na SD kartu.</string>	
     <string name="system_update_settings_list_item_title">Aktualizácia systému</string>	
     <string name="terms_title">Zmluvné podmienky</string>	
