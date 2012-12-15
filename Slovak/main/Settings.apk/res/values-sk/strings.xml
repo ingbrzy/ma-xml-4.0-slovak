@@ -886,7 +886,7 @@
     <string name="large_font">Veľké</string>
 	<string name="last_synced">Naposledy synch. %1$s</string>	
     <string name="launch_count_label">Počet</string>	
-    <string name="launcher_settings_title">Spúšťač - MIUI launcher</string>	
+    <string name="launcher_settings_title">MIUI launcher</string>	
     <string name="led_colors_summary">Farba LED pri notifikácii</string>	
     <string name="led_frequence_summary">Nastaviť interval blikania LED</string>	
     <string name="led_pulse_summary">Pri novej notifikácii blikať LED</string>	
@@ -1332,7 +1332,7 @@
     <string name="search_key">kľúč</string>	
     <string name="search_label">Nastavenia</string>	
     <string name="search_language">Jazyk</string>	
-    <string name="search_launcher">Spúšťač</string>	
+    <string name="search_launcher">Launcher</string>	
     <string name="search_led">LED</string>	
     <string name="search_network">Sieť</string>	
 	<string name="search_power_mode">running mode; performance; priority performance; performance mode; normal mode; conventional mode; default mode; balanced performance; saving mode; energy-saving mode; performance; power</string>
