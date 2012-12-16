@@ -22,7 +22,6 @@
         <item>2 minúty</item>
         <item>5 minút</item>
         <item>10 minút</item>
-        <item>30 minút</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nikdy</item>
