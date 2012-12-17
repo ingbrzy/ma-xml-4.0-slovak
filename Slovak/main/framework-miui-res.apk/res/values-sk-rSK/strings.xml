@@ -192,10 +192,10 @@
     <string name="status_bar_toggle_power_mid">Normálny</string>	
     <string name="status_bar_toggle_privacy_mode">Návštevník</string>	
     <string name="status_bar_toggle_reboot">Reštart</string>
-    <string name="status_bar_toggle_ring">Zvonenie</string>
+    <string name="status_bar_toggle_ring">Zvuk</string>
     <string name="status_bar_toggle_ringtone">Tón zvonenia</string>
     <string name="status_bar_toggle_rotate">Otáčanie</string>	
-    <string name="status_bar_toggle_screen_button">ScreenButton</string>	
+    <string name="status_bar_toggle_screen_button">Tlačidlá</string>	
     <string name="status_bar_toggle_screenshot">Screenshot</string>	
     <string name="status_bar_toggle_shutdown">Vypnúť</string>	
     <string name="status_bar_toggle_sync">Synchro.</string>	
