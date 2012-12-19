@@ -137,7 +137,6 @@
     <string name="password_hint_text">6-16 znakov</string>	
 	<string name="pay_record">História platby</string>
     <string name="pay_record_empty">Žiadne platby</string>
-    <string name="prepaid_edit_limit">digits</string>
 	<string name="prepaid_error_card_length">Vložte správne číslo predplatenej karty alebo heslo</string>
     <string name="prepaid_error_card_number">Zadajte správnu sumu navýšenia</string>
     <string name="prepaid_error_carrier">Zvoľte svojho operátora (iba čína)</string>
@@ -146,7 +145,7 @@
     <string name="prepaid_china_mobile">China Mobile</string>
     <string name="prepaid_china_telcom">China Telecom</string>
     <string name="prepaid_china_unicom">China Unicom</string>
-    <string name="prepaid_number_edit_hint">Číslo predplatenej karty</string>
+<string name="prepaid_number_edit_hint">Číslo predplatenej karty</string>
     <string name="prepaid_password_edit_hint">Heslo predplatenej karty</string>
     <string name="prepaid_picker_hint">Zadaná cena navýšenia musí byť rovnaká ako suma na predplatenej karte</string>
 	<string name="prepaid_picker_hint_1_1">1.</string>
