@@ -5156,9 +5156,4 @@
 		<item>23099</item>
 		<item>23104</item>
     </string-array>
-	<string-array name="supported_locale">
-        <item>en_US</item>
-		<item>cs_CZ</item>
-        <item>sk_SK</item>
-    </string-array>
 </resources>
