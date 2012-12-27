@@ -55,6 +55,7 @@
 Môžete ich upraviť."</string>	
     <string name="finish_traffic_settings_title">Upraviť dáta</string>	
     <string name="fire_rule_program_list">Zoznam aplikácií</string>	
+	<string name="fire_wall_is_closed">Firewall nie je aktívny</string>
 	<string name="force_stop_dlg_text">Ak násilne ukončite aplikáciu, môže sa správať chybovo.</string>
 	<string name="force_stop_dlg_title">Násilne ukončiť?</string>
     <string name="i_known_button">OK</string>	
