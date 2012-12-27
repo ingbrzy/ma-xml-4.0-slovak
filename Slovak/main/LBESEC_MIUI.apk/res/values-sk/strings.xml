@@ -28,7 +28,7 @@
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Stiahnuť MIUI</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
     <string name="Dashboard_Perm_SU_Switch">Práva ROOT</string>
-    <string name="Dashboard_Su_Enable_Content">Povolenie dovolí požiadať aplikácie o práva ROOT. Aplikácie s týmto právami môžu spôsobiť nestabilitu systému, alebo stratu dát, prípadne i poškodenie systému a hardwaru. Buďte prosím opatrný. Skutočne ich chcete povoliť?</string>
+    <string name="Dashboard_Su_Enable_Content">Povoliť práva ROOT? Aplikácie s týmito právami môžu spôsobiť nestabilitu systému, alebo stratu dát, prípadne i poškodenie systému a hardwaru. Buďte prosím opatrný. Skutočne ich chcete povoliť?</string>
     <string name="Dashboard_Su_Enable_Title">Práva ROOT</string>
     <string name="Generic_Canceling">Ruším...</string>
     <string name="Generic_Clean">Vymazať</string>
