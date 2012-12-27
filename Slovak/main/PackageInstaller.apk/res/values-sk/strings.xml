@@ -54,4 +54,5 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="Parse_error_dlg_title">Chyba analýzy</string>
     <string name="Parse_error_dlg_text">Pri analýze balíka sa vyskytol problém.</string>
 	<string name="lift_ban">Odblokuj</string>
+	<string name="safe_guard_support">Technická podpora %1$s</string>
 </resources>
