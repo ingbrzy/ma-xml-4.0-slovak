@@ -30,7 +30,6 @@
 	<string name="error_widget_exist_for_send_to_desktop">Táto poznámka už na ploche existuje</string>
     <string name="failed_sdcard_export">Export zlyhal</string>
     <string name="file_name_txt_format">poznámka_%s.txt</string>
-    <string name="file_path">/MIUI/notes/</string>
     <string name="folder_exist">Zložka %1$s už existuje, zvoľte prosím iný názov</string>
     <string name="format_date_ymd">ddMMyyyy</string>
     <string name="format_datetime_mdhm">MMMd kk:mm</string>

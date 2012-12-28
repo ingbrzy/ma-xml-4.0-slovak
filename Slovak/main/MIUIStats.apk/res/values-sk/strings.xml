@@ -15,5 +15,5 @@
     <string name="notification_ticker">Štatistika odoslaná</string>
     <string name="notification_title">Štatistika MIUI</string>
     <string name="notification_desc">Povoliť alebo zakázať anonymnú štatistiku</string>
-    <string name="main_link">&lt;a href=http://miuiandroid.com/miui-stats-opt-in-information/>Learn More&lt;/a></string>
+    <string name="main_link">&lt;a href=http://miuiandroid.com/miui-stats-opt-in-information/>Viac informácií&lt;/a></string>
 </resources>

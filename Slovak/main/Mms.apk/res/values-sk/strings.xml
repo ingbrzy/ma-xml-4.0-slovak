@@ -272,10 +272,6 @@
   <string name="phrase_list_title">Frázy</string>
   <string name="pick_too_many_recipients">Príliš mnoho príjemcov</string> 
   <string name="play">Prehrať</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="prefDefault_vibrateWhen">nikdy</string>
-  <string name="prefDefault_vibrate_false">nikdy</string>
-  <string name="prefDefault_vibrate_true">vždy</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrácie</string>
   <string name="pref_advanced_settings_title">Pokročilé nastavenia</string>
   <string name="pref_conversation_show_avatar">Zobraziť avatar</string>
