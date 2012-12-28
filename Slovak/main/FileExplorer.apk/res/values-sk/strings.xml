@@ -207,6 +207,7 @@
 <string name="storage_warning">SD karta nie je prístupné alebo sa nedá čítať.</string>
 <string name="tab_category">Kategórie</string>
 <string name="tab_networkdisk">MiDrive</string>
+<string name="tab_phone">Telefón</string>
 <string name="tab_sd">SD karta</string>
 <string name="toast_file_not_can_read">Súbor je poškodený.</string>
 <string name="trans_task">Prenos po sieti</string>
