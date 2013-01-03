@@ -102,7 +102,7 @@ Tento budík môžete aj zrušiť."</string>
     <string name="timer_minute">M</string>
     <string name="timer_start_alarm">Časovač vypršal</string>
     <string name="timer_title">Časovač</string>
-    <string name="timer_tutorial">Posunutím nastavte</string>
+    <string name="timer_tutorial">Otočením nastavte</string>
     <string name="timezone_exist_error_message">Časovú zónu nie je možné pridať, lebo už existuje.</string>
     <string name="timezone_search_hint">Vyhľadajte mesto pre pridanie svetových hodín</string>
     <string name="volume_button_dialog_title">Funkcie tlačidiel</string>
