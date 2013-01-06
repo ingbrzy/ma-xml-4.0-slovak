@@ -13,6 +13,7 @@ Thumbs.db
 *.o
 *.tmp
 *.bak
+*.xml~
 
 # Packages #
 ############
