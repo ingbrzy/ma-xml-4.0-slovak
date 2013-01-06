@@ -11,7 +11,6 @@ Thumbs.db
 *.dll
 *.exe
 *.o
-*.so
 *.tmp
 *.bak
 
