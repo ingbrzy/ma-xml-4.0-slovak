@@ -2,13 +2,13 @@
 <resources>
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Couldn't access SD card."</string>
-  <string name="accessibility_back_to_first_Úroveň">Close setting controls</string>
+  <string name="accessibility_back_to_first_level">Close setting controls</string>
   <string name="accessibility_camera_picker">Front and back camera switch</string>
   <string name="accessibility_decrement">Decrease %1$s</string>
   <string name="accessibility_increment">Increase %1$s</string>
   <string name="accessibility_mode_picker">Camera, video, or panorama selector</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
-  <string name="accessibility_second_Úroveň_indicators">More setting controls</string>
+  <string name="accessibility_second_level_indicators">More setting controls</string>
   <string name="accessibility_shutter_button">Shutter button</string>
   <string name="accessibility_switch">%1$s switch</string>
   <string name="accessibility_switch_to_camera">Switch to camera</string>
