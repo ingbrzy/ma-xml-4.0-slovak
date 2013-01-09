@@ -13,6 +13,7 @@
     <string name="additional_gsm_call_settings">Ďalšie nastavenia</string>
     <string name="administrative_disable">Administratívne zakázané</string>
     <string name="administrative_enable">Administratívne povolené</string>
+	<string name="addSimEntries">Pridať kontakt na SIM</string>
     <string name="advanced_settings">Pokročilé nastavenia</string>
     <string name="advanced_settings_container">Pokročilé nastavenie kontajneru</string>
     <string name="advanced_settings_hide">▽ Stlačiť pre schovanie všetkého</string>
@@ -26,6 +27,8 @@
     <string name="alert_dialog_no">Nie</string>
     <string name="alert_dialog_ok">OK</string>
     <string name="alert_dialog_yes">Áno</string>
+	<string name="allContactdeleteFailed">Odstránenie všetkých kontaktov zo SIM karty zlyhalo!</string>
+    <string name="allContactdeleteSuccess">Všetky kontakty na SIM karte boli odstránené</string>
     <string name="always_enable_mms_miui">Vždy prijímať MMS</string>
     <string name="always_enable_mms_summary_miui">MMS prijmete vždy, aj keď sú dátové prenosy zakázané</string>
     <string name="answer_and_hangup_miui">Odpovedať a zložiť</string>
@@ -266,6 +269,7 @@
     <string name="contactPhoto">Foto kontaktu</string>
     <string name="contacts_icon_label_miui">Kontakty</string>
     <string name="count_of_persons_in_conference_miui">Celkom %d ľudí</string>
+	<string name="ContactScreen">Pridať/Upraviť kontakty na SIM</string>
     <string name="countrycode_alert_message_warning_miui">Vložený kód krajiny je možno nesprávny, naozaj ho chcete použiť?</string>
     <string name="countrycode_alert_message_wrong_miui">Vložený kód krajiny je nesprávny, prosím zadajte ho znova</string>
     <string name="countrycode_alert_title_miui">Upozornenia</string>
@@ -415,6 +419,7 @@
     <string name="eri_text_label">ERI text</string>
     <string name="error_updating_title">Chyba nastavenia hovorov</string>
     <string name="exception_error">Chyba siete alebo karty SIM.</string>
+	<string name="ExportContactScreen">Exportovať kontakty v telefóne na SIM kartu</string>
     <string name="fake_phone_activity_infoText_text">Prichádzajúce telefónne číslo</string>
     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
     <string name="fake_phone_activity_placeCall_text">Falošný prichádzajúci hovor</string>
