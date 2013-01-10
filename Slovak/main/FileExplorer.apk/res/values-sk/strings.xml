@@ -196,7 +196,7 @@
 <string name="slide_left_text">Posuňte vľavo</string>
 <string name="space_info">Kapacita: %1$s, K dispozícii/Celkom: %2$s</string>
 <string name="space_usage">Využitie</string>
-<string name="start_server">Spustiť službu</string>
+<string name="start_server">Spustiť FTP</string>
 <string name="start_use_xiaomi_account">Prihlásiť</string>
 <string name="stay_awake_summary">Zabrániť spánku počas FTP prenosu</string>
 <string name="stay_awake_title">Zabrániť spánku</string>
