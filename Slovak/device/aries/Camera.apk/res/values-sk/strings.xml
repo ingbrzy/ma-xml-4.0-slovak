@@ -11,7 +11,7 @@
   <string name="accessibility_shutter_button">Tlačidlo spúšte</string>
   <string name="accessibility_switch">Prepnúť: %1$s</string>
   <string name="accessibility_switch_to_camera">Fotoaparát</string>
-  <string name="accessibility_switch_to_panorama">Panorámu</string>
+  <string name="accessibility_switch_to_panorama">Panoráma</string>
   <string name="accessibility_switch_to_video">Video</string>
   <string name="accessibility_zoom_control">Ovládanie Zoomu</string>
   <string name="albums">Albumy</string>
