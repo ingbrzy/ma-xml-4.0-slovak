@@ -9,7 +9,7 @@
     <string name="installing">Prebieha inštalácia...</string>
     <string name="install_done">Aplikácia bola nainštalovaná.</string>
     <string name="install_confirm_question">Chcete nainštalovať túto aplikáciu? Získa prístup k týmto povoleniam:</string>
-	<string name="install_failed">Aplikácia nie je nainštalovaná.</string>
+    <string name="install_failed">Aplikácia nie je nainštalovaná.</string>
     <string name="install_failed_invalid_apk">Zdá sa, že je balík poškodený.</string>
     <string name="install_failed_inconsistent_certificates">Už je nainštalovaný existujúci balík s rovnakým názvom a kolidujúcim podpisom.</string>
     <string name="install_failed_older_sdk">Balík funguje iba v novších verziách systému Android.</string>
@@ -42,8 +42,8 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť v zozname nainštalovaných aplikácií.</string>
     <string name="uninstall_application_title">Odinštalovať aplikáciu</string>
     <string name="uninstall_update_title">Odinštalovať aktualizáciu</string>
-    <string name="uninstall_activity_text">Aktivita %1$s je súčasťou nasledujúcej aplikácie:</string>
-    <string name="uninstall_application_text">Chcete túto aplikáciu odinštalovať?</string>
+    <string name="uninstall_activity_text">Aplikácia %1$s bude odinštalovaná</string>
+    <string name="uninstall_application_text">Chcete túto aplikáciu naozaj odinštalovať?</string>
     <string name="uninstall_update_text">Chcete túto aplikáciu nahradiť továrenskou verziou?</string>
     <string name="uninstalling">Prebieha odinštalovanie...</string>
     <string name="uninstall_done">Odinštalovanie bolo dokončené.</string>
@@ -53,6 +53,6 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="uninstall_failed_msg">Aplikáciu %1$s sa nepodarilo odinštalovať.</string>
     <string name="Parse_error_dlg_title">Chyba analýzy</string>
     <string name="Parse_error_dlg_text">Pri analýze balíka sa vyskytol problém.</string>
-	<string name="lift_ban">Odblokuj</string>
-	<string name="safe_guard_support">Technická podpora %1$s</string>
+    <string name="lift_ban">Odblokuj</string>
+    <string name="safe_guard_support">Technická podpora %1$s</string>
 </resources>
