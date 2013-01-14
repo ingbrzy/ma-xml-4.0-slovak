@@ -40,8 +40,8 @@
 <string name="decompress_confirm">Rozbaliť tu</string>
 <string name="decompress_fail">Rozbaľovanie zlyhalo!</string>
 <string name="decompress_success">Rozbaľovanie dokončené</string>
-<string name="decompress_to">Rozbaliť</string>
-<string name="decompress_to_here">Rozbaliť do:</string>
+<string name="decompress_to">Rozbaliť do inej zložky</string>
+<string name="decompress_to_here">Rozbaliť do tejto zložky</string>
 <string name="delete_failed">Mazanie zlyhalo</string>
 <string name="delete_file">Vymazať?</string>
 <string name="delete_files">Ste si istý, že chcete vymazať vybraný(é) %1$d súbor(y)?</string>
