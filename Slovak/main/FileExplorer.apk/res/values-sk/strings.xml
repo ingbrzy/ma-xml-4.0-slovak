@@ -138,7 +138,7 @@
 <string name="no">Nie</string>
 <string name="no_file">Žiadne súbory</string>
 <string name="no_tasks">Žiadne úlohy</string>
-<string name="no_wifi">Wi-Fi sieť nie je v dosahu</string>
+<string name="no_wifi">Wi-Fi nie je v dosahu</string>
 <string name="no_wifi_hint">Wi-Fi nedostupná, stlačte pre nastavenia</string>
 <string name="notif_server_starting">Služba PC Sync sa spúšťa</string>
 <string name="notif_title">Služba PC Sync je spustená</string>
