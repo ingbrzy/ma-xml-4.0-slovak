@@ -3,6 +3,7 @@
 <string name="add_task">Pridať úlohu</string>
 <string name="adding_upload_tasks">Pridávanie súborov pre upload.</string>
 <string name="app_name">Správca súborov</string>
+<string name="background">Stiahnúť na pozadí</string>
 <string name="cancel">Zrušiť</string>
 <string name="category_all">Všetko</string>
 <string name="category_apk">Aplikácie</string>
@@ -132,6 +133,7 @@
 <string name="multi_select_title">Vybraných %1$s</string>
 <string name="net_lose_connected">Sieť nedostupná, nie je možné zistiť veľkosť</string>
 <string name="networkView_notConnected">Sieť nedostupná</string>
+<string name="networkView_offline">Režim offline, obnoenie obsahu zložky je dočasne nedostupné</string>
 <string name="new_folder_name">Nová zložka</string>
 <string name="no">Nie</string>
 <string name="no_file">Žiadne súbory</string>
