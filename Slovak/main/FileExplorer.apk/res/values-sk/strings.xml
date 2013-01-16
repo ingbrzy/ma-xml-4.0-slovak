@@ -133,7 +133,7 @@
 <string name="multi_select_title">Vybraných %1$s</string>
 <string name="net_lose_connected">Sieť nedostupná, nie je možné zistiť veľkosť</string>
 <string name="networkView_notConnected">Sieť nedostupná</string>
-<string name="networkView_offline">Režim offline, obnoenie obsahu zložky je dočasne nedostupné</string>
+<string name="networkView_offline">Režim offline, obnovenie obsahu zložky je dočasne nedostupné</string>
 <string name="new_folder_name">Nová zložka</string>
 <string name="no">Nie</string>
 <string name="no_file">Žiadne súbory</string>
