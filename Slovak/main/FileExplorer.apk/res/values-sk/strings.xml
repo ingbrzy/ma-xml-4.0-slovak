@@ -140,8 +140,8 @@
 <string name="no_tasks">Žiadne úlohy</string>
 <string name="no_wifi">Wi-Fi nie je v dosahu</string>
 <string name="no_wifi_hint">Wi-Fi nedostupná, stlačte pre nastavenia</string>
-<string name="notif_server_starting">Služba PC Sync sa spúšťa</string>
-<string name="notif_title">Služba PC Sync je spustená</string>
+<string name="notif_server_starting">Spúšťa sa FTP server</string>
+<string name="notif_title">FTP server je spustený</string>
 <string name="nowifi_notication">Všetky úlohy sú pozastavené cez mobilnú sieť</string>
 <string name="operating">Pracujem...</string>
 <string name="operation_cancel">Zrušiť</string>
