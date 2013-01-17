@@ -1,6 +1,7 @@
 License of this work is covered below, for more information contact ingbrzy@ingbrzy.eu
-
+                                                                 
 SLOVAK Strings for MIUIAndroid MIUIv4.0/v4.1 (all supported devices)
+============================================
 
 MIUI Android Slovak Translations (Started July 2012 by ingbrzy) by ingbrzy. 
 
