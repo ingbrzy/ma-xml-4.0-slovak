@@ -75,8 +75,8 @@
         <item>Odpojovanie...</item>
         <item>Odpojené</item>
         <item>Neúspešné</item>
-		<item>Blokované</item>
-		<item>Dočasne nedostupná kvôli slabému signálu</item>
+	<item>Blokované</item>
+	<item>Dočasne nedostupná kvôli slabému signálu</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -89,8 +89,8 @@
         <item>Odpojovanie od siete %1$s...</item>
         <item>Odpojené</item>
         <item>Neúspešné</item>
-		<item>Blokované</item>
-		<item>Dočasne nedostupná kvôli slabému signálu</item>
+	<item>Blokované</item>
+	<item>Dočasne nedostupná kvôli slabému signálu</item>
 	</string-array>
     <string-array name="wifi_ap_security">
         <item>Nezabezpečená</item>
@@ -314,6 +314,7 @@
  	<string-array name="led_color_entries">
         <item>Modrá</item>
         <item>Červená</item>
+        <item>Oranžová</item>
         <item>Žltá</item>
         <item>Zelená</item>
         <item>Azurová</item>
