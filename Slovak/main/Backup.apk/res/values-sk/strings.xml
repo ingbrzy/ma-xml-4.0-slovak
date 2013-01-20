@@ -138,7 +138,7 @@
 <string name="start_restore">Obnoviť</string>
 <string name="succeed">Úspešné</string>
 <string name="task_backup_cancel_progress">Prebieha rušenie...</string>
-<string name="task_backup_finished_local">Zálohovanie dokončené</string>
+<string name="task_backup_finished_local">Záloha dokončená</string>
 <string name="task_canceled">Stornované</string>
 <string name="task_canceled_all_local">Zrušiť všetky úlohy</string>
 <string name="task_canceled_local">%1$s úloh(a) zrušená(ých)</string>
@@ -148,7 +148,7 @@
 <string name="task_failed_local">Zlyhalo zálohovanie %1$s úloh(y)</string>
 <string name="task_finished">Hotovo</string>
 <string name="task_local_backup_cancel_dialog">Záloha nie je kompletná.\nKliknite na OK pre zrušenie zálohy</string>
-<string name="task_pending">Čakanie</string>
+<string name="task_pending">Čaká na zálohovanie</string>
 <string name="task_post_running">Dokončovanie</string>
 <string name="task_pre_running">Príprava</string>
 <string name="task_progress">Priebeh</string>
