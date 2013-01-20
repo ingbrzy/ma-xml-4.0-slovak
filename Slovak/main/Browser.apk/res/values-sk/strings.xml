@@ -191,6 +191,7 @@
     <string name="import_bookmarks_wizard_next">Ďalej</string>	
     <string name="import_bookmarks_wizard_previous">Späť</string>	
     <string name="importing_favorite_files">Importovanie údajov...</string>	
+	<string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
     <string name="instant_search_label">Google s Instant (Labs)</string>	
 	<string name="is_first_history_item">Prvý záznam v histórii</string>
 	<string name="is_first_tab">prvá záložka</string>
@@ -291,7 +292,8 @@
     <string name="pref_development_trace">Povoliť sledovanie</string>	
     <string name="pref_development_uastring">UAString</string>	
     <string name="pref_development_viewport">Použiť široký viewport</string>	
-    <string name="pref_development_visual_indicator">Povoliť Vizuálny Indikátor</string>	
+    <string name="pref_development_visual_indicator">Povoliť Vizuálny Indikátor</string>
+	<string name="pref_development_woff">Povoliť WOFF</string>
     <string name="pref_exit_on_closing_last_tab_enabled_summary">Označ pre ukončenie prehliadača po zavretí poslednej karty v navigačnej obrazovke. Odznač pre zobrazenie domovskej stránky</string>	
     <string name="pref_exit_on_closing_last_tab_enabled_title">Ukončiť pri zatvorení poslednej karty</string>	
     <string name="pref_extras_reset_default">Resetovať na predvolené</string>	

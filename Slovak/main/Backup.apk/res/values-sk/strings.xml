@@ -8,7 +8,7 @@
 <string name="auto_backup_choose">Automatické zálohy</string>
 <string name="auto_backup_choose_empty">Žiadna záloha</string>
 <string name="auto_backup_choose_title">Automatická záloha</string>
-<string name="auto_backup_date">Frekvencia z8lohy (v dňoch)</string> 
+<string name="auto_backup_date">Frekvencia zálohy (v dňoch)</string> 
 <string name="auto_backup_only_wifi">Použiť iba Wi-Fi</string>
 <string name="auto_backup_open">Povoliť automatické zálohovanie</string>
 <string name="auto_backup_progress">Prebieha automatická záloha, počkajte prosím...</string>
@@ -81,7 +81,7 @@
 <string name="guarded_mode_dialog_message">V režime návštevník nie je možné vytvárať alebo obnovovať zálohy</string>
 <string name="guarded_mode_dialog_title">Režim návštevník</string>
 <string name="import_from_xiaomi_account_hint_title">Pre zálohovanie kontaktov používajte MiTalk</string>
-<string name="import_from_xiaomi_account_hint1">1.Inštalujte MiTalk a prihláste sa.\nhttp://www.miliao.com\n\n3.Prejdite na nastavenia MiTalk a zvoľte "Zálohovať na účet Xiaomi"</string> 
+<string name="import_from_xiaomi_account_hint1">1.Inštalujte MiTalk a prihláste sa.\n http://www.miliao.com\n\n3. Prejdite na nastavenia MiTalk a zvoľte "Zálohovať na účet Xiaomi"</string> 
 <string name="import_from_xiaomi_account_hint2">Poznámka: Prejdite k ďalšiemu kroku pokiaľ už existuje záloha</string>
 <string name="local_app_name">Záloha</string>
 <string name="local_backup_window_title">Uložené</string>
