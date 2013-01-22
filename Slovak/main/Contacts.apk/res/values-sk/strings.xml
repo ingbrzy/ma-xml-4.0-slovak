@@ -22,6 +22,7 @@
     <string name="aggregation_suggestion_join_dialog_title">Zlúčiť kontakty</string>
     <string name="attach_photo_dialog_title">Fotka kontaktu</string>
     <string name="audio_chat">Audio chat</string>
+    <string name="auto_nickname">Auto</string>
     <string name="batch_delete_msg">"Odstrániť %d vybrané kontakty? Kontakty uložené v cloude budú zmazané."</string>  
     <string name="blurbJoinContactDataWith">Vyberte kontakt s ktorým chcete zlúčiť s %s:</string>
     <string name="caching_vcard_message">Prebieha ukladanie vizitiek na dočasné úložisko, samotný import prebehne za okamžik</string>
@@ -503,6 +504,7 @@
     <string name="remind_btn_ignore">Ignorovať</string>
     <string name="remind_btn_sync_now">Synchronizovať teraz</string>
     <string name="removePhoto">Odstrániť fotku</string>
+    <string name="restore_nickname">Obnoviť</string>
     <string name="ringLabelsGroup">Vyzváňací tón</string>
     <string name="save_photo_progress">Ukladám fotku...</string>
     <string name="savingDisplayGroups">Ukladám nastavenia zobrazenia …</string>
