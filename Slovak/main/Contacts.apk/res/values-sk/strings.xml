@@ -23,6 +23,7 @@
     <string name="attach_photo_dialog_title">Fotka kontaktu</string>
     <string name="audio_chat">Audio chat</string>
     <string name="auto_nickname">Auto</string>
+	<string name="auto_set_nickname">Auto</string>
     <string name="batch_delete_msg">"Odstrániť %d vybrané kontakty? Kontakty uložené v cloude budú zmazané."</string>  
     <string name="blurbJoinContactDataWith">Vyberte kontakt s ktorým chcete zlúčiť s %s:</string>
     <string name="caching_vcard_message">Prebieha ukladanie vizitiek na dočasné úložisko, samotný import prebehne za okamžik</string>
@@ -144,6 +145,7 @@
     <string name="create_group_item_label">[Vytvoriť novú skupinu]</string>
     <string name="custom_list_filter">Definovať vlastné zobrazenie</string>
     <string name="customLabelPickerTitle">Vlastné označenie</string>
+	<string name="custom_nickname_hint">Vložte oslovenie ako: Pán/Pani</string>
     <string name="date_picker_label">Pripomenúť 3 dni pred narodeninami</string>
     <string name="date_time_set">Nastaviť</string>
     <string name="date_year_toggle">Zadajte rok</string>
