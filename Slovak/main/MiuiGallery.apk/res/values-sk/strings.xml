@@ -9,6 +9,7 @@
   <string name="albums">Album(ov)</string>
   <string name="alert">Oznam</string>
   <string name="alert_message_initial_cloud">Systém automaticky odošle Vaše staré a nové fotografie len ak ste pripojení na sieť Wi-fi.</string>
+  <string name="alert_message_open_sync">Vyžaduje sa synchronizácia, prajete si synchronizovať teraz?</string>
   <string name="alert_message_sync_histoy_power_on">Predvolené je, že história obrázkov sa synchronizuje iba počas nabíjania telefónu. Toto nastavenie môžete zmeniť v menu Nastavenia.</string>
   <string name="all_album">Všetky</string>
   <string name="all_albums_desc">Albumy</string>
@@ -44,6 +45,7 @@
   <string name="click_import">Kliknite sem pre import</string>
   <string name="click_to_enter_camera">Otvoriť fotoaparát</string>
   <string name="close">Zatvoriť</string>
+  <string name="cloud_album_set_create">Nový</string>
   <string name="cloud_albums">Cloudové Albumy</string>
   <string name="cloud_camera_display_name">Netriedené</string>
   <string name="cloud_gallery_no_pictures">Žiadne fotografie v MiCloud</string>
@@ -192,6 +194,7 @@
   <string name="modify_cloud_settings">Nastavenia MiCloud</string>
   <string name="more">Viac</string>
   <string name="move_cloud_data">Údaje z cloudovej galérie boli premiestnené do: %s</string>
+  <string name="move_to_cloud_folder">Premiestniť do Cloudu</string>
   <string name="move_to_cloud_album">Premiestniť do Cloudu</string>
   <string name="movie_view_label">Video prehrávač</string>
   <string name="multiface_crop_help">Vyber plochu pre začatie.</string>
@@ -214,9 +217,11 @@
   <string name="none_picture">V galérií sa nenašli žiadne fotky</string>
   <string name="not_auto_create_recent_album">Nevytvárať automaticky často zobrazené albumy</string>
   <string name="only_upload_in_charging">Fotografie budú odoslané len ak je pripojená nabíjačka.</string>
+  <string name="open">Otvoriť Synchronizáciu</string>
   <string name="open_map">Otvoriť mapu</string>
   <string name="open_single_image_failure">Obrázok sa nepodarilo otvoriť!</string>
   <string name="open_sync">Synchr. teraz</string>
+  <string name="open_sync_title">Vyžaduje sa Synchronizácia</string>
   <string name="operation_cancel">Zrušiť</string>
   <string name="operation_delete">Vymazať</string>
   <string name="operation_info">Detaily</string>
