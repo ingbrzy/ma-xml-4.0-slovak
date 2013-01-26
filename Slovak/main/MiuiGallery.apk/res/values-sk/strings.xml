@@ -12,7 +12,7 @@
   <string name="alert_message_open_sync">Vyžaduje sa synchronizácia, prajete si synchronizovať teraz?</string>
   <string name="alert_message_sync_histoy_power_on">Predvolené je, že história obrázkov sa synchronizuje iba počas nabíjania telefónu. Toto nastavenie môžete zmeniť v menu Nastavenia.</string>
   <string name="all_album">Všetky</string>
-  <string name="all_albums_desc">Albumy</string>
+  <string name="all_albums_desc">Album(ov)</string>
   <string name="all_albums_loading">Nahrávanie...</string>  
   <string name="all_media">Všetky fotky</string>
   <string name="all_recent">Obľúbené</string>
@@ -103,7 +103,7 @@
   <string name="expand_album_in_home_page">Expandovať album na domácu obrazovku</string>
   <string name="exposure_time">Expozičný čas</string>
   <string name="external_sd_card">SD karta</string>
-  <string name="external_usb_device">USB zariadenie</string>
+  <string name="external_usb_device">SD karta</string>
   <string name="facelift">Zosvetlenie tváre</string>
   <string name="facetan">Stmavenie tváre</string>
   <string name="fail_init_gallery_db_helper">Aplikácia je zamknutá, nemožno otvoriť databázu galérie, pamäť je plná.</string>
