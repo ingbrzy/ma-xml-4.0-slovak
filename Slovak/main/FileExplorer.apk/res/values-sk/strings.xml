@@ -4,6 +4,12 @@
 <string name="adding_upload_tasks">Pridávanie súborov pre upload.</string>
 <string name="app_name">Správca súborov</string>
 <string name="background">Stiahnúť na pozadí</string>
+<string name="bind_account">Pripojenie k KuaiPan účtu</string>
+<string name="bind_account_summary">Ak už máte KuaiPan účet, môžte ho pridať pre načítanie Vaších osobných dát</string>
+<string name="binded_accout_description">Účty sú prepojené, môžte sa prihlásiť buď Xiaomi účtom alebo KuaiPan účtom</string>
+<string name="binded_accout_title">KuaiPan účet</string>
+<string name="binded_accout_warning">Upozornenie: Túto akciu nie je možné vrátiť späť, chcete pokračovať?</string>
+<string name="binding_accout_title">Pridať existujúci kuaipan účet</string>
 <string name="cancel">Zrušiť</string>
 <string name="category_all">Všetko</string>
 <string name="category_apk">Aplikácie</string>
@@ -109,6 +115,7 @@
 <string name="choose_send_type">Zvoľte typ odosielania</string>
 <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
 <string name="instruction_pre">Slúži k prenosu súborov medzi telefónom a PC pomocou FTP protokolu.</string>
+<string name="kingsoft_account">Kingsoft KuaiPan účet</string>
 <string name="kuaipan_over_space">Váš MiDrive už nemá voľné miesto.</string>
 <string name="kuaipan_tech_support">Technický poskytovateľ Kingsoft Kuaipan</string>
 <string name="kuaipan_prompt">MiDrive Pomoc</string>
@@ -119,6 +126,7 @@
 <string name="local_cache">Lokálna medzipamäť/cache</string>
 <string name="local_cache_size">Veľkosť lokálnej medzipamäte/cache: %s</string>
 <string name="login_reg_content">MiDrive Vám pomáha udržiavať súbory a synchronizovať ich medzi viacerými zariadeniami.</string>
+<string name="login_reg_content0">KuaiPan je Vaše Cloud úložisko</string>
 <string name="login_reg_login_xiaomi">Prihlásiť sa do Xiaomi účtu</string>
 <string name="menu_item_ftp">FTP</string>
 <string name="menu_item_search">Hľadať</string>

@@ -67,8 +67,10 @@
     <string name="error_unknown">Neznáma chyba: %1$s</string>	
     <string name="error_user_id_mismatch_summary">Skontrolujte Vaše prihlasovacie údaje a skúste to opäť.</string>
     <string name="error_user_id_mismatch_title">Chyba prihlásenia!</string>
+    <string name="error_verify_summary">Aplikácia nemá práva na túto službu</string>
+    <string name="error_verify_title">Práva zamietnuté</string>
     <string name="failed_to_send_activate_email">Chyba pri zasielaní aktivačného emailu.</string>
-    <string name="fee">%1$s Mi creditov</string>
+    <string name="fee">%1$s Mi kreditov</string>
     <string name="filter_query">Filtrovať</string>
     <string name="filter_to">Do</string>
     <string name="find_device">Poloha zariadenia</string>
