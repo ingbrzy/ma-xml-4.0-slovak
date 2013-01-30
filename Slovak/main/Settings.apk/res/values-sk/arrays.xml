@@ -382,4 +382,18 @@ Computer will auto open and read phone data"</item>
         <item>Inštalovať ovládač</item>
         <item>Ovládač už je nainštalovaný</item>
     </string-array>
+    <string-array name="power_mode_entries">
+        <item>Výkonný režim</item>
+        <item>Normálny režim</item>
+        <item>Úspora energie</item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Teplé farby</item>
+        <item>Prirodzené farby</item>
+        <item>Studené farby</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Brilliant</item>
+        <item>Štandard</item>
+    </string-array>
 </resources>

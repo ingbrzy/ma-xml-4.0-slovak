@@ -162,7 +162,7 @@
     <string name="auto_launch_disable_text">Nie je predvolená pre žiadne akcie.</string>	
     <string name="auto_launch_enable_text">Aplikácia bola nastavená, aby sa pre niektoré akcie spúšťala ako predvolená.</string>	
     <string name="auto_launch_label">Spúšťať ako predvolené</string>
-	<string name="auto_launch_label_generic">Predvolené</string>	
+    <string name="auto_launch_label_generic">Predvolené</string>	
     <string name="auto_punctuate">Automatická interpunkcia</string>	
     <string name="auto_punctuate_summary">Znak „.“ je možné vložiť dvojitým stlačením klávesy Medzerník.</string>	
     <string name="auto_replace">Automatické nahradenie</string>	
@@ -275,7 +275,7 @@
     <string name="biometric_weak_improve_matching_title">Zlepšiť priraďovanie tvárí</string>
     <string name="biometric_weak_liveliness_summary">Vyžadovať žmurknutie očí pre odomknutie</string>
     <string name="biometric_weak_liveliness_title">Kontrola života</string>
-	<string name="bluetooth">Bluetooth</string>	
+    <string name="bluetooth">Bluetooth</string>	
     <string name="bluetooth_a2dp_profile_summary_connected">Pripojené k zvukovému médiu</string>	
     <string name="bluetooth_a2dp_profile_summary_use_for">Umožňuje pripojenie zvukového média</string>	
     <string name="bluetooth_advanced_titlebar">Pokročilé nastavenie Bluetooth</string>	
@@ -311,7 +311,7 @@
     <string name="bluetooth_device_context_disconnect_unpair">Odpojiť a zrušiť párovanie</string>	
     <string name="bluetooth_device_context_pair_connect">Párovať a pripojiť</string>	
     <string name="bluetooth_device_context_unpair">Zrušiť párovanie</string>
-	<string name="bluetooth_device_details">Nastavenie zariadenia</string>	
+    <string name="bluetooth_device_details">Nastavenie zariadenia</string>	
     <string name="bluetooth_device_name">Názov zariadenia</string>	
     <string name="bluetooth_devices">Zariadenia Bluetooth</string>	
     <string name="bluetooth_disable_profile_message">Toto nastavenie vypne profil:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zariadenie:&lt;br>&lt;b>%2$s&lt;/b></string>	
@@ -337,7 +337,7 @@
     <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadajte prístupový kľúč požadovaný zariadením:</string>	
     <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>	
     <string name="bluetooth_enter_pin_msg">Párovanie si zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadajte kód PIN požadovaný zariadením:</string>	
-	<string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno nutné zadať i v ďalšom zariadení.</string>	
+    <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno nutné zadať i v ďalšom zariadení.</string>	
     <string name="bluetooth_headset_profile_summary_connected">Pripojené k hands-free</string>	
     <string name="bluetooth_headset_profile_summary_use_for">Umožňuje pripojenie hands-free</string>	
     <string name="bluetooth_hid_profile_summary_connected">Pripojené k vstupnému zariadeniu</string>	
@@ -373,7 +373,7 @@
     <string name="bluetooth_pan_user_profile_summary_connected">Pripojené k zariadeniu za účelom prístupu k internetu</string>	
     <string name="bluetooth_pb_acceptance_dialog_text">Zariadenie %1$s žiada o prístup k vaším kontaktom a histórii hovorov. Povoliť zariadeniu %2$s prístup?</string>	
     <string name="bluetooth_pb_remember_choice">Na budúce sa nepýtať</string>	
-	<string name="bluetooth_permission_request">Požiadavka na povolenie zariadenia Bluetooth</string>	
+    <string name="bluetooth_permission_request">Požiadavka na povolenie zariadenia Bluetooth</string>	
     <string name="bluetooth_phonebook_request">Požiadavka telefónneho zoznamu</string>	
     <string name="bluetooth_pin_values_hint">Obvykle 0000 nebo 1234</string>	
     <string name="bluetooth_preference_device_settings">Nastavenie zariadenia</string>	
@@ -381,7 +381,7 @@
     <string name="bluetooth_preference_paired_devices">Párované zariadenia</string>	
     <string name="bluetooth_preference_scan_title">Vyhľadať zariadenie</string>	
     <string name="bluetooth_profile_a2dp">Zvuk médií</string>
-	<string name="bluetooth_profile_details">Nastavenie profilu</string>	
+    <string name="bluetooth_profile_details">Nastavenie profilu</string>	
     <string name="bluetooth_profile_headset">Zvuk telefónu</string>	
     <string name="bluetooth_profile_hid">Vstupné zariadenie</string>	
     <string name="bluetooth_profile_name">"%1$s MIUI telefón"</string>	
@@ -449,9 +449,9 @@
     <string name="cdma_security_settings_summary">Nastavenie funkcie Moja poloha, odomknutie obrazovky a zamknutie úložiska poverení</string>	
     <string name="cell_broadcast_settings">Cell broadcasts</string>
     <string name="cell_broadcast_settings_summary">Zvoliť typ zobrazenia núdzových upozornení.</string>
-	<string name="checkbox_notification_same_as_incoming_call">Použije hlasitosť príchodzích hovorov tiež pre oznámenia</string>	
+    <string name="checkbox_notification_same_as_incoming_call">Použije hlasitosť príchodzích hovorov tiež pre oznámenia</string>	
     <string name="choose_timezone">Vybrať časové pásmo</string>	
-	<string name="clear_activities">Vymazať predvolené nastavenie</string>	
+    <string name="clear_activities">Vymazať predvolené nastavenie</string>	
     <string name="clear_cache_btn_text">Vymazať medzipamäť</string>	
     <string name="clear_data_dlg_text">Všetky dáta (nastavenia, účty, databázy apod.) téjto aplikácie budú trvalo vymazané.</string>	
     <string name="clear_data_dlg_title">Vymazať dáta aplikácie?</string>	
@@ -463,19 +463,19 @@
     <string name="complete_settings">Kompletné nastav.</string>	
     <string name="computing_size">Prebieha výpočet...</string>	
     <string name="config_list_label">Konfigurované siete</string>
-	<string name="configure_input_method">Nastaviť metódy vstupu</string>	
+    <string name="configure_input_method">Nastaviť metódy vstupu</string>	
     <string name="confirm_erase">Potvrdiť vymazanie</string>	
     <string name="confirm_new_backup_pw_prompt">Sem znovu zadajte aktuálne heslo pre úplné zálohy.</string>	
     <string name="contributors_title">Prispievatelia</string>	
     <string name="controls_label">Ovládacie prvky</string>	
     <string name="controls_subtitle">Upraviť spotrebu energie</string>	
     <string name="copyright_title">Autorské práva</string>	
-	<string name="create">Vytvoriť</string>
+    <string name="create">Vytvoriť</string>
     <string name="credentials_configure_lock_screen_hint">Pred použitím úložiska poverení musíte nastaviť kód PIN alebo heslo zámku obrazovky.</string>	
     <string name="credentials_enabled">Úložisko poverení je aktivované.</string>	
     <string name="credentials_erased">Úložisko poverení je vymazané.</string>	
     <string name="credentials_install">Inštalovať z úložiska</string>	
-	<string name="credentials_install_gesture_explanation">Musíte nakresliť svoj odomykací vzor pre potvrdenie inštalácie.</string>
+    <string name="credentials_install_gesture_explanation">Musíte nakresliť svoj odomykací vzor pre potvrdenie inštalácie.</string>
     <string name="credentials_install_gesture_prompt">Nakresliť odomykací vzor</string>
     <string name="credentials_install_summary">Nainštalovať certifikáty z úložiska</string>	
     <string name="credentials_not_erased">Úložisko poverení nie je možné vymazať.</string>	
@@ -511,28 +511,28 @@
     <string name="crypt_keeper_settings_title">Šifrovanie</string>	
     <string name="crypt_keeper_setup_description">Počkajte prosím, než bude telefón zašifrovaný. Dokončené: ^1%.</string>	
     <string name="crypt_keeper_setup_title">Šifrovanie</string>	
-	<string name="crypt_keeper_switch_input_method">Zmeniť metódu vstupu</string>
+    <string name="crypt_keeper_switch_input_method">Zmeniť metódu vstupu</string>
     <string name="crypt_keeper_unplugged_text">Pripojte nabíjačku a skúste to znovu.</string>	
     <string name="cryptkeeper_emergency_call">Tiesňové volania</string>	
     <string name="cryptkeeper_return_to_call">Späť k hovoru</string>	
     <string name="current_backup_pw_prompt">Sem zadajte aktuálne heslo pre úplné zálohy.</string>	
     <string name="current_input_method">Predvolené</string>	
     <string name="data_size_label">Dáta</string>	
-	<string name="data_usage_app_restrict_background">Obmedziť dátové prenosy na pozadí</string>	
+    <string name="data_usage_app_restrict_background">Obmedziť dátové prenosy na pozadí</string>	
     <string name="data_usage_app_restrict_background_summary">Zakázať dáta na pozadí v mobilných sieťach. Používať siete Wi-Fi.</string>	
     <string name="data_usage_app_restrict_background_summary_disabled">Dáta na pozadí u aplikácie obmedzíte nastavením limitu mob. dát.</string>	
     <string name="data_usage_app_restrict_dialog">"Táto funkcia môže spôsobiť, že aplikácie závislé na dátach na pozadí nebudú fungovať, pokiaľ nebude k dispozícii sieť Wi-Fi. Vhodnejšie ovládacie 
 		prvky pre využitie dát nájdete v nastaveniach jednotlivých aplikácií."</string>	
     <string name="data_usage_app_restrict_dialog_title">Obmedzenie dátových prenosov na pozadí?</string>
-	<string name="data_usage_app_restricted">obmedzené</string>	
+    <string name="data_usage_app_restricted">obmedzené</string>	
     <string name="data_usage_app_settings">Zobraziť nastavenia aplikácií</string>	
     <string name="data_usage_auto_sync_off_dialog">"Toto nastavenie ušetrí Vaše dáta a spotrebu batérie ale budete musieť manuálne synchronizovať každý účet manuálne pre získanie aktuálnych informácií. Taktiež nebudete dostávať notifikácie o aktuálnych informáciách."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Vypnúť synchronizáciu?</string>
-	<string name="data_usage_auto_sync_on_dialog">"Akékoľvek zmeny na Vašom účte ktoré ste urobili na webe sa automaticky skopírujú do telefónu.
+    <string name="data_usage_auto_sync_on_dialog">"Akékoľvek zmeny na Vašom účte ktoré ste urobili na webe sa automaticky skopírujú do telefónu.
 		Niektoré účty môžu automaticky kopírovať aj zmeny v telefóne na web. Google účet takto funguje.
 		Pre nastavenie ktoré informácie sa majú synchr. pre daný účet, choďte do Nastavenia - Účty."</string>
-	<string name="data_usage_auto_sync_on_dialog_title">Zapnúť synchronizáciu?</string>
-	<string name="data_usage_cycle">Cyklus počítania dát</string>	
+    <string name="data_usage_auto_sync_on_dialog_title">Zapnúť synchronizáciu?</string>
+    <string name="data_usage_cycle">Cyklus počítania dát</string>	
     <string name="data_usage_cycle_editor_positive">Nastaviť</string>	
     <string name="data_usage_cycle_editor_subtitle">Dátum v každom mesiaci:</string>	
     <string name="data_usage_cycle_editor_title">Dátum obnovenia cyklu sledovania prenesených dát</string>	
@@ -553,18 +553,18 @@
 		a operátor ich môže účtovať odlišne, je vhodné nastaviť nízky limit."</string>	
     <string name="data_usage_limit_dialog_mobile">"Vaše dátové pripojenie bude vypnuté ak sa dosiahne stanovený limit prenesených dát.
 		Keďže spotreba dát je meraná Vaším telefónom, a Váš operátor môže spotrebu dát merať odlišne, zvážte nastavenie menšieho limitu dát."</string>
-	<string name="data_usage_limit_dialog_title">Nastavuje sa obmedzenie dátových prenosov</string>	
+    <string name="data_usage_limit_dialog_title">Nastavuje sa obmedzenie dátových prenosov</string>	
     <string name="data_usage_limit_editor_title">Nastavenie limitu dátových prenosov</string>	
     <string name="data_usage_list_mobile">Mobilné</string>	
     <string name="data_usage_list_none">Žiadne</string>
-	<string name="data_usage_menu_auto_sync">Synchr. dáta</string>
-	<string name="data_usage_menu_metered">Mobilný prístupový bod</string>
-	<string name="data_usage_menu_restrict_background">Obmedzenie dátových prenosov na pozadí</string>	
+    <string name="data_usage_menu_auto_sync">Synchr. dáta</string>
+    <string name="data_usage_menu_metered">Mobilný prístupový bod</string>
+    <string name="data_usage_menu_restrict_background">Obmedzenie dátových prenosov na pozadí</string>	
     <string name="data_usage_menu_roaming">Dát. služby pri roamingu</string>	
     <string name="data_usage_menu_show_ethernet">Zobraziť využitie ethernetu</string>	
     <string name="data_usage_menu_show_wifi">Zobraziť využitie siete Wi-Fi</string>	
     <string name="data_usage_menu_split_4g">Oddeliť dátové prenosy 4G</string>	
-	<string name="data_usage_metered_body">Zvoľte Wi-Fi siete ktoré sú mobilnými hotspotmi. Aplikáciám môže byť zakázané ich použitie, keď sú na pozadí. Aplikácie taktiež môžu varovať pred použitím týchto sietí na sťahovanie veľkých súborov.</string>
+    <string name="data_usage_metered_body">Zvoľte Wi-Fi siete ktoré sú mobilnými hotspotmi. Aplikáciám môže byť zakázané ich použitie, keď sú na pozadí. Aplikácie taktiež môžu varovať pred použitím týchto sietí na sťahovanie veľkých súborov.</string>
     <string name="data_usage_metered_mobile">Mobilné siete</string>
     <string name="data_usage_metered_title">Mobilné hotspoty</string>
     <string name="data_usage_metered_wifi">Wi-Fi siete</string>
@@ -584,7 +584,7 @@
     <string name="data_usage_tab_wifi">Wi-Fi</string>	
     <string name="data_usage_total_during_range">%2$s: využitých asi %1$s</string>	
     <string name="data_usage_total_during_range_mobile">"%2$s: asi %1$s využitých, ako nameral Váš telefón. Informácia spotreby dát u Vášho operátora môže byť iná."</string>
-	<string name="data_usage_uninstalled_apps">Odobrané aplikácie</string>	
+    <string name="data_usage_uninstalled_apps">Odobrané aplikácie</string>	
     <string name="data_usage_warning_editor_title">Nastaviť upozornenie na využitie dát</string>	
     <string name="date_and_time">Nastavenie dátumu a času</string>	
     <string name="date_and_time_settings_summary">Umožňuje nastaviť dátum, čas, časové pásmo a formát</string>	
@@ -1986,7 +1986,7 @@
 	<string name="wifi_wapi_cert_mgmt_subdir_create_fail">Vytvorenie zložky zlyhalo</string>
 	<string name="wifi_wapi_cert_mgmt_subdir_exist">Zložka s týmto menom už existuje!</string>
 	<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Vložte meno zložky ktorú chcete vytvoriť!</string>
-	<string name="wifi_wapi_cert_mgmt_titlebar">WAPI Certificate Management</string>
+	<string name="wifi_wapi_cert_mgmt_titlebar">Správa WAPI Certifikátov</string>
 	<string name="wifi_wapi_cert_mgmt_user_dont_exist">Vložte meno WAPI user certifikátu</string>
 	<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">WAPI user certifikát má nesprávny formát! Nainštalujte platný WAPI user certifikát</string>
 	<string name="wifi_wapi_cert_mgmt_user_name_is_empty">Vložte meno WAPI user certifikátu</string>
