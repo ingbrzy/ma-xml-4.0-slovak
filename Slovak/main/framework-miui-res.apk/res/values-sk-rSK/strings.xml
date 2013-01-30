@@ -21,7 +21,7 @@
     <string name="description_file">Súbor:</string>
     <string name="description_missed">N/A</string>
     <string name="description_size">Veľkosť:</string>
-	<string name="description_summary">Informácie:</string>
+    <string name="description_summary">Informácie:</string>
     <string name="description_unknown">Neznáme</string>
     <string name="description_version">Verzia:</string>
     <string name="download_failed">Sťahovanie zlyhalo</string>
@@ -30,7 +30,7 @@
     <string name="error_not_acceptable">Server má problémy. Synchronizácia je vypnutá.</string>
     <string name="error_title">Chyba synchr. pre %s</string>
     <string name="error_unauthorized">Príliš veľa chýb pre autorizáciu účtu. Synchronizácia je vypnutá.</string>
-	<string name="every_day">Denne</string>
+    <string name="every_day">Denne</string>
     <string name="find_device_check_sim">Kontrola SIM</string>	
     <string name="find_device_sim_change_instructions">"Vaše zariadenie bolo zablokované. Vložte SIM kartu alebo Váše heslo pre účet Xiaomi."</string>
     <string name="find_device_sim_change_instructions_no_network">"Vaše zariadenie ma zablokovanú SIM, vložte originálnu SIM"</string>
@@ -65,13 +65,14 @@
     <string name="lockscreen_sms_bottom_hint">Posunutím dole zobrazíte Konverzácie</string>
     <string name="lockscreen_time_bottom_hint">Posunutím dole odomknete telefón</string>
     <string name="lockscreen_unlock_sim_via_puk">Zadajte PUK kód pre odblokovanie SIM karty</string>
-	<string name="memory_clear_nothing_result">Pamäť RAM je čistá</string>
+    <string name="memory_clear_nothing_result">Pamäť RAM je čistá</string>
     <string name="memory_clear_result">"Uvoľnené: %1$s | Dostupné: %2$s"</string>
-	<string name="miro_menu_overflow">Viac</string>
+    <string name="miui_mibi_license_title">Podmienky používania Mi kreditov</string>
+    <string name="miro_menu_overflow">Viac</string>
     <string name="miui_copyright_title">Autorské práva</string>
     <string name="miui_privacy_policy_title">Ochrana osobných údajov</string>
     <string name="miui_user_agreement_title">Podmienky použitia</string>
-	<string name="mms_vibrate_hint">Správa</string>
+    <string name="mms_vibrate_hint">Správa</string>
     <string name="month_of_april">Apr</string>
     <string name="month_of_august">Aug</string>
     <string name="month_of_december">Dec</string>
@@ -137,7 +138,7 @@
     <string name="resource_get_auth_retrieving">Kontrola autorských práv...</string>
     <string name="resource_local">Lokálne %1$s</string>
     <string name="resource_mute">Žiadne</string>
-	<string name="resource_no_result">Nič sa nenašlo</string>
+    <string name="resource_no_result">Nič sa nenašlo</string>
     <string name="resource_notification_default">Notifikácie</string>
     <string name="resource_online">Online %1$s</string>
     <string name="resource_price_free">Zdarma</string>
@@ -146,7 +147,7 @@
     <string name="resource_see_more">Viac</string>
     <string name="resource_select">Vybrať</string>
     <string name="resource_selected_number">Vybraných %1$d zdroj(ov)</string>
-	<string name="resource_server_out_of_service">Server je momentálne nedostupný, skúste to opäť neskôr.</string>
+    <string name="resource_server_out_of_service">Server je momentálne nedostupný, skúste to opäť neskôr.</string>
     <string name="resource_switch_account">Prepnúť účet</string>
     <string name="resource_system_title">Systémové zdroje</string>
     <string name="resource_title">Detaily zdrojov</string>
@@ -160,7 +161,7 @@
     <string name="screen_on_proximity_sensor_summary">"Funkcie telefónu sú nedostupné"</string>
     <string name="screen_on_proximity_sensor_title">Odkryte senzor priblíženia!</string>
     <string name="screen_button_disabled_message">Senzorové tlačidlá sú deaktivované. Môžete ich opäť aktivovať podržaním \"Home\" a \"Power\"</string>
-	<string name="screen_button_enabled_message">Senzorové tlačidlá sú aktivované</string>
+    <string name="screen_button_enabled_message">Senzorové tlačidlá sú aktivované</string>
     <string name="screen_button_notification_text">"Stlačte 'Home'+'Power' pre aktiváciu"</string>
     <string name="screen_button_notification_title">Senzorové tlačidlá</string>
     <string name="screen_rotation_freeze_message">Rotácia obrazovky je uzamknutá v horizontálnej polohe</string> 
@@ -176,7 +177,7 @@
     <string name="send_sms_for_sync_title">Odoslať SMS pre aktiváciu Synchronizácie</string>
     <string name="sim_changed_reactivate_notice">Súčasná SIM karta nie je aktivovaná. Je potrebné odoslať SMS správu pre aktiváciu Xiaomi Synchronizácie. Aktivovať teraz?</string>
     <string name="status_bar_toggle_ac">Kontrola prístupu</string>	
-	<string name="status_bar_toggle_auto_brightness">Auto. jas</string>
+    <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
     <string name="status_bar_toggle_bluetooth">BT</string>	
     <string name="status_bar_toggle_brightness">Jas</string>	
     <string name="status_bar_toggle_data">Dáta</string>	
@@ -207,7 +208,7 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>	
     <string name="sync_one_time_sync">Kliknite pre synchronizáciu (%1$s)</string>
     <string name="text_pastelist">Schránka</string>
-	<string name="theme_update_complete_content_fail">, %1$d zlyhalo</string>
+    <string name="theme_update_complete_content_fail">, %1$d zlyhalo</string>
     <string name="theme_update_complete_content_success">%1$d úspešné</string>
     <string name="theme_update_complete_title">Aktualizácia dokončená</string>
     <string name="theme_update_request_content">Vyžaduje sa nový formát témy, proces aktualizácie môže trvať dlhšie, témy ktoré nie sú stiahnuté z online marketu už nie sú podporované, stlačte OK pre aktualizáciu.</string>
@@ -216,7 +217,7 @@
     <string name="theme_updating_content">Aktualizovanie %1$d/%2$d</string>
     <string name="theme_updating_precontent">Pripravujem...</string>
     <string name="theme_updating_title">Aktualizovanie témy</string>
-	<string name="to_vibrate_settings">Nastavenie vibrácií</string>
+    <string name="to_vibrate_settings">Nastavenie vibrácií</string>
     <string name="unknown">Neznáme číslo</string>
     <string name="description_uploadtime">Čas odoslania:</string>
     <string name="user_agreement1">Budete používať systém a služby poskytované spoločnosťou Xiaomi, prosím prečítajte si </string>
@@ -225,6 +226,6 @@
     <string name="user_agreement4">ochrane osobných údajov</string>
     <string name="user_agreement5">,Stlačte OK pokiaľ súhlasíte s nasledujúcimi podmienkami, stlačením na Zrušiť akciu ukončíte.</string>
     <string name="miui_user_manual_title">Návod</string>
-	<string name="v5_icon_menu_bar_more_item_label">Viac</string>
+    <string name="v5_icon_menu_bar_more_item_label">Viac</string>
     <string name="wake_alarm_message">Zastaviť budík. Upozorniť o %s</string>
   </resources>

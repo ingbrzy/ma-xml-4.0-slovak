@@ -94,7 +94,10 @@
     <string name="login">Prihlásiť sa</string>	
     <string name="login_failed">Prihlásenie sa nepodarilo</string>	
     <string name="login_notice">Prihlasovanie...</string>	
-    <string name="login_retry">Opakovať</string>	
+    <string name="login_retry">Opakovať</string>
+    <string name="mibi_license_message">Xiaomi Mi Kredity. Kliknutím na OK súhlasíte s %1$s.</string>
+    <string name="mibi_license_message_span">Podmienky používania Mi kreditov</string>
+    <string name="mibi_license_title">Podmienky používania Mi kreditov</string>
     <string name="micloud_about">" "<u>Viac o MiCloud</u>" "</string>	
     <string name="micloud_account">Xiaomi</string>	
     <string name="micloud_account_label">Účet: %1$s</string>	
