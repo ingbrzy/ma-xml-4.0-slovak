@@ -6,9 +6,9 @@
         <item>Radiť podľa celkovej prevádzky</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Prevádzka za včerajšok</item>
-        <item>Prevádzka za dnešok</item>
-        <item>Prevádzka za mesiac</item>
+        <item>Prevádzka za včerajšok\u0020</item>
+        <item>Prevádzka za dnešok\u0020</item>
+        <item>Prevádzka za mesiac\u0020</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Včera 2G/3G</item>
