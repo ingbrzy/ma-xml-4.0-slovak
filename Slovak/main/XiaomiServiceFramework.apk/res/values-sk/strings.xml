@@ -143,7 +143,15 @@
     <string name="password_hint_text">6-16 znakov</string>	
     <string name="pay_record">História platby</string>
     <string name="pay_record_empty">Žiadne platby</string>
-    <string name="prepaid_edit_limit">digits</string>
+    <string name="paytool_alipay">Alipay</string>
+    <string name="paytool_edit_hint">Navýšiť Mikredit (RMB):</string>
+    <string name="paytool_edit_limit">Menej ako %1$s</string>
+    <string name="paytool_error_denomination">Vložte správnu sumu ktorú chcete navýšiť</string>
+    <string name="paytool_error_install">%1$s inštalácia bezpečnostného doplnku zlyhala</string>
+    <string name="paytool_error_msp">%1$s navýšenie Mikreditu zlyhalo!</string>
+    <string name="paytool_msp_not_installed">Nemáte nainštalovaný %1$s bezpečnostný doplnok, chcete ho nainštalovať?</string>
+    <string name="paytool_picker_hint">Suma navýšenia Mikreditu</string>
+    <string name="paytool_tenpay">Tenpay</string>
     <string name="prepaid_error_card_length">Vložte správne číslo predplatenej karty alebo heslo</string>
     <string name="prepaid_error_card_number">Zadajte správnu sumu navýšenia</string>
     <string name="prepaid_error_carrier">Zvoľte svojho operátora (iba čína)</string>
@@ -174,6 +182,8 @@
     <string name="progress_error_title">Navýšenie kreditu zlyhalo</string>
     <string name="progress_error_waiting">Neaktualizované, skúste opäť neskôr!</string>
     <string name="progress_loading">Spracovávanie, čakajte prosím...</string>
+    <string name="progress_paytool_creating">Generovanie %1$s objednávky...</string>
+    <string name="progress_paytool_installing">Inštalovanie %1$s bezpečnostného doplnku...</string>
     <string name="progress_prepaid_creating">Vytváranie objednávky navýšenia kreditu...</string>
     <string name="progress_querying">Spracovávanie filteru platieb...</string>
     <string name="progress_submit_hint">Trvá asi 3 minúty</string>
@@ -197,6 +207,8 @@
     <string name="recharge_prepaid_title">Predplatené karty</string>
     <string name="recharge_record">História navýšenia</string>
     <string name="recharge_record_empty">Žiadne navýšenie</string>
+    <string name="recharge_tenpay_summary">Navýšenie pomocou Tenpay</string>
+    <string name="recharge_tenpay_title">Tenpay</string>
     <string name="remove_account_notice">Čo si prajete vykonať so synchronizovanými správami, kontaktmi, históriou volaní, a poznámkami vo Vašom zariadení?</string>	
     <string name="removing_account">Odstránenie účtu...</string>
     <string name="send_sms_for_sync_notice">Je potrebné zaslať aktivačnú sms, pokračovať?</string>	
@@ -226,6 +238,7 @@
     <string name="title_mili_center">Centrum Mi kreditov</string>
     <string name="title_pay_record">%1$s histórie platieb</string>
     <string name="title_payment">Mobilné platby Xiaomi</string>
+    <string name="title_paytool">Navýšiť pomocou %1$s</string>
     <string name="title_prepaid">Navýšenie pomocou karty</string>
     <string name="title_recharge">Navýšiť Mi kredit</string>
     <string name="title_recharge_record">História navýšení</string>
