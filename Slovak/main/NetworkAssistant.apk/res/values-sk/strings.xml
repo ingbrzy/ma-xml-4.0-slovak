@@ -121,7 +121,7 @@
     <string name="this_month">Tento mesiac\u0020</string>	
     <string name="today">Dnes\u0020</string>	
     <string name="traffic_none">Žiadne</string>	
-    <string name="traffic_package_widget_name"Spotreba dát (1x4)</string>	
+    <string name="traffic_package_widget_name">Spotreba dát (1x4)</string>	
     <string name="traffic_remain">Ostávajúce</string>	
     <string name="traffic_settings_error">Chyba nastavenia balíčku. Vami nastavený dátový balíček je %1$s, ale správa od operátora udáva, že ostáva %2$s.</string>	
     <string name="traffic_suffix">Prevádzka</string>	
