@@ -4,7 +4,7 @@
     <string name="about_settings_summary">Zobrazí právne informácie, stav a verziu softwaru</string>	
     <string name="ac_enable_title">Zapnúť kontrolu prístupu</string>	
     <string name="ac_privacy_mode_title">Chrániť režim súkromia</string>	
-	<string name="ac_privacy_mode_sum">Pre deaktivovanie súkromného režimu vložte Vaše prístupové heslo</string>
+    <string name="ac_privacy_mode_sum">Pre deaktivovanie súkromného režimu vložte Vaše prístupové heslo</string>
     <string name="ac_set_apps_title">Chránené aplikácie</string>	
     <string name="accelerometer_summary_off">Pri otáčaní telefónu automaticky prepínať orientáciu</string>	
     <string name="accelerometer_summary_on">Pri otáčaní telefónu automaticky prepínať orientáciu</string>	
@@ -76,7 +76,7 @@
     <string name="accessibility_tutorial_next">Ďalší</string>	
     <string name="accessibility_tutorial_skip">Preskočiť výukový program</string>	
     <string name="accessibility_tutorial_title">Kurz o zjednodušení prístupu</string>
-	<string name="account_settings">Účty</string>	
+     <string name="account_settings">Účty</string>	
     <string name="account_sync_settings_title">Natavenie synchronizácie</string>	
     <string name="activating">Aktivujem...</string>	
     <string name="active_device_admin_msg">Správca zariadenia</string>	
@@ -106,7 +106,7 @@
     <string name="android_beam_off_summary">Vypnuto</string>	
     <string name="android_beam_on_summary">Prenos obsahu aplikácie prostredníctvom NFC je pripravený</string>	
     <string name="android_beam_settings_title">Android Beam</string>
-	<string name="animator_duration_scale_title">Doba trvania animácií</string>	
+    <string name="animator_duration_scale_title">Doba trvania animácií</string>	
     <string name="apn_apn">Názov AP</string>	
     <string name="apn_auth_type">Typ overenia</string>	
     <string name="apn_auth_type_none">Žiadne</string>	
@@ -631,8 +631,8 @@
     <string name="device_admin_title">Správa zariadenia</string>	
     <string name="device_admin_warning">Aktiváciou tohto správcu umožníte aplikácií %1$s vykonávať nasledujúce operácie:</string>	
     <string name="device_cpu">CPU:</string>	
-    <string name="device_cpu2_info">"2 jadrá"</string>	
-    <string name="device_cpu4_info">"4 jadrá"</string>	
+    <string name="device_cpu2_info">"2 jadrá "</string>	
+    <string name="device_cpu4_info">"4 jadrá "</string>	
     <string name="device_info_default">Neznáme</string>	
     <string name="device_info_label">Info o zariadení</string>	
     <string name="device_info_not_available">Nedostupný</string>	
