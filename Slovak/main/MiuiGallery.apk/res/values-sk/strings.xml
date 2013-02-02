@@ -58,7 +58,7 @@
   <string name="cloud_tab_all">Všetko</string>
   <string name="cloud_tab_locations">Miesta</string>
   <string name="cloudfolder_already_exists">Zložka Cloud už existuje</string>
-  <string name="confirm_delete">Vymazať %s súborov?</string>
+  <string name="confirm_delete">Vymazať %s?</string>
   <string formatted="false" name="confirm_delete_album">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
   <string name="confirm_delete_folders_and_pictures">Ste si istý, že chcete vymazať %s?</string>
   <string formatted="false" name="confirm_delete_folders_including">%s zložiek (%s súborov)</string>
