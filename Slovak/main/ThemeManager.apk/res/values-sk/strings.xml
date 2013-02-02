@@ -11,7 +11,8 @@
     <string name="backup_theme_dialog_message">Zálohovanie aktuálnej témy %1$s</string>	
     <string name="backup_theme_dialog_ok">Zálohovanie"</string>	
     <string name="backup_theme_name">Moje zálohy</string>	
-    <string name="backup_theme_progress_message">Zálohovanie aktuálnej témy, čakajte prosím ...</string>	
+    <string name="backup_theme_progress_message">Zálohovanie aktuálnej témy, 
+    čakajte prosím...</string>	
     <string name="backup_theme_success_message">Téma úspešne zálohovaná..</string>	
     <string name="close">Zatvoriť</string>	
     <string name="component_category_finest_title">Odporúčané</string>
@@ -20,10 +21,10 @@
     <string name="component_category_style_title">Štýly</string>	
     <string name="component_category_title">Prispôsobenie</string>	
     <string name="component_category_wallpaper_title">Tapety na plochu</string>	
-    <string name="component_include_title">Vybrané (%1$s)</string>
+    <string name="component_include_title">Vybraných (%1$s)</string>
     <string name="component_lockstyle_personal_title">Nastavenia</string>	
     <string name="component_screen_title">Vrátane tapety</string>	
-    <string name="component_select_title">Zvoľte (%1$s) komponenty</string>	
+    <string name="component_select_title">Vybraných (%1$s)</string>	
     <string name="component_settings_title">Prispôsobiť tému</string>	
     <string name="desktop_wallpaper">Tapeta plochy</string>	
     <string name="download_success">Úspešne stiahnuté</string>	
