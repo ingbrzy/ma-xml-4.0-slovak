@@ -12,7 +12,7 @@
         <item>Vždy zapnuté</item>
         <item>Vždy vypnuté</item>
         <item>Spýtať sa</item>
-	</string-array>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Aktuálna stránka</item>
         <item>Stránka MIUI</item>
@@ -20,25 +20,25 @@
         <item>Štartovacia stránka</item>
         <item>Najčastejšie stránky</item>
         <item>Iná</item>
-	</string-array>		
-	    <string-array name="pref_text_size_choices">
-		<item>Veľmi malý</item>
+    </string-array>		
+    <string-array name="pref_text_size_choices">
+	<item>Veľmi malý</item>
         <item>Malý</item>
         <item>Normálny</item>
         <item>Veľký</item>
         <item>Najväčší</item>
     </string-array>
-	    <string-array name="pref_default_zoom_choices">
+    <string-array name="pref_default_zoom_choices">
         <item>Ďaleko</item>
         <item>Stredne</item>
         <item>Blízko</item>
     </string-array>
-	    <string-array name="pref_data_preload_choices">
+    <string-array name="pref_data_preload_choices">
         <item>Nikdy</item>
         <item>Len Wi-Fi</item>
         <item>Vždy</item>
     </string-array>
-	    <string-array name="pref_volume_key_choices">
+    <string-array name="pref_volume_key_choices">
         <item>Stránka hore/dole</item>
         <item>Prepnutie karty</item>
     </string-array>
