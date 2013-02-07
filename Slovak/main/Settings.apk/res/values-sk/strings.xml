@@ -130,8 +130,8 @@
     <string name="apn_save">Uložiť, alebo nie</string>	
     <string name="apn_save_msg">Táto APN bola zmenená, chcete uložiť?</string>	
     <string name="apn_server">Server</string>	
-    <string name="apn_settings">Názvy AP</string>	
-    <string name="apn_type">Typ názvu AP</string>	
+    <string name="apn_settings">Názvy APN</string>	
+    <string name="apn_type">Typ názvu APN</string>	
     <string name="apn_user">Užívateľské meno</string>	
     <string name="app_disable_dlg_text">Pokiaľ zakážete integrovanú aplikáciu, môže sa stať, že ostatné aplikácie prestanú fungovať správne.</string>	
     <string name="app_disable_dlg_title">Zakázať integrovanú aplikáciu</string>	
