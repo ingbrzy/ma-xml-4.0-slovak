@@ -87,7 +87,7 @@
   <string name="copy_message_text">Kopírovať text správy</string>
   <string name="copy_to_sdcard">Uložiť prílohu</string>
   <string name="copy_to_sdcard_fail">Uložiť prílohu</string>
-  <string name="copy_to_sdcard_success">Príloha bola uložená</string>
+  <string name="copy_to_sdcard_success">Príloha bola uložená ako %s</string>
   <string name="database_corruption">Databáza je poškodená, obnovujem</string>
   <string name="delete">Vymazať</string>
   <string name="delete_bookmark">Odstrániť z obľúbených</string>
