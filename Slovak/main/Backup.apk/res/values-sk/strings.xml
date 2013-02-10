@@ -64,7 +64,7 @@
 <string name="delete_backup_confirm">Naozaj chcete zmazať zálohu?</string>
 <string name="delete_backup_process">Vymazávam zálohu, čakajte prosím...</string>
 <string name="delete_failed_backup_confirm">Táto záloha je poškodená a nedá sa z nej obnoviť</string>
-<string name="disable_encrypt_title">Šifrovanie vypnuté</string>
+<string name="disable_encrypt_title">Vypnúť šifrovanie zálohy</string>
 <string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>
 <string name="enable_encrypt">Povoliť</string>
 <string name="enable_encrypt_fail">Povolenie šifrovania zlyhalo</string>
