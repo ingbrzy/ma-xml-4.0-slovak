@@ -132,7 +132,7 @@
   <string name="pref_camcorder_settings_category">Nastavenie kamery</string>
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
   <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
-  <string name="pref_camera_ae_bracket_hdr_entry_off">Vyp</string>
+  <string name="pref_camera_ae_bracket_hdr_entry_off">Vypnuté</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR-Bracketing</string>
   <string name="pref_camera_antibanding_entry_0">Vypnuté</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
@@ -202,7 +202,7 @@
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
-  <string name="pref_camera_hfr_entry_off">Vyp</string>
+  <string name="pref_camera_hfr_entry_off">Vypnuté</string>
   <string name="pref_camera_hfr_title">Rýchle FPS (HFR)</string>
   <string name="pref_camera_histogram_entry_disable">Vypnutý</string>
   <string name="pref_camera_histogram_entry_enable">Zapnutý</string>
@@ -259,14 +259,14 @@
   <string name="pref_camera_preview_entry_1000">1 sekúnd</string>
   <string name="pref_camera_preview_entry_2000">2 sekúnd</string>
   <string name="pref_camera_preview_entry_5000">5 sekúnd</string>
-  <string name="pref_camera_preview_entry_off">Vyp</string>
+  <string name="pref_camera_preview_entry_off">Vypnuté</string>
   <string name="pref_camera_preview_title">Náhľad</string>
   <string name="pref_camera_recordlocation_entry_off">Vypnuté</string>
   <string name="pref_camera_recordlocation_entry_on">Zapnuté</string>
   <string name="pref_camera_recordlocation_title">Miesto uloženia</string>
   <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
-  <string name="pref_camera_redeyereduction_entry_disable">Vypnúť</string>
-  <string name="pref_camera_redeyereduction_entry_enable">Zapnúť</string>
+  <string name="pref_camera_redeyereduction_entry_disable">Vypnuté</string>
+  <string name="pref_camera_redeyereduction_entry_enable">Zapnuté</string>
   <string name="pref_camera_redeyereduction_title">Redukcia červených očí</string>
   <string name="pref_camera_referenceline">Mriežka</string>
   <string name="pref_camera_referenceline_entry_off">Vypnuté</string>
@@ -297,7 +297,7 @@
   <string name="pref_camera_scenemode_entry_landscape">Krajina</string>
   <string name="pref_camera_scenemode_entry_night">Noc</string>
   <string name="pref_camera_scenemode_entry_night_portrait">Nočný Portrét</string>
-  <string name="pref_camera_scenemode_entry_off">Vyp</string>
+  <string name="pref_camera_scenemode_entry_off">Vypbuté</string>
   <string name="pref_camera_scenemode_entry_party">Párty</string>
   <string name="pref_camera_scenemode_entry_portrait">Portrét</string>
   <string name="pref_camera_scenemode_entry_snow">Sneh</string>
@@ -321,8 +321,8 @@
   <string name="pref_camera_sharpness_entry_level6">Úroveň 6</string>
   <string name="pref_camera_sharpness_title">Ostrosť</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Auto</string>
-  <string name="pref_camera_skinToneEnhancement_entry_disable">Vypnúť</string>
-  <string name="pref_camera_skinToneEnhancement_entry_enable">Zapnúť</string>
+  <string name="pref_camera_skinToneEnhancement_entry_disable">Vypnuté</string>
+  <string name="pref_camera_skinToneEnhancement_entry_enable">Zapnuté</string>
   <string name="pref_camera_skinToneEnhancement_title">Vylepšenie tónu pleti</string>
   <string name="pref_camera_sound_entry_off">Vypnuté</string>
   <string name="pref_camera_sound_entry_on">Zapnuté</string>
@@ -379,9 +379,9 @@
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Kvalita videa</string>
-  <string name="pref_video_speed_entry_fast">rýchlo</string>
-  <string name="pref_video_speed_entry_normal">normálne</string>
-  <string name="pref_video_speed_entry_slow">pomaly</string>
+  <string name="pref_video_speed_entry_fast">Rýchlo</string>
+  <string name="pref_video_speed_entry_normal">Normálne</string>
+  <string name="pref_video_speed_entry_slow">Pomaly</string>
   <string name="pref_video_speed_title">Rýchlosť videa</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">10x</string>
   <string name="pref_video_time_lapse_frame_interval_entry_100">100x</string>
@@ -424,7 +424,7 @@
   <string name="share">Zdieľať</string>
   <string name="share_picture_via">Zdieľať fotografiu cez</string>
   <string name="share_video_via">Zdieľať video cez</string>
-  <string name="show_all">zobraziť všetko</string>
+  <string name="show_all">Zobraziť všetko</string>
   <string name="show_images_only">Zobraziť fotografie</string>
   <string name="show_on_map">Zobraziť na mape</string>
   <string name="show_videos_only">Zobraziť videá</string>
