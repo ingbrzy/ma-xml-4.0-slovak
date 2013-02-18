@@ -72,7 +72,7 @@
     <string name="callrecordview_menu_delete_accepted">Vymazať prijaté</string>
     <string name="callrecordview_menu_delete_all">Vymazať všetky záznamy o hovoroch</string>
     <string name="callrecordview_menu_delete_called">Vymazať volané</string>
-    <string name="callrecordview_menu_delete_confirm">Vymazať %s?</string>
+    <string name="callrecordview_menu_delete_confirm">%s?</string>
     <string name="callrecordview_menu_delete_missed">Vymazať zmeškané hovory</string>
     <string name="callrecordview_menu_delete_one">Vymazať záznam o hovore</string>
     <string name="callrecordview_menu_delete_stranger">Vymazať neznáme čísla</string>
