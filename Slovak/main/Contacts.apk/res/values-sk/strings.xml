@@ -70,7 +70,7 @@
     <string name="callrecordview_item_op_time_short_outgoing">"Odchádzajúce: "</string>
     <string name="callrecordview_menu_delete">Vymazať záznamy o hovoroch</string>
     <string name="callrecordview_menu_delete_accepted">Vymazať prijaté</string>
-    <string name="callrecordview_menu_delete_all">všetky záznamy o hovoroch</string>
+    <string name="callrecordview_menu_delete_all">Vymazať všetky záznamy o hovoroch</string>
     <string name="callrecordview_menu_delete_called">Vymazať volané</string>
     <string name="callrecordview_menu_delete_confirm">Vymazať %s?</string>
     <string name="callrecordview_menu_delete_missed">Vymazať zmeškané hovory</string>
