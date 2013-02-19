@@ -175,7 +175,7 @@
   <string name="pref_camera_contrast_entry_level2">Úroveň 2</string>
   <string name="pref_camera_contrast_entry_level3">Úroveň 3</string>
   <string name="pref_camera_contrast_entry_level4">Úroveň 4</string>
-  <string name="pref_camera_contrast_entry_level5">Úroveň 5(Predvolené)</string>
+  <string name="pref_camera_contrast_entry_level5">Úroveň 5 (Predvolené)</string>
   <string name="pref_camera_contrast_entry_level6">Úroveň 6</string>
   <string name="pref_camera_contrast_entry_level7">Úroveň 7</string>
   <string name="pref_camera_contrast_entry_level8">Úroveň 8</string>
@@ -277,7 +277,7 @@
   <string name="pref_camera_saturation_entry_level2">Úroveň 2</string>
   <string name="pref_camera_saturation_entry_level3">Úroveň 3</string>
   <string name="pref_camera_saturation_entry_level4">Úroveň 4</string>
-  <string name="pref_camera_saturation_entry_level5">Úroveň 5(Predvolené)</string>
+  <string name="pref_camera_saturation_entry_level5">Úroveň 5 (Predvolené)</string>
   <string name="pref_camera_saturation_entry_level6">Úroveň 6</string>
   <string name="pref_camera_saturation_entry_level7">Úroveň 7</string>
   <string name="pref_camera_saturation_entry_level8">Úroveň 8</string>
@@ -314,7 +314,7 @@
   <string name="pref_camera_settings_category">Nastavenie fotoaparátu</string>
   <string name="pref_camera_sharpness_entry_level0">Úroveň 0</string>
   <string name="pref_camera_sharpness_entry_level1">Úroveň 1</string>
-  <string name="pref_camera_sharpness_entry_level2">Úroveň 2(Predvolené)</string>
+  <string name="pref_camera_sharpness_entry_level2">Úroveň 2 (Predvolené)</string>
   <string name="pref_camera_sharpness_entry_level3">Úroveň 3</string>
   <string name="pref_camera_sharpness_entry_level4">Úroveň 4</string>
   <string name="pref_camera_sharpness_entry_level5">Úroveň 5</string>
